@@ -1,0 +1,8752 @@
+[
+  {
+    "fixture": {
+      "id": 1576804,
+      "referee": "François Letexier, France",
+      "timezone": "UTC",
+      "date": "2026-07-07T16:00:00+00:00",
+      "timestamp": 1783440000,
+      "periods": {
+        "first": 1783440000,
+        "second": 1783443600
+      },
+      "venue": {
+        "id": 1898,
+        "name": "Mercedes-Benz Stadium",
+        "city": "Atlanta"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 11
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Round of 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": true
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1565178,
+      "referee": "Gustavo Tejera, Uruguay",
+      "timezone": "UTC",
+      "date": "2026-07-03T18:00:00+00:00",
+      "timestamp": 1783101600,
+      "periods": {
+        "first": 1783101600,
+        "second": 1783105200
+      },
+      "venue": {
+        "id": 0,
+        "name": "AT&T Stadium",
+        "city": "Dallas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Round of 32",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 20,
+        "name": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20.png",
+        "winner": false
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": 2,
+        "away": 4
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489414,
+      "referee": "Szymon Marciniak, Poland",
+      "timezone": "UTC",
+      "date": "2026-06-27T03:00:00+00:00",
+      "timestamp": 1782529200,
+      "periods": {
+        "first": 1782529200,
+        "second": 1782532800
+      },
+      "venue": {
+        "id": 11534,
+        "name": "Lumen Field",
+        "city": "Seattle"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      },
+      "away": {
+        "id": 22,
+        "name": "Iran",
+        "logo": "https://media.api-sports.io/football/teams/22.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489396,
+      "referee": "Omar Mohamed Al Ali, United Arab Emirates",
+      "timezone": "UTC",
+      "date": "2026-06-22T01:00:00+00:00",
+      "timestamp": 1782090000,
+      "periods": {
+        "first": 1782090000,
+        "second": 1782093600
+      },
+      "venue": {
+        "id": 19445,
+        "name": "BC Place",
+        "city": "Vancouver"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 11
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489377,
+      "referee": "Ramon Abatti Abel, Brazil",
+      "timezone": "UTC",
+      "date": "2026-06-15T19:00:00+00:00",
+      "timestamp": 1781550000,
+      "periods": {
+        "first": 1781550000,
+        "second": 1781553600
+      },
+      "venue": {
+        "id": 11534,
+        "name": "Lumen Field",
+        "city": "Seattle"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1528287,
+      "referee": "Adonai Escobedo Gonzalez, Mexico",
+      "timezone": "UTC",
+      "date": "2026-06-06T22:00:00+00:00",
+      "timestamp": 1780783200,
+      "periods": {
+        "first": 1780783200,
+        "second": 1780786800
+      },
+      "venue": {
+        "id": null,
+        "name": "Huntington Bank Field",
+        "city": "Cleveland"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 6,
+        "name": "Brazil",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "winner": true
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1543816,
+      "referee": "L Benbraham, Algeria",
+      "timezone": "UTC",
+      "date": "2026-05-28T18:00:00+00:00",
+      "timestamp": 1779991200,
+      "periods": {
+        "first": 1779991200,
+        "second": 1779994800
+      },
+      "venue": {
+        "id": null,
+        "name": "Misr Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4,
+        "name": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/4.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1511778,
+      "referee": "G. Kabakov",
+      "timezone": "UTC",
+      "date": "2026-03-31T19:00:00+00:00",
+      "timestamp": 1774983600,
+      "periods": {
+        "first": 1774983600,
+        "second": 1774987200
+      },
+      "venue": {
+        "id": null,
+        "name": "RCDE Stadium",
+        "city": "Cornella de Llobregat"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 9,
+        "name": "Spain",
+        "logo": "https://media.api-sports.io/football/teams/9.png",
+        "winner": null
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1514461,
+      "referee": "A. Al Athbah",
+      "timezone": "UTC",
+      "date": "2026-03-27T17:30:00+00:00",
+      "timestamp": 1774632600,
+      "periods": {
+        "first": 1774632600,
+        "second": 1774636200
+      },
+      "venue": {
+        "id": null,
+        "name": "Alinma Stadium",
+        "city": "Jeddah"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 23,
+        "name": "Saudi Arabia",
+        "logo": "https://media.api-sports.io/football/teams/23.png",
+        "winner": false
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1508002,
+      "referee": "Jalal Jayed, Morocco",
+      "timezone": "UTC",
+      "date": "2026-01-17T16:00:00+00:00",
+      "timestamp": 1768665600,
+      "periods": {
+        "first": 1768665600,
+        "second": 1768669200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Mohammed V",
+        "city": "Casablanca"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2025,
+      "round": "3rd place",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      },
+      "away": {
+        "id": 19,
+        "name": "Nigeria",
+        "logo": "https://media.api-sports.io/football/teams/19.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty": {
+        "home": 2,
+        "away": 4
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1505616,
+      "referee": "Pierre Ghislain Atcho, Gabon",
+      "timezone": "UTC",
+      "date": "2026-01-14T17:00:00+00:00",
+      "timestamp": 1768410000,
+      "periods": {
+        "first": 1768410000,
+        "second": 1768413600
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Ibn-Batouta",
+        "city": "Tanger"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Semi-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 13,
+        "name": "Senegal",
+        "logo": "https://media.api-sports.io/football/teams/13.png",
+        "winner": true
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1503402,
+      "referee": "Mustapha Ghorbal, Algeria",
+      "timezone": "UTC",
+      "date": "2026-01-10T19:00:00+00:00",
+      "timestamp": 1768071600,
+      "periods": {
+        "first": 1768071600,
+        "second": 1768075200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Adrar",
+        "city": "Agadir"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Quarter-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1501838,
+      "referee": "Pierre Ghislain Atcho, Gabon",
+      "timezone": "UTC",
+      "date": "2026-01-05T16:00:00+00:00",
+      "timestamp": 1767628800,
+      "periods": {
+        "first": 1767628800,
+        "second": 1767632400
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Adrar",
+        "city": "Agadir"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "AET",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Round of 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1516,
+        "name": "Benin",
+        "logo": "https://media.api-sports.io/football/teams/1516.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": 2,
+        "away": 0
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1347265,
+      "referee": "Clement Franklin Kpan, Côte d'Ivoire",
+      "timezone": "UTC",
+      "date": "2025-12-29T16:00:00+00:00",
+      "timestamp": 1767024000,
+      "periods": {
+        "first": 1767024000,
+        "second": 1767027600
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Adrar",
+        "city": "Agadir"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1529,
+        "name": "Angola",
+        "logo": "https://media.api-sports.io/football/teams/1529.png",
+        "winner": null
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1347253,
+      "referee": "Pacifique Ndabihawenimana, Burundi",
+      "timezone": "UTC",
+      "date": "2025-12-26T15:00:00+00:00",
+      "timestamp": 1766761200,
+      "periods": {
+        "first": 1766761200,
+        "second": 1766764800
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Adrar",
+        "city": "Agadir"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 12
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1531,
+        "name": "South Africa",
+        "logo": "https://media.api-sports.io/football/teams/1531.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1347241,
+      "referee": "Issa Sy, Senegal",
+      "timezone": "UTC",
+      "date": "2025-12-22T20:00:00+00:00",
+      "timestamp": 1766433600,
+      "periods": {
+        "first": 1766433600,
+        "second": 1766437200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Adrar",
+        "city": "Agadir"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1522,
+        "name": "Zimbabwe",
+        "logo": "https://media.api-sports.io/football/teams/1522.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1491701,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-12-16T18:00:00+00:00",
+      "timestamp": 1765908000,
+      "periods": {
+        "first": 1765908000,
+        "second": 1765911600
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 19,
+        "name": "Nigeria",
+        "logo": "https://media.api-sports.io/football/teams/19.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1482946,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-12-09T14:30:00+00:00",
+      "timestamp": 1765290600,
+      "periods": {
+        "first": 1765290600,
+        "second": 1765294200
+      },
+      "venue": {
+        "id": null,
+        "name": "Al Bayt Stadium",
+        "city": "Al Khor"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 860,
+      "name": "Arab Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/860.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Round 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1548,
+        "name": "Jordan",
+        "logo": "https://media.api-sports.io/football/teams/1548.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1482943,
+      "referee": "G. Nyberg",
+      "timezone": "UTC",
+      "date": "2025-12-06T18:30:00+00:00",
+      "timestamp": 1765045800,
+      "periods": {
+        "first": 1765045800,
+        "second": 1765049400
+      },
+      "venue": {
+        "id": null,
+        "name": "Lusail Iconic Stadium",
+        "city": "Lusail"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 860,
+      "name": "Arab Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/860.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Round 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1563,
+        "name": "United Arab Emirates",
+        "logo": "https://media.api-sports.io/football/teams/1563.png",
+        "winner": null
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1488352,
+      "referee": "E. Eskas",
+      "timezone": "UTC",
+      "date": "2025-12-02T14:30:00+00:00",
+      "timestamp": 1764685800,
+      "periods": {
+        "first": 1764685800,
+        "second": 1764689400
+      },
+      "venue": {
+        "id": null,
+        "name": "Lusail Iconic Stadium",
+        "city": "Lusail"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 860,
+      "name": "Arab Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/860.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Round 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1570,
+        "name": "Kuwait",
+        "logo": "https://media.api-sports.io/football/teams/1570.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1486541,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-11-17T16:00:00+00:00",
+      "timestamp": 1763395200,
+      "periods": {
+        "first": 1763395200,
+        "second": 1763398800
+      },
+      "venue": {
+        "id": null,
+        "name": "Al Maktoum Stadium",
+        "city": "Dubai"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": 2,
+        "away": 0
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1485008,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-11-14T16:00:00+00:00",
+      "timestamp": 1763136000,
+      "periods": {
+        "first": 1763136000,
+        "second": 1763139600
+      },
+      "venue": {
+        "id": null,
+        "name": "Hazza Bin Zayed Stadium",
+        "city": "Al Ain"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1568,
+        "name": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/1568.png",
+        "winner": true
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126091,
+      "referee": "D. Nii Ayi Laryea",
+      "timezone": "UTC",
+      "date": "2025-10-12T19:00:00+00:00",
+      "timestamp": 1760295600,
+      "periods": {
+        "first": 1760295600,
+        "second": 1760299200
+      },
+      "venue": {
+        "id": null,
+        "name": "Cairo International Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1513,
+        "name": "Guinea-Bissau",
+        "logo": "https://media.api-sports.io/football/teams/1513.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126062,
+      "referee": "P. T. Mebiame",
+      "timezone": "UTC",
+      "date": "2025-10-08T16:00:00+00:00",
+      "timestamp": 1759939200,
+      "periods": {
+        "first": 1759939200,
+        "second": 1759942800
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Larbi Zaouli",
+        "city": "Casablanca"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1535,
+        "name": "Djibouti",
+        "logo": "https://media.api-sports.io/football/teams/1535.png",
+        "winner": false
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1486475,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-09-09T19:00:00+00:00",
+      "timestamp": 1757444400,
+      "periods": {
+        "first": 1757444400,
+        "second": 1757448000
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 28,
+        "name": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/28.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126035,
+      "referee": "M. J. Nkounkou",
+      "timezone": "UTC",
+      "date": "2025-09-09T16:00:00+00:00",
+      "timestamp": 1757433600,
+      "periods": {
+        "first": 1757433600,
+        "second": 1757437200
+      },
+      "venue": {
+        "id": 306,
+        "name": "Stade du 4 Aout",
+        "city": "Ouagadougou"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1502,
+        "name": "Burkina Faso",
+        "logo": "https://media.api-sports.io/football/teams/1502.png",
+        "winner": null
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1486533,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-09-06T17:00:00+00:00",
+      "timestamp": 1757178000,
+      "periods": {
+        "first": 1757178000,
+        "second": 1757181600
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 28,
+        "name": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/28.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126010,
+      "referee": "A. Tom",
+      "timezone": "UTC",
+      "date": "2025-09-05T19:00:00+00:00",
+      "timestamp": 1757098800,
+      "periods": {
+        "first": 1757098800,
+        "second": 1757102400
+      },
+      "venue": {
+        "id": null,
+        "name": "Cairo International Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1506,
+        "name": "Ethiopia",
+        "logo": "https://media.api-sports.io/football/teams/1506.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125982,
+      "referee": "A. Heeralall",
+      "timezone": "UTC",
+      "date": "2025-03-25T19:00:00+00:00",
+      "timestamp": 1742929200,
+      "periods": {
+        "first": 1742929200,
+        "second": 1742932800
+      },
+      "venue": {
+        "id": null,
+        "name": "Cairo International Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1499,
+        "name": "Sierra Leone",
+        "logo": "https://media.api-sports.io/football/teams/1499.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125956,
+      "referee": "P. Milazare",
+      "timezone": "UTC",
+      "date": "2025-03-21T21:00:00+00:00",
+      "timestamp": 1742590800,
+      "periods": {
+        "first": 1742590800,
+        "second": 1742594400
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Larbi Zaouli",
+        "city": "Casablanca"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1506,
+        "name": "Ethiopia",
+        "logo": "https://media.api-sports.io/football/teams/1506.png",
+        "winner": false
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1351530,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-03-09T19:30:00+00:00",
+      "timestamp": 1741548600,
+      "periods": {
+        "first": 1741548600,
+        "second": 1741552200
+      },
+      "venue": {
+        "id": 11492,
+        "name": "Suez Canal Stadium",
+        "city": "Ismailia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 1163,
+      "name": "African Nations Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1163.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Play-offs - 1st Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1531,
+        "name": "South Africa",
+        "logo": "https://media.api-sports.io/football/teams/1531.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1351529,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-03-02T15:00:00+00:00",
+      "timestamp": 1740927600,
+      "periods": {
+        "first": 1740927600,
+        "second": 1740931200
+      },
+      "venue": {
+        "id": 21589,
+        "name": "Free State Toyota Stadium",
+        "city": "Bloemfontein, FS"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 1163,
+      "name": "African Nations Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1163.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Play-offs - 1st Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1531,
+        "name": "South Africa",
+        "logo": "https://media.api-sports.io/football/teams/1531.png",
+        "winner": null
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232530,
+      "referee": "A. Jammeh",
+      "timezone": "UTC",
+      "date": "2024-11-19T15:00:00+00:00",
+      "timestamp": 1732028400,
+      "periods": {
+        "first": 1732028400,
+        "second": 1732032000
+      },
+      "venue": {
+        "id": 22699,
+        "name": "30 June Air Defence Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1520,
+        "name": "Botswana",
+        "logo": "https://media.api-sports.io/football/teams/1520.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232505,
+      "referee": "Houngnandande",
+      "timezone": "UTC",
+      "date": "2024-11-15T16:00:00+00:00",
+      "timestamp": 1731686400,
+      "periods": {
+        "first": 1731686400,
+        "second": 1731690000
+      },
+      "venue": {
+        "id": 314,
+        "name": "Estádio Nacional de Cabo Verde",
+        "city": "Praia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232481,
+      "referee": "A. Heeralall",
+      "timezone": "UTC",
+      "date": "2024-10-15T16:00:00+00:00",
+      "timestamp": 1729008000,
+      "periods": {
+        "first": 1729008000,
+        "second": 1729011600
+      },
+      "venue": {
+        "id": 20023,
+        "name": "Stade Cheikha Ould Boïdiya",
+        "city": "Nouakchott"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1491,
+        "name": "Mauritania",
+        "logo": "https://media.api-sports.io/football/teams/1491.png",
+        "winner": false
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232457,
+      "referee": "A. Mahamat",
+      "timezone": "UTC",
+      "date": "2024-10-11T16:00:00+00:00",
+      "timestamp": 1728662400,
+      "periods": {
+        "first": 1728662400,
+        "second": 1728666000
+      },
+      "venue": {
+        "id": null,
+        "name": "Cairo International Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1491,
+        "name": "Mauritania",
+        "logo": "https://media.api-sports.io/football/teams/1491.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232434,
+      "referee": "O. Artan",
+      "timezone": "UTC",
+      "date": "2024-09-10T13:00:00+00:00",
+      "timestamp": 1725973200,
+      "periods": {
+        "first": 1725973200,
+        "second": 1725976800
+      },
+      "venue": {
+        "id": 4183,
+        "name": "Francistown Stadium",
+        "city": "Francistown"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1520,
+        "name": "Botswana",
+        "logo": "https://media.api-sports.io/football/teams/1520.png",
+        "winner": false
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232409,
+      "referee": "A. Tom",
+      "timezone": "UTC",
+      "date": "2024-09-06T19:00:00+00:00",
+      "timestamp": 1725649200,
+      "periods": {
+        "first": 1725649200,
+        "second": 1725652800
+      },
+      "venue": {
+        "id": null,
+        "name": "Cairo International Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125928,
+      "referee": "Mahmood Ismail",
+      "timezone": "UTC",
+      "date": "2024-06-10T16:00:00+00:00",
+      "timestamp": 1718035200,
+      "periods": {
+        "first": 1718035200,
+        "second": 1718038800
+      },
+      "venue": {
+        "id": 786,
+        "name": "Estádio Nacional 24 de Setembro",
+        "city": "Bissau"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1513,
+        "name": "Guinea-Bissau",
+        "logo": "https://media.api-sports.io/football/teams/1513.png",
+        "winner": null
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125902,
+      "referee": "K. Waweru",
+      "timezone": "UTC",
+      "date": "2024-06-06T19:00:00+00:00",
+      "timestamp": 1717700400,
+      "periods": {
+        "first": 1717700400,
+        "second": 1717704000
+      },
+      "venue": {
+        "id": null,
+        "name": "Cairo International Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1502,
+        "name": "Burkina Faso",
+        "logo": "https://media.api-sports.io/football/teams/1502.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1188621,
+      "referee": "A. Diouf",
+      "timezone": "UTC",
+      "date": "2024-03-26T20:00:00+00:00",
+      "timestamp": 1711483200,
+      "periods": {
+        "first": 1711483200,
+        "second": 1711486800
+      },
+      "venue": {
+        "id": null,
+        "name": "New Administrative Capital Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      },
+      "away": {
+        "id": 3,
+        "name": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/3.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1174754,
+      "referee": "C. Kpan",
+      "timezone": "UTC",
+      "date": "2024-03-22T20:00:00+00:00",
+      "timestamp": 1711137600,
+      "periods": {
+        "first": 1711137600,
+        "second": 1711141200
+      },
+      "venue": {
+        "id": null,
+        "name": "New Administrative Capital Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1166109,
+      "referee": "A. Tom",
+      "timezone": "UTC",
+      "date": "2024-01-28T20:00:00+00:00",
+      "timestamp": 1706472000,
+      "periods": {
+        "first": 1706472000,
+        "second": 1706475600
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Laurent Pokou",
+        "city": "San-Pedro"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Round of 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1508,
+        "name": "Congo DR",
+        "logo": "https://media.api-sports.io/football/teams/1508.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty": {
+        "home": 7,
+        "away": 8
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1138724,
+      "referee": "A. Mahamat",
+      "timezone": "UTC",
+      "date": "2024-01-22T20:00:00+00:00",
+      "timestamp": 1705953600,
+      "periods": {
+        "first": 1705953600,
+        "second": 1705957200
+      },
+      "venue": {
+        "id": 411,
+        "name": "Stade Félix Houphouët-Boigny",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1138712,
+      "referee": "P. Atcho",
+      "timezone": "UTC",
+      "date": "2024-01-18T20:00:00+00:00",
+      "timestamp": 1705608000,
+      "periods": {
+        "first": 1705608000,
+        "second": 1705611600
+      },
+      "venue": {
+        "id": 411,
+        "name": "Stade Félix Houphouët-Boigny",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1138699,
+      "referee": "D. Beida",
+      "timezone": "UTC",
+      "date": "2024-01-14T17:00:00+00:00",
+      "timestamp": 1705251600,
+      "periods": {
+        "first": 1705251600,
+        "second": 1705255200
+      },
+      "venue": {
+        "id": 411,
+        "name": "Stade Félix Houphouët-Boigny",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1512,
+        "name": "Mozambique",
+        "logo": "https://media.api-sports.io/football/teams/1512.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1155245,
+      "referee": "Hashem Al Ibrahim",
+      "timezone": "UTC",
+      "date": "2024-01-07T16:00:00+00:00",
+      "timestamp": 1704643200,
+      "periods": {
+        "first": 1704643200,
+        "second": 1704646800
+      },
+      "venue": {
+        "id": null,
+        "name": "Cairo International Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1489,
+        "name": "Tanzania",
+        "logo": "https://media.api-sports.io/football/teams/1489.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125874,
+      "referee": "J. Ndala",
+      "timezone": "UTC",
+      "date": "2023-11-19T16:00:00+00:00",
+      "timestamp": 1700409600,
+      "periods": {
+        "first": 1700409600,
+        "second": 1700413200
+      },
+      "venue": {
+        "id": null,
+        "name": "SKD Stadium",
+        "city": "Monrovia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1499,
+        "name": "Sierra Leone",
+        "logo": "https://media.api-sports.io/football/teams/1499.png",
+        "winner": false
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125847,
+      "referee": "J. Chavani",
+      "timezone": "UTC",
+      "date": "2023-11-16T16:00:00+00:00",
+      "timestamp": 1700150400,
+      "periods": {
+        "first": 1700150400,
+        "second": 1700154000
+      },
+      "venue": {
+        "id": null,
+        "name": "Cairo International Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1535,
+        "name": "Djibouti",
+        "logo": "https://media.api-sports.io/football/teams/1535.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 6,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 6,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1135019,
+      "referee": "Yahya Almulla",
+      "timezone": "UTC",
+      "date": "2023-10-16T16:00:00+00:00",
+      "timestamp": 1697472000,
+      "periods": {
+        "first": 1697472000,
+        "second": 1697475600
+      },
+      "venue": {
+        "id": null,
+        "name": "Hazza Bin Zayed Stadium",
+        "city": "Al Ain"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1135750,
+      "referee": "Ahmed Issa",
+      "timezone": "UTC",
+      "date": "2023-10-12T16:00:00+00:00",
+      "timestamp": 1697126400,
+      "periods": {
+        "first": 1697126400,
+        "second": 1697130000
+      },
+      "venue": {
+        "id": null,
+        "name": "Hazza Bin Zayed Stadium",
+        "city": "Al Ain"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1507,
+        "name": "Zambia",
+        "logo": "https://media.api-sports.io/football/teams/1507.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1042721,
+      "referee": "Ammar Ashkanani",
+      "timezone": "UTC",
+      "date": "2023-09-12T17:00:00+00:00",
+      "timestamp": 1694538000,
+      "periods": {
+        "first": 1694538000,
+        "second": 1694541600
+      },
+      "venue": {
+        "id": null,
+        "name": "30 June Air Defence Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      },
+      "away": {
+        "id": 28,
+        "name": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/28.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859242,
+      "referee": "P. Mebiame",
+      "timezone": "UTC",
+      "date": "2023-09-08T16:00:00+00:00",
+      "timestamp": 1694188800,
+      "periods": {
+        "first": 1694188800,
+        "second": 1694192400
+      },
+      "venue": {
+        "id": null,
+        "name": "30 June Air Defence Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 6",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1506,
+        "name": "Ethiopia",
+        "logo": "https://media.api-sports.io/football/teams/1506.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1031231,
+      "referee": "Abdullah Jamali",
+      "timezone": "UTC",
+      "date": "2023-06-18T17:00:00+00:00",
+      "timestamp": 1687107600,
+      "periods": {
+        "first": 1687107600,
+        "second": 1687111200
+      },
+      "venue": {
+        "id": null,
+        "name": "Cairo International Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1496,
+        "name": "South Sudan",
+        "logo": "https://media.api-sports.io/football/teams/1496.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859217,
+      "referee": "D. Laryea",
+      "timezone": "UTC",
+      "date": "2023-06-14T18:00:00+00:00",
+      "timestamp": 1686765600,
+      "periods": {
+        "first": 1686765600,
+        "second": 1686769200
+      },
+      "venue": {
+        "id": 1107,
+        "name": "Stade de Marrakech",
+        "city": "Marrakech"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 5",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1509,
+        "name": "Guinea",
+        "logo": "https://media.api-sports.io/football/teams/1509.png",
+        "winner": false
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859193,
+      "referee": "D. Beida",
+      "timezone": "UTC",
+      "date": "2023-03-28T13:00:00+00:00",
+      "timestamp": 1680008400,
+      "periods": {
+        "first": 1680008400,
+        "second": 1680012000
+      },
+      "venue": {
+        "id": null,
+        "name": "Bingu National Stadium",
+        "city": "Lilongwe"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1495,
+        "name": "Malawi",
+        "logo": "https://media.api-sports.io/football/teams/1495.png",
+        "winner": false
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859169,
+      "referee": "P. Atcho",
+      "timezone": "UTC",
+      "date": "2023-03-24T19:00:00+00:00",
+      "timestamp": 1679684400,
+      "periods": {
+        "first": 1679684400,
+        "second": 1679688000
+      },
+      "venue": {
+        "id": null,
+        "name": "30 June Air Defence Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1495,
+        "name": "Malawi",
+        "logo": "https://media.api-sports.io/football/teams/1495.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 958281,
+      "referee": "Ali Shaban",
+      "timezone": "UTC",
+      "date": "2022-11-18T15:00:00+00:00",
+      "timestamp": 1668783600,
+      "periods": {
+        "first": 1668783600,
+        "second": 1668787200
+      },
+      "venue": {
+        "id": null,
+        "name": "Jaber Al-Ahmad International Stadium",
+        "city": "Kuwait City"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": false
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 958778,
+      "referee": "Y. Sraïri",
+      "timezone": "UTC",
+      "date": "2022-09-27T18:00:00+00:00",
+      "timestamp": 1664301600,
+      "periods": {
+        "first": 1664301600,
+        "second": 1664305200
+      },
+      "venue": {
+        "id": null,
+        "name": "Alexandria Stadium",
+        "city": "Alexandria"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1525,
+        "name": "Liberia",
+        "logo": "https://media.api-sports.io/football/teams/1525.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 958777,
+      "referee": "S. Selmi",
+      "timezone": "UTC",
+      "date": "2022-09-23T18:00:00+00:00",
+      "timestamp": 1663956000,
+      "periods": {
+        "first": 1663956000,
+        "second": 1663959600
+      },
+      "venue": {
+        "id": null,
+        "name": "Borg El Arab Stadium",
+        "city": "Alexandria"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1505,
+        "name": "Niger",
+        "logo": "https://media.api-sports.io/football/teams/1505.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 863632,
+      "referee": "J. Pignard",
+      "timezone": "UTC",
+      "date": "2022-06-14T11:00:00+00:00",
+      "timestamp": 1655204400,
+      "periods": {
+        "first": 1655204400,
+        "second": 1655208000
+      },
+      "venue": {
+        "id": 1002,
+        "name": "Seoul World Cup Stadium",
+        "city": "Seoul"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 17,
+        "name": "South Korea",
+        "logo": "https://media.api-sports.io/football/teams/17.png",
+        "winner": true
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859146,
+      "referee": "G. Gatogato",
+      "timezone": "UTC",
+      "date": "2022-06-09T16:00:00+00:00",
+      "timestamp": 1654790400,
+      "periods": {
+        "first": 1654790400,
+        "second": 1654794000
+      },
+      "venue": {
+        "id": null,
+        "name": "Bingu National Stadium",
+        "city": "Lilongwe"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1506,
+        "name": "Ethiopia",
+        "logo": "https://media.api-sports.io/football/teams/1506.png",
+        "winner": true
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859121,
+      "referee": "A. Heeralall",
+      "timezone": "UTC",
+      "date": "2022-06-05T19:00:00+00:00",
+      "timestamp": 1654455600,
+      "periods": {
+        "first": 1654455600,
+        "second": 1654459200
+      },
+      "venue": {
+        "id": null,
+        "name": "Cairo International Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1509,
+        "name": "Guinea",
+        "logo": "https://media.api-sports.io/football/teams/1509.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 828182,
+      "referee": "M. Ghorbal",
+      "timezone": "UTC",
+      "date": "2022-03-29T17:00:00+00:00",
+      "timestamp": 1648573200,
+      "periods": {
+        "first": 1648573200,
+        "second": 1648576800
+      },
+      "venue": {
+        "id": 1405,
+        "name": "Stade Me Abdoulaye Wade",
+        "city": "Diamniadio"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "3rd Round",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 13,
+        "name": "Senegal",
+        "logo": "https://media.api-sports.io/football/teams/13.png",
+        "winner": true
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty": {
+        "home": 3,
+        "away": 1
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 828181,
+      "referee": "J. Ndala",
+      "timezone": "UTC",
+      "date": "2022-03-25T19:30:00+00:00",
+      "timestamp": 1648236600,
+      "periods": {
+        "first": 1648236600,
+        "second": 1648240200
+      },
+      "venue": {
+        "id": null,
+        "name": "Cairo International Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "3rd Round",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 13,
+        "name": "Senegal",
+        "logo": "https://media.api-sports.io/football/teams/13.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 836180,
+      "referee": "V. Gomes",
+      "timezone": "UTC",
+      "date": "2022-02-06T19:00:00+00:00",
+      "timestamp": 1644174000,
+      "periods": {
+        "first": 1644174000,
+        "second": 1644177600
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Omnisport Paul Biya",
+        "city": "Yaoundé"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Final",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 13,
+        "name": "Senegal",
+        "logo": "https://media.api-sports.io/football/teams/13.png",
+        "winner": true
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty": {
+        "home": 4,
+        "away": 2
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 832024,
+      "referee": "B. Gassama",
+      "timezone": "UTC",
+      "date": "2022-02-03T19:00:00+00:00",
+      "timestamp": 1643914800,
+      "periods": {
+        "first": 1643914800,
+        "second": 1643918400
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Omnisport Paul Biya",
+        "city": "Yaoundé"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Semi-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1530,
+        "name": "Cameroon",
+        "logo": "https://media.api-sports.io/football/teams/1530.png",
+        "winner": false
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty": {
+        "home": 1,
+        "away": 3
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 829108,
+      "referee": "M. Ndiaye",
+      "timezone": "UTC",
+      "date": "2022-01-30T15:00:00+00:00",
+      "timestamp": 1643554800,
+      "periods": {
+        "first": 1643554800,
+        "second": 1643558400
+      },
+      "venue": {
+        "id": 308,
+        "name": "Stade Omnisport Ahmadou Ahidjo",
+        "city": "Yaoundé"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "AET",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Quarter-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 31,
+        "name": "Morocco",
+        "logo": "https://media.api-sports.io/football/teams/31.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": 1,
+        "away": 0
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 827458,
+      "referee": "J. Ndala",
+      "timezone": "UTC",
+      "date": "2022-01-26T16:00:00+00:00",
+      "timestamp": 1643212800,
+      "periods": {
+        "first": 1643212800,
+        "second": 1643216400
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Omnisport de Douala",
+        "city": "Douala"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Round of 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty": {
+        "home": 4,
+        "away": 5
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 819028,
+      "referee": "J. Bondo",
+      "timezone": "UTC",
+      "date": "2022-01-19T19:00:00+00:00",
+      "timestamp": 1642618800,
+      "periods": {
+        "first": 1642618800,
+        "second": 1642622400
+      },
+      "venue": {
+        "id": 308,
+        "name": "Stade Omnisport Ahmadou Ahidjo",
+        "city": "Yaoundé"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1510,
+        "name": "Sudan",
+        "logo": "https://media.api-sports.io/football/teams/1510.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 819016,
+      "referee": "P. Ndabihawenimana",
+      "timezone": "UTC",
+      "date": "2022-01-15T19:00:00+00:00",
+      "timestamp": 1642273200,
+      "periods": {
+        "first": 1642273200,
+        "second": 1642276800
+      },
+      "venue": {
+        "id": 4073,
+        "name": "Stade Omnisport Roumdé Adjia",
+        "city": "Garoua"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1513,
+        "name": "Guinea-Bissau",
+        "logo": "https://media.api-sports.io/football/teams/1513.png",
+        "winner": false
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 819004,
+      "referee": "B. Gassama",
+      "timezone": "UTC",
+      "date": "2022-01-11T16:00:00+00:00",
+      "timestamp": 1641916800,
+      "periods": {
+        "first": 1641916800,
+        "second": 1641920400
+      },
+      "venue": {
+        "id": 4073,
+        "name": "Stade Omnisport Roumdé Adjia",
+        "city": "Garoua"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 19,
+        "name": "Nigeria",
+        "logo": "https://media.api-sports.io/football/teams/19.png",
+        "winner": true
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 817314,
+      "referee": "F. Tello",
+      "timezone": "UTC",
+      "date": "2021-12-18T10:00:00+00:00",
+      "timestamp": 1639821600,
+      "periods": {
+        "first": 1639821600,
+        "second": 1639825200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stadium 974",
+        "city": "Doha"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 860,
+      "name": "Arab Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/860.png",
+      "flag": null,
+      "season": 2021,
+      "round": "3rd Place Final",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1569,
+        "name": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/1569.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty": {
+        "home": 4,
+        "away": 5
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 815968,
+      "referee": "A. Faghani",
+      "timezone": "UTC",
+      "date": "2021-12-15T15:00:00+00:00",
+      "timestamp": 1639580400,
+      "periods": {
+        "first": 1639580400,
+        "second": 1639584000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stadium 974",
+        "city": "Doha"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 860,
+      "name": "Arab Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/860.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Semi-finals",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 28,
+        "name": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/28.png",
+        "winner": true
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 815270,
+      "referee": "S. Martínez",
+      "timezone": "UTC",
+      "date": "2021-12-11T15:00:00+00:00",
+      "timestamp": 1639234800,
+      "periods": {
+        "first": 1639234800,
+        "second": 1639238400
+      },
+      "venue": {
+        "id": null,
+        "name": "Al Janoub Stadium",
+        "city": "Al Wakrah"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "AET",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 860,
+      "name": "Arab Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/860.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Quarter-finals",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1548,
+        "name": "Jordan",
+        "logo": "https://media.api-sports.io/football/teams/1548.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": 2,
+        "away": 0
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 748091,
+      "referee": "F. Tello",
+      "timezone": "UTC",
+      "date": "2021-12-07T19:00:00+00:00",
+      "timestamp": 1638903600,
+      "periods": {
+        "first": 1638903600,
+        "second": 1638907200
+      },
+      "venue": {
+        "id": null,
+        "name": "Al Janoub Stadium",
+        "city": "Al Wakrah"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 860,
+      "name": "Arab Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/860.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": null
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 748083,
+      "referee": "M. Conger",
+      "timezone": "UTC",
+      "date": "2021-12-04T16:00:00+00:00",
+      "timestamp": 1638633600,
+      "periods": {
+        "first": 1638633600,
+        "second": 1638637200
+      },
+      "venue": {
+        "id": null,
+        "name": "Ras Abu Aboud Stadium",
+        "city": "Doha"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 860,
+      "name": "Arab Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/860.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1510,
+        "name": "Sudan",
+        "logo": "https://media.api-sports.io/football/teams/1510.png",
+        "winner": false
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 5
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 5
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 748074,
+      "referee": "D. Siebert",
+      "timezone": "UTC",
+      "date": "2021-12-01T13:00:00+00:00",
+      "timestamp": 1638363600,
+      "periods": {
+        "first": 1638363600,
+        "second": 1638367200
+      },
+      "venue": {
+        "id": null,
+        "name": "Al Thumama Stadium",
+        "city": "Doha"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 860,
+      "name": "Arab Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/860.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1551,
+        "name": "Lebanon",
+        "logo": "https://media.api-sports.io/football/teams/1551.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701141,
+      "referee": "G. Gatogato",
+      "timezone": "UTC",
+      "date": "2021-11-16T13:00:00+00:00",
+      "timestamp": 1637067600,
+      "periods": {
+        "first": 1637067600,
+        "second": 1637071200
+      },
+      "venue": {
+        "id": null,
+        "name": "Borg El Arab Stadium",
+        "city": "Borg El Arab"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group F - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1503,
+        "name": "Gabon",
+        "logo": "https://media.api-sports.io/football/teams/1503.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701121,
+      "referee": "J. Ndala",
+      "timezone": "UTC",
+      "date": "2021-11-12T19:00:00+00:00",
+      "timestamp": 1636743600,
+      "periods": {
+        "first": 1636743600,
+        "second": 1636747200
+      },
+      "venue": {
+        "id": 3712,
+        "name": "Estádio 11 de Novembro",
+        "city": "Luanda"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group F - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1529,
+        "name": "Angola",
+        "logo": "https://media.api-sports.io/football/teams/1529.png",
+        "winner": null
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701101,
+      "referee": "V. Gomes",
+      "timezone": "UTC",
+      "date": "2021-10-11T19:00:00+00:00",
+      "timestamp": 1633978800,
+      "periods": {
+        "first": 1633978800,
+        "second": 1633982400
+      },
+      "venue": {
+        "id": null,
+        "name": "28 March Stadium",
+        "city": "Benghazi"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group F - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1526,
+        "name": "Libya",
+        "logo": "https://media.api-sports.io/football/teams/1526.png",
+        "winner": false
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701081,
+      "referee": "P. Ndabihawenimana",
+      "timezone": "UTC",
+      "date": "2021-10-08T19:00:00+00:00",
+      "timestamp": 1633719600,
+      "periods": {
+        "first": 1633719600,
+        "second": 1633723200
+      },
+      "venue": {
+        "id": null,
+        "name": "Borg El Arab Stadium",
+        "city": "Borg El Arab"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group F - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1526,
+        "name": "Libya",
+        "logo": "https://media.api-sports.io/football/teams/1526.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 804748,
+      "referee": "Y. Sraïri",
+      "timezone": "UTC",
+      "date": "2021-09-30T19:00:00+00:00",
+      "timestamp": 1633028400,
+      "periods": {
+        "first": 1633028400,
+        "second": 1633032000
+      },
+      "venue": {
+        "id": null,
+        "name": "Borg El Arab Stadium",
+        "city": "Borg El Arab"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1525,
+        "name": "Liberia",
+        "logo": "https://media.api-sports.io/football/teams/1525.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701061,
+      "referee": "B. Gassama",
+      "timezone": "UTC",
+      "date": "2021-09-05T19:00:00+00:00",
+      "timestamp": 1630868400,
+      "periods": {
+        "first": 1630868400,
+        "second": 1630872000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de Franceville",
+        "city": "Franceville"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group F - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1503,
+        "name": "Gabon",
+        "logo": "https://media.api-sports.io/football/teams/1503.png",
+        "winner": null
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701040,
+      "referee": "B. Traore",
+      "timezone": "UTC",
+      "date": "2021-09-01T19:00:00+00:00",
+      "timestamp": 1630522800,
+      "periods": {
+        "first": 1630522800,
+        "second": 1630526400
+      },
+      "venue": {
+        "id": null,
+        "name": "30 June Air Defence Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group F - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1529,
+        "name": "Angola",
+        "logo": "https://media.api-sports.io/football/teams/1529.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 700406,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2021-06-03T12:00:00+00:00",
+      "timestamp": 1622721600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "TBC",
+        "city": "TBC"
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1528,
+        "name": "Burundi",
+        "logo": "https://media.api-sports.io/football/teams/1528.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257359,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2021-03-29T16:00:00+00:00",
+      "timestamp": 1617033600,
+      "periods": {
+        "first": 1617033600,
+        "second": 1617037200
+      },
+      "venue": {
+        "id": null,
+        "name": "Cairo International Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1524,
+        "name": "Comoros",
+        "logo": "https://media.api-sports.io/football/teams/1524.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 4,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257333,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2021-03-25T16:00:00+00:00",
+      "timestamp": 1616688000,
+      "periods": {
+        "first": 1616688000,
+        "second": 1616691600
+      },
+      "venue": {
+        "id": 996,
+        "name": "Moi International Sports Centre",
+        "city": "Nairobi"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1511,
+        "name": "Kenya",
+        "logo": "https://media.api-sports.io/football/teams/1511.png",
+        "winner": null
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257309,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-11-17T16:00:00+00:00",
+      "timestamp": 1605628800,
+      "periods": {
+        "first": 1605628800,
+        "second": 1605632400
+      },
+      "venue": {
+        "id": 1563,
+        "name": "Stade de Kégué",
+        "city": "Lomé"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1534,
+        "name": "Togo",
+        "logo": "https://media.api-sports.io/football/teams/1534.png",
+        "winner": false
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257284,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-11-14T19:00:00+00:00",
+      "timestamp": 1605380400,
+      "periods": {
+        "first": 1605380400,
+        "second": 1605384000
+      },
+      "venue": {
+        "id": null,
+        "name": "Cairo International Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1534,
+        "name": "Togo",
+        "logo": "https://media.api-sports.io/football/teams/1534.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257262,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-11-18T13:00:00+00:00",
+      "timestamp": 1574082000,
+      "periods": {
+        "first": 1574082000,
+        "second": 1574085600
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Omnisports de Malouzini",
+        "city": "Moroni"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1524,
+        "name": "Comoros",
+        "logo": "https://media.api-sports.io/football/teams/1524.png",
+        "winner": null
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257239,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-11-14T16:00:00+00:00",
+      "timestamp": 1573747200,
+      "periods": {
+        "first": 1573747200,
+        "second": 1573750800
+      },
+      "venue": {
+        "id": null,
+        "name": "Borg El Arab Stadium",
+        "city": "Borg El Arab"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1511,
+        "name": "Kenya",
+        "logo": "https://media.api-sports.io/football/teams/1511.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 255954,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-11-07T16:00:00+00:00",
+      "timestamp": 1573142400,
+      "periods": {
+        "first": 1573142400,
+        "second": 1573146000
+      },
+      "venue": {
+        "id": null,
+        "name": "Borg El Arab Stadium (Borg El Arab)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1525,
+        "name": "Liberia",
+        "logo": "https://media.api-sports.io/football/teams/1525.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 246525,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-10-14T17:00:00+00:00",
+      "timestamp": 1571072400,
+      "periods": {
+        "first": 1571072400,
+        "second": 1571076000
+      },
+      "venue": {
+        "id": null,
+        "name": "Borg El Arab Stadium (Borg El Arab)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1520,
+        "name": "Botswana",
+        "logo": "https://media.api-sports.io/football/teams/1520.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 171219,
+      "referee": "Eric Otogo Castane, Gabon",
+      "timezone": "UTC",
+      "date": "2019-07-06T19:00:00+00:00",
+      "timestamp": 1562439600,
+      "periods": {
+        "first": 1562439600,
+        "second": 1562443200
+      },
+      "venue": {
+        "id": null,
+        "name": "Cairo International Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "8th Finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1531,
+        "name": "South Africa",
+        "logo": "https://media.api-sports.io/football/teams/1531.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 117922,
+      "referee": "Maguette N'Diaye, Senegal",
+      "timezone": "UTC",
+      "date": "2019-06-30T19:00:00+00:00",
+      "timestamp": 1561921200,
+      "periods": {
+        "first": 1561921200,
+        "second": 1561924800
+      },
+      "venue": {
+        "id": null,
+        "name": "Cairo International Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1519,
+        "name": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/1519.png",
+        "winner": false
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 117910,
+      "referee": "Victor Gomes, South Africa",
+      "timezone": "UTC",
+      "date": "2019-06-26T20:00:00+00:00",
+      "timestamp": 1561579200,
+      "periods": {
+        "first": 1561579200,
+        "second": 1561582800
+      },
+      "venue": {
+        "id": null,
+        "name": "Cairo International Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1508,
+        "name": "Congo DR",
+        "logo": "https://media.api-sports.io/football/teams/1508.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 117896,
+      "referee": "Alioum Alioum, Cameroon",
+      "timezone": "UTC",
+      "date": "2019-06-21T20:00:00+00:00",
+      "timestamp": 1561147200,
+      "periods": {
+        "first": 1561147200,
+        "second": 1561150800
+      },
+      "venue": {
+        "id": null,
+        "name": "Cairo International Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1522,
+        "name": "Zimbabwe",
+        "logo": "https://media.api-sports.io/football/teams/1522.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218331,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-06-16T19:00:00+00:00",
+      "timestamp": 1560711600,
+      "periods": {
+        "first": 1560711600,
+        "second": 1560715200
+      },
+      "venue": {
+        "id": null,
+        "name": "Borg El Arab Stadium (Borg El Arab)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1509,
+        "name": "Guinea",
+        "logo": "https://media.api-sports.io/football/teams/1509.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218324,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-06-13T19:00:00+00:00",
+      "timestamp": 1560452400,
+      "periods": {
+        "first": 1560452400,
+        "second": 1560456000
+      },
+      "venue": {
+        "id": null,
+        "name": "Borg El Arab Stadium (Borg El Arab)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1489,
+        "name": "Tanzania",
+        "logo": "https://media.api-sports.io/football/teams/1489.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218278,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-03-26T17:00:00+00:00",
+      "timestamp": 1553619600,
+      "periods": {
+        "first": 1553619600,
+        "second": 1553623200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stephen Keshi Stadium (Asaba)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 19,
+        "name": "Nigeria",
+        "logo": "https://media.api-sports.io/football/teams/19.png",
+        "winner": true
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 118063,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-03-23T15:30:00+00:00",
+      "timestamp": 1553355000,
+      "periods": {
+        "first": 1553355000,
+        "second": 1553358600
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Général Seyni Kountché (Niamey)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1505,
+        "name": "Niger",
+        "logo": "https://media.api-sports.io/football/teams/1505.png",
+        "winner": null
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 118030,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-11-16T16:00:00+00:00",
+      "timestamp": 1542384000,
+      "periods": {
+        "first": 1542384000,
+        "second": 1542387600
+      },
+      "venue": {
+        "id": null,
+        "name": "Borg El Arab Stadium (Borg El Arab)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 28,
+        "name": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/28.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 118013,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-10-16T13:00:00+00:00",
+      "timestamp": 1539694800,
+      "periods": {
+        "first": 1539694800,
+        "second": 1539698400
+      },
+      "venue": {
+        "id": null,
+        "name": "Mavuso Sports Centre (Manzini)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1488,
+        "name": "Swaziland",
+        "logo": "https://media.api-sports.io/football/teams/1488.png",
+        "winner": false
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 117991,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-10-12T17:00:00+00:00",
+      "timestamp": 1539363600,
+      "periods": {
+        "first": 1539363600,
+        "second": 1539367200
+      },
+      "venue": {
+        "id": null,
+        "name": "Al Salam Stadium (Cairo Military Production Stadium) (Cairo)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1488,
+        "name": "Swaziland",
+        "logo": "https://media.api-sports.io/football/teams/1488.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 117968,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-09-08T18:00:00+00:00",
+      "timestamp": 1536429600,
+      "periods": {
+        "first": 1536429600,
+        "second": 1536433200
+      },
+      "venue": {
+        "id": null,
+        "name": "Borg El Arab Stadium (Borg El Arab)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1505,
+        "name": "Niger",
+        "logo": "https://media.api-sports.io/football/teams/1505.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 6,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 6,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 135810,
+      "referee": "W. Roldán",
+      "timezone": "UTC",
+      "date": "2018-06-25T14:00:00+00:00",
+      "timestamp": 1529935200,
+      "periods": {
+        "first": 1529935200,
+        "second": 1529938800
+      },
+      "venue": {
+        "id": 1348,
+        "name": "Volgograd Arena",
+        "city": "Volgograd"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 23,
+        "name": "Saudi Arabia",
+        "logo": "https://media.api-sports.io/football/teams/23.png",
+        "winner": true
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 135793,
+      "referee": "E. Cáceres",
+      "timezone": "UTC",
+      "date": "2018-06-19T18:00:00+00:00",
+      "timestamp": 1529431200,
+      "periods": {
+        "first": 1529431200,
+        "second": 1529434800
+      },
+      "venue": {
+        "id": null,
+        "name": "Saint-Petersburg Stadium",
+        "city": "St. Petersburg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 4,
+        "name": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/4.png",
+        "winner": true
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 135778,
+      "referee": "B. Kuipers",
+      "timezone": "UTC",
+      "date": "2018-06-15T12:00:00+00:00",
+      "timestamp": 1529064000,
+      "periods": {
+        "first": 1529064000,
+        "second": 1529067600
+      },
+      "venue": {
+        "id": 1355,
+        "name": "Ekaterinburg Arena",
+        "city": "Ekaterinburg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225457,
+      "referee": "Anastasios Sidiropoulos, Greece",
+      "timezone": "UTC",
+      "date": "2018-06-06T18:45:00+00:00",
+      "timestamp": 1528310700,
+      "periods": {
+        "first": 1528310700,
+        "second": 1528314300
+      },
+      "venue": {
+        "id": null,
+        "name": "Roi Baudouin",
+        "city": "Brussels"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225433,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-06-01T19:15:00+00:00",
+      "timestamp": 1527880500,
+      "periods": {
+        "first": 1527880500,
+        "second": 1527884100
+      },
+      "venue": {
+        "id": null,
+        "name": "Stadio Atleti Azzurri d'Italia (Bergamo)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      },
+      "away": {
+        "id": 8,
+        "name": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/8.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225407,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-05-25T19:00:00+00:00",
+      "timestamp": 1527274800,
+      "periods": {
+        "first": 1527274800,
+        "second": 1527278400
+      },
+      "venue": {
+        "id": null,
+        "name": "Jaber Al-Ahmad International Stadium (Madīnat al-Kuwayt (Kuwait City))",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1570,
+        "name": "Kuwait",
+        "logo": "https://media.api-sports.io/football/teams/1570.png",
+        "winner": null
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225382,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-03-27T18:00:00+00:00",
+      "timestamp": 1522173600,
+      "periods": {
+        "first": 1522173600,
+        "second": 1522177200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stadion Letzigrund (Zürich)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1117,
+        "name": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/1117.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225353,
+      "referee": "Paolo Silvio Mazzoleni, Italy",
+      "timezone": "UTC",
+      "date": "2018-03-23T19:45:00+00:00",
+      "timestamp": 1521834300,
+      "periods": {
+        "first": 1521834300,
+        "second": 1521837900
+      },
+      "venue": {
+        "id": null,
+        "name": "Letzigrund",
+        "city": "Zurich"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 27,
+        "name": "Portugal",
+        "logo": "https://media.api-sports.io/football/teams/27.png",
+        "winner": true
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256844,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-11-12T15:30:00+00:00",
+      "timestamp": 1510500600,
+      "periods": {
+        "first": 1510500600,
+        "second": 1510504200
+      },
+      "venue": {
+        "id": null,
+        "name": "Baba Yara Stadium (Kumasi)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 6",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256836,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-10-08T17:00:00+00:00",
+      "timestamp": 1507482000,
+      "periods": {
+        "first": 1507482000,
+        "second": 1507485600
+      },
+      "venue": {
+        "id": null,
+        "name": "Borg El Arab Stadium (Borg El Arab)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 5",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1517,
+        "name": "Congo",
+        "logo": "https://media.api-sports.io/football/teams/1517.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256824,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-09-05T18:00:00+00:00",
+      "timestamp": 1504634400,
+      "periods": {
+        "first": 1504634400,
+        "second": 1504638000
+      },
+      "venue": {
+        "id": null,
+        "name": "Borg El Arab Stadium (Borg El Arab)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1519,
+        "name": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/1519.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256807,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-08-31T13:00:00+00:00",
+      "timestamp": 1504184400,
+      "periods": {
+        "first": 1504184400,
+        "second": 1504188000
+      },
+      "venue": {
+        "id": null,
+        "name": "Mandela National Stadium (Kampala)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1519,
+        "name": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/1519.png",
+        "winner": true
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 254753,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-08-17T22:00:00+00:00",
+      "timestamp": 1503007200,
+      "periods": {
+        "first": 1503007200,
+        "second": 1503010800
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Prince Moulay Abdallah (Rabat)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/19.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 31,
+        "name": "Morocco",
+        "logo": "https://media.api-sports.io/football/teams/31.png",
+        "winner": true
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 254752,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-08-12T22:00:00+00:00",
+      "timestamp": 1502575200,
+      "periods": {
+        "first": 1502575200,
+        "second": 1502578800
+      },
+      "venue": {
+        "id": null,
+        "name": "Alexandria Stadium (Al-Iskandarîah (Alexandria))",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/19.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      },
+      "away": {
+        "id": 31,
+        "name": "Morocco",
+        "logo": "https://media.api-sports.io/football/teams/31.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 117956,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-06-11T22:00:00+00:00",
+      "timestamp": 1497218400,
+      "periods": {
+        "first": 1497218400,
+        "second": 1497222000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Olympique de Radès (Radès)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 28,
+        "name": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/28.png",
+        "winner": true
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256804,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2016-11-13T16:00:00+00:00",
+      "timestamp": 1479052800,
+      "periods": {
+        "first": 1479052800,
+        "second": 1479056400
+      },
+      "venue": {
+        "id": null,
+        "name": "Borg El Arab Stadium (Borg El Arab)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256794,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2016-10-09T14:30:00+00:00",
+      "timestamp": 1476023400,
+      "periods": {
+        "first": 1476023400,
+        "second": 1476027000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de l’Unité (Brazzaville)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1517,
+        "name": "Congo",
+        "logo": "https://media.api-sports.io/football/teams/1517.png",
+        "winner": false
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256884,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2015-11-17T16:30:00+00:00",
+      "timestamp": 1447777800,
+      "periods": {
+        "first": 1447777800,
+        "second": 1447781400
+      },
+      "venue": {
+        "id": null,
+        "name": "Borg El Arab Stadium (Borg El Arab)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1523,
+        "name": "Chad",
+        "logo": "https://media.api-sports.io/football/teams/1523.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 4,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256883,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2015-11-14T14:30:00+00:00",
+      "timestamp": 1447511400,
+      "periods": {
+        "first": 1447511400,
+        "second": 1447515000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Omnisports Idriss Mahamat Ouya (N'Djaména)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1523,
+        "name": "Chad",
+        "logo": "https://media.api-sports.io/football/teams/1523.png",
+        "winner": true
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]

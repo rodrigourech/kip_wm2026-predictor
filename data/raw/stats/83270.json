@@ -1,0 +1,148 @@
+[
+  {
+    "team": {
+      "id": 7,
+      "name": "Uruguay",
+      "logo": "https://media.api-sports.io/football/teams/7.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 10
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 10
+      },
+      {
+        "type": "Total Shots",
+        "value": 29
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 9
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 18
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 11
+      },
+      {
+        "type": "Fouls",
+        "value": 14
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 7
+      },
+      {
+        "type": "Offsides",
+        "value": 1
+      },
+      {
+        "type": "Ball Possession",
+        "value": "58%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 0
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 1
+      },
+      {
+        "type": "Total passes",
+        "value": 469
+      },
+      {
+        "type": "Passes accurate",
+        "value": 346
+      },
+      {
+        "type": "Passes %",
+        "value": "74%"
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 3
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 7
+      },
+      {
+        "type": "Total Shots",
+        "value": 12
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 2
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 7
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 5
+      },
+      {
+        "type": "Fouls",
+        "value": 20
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 3
+      },
+      {
+        "type": "Offsides",
+        "value": 1
+      },
+      {
+        "type": "Ball Possession",
+        "value": "42%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 2
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 8
+      },
+      {
+        "type": "Total passes",
+        "value": 344
+      },
+      {
+        "type": "Passes accurate",
+        "value": 250
+      },
+      {
+        "type": "Passes %",
+        "value": "73%"
+      }
+    ]
+  }
+]

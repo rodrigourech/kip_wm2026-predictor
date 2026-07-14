@@ -1,0 +1,7492 @@
+[
+  {
+    "fixture": {
+      "id": 1567310,
+      "referee": "C. Turpin",
+      "timezone": "UTC",
+      "date": "2026-07-04T01:30:00+00:00",
+      "timestamp": 1783128600,
+      "periods": {
+        "first": 1783128600,
+        "second": 1783132200
+      },
+      "venue": {
+        "id": 0,
+        "name": "Arrowhead Stadium",
+        "city": "Kansas City"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Round of 32",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 8,
+        "name": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/8.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489420,
+      "referee": "Drew Fischer, Canada",
+      "timezone": "UTC",
+      "date": "2026-06-27T21:00:00+00:00",
+      "timestamp": 1782594000,
+      "periods": {
+        "first": 1782594000,
+        "second": 1782597600
+      },
+      "venue": {
+        "id": null,
+        "name": "Lincoln Financial Field",
+        "city": "Philadelphia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 3,
+        "name": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/3.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489402,
+      "referee": "Said Martinez, Honduras",
+      "timezone": "UTC",
+      "date": "2026-06-23T20:00:00+00:00",
+      "timestamp": 1782244800,
+      "periods": {
+        "first": 1782244800,
+        "second": 1782248400
+      },
+      "venue": {
+        "id": 1618,
+        "name": "Gillette Stadium",
+        "city": "Boston"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 10,
+        "name": "England",
+        "logo": "https://media.api-sports.io/football/teams/10.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489385,
+      "referee": "Glenn Nyberg, Sweden",
+      "timezone": "UTC",
+      "date": "2026-06-17T23:00:00+00:00",
+      "timestamp": 1781737200,
+      "periods": {
+        "first": 1781737200,
+        "second": 1781740800
+      },
+      "venue": {
+        "id": 312,
+        "name": "BMO Field",
+        "city": "Toronto"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 12
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      },
+      "away": {
+        "id": 11,
+        "name": "Panama",
+        "logo": "https://media.api-sports.io/football/teams/11.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1536929,
+      "referee": "Oscar Johnson, Sweden",
+      "timezone": "UTC",
+      "date": "2026-06-02T18:45:00+00:00",
+      "timestamp": 1780425900,
+      "periods": {
+        "first": 1780425900,
+        "second": 1780429500
+      },
+      "venue": {
+        "id": null,
+        "name": "Cardiff City Stadium",
+        "city": "Cardiff"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 767,
+        "name": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/767.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1528281,
+      "referee": "S. Brown",
+      "timezone": "UTC",
+      "date": "2026-05-23T02:00:00+00:00",
+      "timestamp": 1779501600,
+      "periods": {
+        "first": 1779501600,
+        "second": 1779505200
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Cuauhtemoc",
+        "city": "Puebla"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1501816,
+      "referee": "Stuart Attwell, England",
+      "timezone": "UTC",
+      "date": "2026-03-30T18:45:00+00:00",
+      "timestamp": 1774896300,
+      "periods": {
+        "first": 1774896300,
+        "second": 1774899900
+      },
+      "venue": {
+        "id": null,
+        "name": "MHPArena",
+        "city": "Stuttgart"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 25,
+        "name": "Germany",
+        "logo": "https://media.api-sports.io/football/teams/25.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1511731,
+      "referee": "Mohammed Khled Hoish, Saudi Arabia",
+      "timezone": "UTC",
+      "date": "2026-03-27T17:00:00+00:00",
+      "timestamp": 1774630800,
+      "periods": {
+        "first": 1774630800,
+        "second": 1774634400
+      },
+      "venue": {
+        "id": null,
+        "name": "Ernst Happel Stadion",
+        "city": "Vienna"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1485019,
+      "referee": "Ahmad Alali, Kuwait",
+      "timezone": "UTC",
+      "date": "2025-11-18T11:00:00+00:00",
+      "timestamp": 1763463600,
+      "periods": {
+        "first": 1763463600,
+        "second": 1763467200
+      },
+      "venue": {
+        "id": null,
+        "name": "Seoul World Cup Stadium",
+        "city": "Seoul"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 17,
+        "name": "South Korea",
+        "logo": "https://media.api-sports.io/football/teams/17.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1485003,
+      "referee": "Benjamin Abraham, Australia",
+      "timezone": "UTC",
+      "date": "2025-11-14T10:20:00+00:00",
+      "timestamp": 1763115600,
+      "periods": {
+        "first": 1763115600,
+        "second": 1763119200
+      },
+      "venue": {
+        "id": null,
+        "name": "Toyota Stadium",
+        "city": "Toyota"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 12,
+        "name": "Japan",
+        "logo": "https://media.api-sports.io/football/teams/12.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126113,
+      "referee": "P. Atcho",
+      "timezone": "UTC",
+      "date": "2025-10-12T19:00:00+00:00",
+      "timestamp": 1760295600,
+      "periods": {
+        "first": 1760295600,
+        "second": 1760299200
+      },
+      "venue": {
+        "id": null,
+        "name": "Accra Sports Stadium",
+        "city": "Accra"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1524,
+        "name": "Comoros",
+        "logo": "https://media.api-sports.io/football/teams/1524.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126087,
+      "referee": "P. Milazare",
+      "timezone": "UTC",
+      "date": "2025-10-08T16:00:00+00:00",
+      "timestamp": 1759939200,
+      "periods": {
+        "first": 1759939200,
+        "second": 1759942800
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade d'Honneur",
+        "city": "El Jadida"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1527,
+        "name": "Central African Republic",
+        "logo": "https://media.api-sports.io/football/teams/1527.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 5
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 5
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126059,
+      "referee": "L. Badi",
+      "timezone": "UTC",
+      "date": "2025-09-08T19:00:00+00:00",
+      "timestamp": 1757358000,
+      "periods": {
+        "first": 1757358000,
+        "second": 1757361600
+      },
+      "venue": {
+        "id": null,
+        "name": "Accra Sports Stadium",
+        "city": "Accra"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1500,
+        "name": "Mali",
+        "logo": "https://media.api-sports.io/football/teams/1500.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126033,
+      "referee": "Celso Armindo Alvação",
+      "timezone": "UTC",
+      "date": "2025-09-04T13:00:00+00:00",
+      "timestamp": 1756990800,
+      "periods": {
+        "first": 1756990800,
+        "second": 1756994400
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Olympique Maréchal Idriss Deby Itno",
+        "city": "Ndjamena"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1523,
+        "name": "Chad",
+        "logo": "https://media.api-sports.io/football/teams/1523.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1376807,
+      "referee": "S. Barrott",
+      "timezone": "UTC",
+      "date": "2025-05-31T11:30:00+00:00",
+      "timestamp": 1748691000,
+      "periods": {
+        "first": 1748691000,
+        "second": 1748694600
+      },
+      "venue": {
+        "id": 10503,
+        "name": "Gtech Community Stadium",
+        "city": "Brentford, Middlesex"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 1
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5168,
+        "name": "Trinidad and Tobago",
+        "logo": "https://media.api-sports.io/football/teams/5168.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1371809,
+      "referee": "S. Attwell",
+      "timezone": "UTC",
+      "date": "2025-05-28T18:45:00+00:00",
+      "timestamp": 1748457900,
+      "periods": {
+        "first": 1748457900,
+        "second": 1748461500
+      },
+      "venue": {
+        "id": 10503,
+        "name": "Gtech Community Stadium",
+        "city": "Brentford, Middlesex"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      },
+      "away": {
+        "id": 19,
+        "name": "Nigeria",
+        "logo": "https://media.api-sports.io/football/teams/19.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126005,
+      "referee": "I. Sy",
+      "timezone": "UTC",
+      "date": "2025-03-24T19:00:00+00:00",
+      "timestamp": 1742842800,
+      "periods": {
+        "first": 1742842800,
+        "second": 1742846400
+      },
+      "venue": {
+        "id": null,
+        "name": "Mimoun Al Arsi Stadium",
+        "city": "Al Hoceima"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1490,
+        "name": "Madagascar",
+        "logo": "https://media.api-sports.io/football/teams/1490.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125978,
+      "referee": "Abdulrazg Ahmed",
+      "timezone": "UTC",
+      "date": "2025-03-21T19:00:00+00:00",
+      "timestamp": 1742583600,
+      "periods": {
+        "first": 1742583600,
+        "second": 1742587200
+      },
+      "venue": {
+        "id": null,
+        "name": "Accra Sports Stadium",
+        "city": "Accra"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1523,
+        "name": "Chad",
+        "logo": "https://media.api-sports.io/football/teams/1523.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1314002,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-12-28T16:00:00+00:00",
+      "timestamp": 1735401600,
+      "periods": {
+        "first": 1735401600,
+        "second": 1735405200
+      },
+      "venue": {
+        "id": 3909,
+        "name": "Godswill Akpabio International Stadium",
+        "city": "Uyo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 1163,
+      "name": "African Nations Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1163.png",
+      "flag": null,
+      "season": 2024,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 19,
+        "name": "Nigeria",
+        "logo": "https://media.api-sports.io/football/teams/19.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1314001,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-12-22T16:00:00+00:00",
+      "timestamp": 1734883200,
+      "periods": {
+        "first": 1734883200,
+        "second": 1734886800
+      },
+      "venue": {
+        "id": 21410,
+        "name": "Accra Sports Stadium",
+        "city": "Accra"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 1163,
+      "name": "African Nations Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1163.png",
+      "flag": null,
+      "season": 2024,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      },
+      "away": {
+        "id": 19,
+        "name": "Nigeria",
+        "logo": "https://media.api-sports.io/football/teams/19.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232536,
+      "referee": "R. Patience Fidele",
+      "timezone": "UTC",
+      "date": "2024-11-18T16:00:00+00:00",
+      "timestamp": 1731945600,
+      "periods": {
+        "first": 1731945600,
+        "second": 1731949200
+      },
+      "venue": {
+        "id": 21410,
+        "name": "Accra Sports Stadium",
+        "city": "Accra"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1505,
+        "name": "Niger",
+        "logo": "https://media.api-sports.io/football/teams/1505.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232511,
+      "referee": "G. Gatogato",
+      "timezone": "UTC",
+      "date": "2024-11-15T19:00:00+00:00",
+      "timestamp": 1731697200,
+      "periods": {
+        "first": 1731697200,
+        "second": 1731700800
+      },
+      "venue": {
+        "id": 3712,
+        "name": "Estádio 11 de Novembro",
+        "city": "Luanda"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1529,
+        "name": "Angola",
+        "logo": "https://media.api-sports.io/football/teams/1529.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232487,
+      "referee": "M. Malki",
+      "timezone": "UTC",
+      "date": "2024-10-15T13:00:00+00:00",
+      "timestamp": 1728997200,
+      "periods": {
+        "first": 1728997200,
+        "second": 1729000800
+      },
+      "venue": {
+        "id": null,
+        "name": "Martyrs of February Stadium",
+        "city": "Benghazi"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1510,
+        "name": "Sudan",
+        "logo": "https://media.api-sports.io/football/teams/1510.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232463,
+      "referee": "P. Milazare",
+      "timezone": "UTC",
+      "date": "2024-10-10T16:00:00+00:00",
+      "timestamp": 1728576000,
+      "periods": {
+        "first": 1728576000,
+        "second": 1728579600
+      },
+      "venue": {
+        "id": 21410,
+        "name": "Accra Sports Stadium",
+        "city": "Accra"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1510,
+        "name": "Sudan",
+        "logo": "https://media.api-sports.io/football/teams/1510.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232440,
+      "referee": "L. Jammeh",
+      "timezone": "UTC",
+      "date": "2024-09-09T15:00:00+00:00",
+      "timestamp": 1725894000,
+      "periods": {
+        "first": 1725894000,
+        "second": 1725897600
+      },
+      "venue": {
+        "id": 1112,
+        "name": "Stade Municipal de Berkane",
+        "city": "Berkane"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1505,
+        "name": "Niger",
+        "logo": "https://media.api-sports.io/football/teams/1505.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232415,
+      "referee": "S. Uwikunda",
+      "timezone": "UTC",
+      "date": "2024-09-05T16:00:00+00:00",
+      "timestamp": 1725552000,
+      "periods": {
+        "first": 1725552000,
+        "second": 1725555600
+      },
+      "venue": {
+        "id": 4727,
+        "name": "Baba Yara Stadium",
+        "city": "Kumasi"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1529,
+        "name": "Angola",
+        "logo": "https://media.api-sports.io/football/teams/1529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125951,
+      "referee": "Abdulrazg Ahmed",
+      "timezone": "UTC",
+      "date": "2024-06-10T19:00:00+00:00",
+      "timestamp": 1718046000,
+      "periods": {
+        "first": 1718046000,
+        "second": 1718049600
+      },
+      "venue": {
+        "id": null,
+        "name": "Baba Yara Stadium",
+        "city": "Kumasi"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1527,
+        "name": "Central African Republic",
+        "logo": "https://media.api-sports.io/football/teams/1527.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125926,
+      "referee": "Amin Omar",
+      "timezone": "UTC",
+      "date": "2024-06-06T19:00:00+00:00",
+      "timestamp": 1717700400,
+      "periods": {
+        "first": 1717700400,
+        "second": 1717704000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade du 26 Mars",
+        "city": "Bamako"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1500,
+        "name": "Mali",
+        "logo": "https://media.api-sports.io/football/teams/1500.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1183406,
+      "referee": "B. Karboubi",
+      "timezone": "UTC",
+      "date": "2024-03-26T16:00:00+00:00",
+      "timestamp": 1711468800,
+      "periods": {
+        "first": 1711468800,
+        "second": 1711472400
+      },
+      "venue": {
+        "id": 1107,
+        "name": "Stade de Marrakech",
+        "city": "Marrakech"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1519,
+        "name": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/1519.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1183792,
+      "referee": "R. Jiyed",
+      "timezone": "UTC",
+      "date": "2024-03-22T16:00:00+00:00",
+      "timestamp": 1711123200,
+      "periods": {
+        "first": 1711123200,
+        "second": 1711126800
+      },
+      "venue": {
+        "id": 1107,
+        "name": "Stade de Marrakech",
+        "city": "Marrakech"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 19,
+        "name": "Nigeria",
+        "logo": "https://media.api-sports.io/football/teams/19.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1138723,
+      "referee": "Ibrahim Mutaz",
+      "timezone": "UTC",
+      "date": "2024-01-22T20:00:00+00:00",
+      "timestamp": 1705953600,
+      "periods": {
+        "first": 1705953600,
+        "second": 1705957200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Olympique Alassane Ouattara",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1512,
+        "name": "Mozambique",
+        "logo": "https://media.api-sports.io/football/teams/1512.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1138712,
+      "referee": "P. Atcho",
+      "timezone": "UTC",
+      "date": "2024-01-18T20:00:00+00:00",
+      "timestamp": 1705608000,
+      "periods": {
+        "first": 1705608000,
+        "second": 1705611600
+      },
+      "venue": {
+        "id": 411,
+        "name": "Stade Félix Houphouët-Boigny",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1138700,
+      "referee": "J. Ndala",
+      "timezone": "UTC",
+      "date": "2024-01-14T20:00:00+00:00",
+      "timestamp": 1705262400,
+      "periods": {
+        "first": 1705262400,
+        "second": 1705266000
+      },
+      "venue": {
+        "id": 411,
+        "name": "Stade Félix Houphouët-Boigny",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1155250,
+      "referee": "C. Bulu",
+      "timezone": "UTC",
+      "date": "2024-01-08T20:00:00+00:00",
+      "timestamp": 1704744000,
+      "periods": {
+        "first": 1704744000,
+        "second": 1704747600
+      },
+      "venue": {
+        "id": 4727,
+        "name": "Baba Yara Stadium",
+        "city": "Kumasi"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1493,
+        "name": "Namibia",
+        "logo": "https://media.api-sports.io/football/teams/1493.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1155248,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-01-08T13:00:00+00:00",
+      "timestamp": 1704718800,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1520,
+        "name": "Botswana",
+        "logo": "https://media.api-sports.io/football/teams/1520.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125899,
+      "referee": "A. Bouh",
+      "timezone": "UTC",
+      "date": "2023-11-21T16:00:00+00:00",
+      "timestamp": 1700582400,
+      "periods": {
+        "first": 1700582400,
+        "second": 1700586000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de Moroni",
+        "city": "Moroni"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1524,
+        "name": "Comoros",
+        "logo": "https://media.api-sports.io/football/teams/1524.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125870,
+      "referee": "S. Guezzaz",
+      "timezone": "UTC",
+      "date": "2023-11-17T16:00:00+00:00",
+      "timestamp": 1700236800,
+      "periods": {
+        "first": 1700236800,
+        "second": 1700240400
+      },
+      "venue": {
+        "id": null,
+        "name": "Baba Yara Stadium",
+        "city": "Kumasi"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1490,
+        "name": "Madagascar",
+        "logo": "https://media.api-sports.io/football/teams/1490.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1029483,
+      "referee": "M. Ortíz",
+      "timezone": "UTC",
+      "date": "2023-10-18T00:30:00+00:00",
+      "timestamp": 1697589000,
+      "periods": {
+        "first": 1697589000,
+        "second": 1697592600
+      },
+      "venue": {
+        "id": 19357,
+        "name": "GEODIS Park",
+        "city": "Nashville, Tennessee"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2384,
+        "name": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2384.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 4,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1081945,
+      "referee": "J. Dickerson",
+      "timezone": "UTC",
+      "date": "2023-10-15T00:30:00+00:00",
+      "timestamp": 1697329800,
+      "periods": {
+        "first": 1697329800,
+        "second": 1697333400
+      },
+      "venue": {
+        "id": 18659,
+        "name": "Bank of America Stadium",
+        "city": "Charlotte, North Carolina"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126538,
+      "referee": "K. Attiogbe",
+      "timezone": "UTC",
+      "date": "2023-09-12T16:00:00+00:00",
+      "timestamp": 1694534400,
+      "periods": {
+        "first": 1694534400,
+        "second": 1694538000
+      },
+      "venue": {
+        "id": 759,
+        "name": "Ohene Djan Sports Stadium",
+        "city": "Accra"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1525,
+        "name": "Liberia",
+        "logo": "https://media.api-sports.io/football/teams/1525.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859244,
+      "referee": "K. Waweru",
+      "timezone": "UTC",
+      "date": "2023-09-07T16:00:00+00:00",
+      "timestamp": 1694102400,
+      "periods": {
+        "first": 1694102400,
+        "second": 1694106000
+      },
+      "venue": {
+        "id": 4727,
+        "name": "Baba Yara Stadium",
+        "city": "Kumasi"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 6",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1527,
+        "name": "Central African Republic",
+        "logo": "https://media.api-sports.io/football/teams/1527.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859219,
+      "referee": "P. Milazare",
+      "timezone": "UTC",
+      "date": "2023-06-18T14:00:00+00:00",
+      "timestamp": 1687096800,
+      "periods": {
+        "first": 1687096800,
+        "second": 1687100400
+      },
+      "venue": {
+        "id": 20365,
+        "name": "Stade Kianja Barea Mahamasina",
+        "city": "Antananarivo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 5",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1490,
+        "name": "Madagascar",
+        "logo": "https://media.api-sports.io/football/teams/1490.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859195,
+      "referee": "Mahmoud Mansour",
+      "timezone": "UTC",
+      "date": "2023-03-27T16:00:00+00:00",
+      "timestamp": 1679932800,
+      "periods": {
+        "first": 1679932800,
+        "second": 1679936400
+      },
+      "venue": {
+        "id": 3712,
+        "name": "Estádio 11 de Novembro",
+        "city": "Luanda"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1529,
+        "name": "Angola",
+        "logo": "https://media.api-sports.io/football/teams/1529.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859171,
+      "referee": "J. Ndala",
+      "timezone": "UTC",
+      "date": "2023-03-23T16:00:00+00:00",
+      "timestamp": 1679587200,
+      "periods": {
+        "first": 1679587200,
+        "second": 1679590800
+      },
+      "venue": {
+        "id": 4727,
+        "name": "Baba Yara Stadium",
+        "city": "Kumasi"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1529,
+        "name": "Angola",
+        "logo": "https://media.api-sports.io/football/teams/1529.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 994577,
+      "referee": "S. Uwikunda",
+      "timezone": "UTC",
+      "date": "2023-01-28T19:00:00+00:00",
+      "timestamp": 1674932400,
+      "periods": {
+        "first": 1674932400,
+        "second": 1674936000
+      },
+      "venue": {
+        "id": 21541,
+        "name": "Stade Olympique d'Oran",
+        "city": "Bir El Djir"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/19.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Quarter-finals",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1505,
+        "name": "Niger",
+        "logo": "https://media.api-sports.io/football/teams/1505.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 965356,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2023-01-23T19:00:00+00:00",
+      "timestamp": 1674500400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 16,
+        "name": "Stade Mohamed-Hamlaoui",
+        "city": "Constantine"
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/19.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      },
+      "away": {
+        "id": 31,
+        "name": "Morocco",
+        "logo": "https://media.api-sports.io/football/teams/31.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 965351,
+      "referee": "A. Mahamat",
+      "timezone": "UTC",
+      "date": "2023-01-19T19:00:00+00:00",
+      "timestamp": 1674154800,
+      "periods": {
+        "first": 1674154800,
+        "second": 1674158400
+      },
+      "venue": {
+        "id": 16,
+        "name": "Stade Mohamed-Hamlaoui",
+        "city": "Constantine"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/19.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1510,
+        "name": "Sudan",
+        "logo": "https://media.api-sports.io/football/teams/1510.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 965345,
+      "referee": "Ibrahim Mutaz",
+      "timezone": "UTC",
+      "date": "2023-01-15T19:00:00+00:00",
+      "timestamp": 1673809200,
+      "periods": {
+        "first": 1673809200,
+        "second": 1673812800
+      },
+      "venue": {
+        "id": 16,
+        "name": "Stade Mohamed-Hamlaoui",
+        "city": "Constantine"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/19.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1490,
+        "name": "Madagascar",
+        "logo": "https://media.api-sports.io/football/teams/1490.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 855770,
+      "referee": "D. Siebert",
+      "timezone": "UTC",
+      "date": "2022-12-02T15:00:00+00:00",
+      "timestamp": 1669993200,
+      "periods": {
+        "first": 1669993200,
+        "second": 1669996800
+      },
+      "venue": {
+        "id": null,
+        "name": "Al Janoub Stadium",
+        "city": "Al Wakrah"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 855757,
+      "referee": "A. Taylor",
+      "timezone": "UTC",
+      "date": "2022-11-28T13:00:00+00:00",
+      "timestamp": 1669640400,
+      "periods": {
+        "first": 1669640400,
+        "second": 1669644000
+      },
+      "venue": {
+        "id": null,
+        "name": "Education City Stadium",
+        "city": "Ar-Rayyan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 17,
+        "name": "South Korea",
+        "logo": "https://media.api-sports.io/football/teams/17.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 855745,
+      "referee": "I. Elfath",
+      "timezone": "UTC",
+      "date": "2022-11-24T16:00:00+00:00",
+      "timestamp": 1669305600,
+      "periods": {
+        "first": 1669305600,
+        "second": 1669309200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stadium 974",
+        "city": "Doha"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 27,
+        "name": "Portugal",
+        "logo": "https://media.api-sports.io/football/teams/27.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 942162,
+      "referee": "Ahmed Issa",
+      "timezone": "UTC",
+      "date": "2022-11-17T10:00:00+00:00",
+      "timestamp": 1668679200,
+      "periods": {
+        "first": 1668679200,
+        "second": 1668682800
+      },
+      "venue": {
+        "id": null,
+        "name": "Sheikh Zayed Sports City",
+        "city": "Abu Dhabi"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      },
+      "away": {
+        "id": 15,
+        "name": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/15.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 946605,
+      "referee": "D. Bel",
+      "timezone": "UTC",
+      "date": "2022-09-27T18:00:00+00:00",
+      "timestamp": 1664301600,
+      "periods": {
+        "first": 1664301600,
+        "second": 1664305200
+      },
+      "venue": {
+        "id": 2918,
+        "name": "Estadio Francisco Artés Carrasco",
+        "city": "Lorca"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5164,
+        "name": "Nicaragua",
+        "logo": "https://media.api-sports.io/football/teams/5164.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 944079,
+      "referee": "M. Lesage",
+      "timezone": "UTC",
+      "date": "2022-09-23T18:30:00+00:00",
+      "timestamp": 1663957800,
+      "periods": {
+        "first": 1663957800,
+        "second": 1663961400
+      },
+      "venue": {
+        "id": 652,
+        "name": "Stade Océane",
+        "city": "Le Havre"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 6,
+        "name": "Brazil",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 942683,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-08-23T16:30:00+00:00",
+      "timestamp": 1661272200,
+      "periods": {
+        "first": 1661272200,
+        "second": 1661275800
+      },
+      "venue": {
+        "id": 10521,
+        "name": "Wiener Neustadt Arena",
+        "city": "Wiener Neustadt"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1569,
+        "name": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/1569.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 869219,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-06-14T06:15:00+00:00",
+      "timestamp": 1655187300,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 18623,
+        "name": "Panasonic Stadium Suita",
+        "city": "Suita"
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "Canc",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 916,
+      "name": "Kirin Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/916.png",
+      "flag": null,
+      "season": 2022,
+      "round": "3rd Place Final",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2383,
+        "name": "Chile",
+        "logo": "https://media.api-sports.io/football/teams/2383.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 869217,
+      "referee": "K. Ams",
+      "timezone": "UTC",
+      "date": "2022-06-10T09:55:00+00:00",
+      "timestamp": 1654854900,
+      "periods": {
+        "first": 1654854900,
+        "second": 1654858500
+      },
+      "venue": {
+        "id": 984,
+        "name": "NOEVIR Stadium Kobe",
+        "city": "Kobe"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 916,
+      "name": "Kirin Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/916.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Semi-finals",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 12,
+        "name": "Japan",
+        "logo": "https://media.api-sports.io/football/teams/12.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859148,
+      "referee": "P. Atcho",
+      "timezone": "UTC",
+      "date": "2022-06-05T13:00:00+00:00",
+      "timestamp": 1654434000,
+      "periods": {
+        "first": 1654434000,
+        "second": 1654437600
+      },
+      "venue": {
+        "id": 3712,
+        "name": "Estádio 11 de Novembro",
+        "city": "Luanda"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1527,
+        "name": "Central African Republic",
+        "logo": "https://media.api-sports.io/football/teams/1527.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859123,
+      "referee": "M. Kéïta",
+      "timezone": "UTC",
+      "date": "2022-06-01T19:00:00+00:00",
+      "timestamp": 1654110000,
+      "periods": {
+        "first": 1654110000,
+        "second": 1654113600
+      },
+      "venue": {
+        "id": 7795,
+        "name": "Cape Coast Sports Stadium",
+        "city": "Cape Coast"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1490,
+        "name": "Madagascar",
+        "logo": "https://media.api-sports.io/football/teams/1490.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 828186,
+      "referee": "S. Selmi",
+      "timezone": "UTC",
+      "date": "2022-03-29T17:00:00+00:00",
+      "timestamp": 1648573200,
+      "periods": {
+        "first": 1648573200,
+        "second": 1648576800
+      },
+      "venue": {
+        "id": 1168,
+        "name": "Abuja National Stadium",
+        "city": "Abuja"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "3rd Round",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 19,
+        "name": "Nigeria",
+        "logo": "https://media.api-sports.io/football/teams/19.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 828185,
+      "referee": "R. Jiyed",
+      "timezone": "UTC",
+      "date": "2022-03-25T19:30:00+00:00",
+      "timestamp": 1648236600,
+      "periods": {
+        "first": 1648236600,
+        "second": 1648240200
+      },
+      "venue": {
+        "id": 4727,
+        "name": "Baba Yara Stadium",
+        "city": "Kumasi"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "3rd Round",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      },
+      "away": {
+        "id": 19,
+        "name": "Nigeria",
+        "logo": "https://media.api-sports.io/football/teams/19.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 819026,
+      "referee": "B. Traore",
+      "timezone": "UTC",
+      "date": "2022-01-18T19:00:00+00:00",
+      "timestamp": 1642532400,
+      "periods": {
+        "first": 1642532400,
+        "second": 1642536000
+      },
+      "venue": {
+        "id": 4073,
+        "name": "Stade Omnisport Roumdé Adjia",
+        "city": "Garoua"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1524,
+        "name": "Comoros",
+        "logo": "https://media.api-sports.io/football/teams/1524.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 819014,
+      "referee": "L. Benbraham",
+      "timezone": "UTC",
+      "date": "2022-01-14T19:00:00+00:00",
+      "timestamp": 1642186800,
+      "periods": {
+        "first": 1642186800,
+        "second": 1642190400
+      },
+      "venue": {
+        "id": 308,
+        "name": "Stade Omnisport Ahmadou Ahidjo",
+        "city": "Yaoundé"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1503,
+        "name": "Gabon",
+        "logo": "https://media.api-sports.io/football/teams/1503.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 819001,
+      "referee": "J. Bondo",
+      "timezone": "UTC",
+      "date": "2022-01-10T16:00:00+00:00",
+      "timestamp": 1641830400,
+      "periods": {
+        "first": 1641830400,
+        "second": 1641834000
+      },
+      "venue": {
+        "id": 308,
+        "name": "Stade Omnisport Ahmadou Ahidjo",
+        "city": "Yaoundé"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 31,
+        "name": "Morocco",
+        "logo": "https://media.api-sports.io/football/teams/31.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 821410,
+      "referee": "Saoud Al Athbah",
+      "timezone": "UTC",
+      "date": "2022-01-05T16:00:00+00:00",
+      "timestamp": 1641398400,
+      "periods": {
+        "first": 1641398400,
+        "second": 1641402000
+      },
+      "venue": {
+        "id": null,
+        "name": "Education City Stadium",
+        "city": "Ar-Rayyan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701143,
+      "referee": "M. Ndiaye",
+      "timezone": "UTC",
+      "date": "2021-11-14T19:00:00+00:00",
+      "timestamp": 1636916400,
+      "periods": {
+        "first": 1636916400,
+        "second": 1636920000
+      },
+      "venue": {
+        "id": 7795,
+        "name": "Cape Coast Sports Stadium",
+        "city": "Cape Coast"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group G - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1531,
+        "name": "South Africa",
+        "logo": "https://media.api-sports.io/football/teams/1531.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701123,
+      "referee": "B. Ngwa",
+      "timezone": "UTC",
+      "date": "2021-11-11T13:00:00+00:00",
+      "timestamp": 1636635600,
+      "periods": {
+        "first": 1636635600,
+        "second": 1636639200
+      },
+      "venue": {
+        "id": 1453,
+        "name": "Orlando Stadium",
+        "city": "Johannesburg, GA"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group G - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1506,
+        "name": "Ethiopia",
+        "logo": "https://media.api-sports.io/football/teams/1506.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701103,
+      "referee": "Amin Omar",
+      "timezone": "UTC",
+      "date": "2021-10-12T13:00:00+00:00",
+      "timestamp": 1634043600,
+      "periods": {
+        "first": 1634043600,
+        "second": 1634047200
+      },
+      "venue": {
+        "id": 1689,
+        "name": "National Sports Stadium",
+        "city": "Harare"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group G - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1522,
+        "name": "Zimbabwe",
+        "logo": "https://media.api-sports.io/football/teams/1522.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701083,
+      "referee": "P. Atcho",
+      "timezone": "UTC",
+      "date": "2021-10-09T16:00:00+00:00",
+      "timestamp": 1633795200,
+      "periods": {
+        "first": 1633795200,
+        "second": 1633798800
+      },
+      "venue": {
+        "id": 7795,
+        "name": "Cape Coast Sports Stadium",
+        "city": "Cape Coast"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group G - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1522,
+        "name": "Zimbabwe",
+        "logo": "https://media.api-sports.io/football/teams/1522.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701063,
+      "referee": "D. Kafuli",
+      "timezone": "UTC",
+      "date": "2021-09-06T16:00:00+00:00",
+      "timestamp": 1630944000,
+      "periods": {
+        "first": 1630944000,
+        "second": 1630947600
+      },
+      "venue": {
+        "id": null,
+        "name": "FNB Stadium",
+        "city": "Johannesburg, GA"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group G - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1531,
+        "name": "South Africa",
+        "logo": "https://media.api-sports.io/football/teams/1531.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701042,
+      "referee": "R. Jayed",
+      "timezone": "UTC",
+      "date": "2021-09-03T19:00:00+00:00",
+      "timestamp": 1630695600,
+      "periods": {
+        "first": 1630695600,
+        "second": 1630699200
+      },
+      "venue": {
+        "id": 7795,
+        "name": "Cape Coast Sports Stadium",
+        "city": "Cape Coast"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group G - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1506,
+        "name": "Ethiopia",
+        "logo": "https://media.api-sports.io/football/teams/1506.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 705142,
+      "referee": "D. Gueye",
+      "timezone": "UTC",
+      "date": "2021-06-12T17:00:00+00:00",
+      "timestamp": 1623517200,
+      "periods": {
+        "first": 1623517200,
+        "second": 1623520800
+      },
+      "venue": {
+        "id": 7795,
+        "name": "Cape Coast Sports Stadium",
+        "city": "Cape Coast"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 705139,
+      "referee": "A. Diouf",
+      "timezone": "UTC",
+      "date": "2021-06-08T19:00:00+00:00",
+      "timestamp": 1623178800,
+      "periods": {
+        "first": 1623178800,
+        "second": 1623182400
+      },
+      "venue": {
+        "id": 1103,
+        "name": "Stade Prince Moulay Abdallah",
+        "city": "Rabat"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 31,
+        "name": "Morocco",
+        "logo": "https://media.api-sports.io/football/teams/31.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257358,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2021-03-28T16:00:00+00:00",
+      "timestamp": 1616947200,
+      "periods": {
+        "first": 1616947200,
+        "second": 1616950800
+      },
+      "venue": {
+        "id": 759,
+        "name": "Ohene Djan Sports Stadium",
+        "city": "Accra"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1494,
+        "name": "Sao Tome and Principe",
+        "logo": "https://media.api-sports.io/football/teams/1494.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 685893,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2021-03-26T13:00:00+00:00",
+      "timestamp": 1616763600,
+      "periods": {
+        "first": 1616763600,
+        "second": 1616767200
+      },
+      "venue": {
+        "id": 3216,
+        "name": "Markaziy Stadion",
+        "city": "Namangan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1568,
+        "name": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/1568.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257327,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2021-03-25T16:00:00+00:00",
+      "timestamp": 1616688000,
+      "periods": {
+        "first": 1616688000,
+        "second": 1616691600
+      },
+      "venue": {
+        "id": null,
+        "name": "FNB Stadium",
+        "city": "Johannesburg, GA"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1531,
+        "name": "South Africa",
+        "logo": "https://media.api-sports.io/football/teams/1531.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257303,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-11-17T13:00:00+00:00",
+      "timestamp": 1605618000,
+      "periods": {
+        "first": 1605618000,
+        "second": 1605621600
+      },
+      "venue": {
+        "id": null,
+        "name": "Al-Hilal Stadium",
+        "city": "Umm Durman"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1510,
+        "name": "Sudan",
+        "logo": "https://media.api-sports.io/football/teams/1510.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257279,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-11-12T16:00:00+00:00",
+      "timestamp": 1605196800,
+      "periods": {
+        "first": 1605196800,
+        "second": 1605200400
+      },
+      "venue": {
+        "id": 7795,
+        "name": "Cape Coast Sports Stadium",
+        "city": "Cape Coast"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1510,
+        "name": "Sudan",
+        "logo": "https://media.api-sports.io/football/teams/1510.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 640109,
+      "referee": "H. Göçek",
+      "timezone": "UTC",
+      "date": "2020-10-12T15:30:00+00:00",
+      "timestamp": 1602516600,
+      "periods": {
+        "first": 1602516600,
+        "second": 1602520200
+      },
+      "venue": {
+        "id": null,
+        "name": "Mardan Stadyumu",
+        "city": "Antalya"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1569,
+        "name": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/1569.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 640105,
+      "referee": "H. Meler",
+      "timezone": "UTC",
+      "date": "2020-10-09T17:00:00+00:00",
+      "timestamp": 1602262800,
+      "periods": {
+        "first": 1602262800,
+        "second": 1602266400
+      },
+      "venue": {
+        "id": null,
+        "name": "Emirhan Sport Center Stadium",
+        "city": "Side"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1500,
+        "name": "Mali",
+        "logo": "https://media.api-sports.io/football/teams/1500.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257263,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-11-18T13:00:00+00:00",
+      "timestamp": 1574082000,
+      "periods": {
+        "first": 1574082000,
+        "second": 1574085600
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio Nacional 12 de Julho",
+        "city": "São Tomé"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1494,
+        "name": "Sao Tome and Principe",
+        "logo": "https://media.api-sports.io/football/teams/1494.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257242,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-11-14T19:00:00+00:00",
+      "timestamp": 1573758000,
+      "periods": {
+        "first": 1573758000,
+        "second": 1573761600
+      },
+      "venue": {
+        "id": 7795,
+        "name": "Cape Coast Sports Stadium",
+        "city": "Cape Coast"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1531,
+        "name": "South Africa",
+        "logo": "https://media.api-sports.io/football/teams/1531.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 254621,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-10-20T16:00:00+00:00",
+      "timestamp": 1571587200,
+      "periods": {
+        "first": 1571587200,
+        "second": 1571590800
+      },
+      "venue": {
+        "id": 306,
+        "name": "Stade du 4 Août",
+        "city": "Ouagadougou"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/19.png",
+      "flag": null,
+      "season": 2020,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1502,
+        "name": "Burkina Faso",
+        "logo": "https://media.api-sports.io/football/teams/1502.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 254620,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-09-22T15:00:00+00:00",
+      "timestamp": 1569164400,
+      "periods": {
+        "first": 1569164400,
+        "second": 1569168000
+      },
+      "venue": {
+        "id": 4727,
+        "name": "Baba Yara Stadium",
+        "city": "Kumasi"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/19.png",
+      "flag": null,
+      "season": 2020,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1502,
+        "name": "Burkina Faso",
+        "logo": "https://media.api-sports.io/football/teams/1502.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 171223,
+      "referee": "Victor Gomes, South Africa",
+      "timezone": "UTC",
+      "date": "2019-07-08T19:00:00+00:00",
+      "timestamp": 1562612400,
+      "periods": {
+        "first": 1562612400,
+        "second": 1562616000
+      },
+      "venue": {
+        "id": null,
+        "name": "Ismailia Stadium",
+        "city": "Ismailia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "8th Finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      },
+      "away": {
+        "id": 28,
+        "name": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/28.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": 1,
+        "away": 1
+      },
+      "penalty": {
+        "home": 4,
+        "away": 5
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 117929,
+      "referee": "Eric Otogo Castane, Gabon",
+      "timezone": "UTC",
+      "date": "2019-07-02T16:00:00+00:00",
+      "timestamp": 1562083200,
+      "periods": {
+        "first": 1562083200,
+        "second": 1562086800
+      },
+      "venue": {
+        "id": null,
+        "name": "Suez Stadium",
+        "city": "Suez"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1513,
+        "name": "Guinea-Bissau",
+        "logo": "https://media.api-sports.io/football/teams/1513.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 117918,
+      "referee": "Bamlak Tessema Weyesa, Ethiopia",
+      "timezone": "UTC",
+      "date": "2019-06-29T17:00:00+00:00",
+      "timestamp": 1561827600,
+      "periods": {
+        "first": 1561827600,
+        "second": 1561831200
+      },
+      "venue": {
+        "id": null,
+        "name": "Ismailia Stadium",
+        "city": "Ismailia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1530,
+        "name": "Cameroon",
+        "logo": "https://media.api-sports.io/football/teams/1530.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 117907,
+      "referee": "Youssef Essrayri, Tunisia",
+      "timezone": "UTC",
+      "date": "2019-06-25T20:00:00+00:00",
+      "timestamp": 1561492800,
+      "periods": {
+        "first": 1561492800,
+        "second": 1561496400
+      },
+      "venue": {
+        "id": null,
+        "name": "Ismailia Stadium",
+        "city": "Ismailia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1516,
+        "name": "Benin",
+        "logo": "https://media.api-sports.io/football/teams/1516.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218328,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-06-15T13:30:00+00:00",
+      "timestamp": 1560605400,
+      "periods": {
+        "first": 1560605400,
+        "second": 1560609000
+      },
+      "venue": {
+        "id": null,
+        "name": "Police Officers Club Stadium (Dubayy (Dubai))",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1531,
+        "name": "South Africa",
+        "logo": "https://media.api-sports.io/football/teams/1531.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 118067,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-03-23T18:00:00+00:00",
+      "timestamp": 1553364000,
+      "periods": {
+        "first": 1553364000,
+        "second": 1553367600
+      },
+      "venue": {
+        "id": null,
+        "name": "Ohene Djan Sports Stadium (Accra)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1511,
+        "name": "Kenya",
+        "logo": "https://media.api-sports.io/football/teams/1511.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 118041,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-11-18T13:00:00+00:00",
+      "timestamp": 1542546000,
+      "periods": {
+        "first": 1542546000,
+        "second": 1542549600
+      },
+      "venue": {
+        "id": null,
+        "name": "Addis Ababa Stadium (Addis Abeba)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1506,
+        "name": "Ethiopia",
+        "logo": "https://media.api-sports.io/football/teams/1506.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 118007,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-10-14T00:00:00+00:00",
+      "timestamp": 1539475200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "National Stadium (Freetown)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1499,
+        "name": "Sierra Leone",
+        "logo": "https://media.api-sports.io/football/teams/1499.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 117984,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-10-11T00:00:00+00:00",
+      "timestamp": 1539216000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Baba Yara Stadium (Kumasi)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1499,
+        "name": "Sierra Leone",
+        "logo": "https://media.api-sports.io/football/teams/1499.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 117960,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-09-08T13:00:00+00:00",
+      "timestamp": 1536411600,
+      "periods": {
+        "first": 1536411600,
+        "second": 1536415200
+      },
+      "venue": {
+        "id": null,
+        "name": "Moi International Sports Centre (Nairobi)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1511,
+        "name": "Kenya",
+        "logo": "https://media.api-sports.io/football/teams/1511.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225461,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-06-07T20:00:00+00:00",
+      "timestamp": 1528401600,
+      "periods": {
+        "first": 1528401600,
+        "second": 1528405200
+      },
+      "venue": {
+        "id": null,
+        "name": "Laugardalsvöllur (Reykjavík)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 18,
+        "name": "Iceland",
+        "logo": "https://media.api-sports.io/football/teams/18.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225423,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-05-30T10:25:00+00:00",
+      "timestamp": 1527675900,
+      "periods": {
+        "first": 1527675900,
+        "second": 1527679500
+      },
+      "venue": {
+        "id": null,
+        "name": "Nissan Stadium (Yokohama)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 12,
+        "name": "Japan",
+        "logo": "https://media.api-sports.io/football/teams/12.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256844,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-11-12T15:30:00+00:00",
+      "timestamp": 1510500600,
+      "periods": {
+        "first": 1510500600,
+        "second": 1510504200
+      },
+      "venue": {
+        "id": null,
+        "name": "Baba Yara Stadium (Kumasi)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 6",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256829,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-10-07T13:00:00+00:00",
+      "timestamp": 1507381200,
+      "periods": {
+        "first": 1507381200,
+        "second": 1507384800
+      },
+      "venue": {
+        "id": null,
+        "name": "Mandela National Stadium (Kampala)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 5",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1519,
+        "name": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/1519.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256819,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-09-05T14:30:00+00:00",
+      "timestamp": 1504621800,
+      "periods": {
+        "first": 1504621800,
+        "second": 1504625400
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de l’Unité (Brazzaville)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1517,
+        "name": "Congo",
+        "logo": "https://media.api-sports.io/football/teams/1517.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 5
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 5
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256809,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-09-01T15:30:00+00:00",
+      "timestamp": 1504279800,
+      "periods": {
+        "first": 1504279800,
+        "second": 1504283400
+      },
+      "venue": {
+        "id": null,
+        "name": "Baba Yara Stadium (Kumasi)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1517,
+        "name": "Congo",
+        "logo": "https://media.api-sports.io/football/teams/1517.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 254721,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-08-19T22:00:00+00:00",
+      "timestamp": 1503180000,
+      "periods": {
+        "first": 1503180000,
+        "second": 1503183600
+      },
+      "venue": {
+        "id": null,
+        "name": "Baba Yara Stadium (Kumasi)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/19.png",
+      "flag": null,
+      "season": 2018,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1502,
+        "name": "Burkina Faso",
+        "logo": "https://media.api-sports.io/football/teams/1502.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 254720,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-08-11T22:00:00+00:00",
+      "timestamp": 1502488800,
+      "periods": {
+        "first": 1502488800,
+        "second": 1502492400
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade du 4 Août (Ouagadougou)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/19.png",
+      "flag": null,
+      "season": 2018,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1502,
+        "name": "Burkina Faso",
+        "logo": "https://media.api-sports.io/football/teams/1502.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 117953,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-06-11T15:30:00+00:00",
+      "timestamp": 1497195000,
+      "periods": {
+        "first": 1497195000,
+        "second": 1497198600
+      },
+      "venue": {
+        "id": null,
+        "name": "Baba Yara Stadium (Kumasi)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1506,
+        "name": "Ethiopia",
+        "logo": "https://media.api-sports.io/football/teams/1506.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256804,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2016-11-13T16:00:00+00:00",
+      "timestamp": 1479052800,
+      "periods": {
+        "first": 1479052800,
+        "second": 1479056400
+      },
+      "venue": {
+        "id": null,
+        "name": "Borg El Arab Stadium (Borg El Arab)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256787,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2016-10-07T15:30:00+00:00",
+      "timestamp": 1475854200,
+      "periods": {
+        "first": 1475854200,
+        "second": 1475857800
+      },
+      "venue": {
+        "id": null,
+        "name": "Tamale Sports Stadium (Tamale)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1519,
+        "name": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/1519.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256864,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2015-11-17T15:00:00+00:00",
+      "timestamp": 1447772400,
+      "periods": {
+        "first": 1447772400,
+        "second": 1447776000
+      },
+      "venue": {
+        "id": null,
+        "name": "Baba Yara Stadium (Kumasi)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1524,
+        "name": "Comoros",
+        "logo": "https://media.api-sports.io/football/teams/1524.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256863,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2015-11-13T12:00:00+00:00",
+      "timestamp": 1447416000,
+      "periods": {
+        "first": 1447416000,
+        "second": 1447419600
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade International Saïd Mohamed Cheikh de Mitsamiouli (Mitsamiouli)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1524,
+        "name": "Comoros",
+        "logo": "https://media.api-sports.io/football/teams/1524.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]

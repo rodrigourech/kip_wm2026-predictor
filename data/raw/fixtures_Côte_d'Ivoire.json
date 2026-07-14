@@ -1,0 +1,8472 @@
+[
+  {
+    "fixture": {
+      "id": 1564789,
+      "referee": "Jesús Valenzuela, Venezuela",
+      "timezone": "UTC",
+      "date": "2026-06-30T17:00:00+00:00",
+      "timestamp": 1782838800,
+      "periods": {
+        "first": 1782838800,
+        "second": 1782842400
+      },
+      "venue": {
+        "id": 0,
+        "name": "AT&T Stadium",
+        "city": "Dallas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Round of 32",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489409,
+      "referee": "Glenn Nyberg, Sweden",
+      "timezone": "UTC",
+      "date": "2026-06-25T20:00:00+00:00",
+      "timestamp": 1782417600,
+      "periods": {
+        "first": 1782417600,
+        "second": 1782421200
+      },
+      "venue": {
+        "id": null,
+        "name": "Lincoln Financial Field",
+        "city": "Philadelphia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5530,
+        "name": "Curaçao",
+        "logo": "https://media.api-sports.io/football/teams/5530.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489393,
+      "referee": "Juan Gabriel Benitez, Paraguay",
+      "timezone": "UTC",
+      "date": "2026-06-20T20:00:00+00:00",
+      "timestamp": 1781985600,
+      "periods": {
+        "first": 1781985600,
+        "second": 1781989200
+      },
+      "venue": {
+        "id": 312,
+        "name": "BMO Field",
+        "city": "Toronto"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 25,
+        "name": "Germany",
+        "logo": "https://media.api-sports.io/football/teams/25.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489375,
+      "referee": "François Letexier, France",
+      "timezone": "UTC",
+      "date": "2026-06-14T23:00:00+00:00",
+      "timestamp": 1781478000,
+      "periods": {
+        "first": 1781478000,
+        "second": 1781481600
+      },
+      "venue": {
+        "id": null,
+        "name": "Lincoln Financial Field",
+        "city": "Philadelphia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1550852,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-06-08T23:00:00+00:00",
+      "timestamp": 1780959600,
+      "periods": {
+        "first": 1780959600,
+        "second": 1780963200
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 3988,
+        "name": "Philadelphia Union II",
+        "logo": "https://media.api-sports.io/football/teams/3988.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1536931,
+      "referee": "Sebastian Gishamer, Austria",
+      "timezone": "UTC",
+      "date": "2026-06-04T19:10:00+00:00",
+      "timestamp": 1780600200,
+      "periods": {
+        "first": 1780600200,
+        "second": 1780603800
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de la Beaujoire",
+        "city": "Nantes"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2,
+        "name": "France",
+        "logo": "https://media.api-sports.io/football/teams/2.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1528278,
+      "referee": "D. Elder",
+      "timezone": "UTC",
+      "date": "2026-03-31T18:30:00+00:00",
+      "timestamp": 1774981800,
+      "periods": {
+        "first": 1774981800,
+        "second": 1774985400
+      },
+      "venue": {
+        "id": null,
+        "name": "Hill Dickinson Stadium",
+        "city": "Liverpool"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1527860,
+      "referee": "Ian McNabb, Northern Ireland",
+      "timezone": "UTC",
+      "date": "2026-03-28T14:00:00+00:00",
+      "timestamp": 1774706400,
+      "periods": {
+        "first": 1774706400,
+        "second": 1774710000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stadium MK",
+        "city": "Milton Keynes"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 17,
+        "name": "South Korea",
+        "logo": "https://media.api-sports.io/football/teams/17.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1503402,
+      "referee": "Mustapha Ghorbal, Algeria",
+      "timezone": "UTC",
+      "date": "2026-01-10T19:00:00+00:00",
+      "timestamp": 1768071600,
+      "periods": {
+        "first": 1768071600,
+        "second": 1768075200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Adrar",
+        "city": "Agadir"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Quarter-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1501841,
+      "referee": "Ali Mahmood Mahmood Ismail, Sudan",
+      "timezone": "UTC",
+      "date": "2026-01-06T19:00:00+00:00",
+      "timestamp": 1767726000,
+      "periods": {
+        "first": 1767726000,
+        "second": 1767729600
+      },
+      "venue": {
+        "id": null,
+        "name": "Grand Stade de Marrakech",
+        "city": "Marrakech"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Round of 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1502,
+        "name": "Burkina Faso",
+        "logo": "https://media.api-sports.io/football/teams/1502.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1347273,
+      "referee": "Omar Abdulkadir Artan, Somalia",
+      "timezone": "UTC",
+      "date": "2025-12-31T19:00:00+00:00",
+      "timestamp": 1767207600,
+      "periods": {
+        "first": 1767207600,
+        "second": 1767211200
+      },
+      "venue": {
+        "id": null,
+        "name": "Grand Stade de Marrakech",
+        "city": "Marrakech"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1503,
+        "name": "Gabon",
+        "logo": "https://media.api-sports.io/football/teams/1503.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1347261,
+      "referee": "Mustapha Ghorbal, Algeria",
+      "timezone": "UTC",
+      "date": "2025-12-28T20:00:00+00:00",
+      "timestamp": 1766952000,
+      "periods": {
+        "first": 1766952000,
+        "second": 1766955600
+      },
+      "venue": {
+        "id": null,
+        "name": "Grand Stade de Marrakech",
+        "city": "Marrakech"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1530,
+        "name": "Cameroon",
+        "logo": "https://media.api-sports.io/football/teams/1530.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1347249,
+      "referee": "Samuel Uwikunda, Rwanda",
+      "timezone": "UTC",
+      "date": "2025-12-24T17:30:00+00:00",
+      "timestamp": 1766597400,
+      "periods": {
+        "first": 1766597400,
+        "second": 1766601000
+      },
+      "venue": {
+        "id": null,
+        "name": "Grand Stade de Marrakech",
+        "city": "Marrakech"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1512,
+        "name": "Mozambique",
+        "logo": "https://media.api-sports.io/football/teams/1512.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1486550,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-11-18T15:00:00+00:00",
+      "timestamp": 1763478000,
+      "periods": {
+        "first": 1763478000,
+        "second": 1763481600
+      },
+      "venue": {
+        "id": null,
+        "name": "Seeb Stadium",
+        "city": "Seeb"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1552,
+        "name": "Oman",
+        "logo": "https://media.api-sports.io/football/teams/1552.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1486406,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-11-14T16:30:00+00:00",
+      "timestamp": 1763137800,
+      "periods": {
+        "first": 1763137800,
+        "second": 1763141400
+      },
+      "venue": {
+        "id": null,
+        "name": "King Abdullah Sports City",
+        "city": "Jeddah"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 23,
+        "name": "Saudi Arabia",
+        "logo": "https://media.api-sports.io/football/teams/23.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126106,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-10-14T19:00:00+00:00",
+      "timestamp": 1760468400,
+      "periods": {
+        "first": 1760468400,
+        "second": 1760472000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Olympique Alassane Ouattara",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1511,
+        "name": "Kenya",
+        "logo": "https://media.api-sports.io/football/teams/1511.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126077,
+      "referee": "J. Ishimwe",
+      "timezone": "UTC",
+      "date": "2025-10-10T13:00:00+00:00",
+      "timestamp": 1760101200,
+      "periods": {
+        "first": 1760101200,
+        "second": 1760104800
+      },
+      "venue": {
+        "id": null,
+        "name": "National Sports Complex Pitch",
+        "city": "Saint-Pierre"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1515,
+        "name": "Seychelles",
+        "logo": "https://media.api-sports.io/football/teams/1515.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 7
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 4
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 7
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126050,
+      "referee": "A. Bouh",
+      "timezone": "UTC",
+      "date": "2025-09-09T19:00:00+00:00",
+      "timestamp": 1757444400,
+      "periods": {
+        "first": 1757444400,
+        "second": 1757448000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de Franceville",
+        "city": "Franceville"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1503,
+        "name": "Gabon",
+        "logo": "https://media.api-sports.io/football/teams/1503.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126025,
+      "referee": "B. Karboubi",
+      "timezone": "UTC",
+      "date": "2025-09-05T19:00:00+00:00",
+      "timestamp": 1757098800,
+      "periods": {
+        "first": 1757098800,
+        "second": 1757102400
+      },
+      "venue": {
+        "id": 411,
+        "name": "Stade Félix Houphouët-Boigny",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1528,
+        "name": "Burundi",
+        "logo": "https://media.api-sports.io/football/teams/1528.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1364925,
+      "referee": "Filip Dujic, USA",
+      "timezone": "UTC",
+      "date": "2025-06-11T00:30:00+00:00",
+      "timestamp": 1749601800,
+      "periods": {
+        "first": 1749601800,
+        "second": 1749605400
+      },
+      "venue": {
+        "id": 312,
+        "name": "BMO Field",
+        "city": "Toronto, Ontario"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": 4,
+        "away": 5
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1364923,
+      "referee": "Pierre Luc Lauziere",
+      "timezone": "UTC",
+      "date": "2025-06-07T23:15:00+00:00",
+      "timestamp": 1749338100,
+      "periods": {
+        "first": 1749338100,
+        "second": 1749341700
+      },
+      "venue": {
+        "id": 312,
+        "name": "BMO Field",
+        "city": "Toronto, Ontario"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125997,
+      "referee": "A. Malong",
+      "timezone": "UTC",
+      "date": "2025-03-24T19:00:00+00:00",
+      "timestamp": 1742842800,
+      "periods": {
+        "first": 1742842800,
+        "second": 1742846400
+      },
+      "venue": {
+        "id": 411,
+        "name": "Stade Félix Houphouët-Boigny",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1492,
+        "name": "Gambia",
+        "logo": "https://media.api-sports.io/football/teams/1492.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125971,
+      "referee": "S. Guezzaz",
+      "timezone": "UTC",
+      "date": "2025-03-21T19:00:00+00:00",
+      "timestamp": 1742583600,
+      "periods": {
+        "first": 1742583600,
+        "second": 1742587200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade d'Honneur",
+        "city": "Meknes"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1528,
+        "name": "Burundi",
+        "logo": "https://media.api-sports.io/football/teams/1528.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1314000,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-12-28T16:00:00+00:00",
+      "timestamp": 1735401600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 1064,
+        "name": "Stade 26 Mars",
+        "city": "Bamako"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1163,
+      "name": "African Nations Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1163.png",
+      "flag": null,
+      "season": 2024,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1502,
+        "name": "Burkina Faso",
+        "logo": "https://media.api-sports.io/football/teams/1502.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": 1,
+        "away": 0
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1313999,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-12-22T16:00:00+00:00",
+      "timestamp": 1734883200,
+      "periods": {
+        "first": 1734883200,
+        "second": 1734886800
+      },
+      "venue": {
+        "id": 411,
+        "name": "Stade Félix Houphouët-Boigny",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 1163,
+      "name": "African Nations Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1163.png",
+      "flag": null,
+      "season": 2024,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1502,
+        "name": "Burkina Faso",
+        "logo": "https://media.api-sports.io/football/teams/1502.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232538,
+      "referee": "S. Selmi",
+      "timezone": "UTC",
+      "date": "2024-11-19T16:00:00+00:00",
+      "timestamp": 1732032000,
+      "periods": {
+        "first": 1732032000,
+        "second": 1732035600
+      },
+      "venue": {
+        "id": 411,
+        "name": "Stade Félix Houphouët-Boigny",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1523,
+        "name": "Chad",
+        "logo": "https://media.api-sports.io/football/teams/1523.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232513,
+      "referee": "O. Artan",
+      "timezone": "UTC",
+      "date": "2024-11-15T16:00:00+00:00",
+      "timestamp": 1731686400,
+      "periods": {
+        "first": 1731686400,
+        "second": 1731690000
+      },
+      "venue": {
+        "id": 3930,
+        "name": "Levy Mwanawasa Stadium",
+        "city": "Ndola"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1507,
+        "name": "Zambia",
+        "logo": "https://media.api-sports.io/football/teams/1507.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232489,
+      "referee": "J. Bito",
+      "timezone": "UTC",
+      "date": "2024-10-15T16:00:00+00:00",
+      "timestamp": 1729008000,
+      "periods": {
+        "first": 1729008000,
+        "second": 1729011600
+      },
+      "venue": {
+        "id": 20323,
+        "name": "Samuel Kanyon Doe Stadium",
+        "city": "Monrovia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1499,
+        "name": "Sierra Leone",
+        "logo": "https://media.api-sports.io/football/teams/1499.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232465,
+      "referee": "A. Tom",
+      "timezone": "UTC",
+      "date": "2024-10-11T19:00:00+00:00",
+      "timestamp": 1728673200,
+      "periods": {
+        "first": 1728673200,
+        "second": 1728676800
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Laurent Pokou",
+        "city": "San-Pedro"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1499,
+        "name": "Sierra Leone",
+        "logo": "https://media.api-sports.io/football/teams/1499.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232442,
+      "referee": "T. Teklu",
+      "timezone": "UTC",
+      "date": "2024-09-10T19:00:00+00:00",
+      "timestamp": 1725994800,
+      "periods": {
+        "first": 1725994800,
+        "second": 1725998400
+      },
+      "venue": {
+        "id": 308,
+        "name": "Stade Omnisport Ahmadou Ahidjo",
+        "city": "Yaoundé"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1523,
+        "name": "Chad",
+        "logo": "https://media.api-sports.io/football/teams/1523.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232417,
+      "referee": "M. Ghorbal",
+      "timezone": "UTC",
+      "date": "2024-09-06T19:00:00+00:00",
+      "timestamp": 1725649200,
+      "periods": {
+        "first": 1725649200,
+        "second": 1725652800
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de Bouaké",
+        "city": "Bouaké"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1507,
+        "name": "Zambia",
+        "logo": "https://media.api-sports.io/football/teams/1507.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125943,
+      "referee": "J. Jayed",
+      "timezone": "UTC",
+      "date": "2024-06-11T13:00:00+00:00",
+      "timestamp": 1718110800,
+      "periods": {
+        "first": 1718110800,
+        "second": 1718114400
+      },
+      "venue": {
+        "id": null,
+        "name": "Bingu National Stadium",
+        "city": "Lilongwe"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1511,
+        "name": "Kenya",
+        "logo": "https://media.api-sports.io/football/teams/1511.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125917,
+      "referee": "Omar Abdulkadir Artan, Somalia",
+      "timezone": "UTC",
+      "date": "2024-06-07T19:00:00+00:00",
+      "timestamp": 1717786800,
+      "periods": {
+        "first": 1717786800,
+        "second": 1717790400
+      },
+      "venue": {
+        "id": null,
+        "name": "Amadou Gon Coulibaly Stadium",
+        "city": "Korhogo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1503,
+        "name": "Gabon",
+        "logo": "https://media.api-sports.io/football/teams/1503.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1180735,
+      "referee": "R. Buquet",
+      "timezone": "UTC",
+      "date": "2024-03-26T19:30:00+00:00",
+      "timestamp": 1711481400,
+      "periods": {
+        "first": 1711481400,
+        "second": 1711485000
+      },
+      "venue": {
+        "id": 654,
+        "name": "Stade Bollaert-Delelis",
+        "city": "Lens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1182074,
+      "referee": "M. Gigović",
+      "timezone": "UTC",
+      "date": "2024-03-23T16:00:00+00:00",
+      "timestamp": 1711209600,
+      "periods": {
+        "first": 1711209600,
+        "second": 1711213200
+      },
+      "venue": {
+        "id": 633,
+        "name": "Stade Crédit Agricole de la Licorne",
+        "city": "Amiens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1516,
+        "name": "Benin",
+        "logo": "https://media.api-sports.io/football/teams/1516.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172283,
+      "referee": "D. Beida",
+      "timezone": "UTC",
+      "date": "2024-02-11T20:00:00+00:00",
+      "timestamp": 1707681600,
+      "periods": {
+        "first": 1707681600,
+        "second": 1707685200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Olympique Alassane Ouattara",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Final",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 19,
+        "name": "Nigeria",
+        "logo": "https://media.api-sports.io/football/teams/19.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1171549,
+      "referee": "Ibrahim Mutaz",
+      "timezone": "UTC",
+      "date": "2024-02-07T20:00:00+00:00",
+      "timestamp": 1707336000,
+      "periods": {
+        "first": 1707336000,
+        "second": 1707339600
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Olympique Alassane Ouattara",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Semi-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1508,
+        "name": "Congo DR",
+        "logo": "https://media.api-sports.io/football/teams/1508.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1169663,
+      "referee": "Mohamed Adel",
+      "timezone": "UTC",
+      "date": "2024-02-03T17:00:00+00:00",
+      "timestamp": 1706979600,
+      "periods": {
+        "first": 1706979600,
+        "second": 1706983200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de Bouaké",
+        "city": "Bouaké"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "AET",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Quarter-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1500,
+        "name": "Mali",
+        "logo": "https://media.api-sports.io/football/teams/1500.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": 0,
+        "away": 1
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1166111,
+      "referee": "P. Atcho",
+      "timezone": "UTC",
+      "date": "2024-01-29T20:00:00+00:00",
+      "timestamp": 1706558400,
+      "periods": {
+        "first": 1706558400,
+        "second": 1706562000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Charles Konan Banny de Yamoussoukro",
+        "city": "Yamoussoukro"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Round of 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 13,
+        "name": "Senegal",
+        "logo": "https://media.api-sports.io/football/teams/13.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty": {
+        "home": 4,
+        "away": 5
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1138721,
+      "referee": "Mahmood Ismail",
+      "timezone": "UTC",
+      "date": "2024-01-22T17:00:00+00:00",
+      "timestamp": 1705942800,
+      "periods": {
+        "first": 1705942800,
+        "second": 1705946400
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Olympique Alassane Ouattara",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1521,
+        "name": "Equatorial Guinea",
+        "logo": "https://media.api-sports.io/football/teams/1521.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1138710,
+      "referee": "M. Ghorbal",
+      "timezone": "UTC",
+      "date": "2024-01-18T17:00:00+00:00",
+      "timestamp": 1705597200,
+      "periods": {
+        "first": 1705597200,
+        "second": 1705600800
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Olympique Alassane Ouattara",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      },
+      "away": {
+        "id": 19,
+        "name": "Nigeria",
+        "logo": "https://media.api-sports.io/football/teams/19.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1138697,
+      "referee": "Amin Omar",
+      "timezone": "UTC",
+      "date": "2024-01-13T20:00:00+00:00",
+      "timestamp": 1705176000,
+      "periods": {
+        "first": 1705176000,
+        "second": 1705179600
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Olympique Alassane Ouattara",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1513,
+        "name": "Guinea-Bissau",
+        "logo": "https://media.api-sports.io/football/teams/1513.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1155243,
+      "referee": "T. Ahomlanto",
+      "timezone": "UTC",
+      "date": "2024-01-06T17:00:00+00:00",
+      "timestamp": 1704560400,
+      "periods": {
+        "first": 1704560400,
+        "second": 1704564000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Laurent Pokou",
+        "city": "San-Pedro"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1499,
+        "name": "Sierra Leone",
+        "logo": "https://media.api-sports.io/football/teams/1499.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125889,
+      "referee": "J. Jayed",
+      "timezone": "UTC",
+      "date": "2023-11-20T16:00:00+00:00",
+      "timestamp": 1700496000,
+      "periods": {
+        "first": 1700496000,
+        "second": 1700499600
+      },
+      "venue": {
+        "id": null,
+        "name": "Benjamin Mkapa National Stadium",
+        "city": "Dar es Salaam"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1492,
+        "name": "Gambia",
+        "logo": "https://media.api-sports.io/football/teams/1492.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125862,
+      "referee": "A. Diouf",
+      "timezone": "UTC",
+      "date": "2023-11-17T19:00:00+00:00",
+      "timestamp": 1700247600,
+      "periods": {
+        "first": 1700247600,
+        "second": 1700251200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Olympique Alassane Ouattara",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1515,
+        "name": "Seychelles",
+        "logo": "https://media.api-sports.io/football/teams/1515.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 9,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 4,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 9,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1119528,
+      "referee": "B. Bado",
+      "timezone": "UTC",
+      "date": "2023-10-17T19:00:00+00:00",
+      "timestamp": 1697569200,
+      "periods": {
+        "first": 1697569200,
+        "second": 1697572800
+      },
+      "venue": {
+        "id": 411,
+        "name": "Stade Félix Houphouët-Boigny",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1531,
+        "name": "South Africa",
+        "logo": "https://media.api-sports.io/football/teams/1531.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1135751,
+      "referee": "A. Ligali",
+      "timezone": "UTC",
+      "date": "2023-10-14T17:00:00+00:00",
+      "timestamp": 1697302800,
+      "periods": {
+        "first": 1697302800,
+        "second": 1697306400
+      },
+      "venue": {
+        "id": 411,
+        "name": "Stade Félix Houphouët-Boigny",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": null
+      },
+      "away": {
+        "id": 31,
+        "name": "Morocco",
+        "logo": "https://media.api-sports.io/football/teams/31.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1061060,
+      "referee": "A. Gnama",
+      "timezone": "UTC",
+      "date": "2023-09-12T19:00:00+00:00",
+      "timestamp": 1694545200,
+      "periods": {
+        "first": 1694545200,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Olympique Alassane Ouattara",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1500,
+        "name": "Mali",
+        "logo": "https://media.api-sports.io/football/teams/1500.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859250,
+      "referee": "S. Uwikunda",
+      "timezone": "UTC",
+      "date": "2023-09-09T16:00:00+00:00",
+      "timestamp": 1694275200,
+      "periods": {
+        "first": 1694275200,
+        "second": 1694278800
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Laurent Pokou",
+        "city": "San-Pedro"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 6",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1518,
+        "name": "Lesotho",
+        "logo": "https://media.api-sports.io/football/teams/1518.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859225,
+      "referee": "B. Tessema",
+      "timezone": "UTC",
+      "date": "2023-06-17T13:00:00+00:00",
+      "timestamp": 1687006800,
+      "periods": {
+        "first": 1687006800,
+        "second": 1687010400
+      },
+      "venue": {
+        "id": 3930,
+        "name": "Levy Mwanawasa Stadium",
+        "city": "Ndola"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 5",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1507,
+        "name": "Zambia",
+        "logo": "https://media.api-sports.io/football/teams/1507.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859201,
+      "referee": "K. Waweru",
+      "timezone": "UTC",
+      "date": "2023-03-28T19:00:00+00:00",
+      "timestamp": 1680030000,
+      "periods": {
+        "first": 1680030000,
+        "second": 1680033600
+      },
+      "venue": {
+        "id": 20364,
+        "name": "Stade Omnisports de Malouzini",
+        "city": "Moroni"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1524,
+        "name": "Comoros",
+        "logo": "https://media.api-sports.io/football/teams/1524.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859177,
+      "referee": "A. Bouh",
+      "timezone": "UTC",
+      "date": "2023-03-24T16:00:00+00:00",
+      "timestamp": 1679673600,
+      "periods": {
+        "first": 1679673600,
+        "second": 1679677200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de Bouaké",
+        "city": "Bouaké"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1524,
+        "name": "Comoros",
+        "logo": "https://media.api-sports.io/football/teams/1524.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 993892,
+      "referee": "A. Bouh",
+      "timezone": "UTC",
+      "date": "2023-01-27T16:00:00+00:00",
+      "timestamp": 1674835200,
+      "periods": {
+        "first": 1674835200,
+        "second": 1674838800
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de Nelson Mandela",
+        "city": "Baraki"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/19.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Quarter-finals",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 965355,
+      "referee": "B. Ngwa",
+      "timezone": "UTC",
+      "date": "2023-01-22T19:00:00+00:00",
+      "timestamp": 1674414000,
+      "periods": {
+        "first": 1674414000,
+        "second": 1674417600
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de Nelson Mandela",
+        "city": "Baraki"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/19.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1519,
+        "name": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/1519.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 965348,
+      "referee": "Mohamed Hussein",
+      "timezone": "UTC",
+      "date": "2023-01-18T16:00:00+00:00",
+      "timestamp": 1674057600,
+      "periods": {
+        "first": 1674057600,
+        "second": 1674061200
+      },
+      "venue": {
+        "id": 7,
+        "name": "Stade du 19 Mai 1956",
+        "city": "Annaba"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/19.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1508,
+        "name": "Congo DR",
+        "logo": "https://media.api-sports.io/football/teams/1508.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 965343,
+      "referee": "L. Bekouassa",
+      "timezone": "UTC",
+      "date": "2023-01-14T19:00:00+00:00",
+      "timestamp": 1673722800,
+      "periods": {
+        "first": 1673722800,
+        "second": 1673726400
+      },
+      "venue": {
+        "id": 7,
+        "name": "Stade du 19 Mai 1956",
+        "city": "Annaba"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/19.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      },
+      "away": {
+        "id": 13,
+        "name": "Senegal",
+        "logo": "https://media.api-sports.io/football/teams/13.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971147,
+      "referee": "B. Karboubi",
+      "timezone": "UTC",
+      "date": "2022-11-19T16:00:00+00:00",
+      "timestamp": 1668873600,
+      "periods": {
+        "first": 1668873600,
+        "second": 1668877200
+      },
+      "venue": {
+        "id": 1107,
+        "name": "Stade de Marrakech",
+        "city": "Marrakech"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1502,
+        "name": "Burkina Faso",
+        "logo": "https://media.api-sports.io/football/teams/1502.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 971145,
+      "referee": "J. Jayed",
+      "timezone": "UTC",
+      "date": "2022-11-16T16:00:00+00:00",
+      "timestamp": 1668614400,
+      "periods": {
+        "first": 1668614400,
+        "second": 1668618000
+      },
+      "venue": {
+        "id": 1107,
+        "name": "Stade de Marrakech",
+        "city": "Marrakech"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1528,
+        "name": "Burundi",
+        "logo": "https://media.api-sports.io/football/teams/1528.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 958779,
+      "referee": "T. Léonard",
+      "timezone": "UTC",
+      "date": "2022-09-27T18:00:00+00:00",
+      "timestamp": 1664301600,
+      "periods": {
+        "first": 1664301600,
+        "second": 1664305200
+      },
+      "venue": {
+        "id": 633,
+        "name": "Stade Crédit Agricole de la Licorne",
+        "city": "Amiens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1509,
+        "name": "Guinea",
+        "logo": "https://media.api-sports.io/football/teams/1509.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 960483,
+      "referee": "A. Petit",
+      "timezone": "UTC",
+      "date": "2022-09-24T16:00:00+00:00",
+      "timestamp": 1664035200,
+      "periods": {
+        "first": 1664035200,
+        "second": 1664038800
+      },
+      "venue": {
+        "id": 672,
+        "name": "Stade Robert Diochon",
+        "city": "Le Petit-Quevilly"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1534,
+        "name": "Togo",
+        "logo": "https://media.api-sports.io/football/teams/1534.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859154,
+      "referee": "P. Milazare",
+      "timezone": "UTC",
+      "date": "2022-06-09T17:00:00+00:00",
+      "timestamp": 1654794000,
+      "periods": {
+        "first": 1654794000,
+        "second": 1654797600
+      },
+      "venue": {
+        "id": 20577,
+        "name": "Dobsonville Stadium",
+        "city": "Johannesburg, GA"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1518,
+        "name": "Lesotho",
+        "logo": "https://media.api-sports.io/football/teams/1518.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859129,
+      "referee": "D. Beida",
+      "timezone": "UTC",
+      "date": "2022-06-03T19:00:00+00:00",
+      "timestamp": 1654282800,
+      "periods": {
+        "first": 1654282800,
+        "second": 1654286400
+      },
+      "venue": {
+        "id": 3425,
+        "name": "Stade Charles Konan Banny de Yamoussoukro",
+        "city": "Yamoussoukro"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1507,
+        "name": "Zambia",
+        "logo": "https://media.api-sports.io/football/teams/1507.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 827602,
+      "referee": "E. Lambrechts",
+      "timezone": "UTC",
+      "date": "2022-03-29T18:45:00+00:00",
+      "timestamp": 1648579500,
+      "periods": {
+        "first": 1648579500,
+        "second": 1648583100
+      },
+      "venue": {
+        "id": 489,
+        "name": "Wembley Stadium",
+        "city": "London"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 10,
+        "name": "England",
+        "logo": "https://media.api-sports.io/football/teams/10.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 847814,
+      "referee": "Vitor Ferreira",
+      "timezone": "UTC",
+      "date": "2022-03-25T20:15:00+00:00",
+      "timestamp": 1648239300,
+      "periods": {
+        "first": 1648239300,
+        "second": 1648242900
+      },
+      "venue": {
+        "id": 12678,
+        "name": "Stade Orange Vélodrome",
+        "city": "Marseille"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2,
+        "name": "France",
+        "logo": "https://media.api-sports.io/football/teams/2.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 827458,
+      "referee": "J. Ndala",
+      "timezone": "UTC",
+      "date": "2022-01-26T16:00:00+00:00",
+      "timestamp": 1643212800,
+      "periods": {
+        "first": 1643212800,
+        "second": 1643216400
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Omnisport de Douala",
+        "city": "Douala"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Round of 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty": {
+        "home": 4,
+        "away": 5
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 819029,
+      "referee": "V. Gomes",
+      "timezone": "UTC",
+      "date": "2022-01-20T16:00:00+00:00",
+      "timestamp": 1642694400,
+      "periods": {
+        "first": 1642694400,
+        "second": 1642698000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Omnisport de Douala",
+        "city": "Douala"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 819018,
+      "referee": "M. Ndiaye",
+      "timezone": "UTC",
+      "date": "2022-01-16T16:00:00+00:00",
+      "timestamp": 1642348800,
+      "periods": {
+        "first": 1642348800,
+        "second": 1642352400
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Omnisport de Douala",
+        "city": "Douala"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1499,
+        "name": "Sierra Leone",
+        "logo": "https://media.api-sports.io/football/teams/1499.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 819008,
+      "referee": "R. Jiyed",
+      "timezone": "UTC",
+      "date": "2022-01-12T19:00:00+00:00",
+      "timestamp": 1642014000,
+      "periods": {
+        "first": 1642014000,
+        "second": 1642017600
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Omnisport de Douala",
+        "city": "Douala"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1521,
+        "name": "Equatorial Guinea",
+        "logo": "https://media.api-sports.io/football/teams/1521.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701137,
+      "referee": "J. Sikazwe",
+      "timezone": "UTC",
+      "date": "2021-11-16T19:00:00+00:00",
+      "timestamp": 1637089200,
+      "periods": {
+        "first": 1637089200,
+        "second": 1637092800
+      },
+      "venue": {
+        "id": 308,
+        "name": "Stade Omnisport Ahmadou Ahidjo",
+        "city": "Yaoundé"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group D - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1530,
+        "name": "Cameroon",
+        "logo": "https://media.api-sports.io/football/teams/1530.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701118,
+      "referee": "Gamal Al Ghandour",
+      "timezone": "UTC",
+      "date": "2021-11-13T19:00:00+00:00",
+      "timestamp": 1636830000,
+      "periods": {
+        "first": 1636830000,
+        "second": 1636833600
+      },
+      "venue": {
+        "id": 197,
+        "name": "Stade de l'Amitié",
+        "city": "Cotonou"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group D - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1512,
+        "name": "Mozambique",
+        "logo": "https://media.api-sports.io/football/teams/1512.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701098,
+      "referee": "B. Camille",
+      "timezone": "UTC",
+      "date": "2021-10-11T16:00:00+00:00",
+      "timestamp": 1633968000,
+      "periods": {
+        "first": 1633968000,
+        "second": 1633971600
+      },
+      "venue": {
+        "id": 197,
+        "name": "Stade de l'Amitié",
+        "city": "Cotonou"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group D - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1495,
+        "name": "Malawi",
+        "logo": "https://media.api-sports.io/football/teams/1495.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701078,
+      "referee": "K. Waweru",
+      "timezone": "UTC",
+      "date": "2021-10-08T13:00:00+00:00",
+      "timestamp": 1633698000,
+      "periods": {
+        "first": 1633698000,
+        "second": 1633701600
+      },
+      "venue": {
+        "id": 1453,
+        "name": "Orlando Stadium",
+        "city": "Johannesburg, GA"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group D - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1495,
+        "name": "Malawi",
+        "logo": "https://media.api-sports.io/football/teams/1495.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701057,
+      "referee": "M. Ghorbal",
+      "timezone": "UTC",
+      "date": "2021-09-06T19:00:00+00:00",
+      "timestamp": 1630954800,
+      "periods": {
+        "first": 1630954800,
+        "second": 1630958400
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Olympique Alassane Ouattara",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group D - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1530,
+        "name": "Cameroon",
+        "logo": "https://media.api-sports.io/football/teams/1530.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701037,
+      "referee": "P. Ndabihawenimana",
+      "timezone": "UTC",
+      "date": "2021-09-03T13:00:00+00:00",
+      "timestamp": 1630674000,
+      "periods": {
+        "first": 1630674000,
+        "second": 1630677600
+      },
+      "venue": {
+        "id": 1113,
+        "name": "Estádio Nacional do Zimpeto",
+        "city": "Maputo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group D - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1512,
+        "name": "Mozambique",
+        "logo": "https://media.api-sports.io/football/teams/1512.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 705142,
+      "referee": "D. Gueye",
+      "timezone": "UTC",
+      "date": "2021-06-12T17:00:00+00:00",
+      "timestamp": 1623517200,
+      "periods": {
+        "first": 1623517200,
+        "second": 1623520800
+      },
+      "venue": {
+        "id": 7795,
+        "name": "Cape Coast Sports Stadium",
+        "city": "Cape Coast"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 705133,
+      "referee": "Y. Bodjona",
+      "timezone": "UTC",
+      "date": "2021-06-05T17:00:00+00:00",
+      "timestamp": 1622912400,
+      "periods": {
+        "first": 1622912400,
+        "second": 1622916000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Olympique Alassane Ouattara",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1502,
+        "name": "Burkina Faso",
+        "logo": "https://media.api-sports.io/football/teams/1502.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257363,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2021-03-30T13:00:00+00:00",
+      "timestamp": 1617109200,
+      "periods": {
+        "first": 1617109200,
+        "second": 1617112800
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Olympique Alassane Ouattara",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1506,
+        "name": "Ethiopia",
+        "logo": "https://media.api-sports.io/football/teams/1506.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257337,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2021-03-26T16:00:00+00:00",
+      "timestamp": 1616774400,
+      "periods": {
+        "first": 1616774400,
+        "second": 1616778000
+      },
+      "venue": {
+        "id": 1167,
+        "name": "Stade Général Seyni Kountché",
+        "city": "Niamey"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1505,
+        "name": "Niger",
+        "logo": "https://media.api-sports.io/football/teams/1505.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257313,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-11-17T13:00:00+00:00",
+      "timestamp": 1605618000,
+      "periods": {
+        "first": 1605618000,
+        "second": 1605621600
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade De Barikadimy",
+        "city": "Toamasina"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1490,
+        "name": "Madagascar",
+        "logo": "https://media.api-sports.io/football/teams/1490.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257289,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-11-12T16:00:00+00:00",
+      "timestamp": 1605196800,
+      "periods": {
+        "first": 1605196800,
+        "second": 1605200400
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Olympique Alassane Ouattara",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1490,
+        "name": "Madagascar",
+        "logo": "https://media.api-sports.io/football/teams/1490.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 634731,
+      "referee": "J. Kamphuis",
+      "timezone": "UTC",
+      "date": "2020-10-13T14:45:00+00:00",
+      "timestamp": 1602600300,
+      "periods": {
+        "first": 1602600300,
+        "second": 1602603900
+      },
+      "venue": {
+        "id": 1154,
+        "name": "Stadion Galgenwaard",
+        "city": "Utrecht"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 12,
+        "name": "Japan",
+        "logo": "https://media.api-sports.io/football/teams/12.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 611892,
+      "referee": "M. Schüttengruber",
+      "timezone": "UTC",
+      "date": "2020-10-09T18:30:00+00:00",
+      "timestamp": 1602268200,
+      "periods": {
+        "first": 1602268200,
+        "second": 1602271800
+      },
+      "venue": {
+        "id": 7489,
+        "name": "Jacques Lemans Arena",
+        "city": "St. Veit an der Glan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 19,
+        "name": "Nigeria",
+        "logo": "https://media.api-sports.io/football/teams/19.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 640104,
+      "referee": "S. Gözübüyük",
+      "timezone": "UTC",
+      "date": "2020-10-08T18:45:00+00:00",
+      "timestamp": 1602182700,
+      "periods": {
+        "first": 1602182700,
+        "second": 1602186300
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257269,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-11-19T13:00:00+00:00",
+      "timestamp": 1574168400,
+      "periods": {
+        "first": 1574168400,
+        "second": 1574172000
+      },
+      "venue": {
+        "id": 3149,
+        "name": "Bahir Dar Stadium",
+        "city": "Bahir Dar"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1506,
+        "name": "Ethiopia",
+        "logo": "https://media.api-sports.io/football/teams/1506.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257250,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-11-16T19:00:00+00:00",
+      "timestamp": 1573930800,
+      "periods": {
+        "first": 1573930800,
+        "second": 1573934400
+      },
+      "venue": {
+        "id": 411,
+        "name": "Stade Félix Houphouët-Boigny",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1505,
+        "name": "Niger",
+        "logo": "https://media.api-sports.io/football/teams/1505.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 254617,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-10-20T15:00:00+00:00",
+      "timestamp": 1571583600,
+      "periods": {
+        "first": 1571583600,
+        "second": 1571587200
+      },
+      "venue": {
+        "id": 411,
+        "name": "Stade Félix Houphouët-Boigny",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/19.png",
+      "flag": null,
+      "season": 2020,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1505,
+        "name": "Niger",
+        "logo": "https://media.api-sports.io/football/teams/1505.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 246524,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-10-13T17:00:00+00:00",
+      "timestamp": 1570986000,
+      "periods": {
+        "first": 1570986000,
+        "second": 1570989600
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Crédit Agricole de la Licorne (Amiens)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1508,
+        "name": "Congo DR",
+        "logo": "https://media.api-sports.io/football/teams/1508.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 254616,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-09-22T15:00:00+00:00",
+      "timestamp": 1569164400,
+      "periods": {
+        "first": 1569164400,
+        "second": 1569168000
+      },
+      "venue": {
+        "id": 1167,
+        "name": "Stade Général Seyni Kountché",
+        "city": "Niamey"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/19.png",
+      "flag": null,
+      "season": 2020,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1505,
+        "name": "Niger",
+        "logo": "https://media.api-sports.io/football/teams/1505.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 240839,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-09-10T17:00:00+00:00",
+      "timestamp": 1568134800,
+      "periods": {
+        "first": 1568134800,
+        "second": 1568138400
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Robert Diochon (Le Petit-Quevilly)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 28,
+        "name": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/28.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 240834,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-09-06T17:00:00+00:00",
+      "timestamp": 1567789200,
+      "periods": {
+        "first": 1567789200,
+        "second": 1567792800
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Michel d'Ornano (Caen)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1516,
+        "name": "Benin",
+        "logo": "https://media.api-sports.io/football/teams/1516.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 205617,
+      "referee": "Bamlak Tessema Weyesa, Ethiopia",
+      "timezone": "UTC",
+      "date": "2019-07-11T16:00:00+00:00",
+      "timestamp": 1562860800,
+      "periods": {
+        "first": 1562860800,
+        "second": 1562864400
+      },
+      "venue": {
+        "id": null,
+        "name": "Suez Stadium",
+        "city": "Suez"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Quarter-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": 1,
+        "away": 1
+      },
+      "penalty": {
+        "home": 3,
+        "away": 4
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 171222,
+      "referee": "Janny Sikazwe, Zambia",
+      "timezone": "UTC",
+      "date": "2019-07-08T16:00:00+00:00",
+      "timestamp": 1562601600,
+      "periods": {
+        "first": 1562601600,
+        "second": 1562605200
+      },
+      "venue": {
+        "id": null,
+        "name": "Suez Stadium",
+        "city": "Suez"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "8th Finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1500,
+        "name": "Mali",
+        "logo": "https://media.api-sports.io/football/teams/1500.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 117925,
+      "referee": "Peter Waweru, Kenya",
+      "timezone": "UTC",
+      "date": "2019-07-01T16:00:00+00:00",
+      "timestamp": 1561996800,
+      "periods": {
+        "first": 1561996800,
+        "second": 1562000400
+      },
+      "venue": {
+        "id": null,
+        "name": "30 June Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1493,
+        "name": "Namibia",
+        "logo": "https://media.api-sports.io/football/teams/1493.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 117915,
+      "referee": "Alioum Alioum, Cameroon",
+      "timezone": "UTC",
+      "date": "2019-06-28T17:00:00+00:00",
+      "timestamp": 1561741200,
+      "periods": {
+        "first": 1561741200,
+        "second": 1561744800
+      },
+      "venue": {
+        "id": null,
+        "name": "Al-Salam Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 31,
+        "name": "Morocco",
+        "logo": "https://media.api-sports.io/football/teams/31.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 117903,
+      "referee": "Mustapha Ghorbal, Algeria",
+      "timezone": "UTC",
+      "date": "2019-06-24T14:30:00+00:00",
+      "timestamp": 1561386600,
+      "periods": {
+        "first": 1561386600,
+        "second": 1561390200
+      },
+      "venue": {
+        "id": null,
+        "name": "Al-Salam Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1531,
+        "name": "South Africa",
+        "logo": "https://media.api-sports.io/football/teams/1531.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218334,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-06-19T12:30:00+00:00",
+      "timestamp": 1560947400,
+      "periods": {
+        "first": 1560947400,
+        "second": 1560951000
+      },
+      "venue": {
+        "id": null,
+        "name": "Sheikh Zayed Sports City (Abū ẓabī (Abu Dhabi))",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1507,
+        "name": "Zambia",
+        "logo": "https://media.api-sports.io/football/teams/1507.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218333,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-06-17T00:00:00+00:00",
+      "timestamp": 1560729600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1506,
+        "name": "Ethiopia",
+        "logo": "https://media.api-sports.io/football/teams/1506.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218327,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-06-15T12:30:00+00:00",
+      "timestamp": 1560601800,
+      "periods": {
+        "first": 1560601800,
+        "second": 1560605400
+      },
+      "venue": {
+        "id": null,
+        "name": "Sheikh Zayed Sports City (Abū ẓabī (Abu Dhabi))",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1519,
+        "name": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/1519.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218305,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-06-07T16:00:00+00:00",
+      "timestamp": 1559923200,
+      "periods": {
+        "first": 1559923200,
+        "second": 1559926800
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de la Libération",
+        "city": "Boulogne-sur-Mer"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1524,
+        "name": "Comoros",
+        "logo": "https://media.api-sports.io/football/teams/1524.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218280,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-03-26T17:00:00+00:00",
+      "timestamp": 1553619600,
+      "periods": {
+        "first": 1553619600,
+        "second": 1553623200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Félix Houphouët-Boigny (Abidjan)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1525,
+        "name": "Liberia",
+        "logo": "https://media.api-sports.io/football/teams/1525.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 118066,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-03-23T17:00:00+00:00",
+      "timestamp": 1553360400,
+      "periods": {
+        "first": 1553360400,
+        "second": 1553364000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Félix Houphouët-Boigny (Abidjan)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1514,
+        "name": "Rwanda",
+        "logo": "https://media.api-sports.io/football/teams/1514.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 118051,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-11-18T17:00:00+00:00",
+      "timestamp": 1542560400,
+      "periods": {
+        "first": 1542560400,
+        "second": 1542564000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade du 28 Septembre (Conakry)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1509,
+        "name": "Guinea",
+        "logo": "https://media.api-sports.io/football/teams/1509.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 118016,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-10-16T14:00:00+00:00",
+      "timestamp": 1539698400,
+      "periods": {
+        "first": 1539698400,
+        "second": 1539702000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Barthélemy Boganda (Bangui)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1527,
+        "name": "Central African Republic",
+        "logo": "https://media.api-sports.io/football/teams/1527.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 117990,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-10-12T17:00:00+00:00",
+      "timestamp": 1539363600,
+      "periods": {
+        "first": 1539363600,
+        "second": 1539367200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de Bouaké (Stade de la Paix) (Bouaké)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1527,
+        "name": "Central African Republic",
+        "logo": "https://media.api-sports.io/football/teams/1527.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 117975,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-09-09T13:30:00+00:00",
+      "timestamp": 1536499800,
+      "periods": {
+        "first": 1536499800,
+        "second": 1536503400
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Régional de Nyamirambo (Kigali)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1514,
+        "name": "Rwanda",
+        "logo": "https://media.api-sports.io/football/teams/1514.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225387,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-03-27T18:00:00+00:00",
+      "timestamp": 1522173600,
+      "periods": {
+        "first": 1522173600,
+        "second": 1522177200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Pierre Brisson (Beauvais)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1114,
+        "name": "Moldova",
+        "logo": "https://media.api-sports.io/football/teams/1114.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225368,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-03-24T18:00:00+00:00",
+      "timestamp": 1521914400,
+      "periods": {
+        "first": 1521914400,
+        "second": 1521918000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Pierre Brisson (Beauvais)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1534,
+        "name": "Togo",
+        "logo": "https://media.api-sports.io/football/teams/1534.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 254680,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-01-22T19:00:00+00:00",
+      "timestamp": 1516647600,
+      "periods": {
+        "first": 1516647600,
+        "second": 1516651200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de Marrakech (Marrakech)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/19.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Group Stage - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1519,
+        "name": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/1519.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 254672,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-01-18T16:30:00+00:00",
+      "timestamp": 1516293000,
+      "periods": {
+        "first": 1516293000,
+        "second": 1516296600
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de Marrakech (Marrakech)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/19.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Group Stage - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1507,
+        "name": "Zambia",
+        "logo": "https://media.api-sports.io/football/teams/1507.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 254664,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-01-14T16:30:00+00:00",
+      "timestamp": 1515947400,
+      "periods": {
+        "first": 1515947400,
+        "second": 1515951000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de Marrakech (Marrakech)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/19.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Group Stage - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1493,
+        "name": "Namibia",
+        "logo": "https://media.api-sports.io/football/teams/1493.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256842,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-11-11T17:30:00+00:00",
+      "timestamp": 1510421400,
+      "periods": {
+        "first": 1510421400,
+        "second": 1510425000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Félix Houphouët-Boigny (Abidjan)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 6",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      },
+      "away": {
+        "id": 31,
+        "name": "Morocco",
+        "logo": "https://media.api-sports.io/football/teams/31.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256827,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-10-06T19:00:00+00:00",
+      "timestamp": 1507316400,
+      "periods": {
+        "first": 1507316400,
+        "second": 1507320000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade 26 Mars (Bamako)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 5",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1500,
+        "name": "Mali",
+        "logo": "https://media.api-sports.io/football/teams/1500.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256822,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-09-05T17:30:00+00:00",
+      "timestamp": 1504632600,
+      "periods": {
+        "first": 1504632600,
+        "second": 1504636200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de Bouaké (Stade de la Paix) (Bouaké)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1503,
+        "name": "Gabon",
+        "logo": "https://media.api-sports.io/football/teams/1503.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256815,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-09-02T16:00:00+00:00",
+      "timestamp": 1504368000,
+      "periods": {
+        "first": 1504368000,
+        "second": 1504371600
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade d'Angondjé (Libreville)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1503,
+        "name": "Gabon",
+        "logo": "https://media.api-sports.io/football/teams/1503.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 254725,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-08-18T22:00:00+00:00",
+      "timestamp": 1503093600,
+      "periods": {
+        "first": 1503093600,
+        "second": 1503097200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Robert Champroux (Abidjan)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/19.png",
+      "flag": null,
+      "season": 2018,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1505,
+        "name": "Niger",
+        "logo": "https://media.api-sports.io/football/teams/1505.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 254724,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-08-12T22:00:00+00:00",
+      "timestamp": 1502575200,
+      "periods": {
+        "first": 1502575200,
+        "second": 1502578800
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Général Seyni Kountché (Niamey)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/19.png",
+      "flag": null,
+      "season": 2018,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1505,
+        "name": "Niger",
+        "logo": "https://media.api-sports.io/football/teams/1505.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 117946,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-06-10T18:00:00+00:00",
+      "timestamp": 1497117600,
+      "periods": {
+        "first": 1497117600,
+        "second": 1497121200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de Bouaké (Stade de la Paix) (Bouaké)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1509,
+        "name": "Guinea",
+        "logo": "https://media.api-sports.io/football/teams/1509.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256803,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2016-11-12T20:00:00+00:00",
+      "timestamp": 1478980800,
+      "periods": {
+        "first": 1478980800,
+        "second": 1478984400
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de Marrakech (Marrakech)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 31,
+        "name": "Morocco",
+        "logo": "https://media.api-sports.io/football/teams/31.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256790,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2016-10-08T18:00:00+00:00",
+      "timestamp": 1475949600,
+      "periods": {
+        "first": 1475949600,
+        "second": 1475953200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de Bouaké (Stade de la Paix) (Bouaké)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1500,
+        "name": "Mali",
+        "logo": "https://media.api-sports.io/football/teams/1500.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256874,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2015-11-17T17:00:00+00:00",
+      "timestamp": 1447779600,
+      "periods": {
+        "first": 1447779600,
+        "second": 1447783200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Félix Houphouët-Boigny (Abidjan)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1525,
+        "name": "Liberia",
+        "logo": "https://media.api-sports.io/football/teams/1525.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256873,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2015-11-13T16:00:00+00:00",
+      "timestamp": 1447430400,
+      "periods": {
+        "first": 1447430400,
+        "second": 1447434000
+      },
+      "venue": {
+        "id": null,
+        "name": "Antoinette Tubman Stadium (Monrovia)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1525,
+        "name": "Liberia",
+        "logo": "https://media.api-sports.io/football/teams/1525.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]

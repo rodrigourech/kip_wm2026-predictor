@@ -1,0 +1,148 @@
+[
+  {
+    "team": {
+      "id": 22,
+      "name": "Iran",
+      "logo": "https://media.api-sports.io/football/teams/22.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 1
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 0
+      },
+      {
+        "type": "Total Shots",
+        "value": 1
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 0
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 1
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": null
+      },
+      {
+        "type": "Fouls",
+        "value": 1
+      },
+      {
+        "type": "Corner Kicks",
+        "value": null
+      },
+      {
+        "type": "Offsides",
+        "value": null
+      },
+      {
+        "type": "Ball Possession",
+        "value": "100%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": null
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": null
+      },
+      {
+        "type": "Total passes",
+        "value": 1
+      },
+      {
+        "type": "Passes accurate",
+        "value": 1
+      },
+      {
+        "type": "Passes %",
+        "value": "100%"
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 5164,
+      "name": "Nicaragua",
+      "logo": "https://media.api-sports.io/football/teams/5164.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 0
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 0
+      },
+      {
+        "type": "Total Shots",
+        "value": 0
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 0
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 0
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": null
+      },
+      {
+        "type": "Fouls",
+        "value": 0
+      },
+      {
+        "type": "Corner Kicks",
+        "value": null
+      },
+      {
+        "type": "Offsides",
+        "value": null
+      },
+      {
+        "type": "Ball Possession",
+        "value": "0%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": null
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": null
+      },
+      {
+        "type": "Total passes",
+        "value": 0
+      },
+      {
+        "type": "Passes accurate",
+        "value": 0
+      },
+      {
+        "type": "Passes %",
+        "value": null
+      }
+    ]
+  }
+]

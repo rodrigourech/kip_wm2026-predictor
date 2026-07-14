@@ -1,0 +1,148 @@
+[
+  {
+    "team": {
+      "id": 25,
+      "name": "Germany",
+      "logo": "https://media.api-sports.io/football/teams/25.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 23
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 11
+      },
+      {
+        "type": "Total Shots",
+        "value": 42
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 8
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 30
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 12
+      },
+      {
+        "type": "Fouls",
+        "value": 5
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 13
+      },
+      {
+        "type": "Offsides",
+        "value": 3
+      },
+      {
+        "type": "Ball Possession",
+        "value": "82%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 1
+      },
+      {
+        "type": "Red Cards",
+        "value": 0
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 0
+      },
+      {
+        "type": "Total passes",
+        "value": 763
+      },
+      {
+        "type": "Passes accurate",
+        "value": 674
+      },
+      {
+        "type": "Passes %",
+        "value": "88%"
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 1107,
+      "name": "Liechtenstein",
+      "logo": "https://media.api-sports.io/football/teams/1107.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 0
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 3
+      },
+      {
+        "type": "Total Shots",
+        "value": 4
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 1
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 0
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 4
+      },
+      {
+        "type": "Fouls",
+        "value": 1
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 0
+      },
+      {
+        "type": "Offsides",
+        "value": 2
+      },
+      {
+        "type": "Ball Possession",
+        "value": "18%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 0
+      },
+      {
+        "type": "Red Cards",
+        "value": 1
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 14
+      },
+      {
+        "type": "Total passes",
+        "value": 171
+      },
+      {
+        "type": "Passes accurate",
+        "value": 100
+      },
+      {
+        "type": "Passes %",
+        "value": "58%"
+      }
+    ]
+  }
+]
