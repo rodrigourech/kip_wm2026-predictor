@@ -1,0 +1,9032 @@
+[
+  {
+    "fixture": {
+      "id": 1528983,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-11-15T19:45:00+00:00",
+      "timestamp": 1794771900,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      },
+      "away": {
+        "id": 768,
+        "name": "Italy",
+        "logo": "https://media.api-sports.io/football/teams/768.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1528958,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-11-12T17:00:00+00:00",
+      "timestamp": 1794502800,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 777,
+        "name": "Türkiye",
+        "logo": "https://media.api-sports.io/football/teams/777.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1528944,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-10-05T18:45:00+00:00",
+      "timestamp": 1791225900,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2,
+        "name": "France",
+        "logo": "https://media.api-sports.io/football/teams/2.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1528925,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-10-02T18:45:00+00:00",
+      "timestamp": 1790966700,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      },
+      "away": {
+        "id": 777,
+        "name": "Türkiye",
+        "logo": "https://media.api-sports.io/football/teams/777.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1528904,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-09-28T18:45:00+00:00",
+      "timestamp": 1790621100,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2,
+        "name": "France",
+        "logo": "https://media.api-sports.io/football/teams/2.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1528883,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-09-25T18:45:00+00:00",
+      "timestamp": 1790361900,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 768,
+        "name": "Italy",
+        "logo": "https://media.api-sports.io/football/teams/768.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1581821,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-07-10T19:00:00+00:00",
+      "timestamp": 1783710000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": "SoFi Stadium",
+        "city": "Los Angeles"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Quarter-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 9,
+        "name": "Spain",
+        "logo": "https://media.api-sports.io/football/teams/9.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1570715,
+      "referee": "Adham Mohammad, Jordan",
+      "timezone": "UTC",
+      "date": "2026-07-07T00:00:00+00:00",
+      "timestamp": 1783382400,
+      "periods": {
+        "first": 1783382400,
+        "second": 1783386000
+      },
+      "venue": {
+        "id": 11534,
+        "name": "Lumen Field",
+        "city": "Seattle"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Round of 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2384,
+        "name": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2384.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1567308,
+      "referee": "Said Martinez, Honduras",
+      "timezone": "UTC",
+      "date": "2026-07-01T20:00:00+00:00",
+      "timestamp": 1782936000,
+      "periods": {
+        "first": 1782936000,
+        "second": 1782939600
+      },
+      "venue": {
+        "id": 11534,
+        "name": "Lumen Field",
+        "city": "Seattle"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "AET",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Round of 32",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 13,
+        "name": "Senegal",
+        "logo": "https://media.api-sports.io/football/teams/13.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": 1,
+        "away": 0
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489415,
+      "referee": "Adham Mohammad, Jordan",
+      "timezone": "UTC",
+      "date": "2026-06-27T03:00:00+00:00",
+      "timestamp": 1782529200,
+      "periods": {
+        "first": 1782529200,
+        "second": 1782532800
+      },
+      "venue": {
+        "id": 19445,
+        "name": "BC Place",
+        "city": "Vancouver"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 5
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 5
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489395,
+      "referee": "Dario Herrera, Argentina",
+      "timezone": "UTC",
+      "date": "2026-06-21T19:00:00+00:00",
+      "timestamp": 1782068400,
+      "periods": {
+        "first": 1782068400,
+        "second": 1782072000
+      },
+      "venue": {
+        "id": null,
+        "name": "SoFi Stadium",
+        "city": "Inglewood"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      },
+      "away": {
+        "id": 22,
+        "name": "Iran",
+        "logo": "https://media.api-sports.io/football/teams/22.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489377,
+      "referee": "Ramon Abatti Abel, Brazil",
+      "timezone": "UTC",
+      "date": "2026-06-15T19:00:00+00:00",
+      "timestamp": 1781550000,
+      "periods": {
+        "first": 1781550000,
+        "second": 1781553600
+      },
+      "venue": {
+        "id": 11534,
+        "name": "Lumen Field",
+        "city": "Seattle"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1512767,
+      "referee": "Anastasios Sidiropoulos, Greece",
+      "timezone": "UTC",
+      "date": "2026-06-06T13:00:00+00:00",
+      "timestamp": 1780750800,
+      "periods": {
+        "first": 1780750800,
+        "second": 1780754400
+      },
+      "venue": {
+        "id": null,
+        "name": "Roi Baudouin",
+        "city": "Brussels"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 28,
+        "name": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/28.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1512766,
+      "referee": "Rade Obrenovič, Slovenia",
+      "timezone": "UTC",
+      "date": "2026-06-02T16:00:00+00:00",
+      "timestamp": 1780416000,
+      "periods": {
+        "first": 1780416000,
+        "second": 1780419600
+      },
+      "venue": {
+        "id": null,
+        "name": "Stadion HNK Rijeka Dean Šćulac",
+        "city": "Rijeka"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 3,
+        "name": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/3.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1514471,
+      "referee": "R. Mendoza",
+      "timezone": "UTC",
+      "date": "2026-04-01T01:00:00+00:00",
+      "timestamp": 1775005200,
+      "periods": {
+        "first": 1775005200,
+        "second": 1775008800
+      },
+      "venue": {
+        "id": null,
+        "name": "Soldier Field",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 2
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1503003,
+      "referee": "Esteban Ostojich, Uruguay",
+      "timezone": "UTC",
+      "date": "2026-03-28T19:30:00+00:00",
+      "timestamp": 1774726200,
+      "periods": {
+        "first": 1774726200,
+        "second": 1774729800
+      },
+      "venue": {
+        "id": null,
+        "name": "Mercedes-Benz Stadium",
+        "city": "Atlanta"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2384,
+        "name": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2384.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 5
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 5
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323373,
+      "referee": "M. Al-Hakim",
+      "timezone": "UTC",
+      "date": "2025-11-18T19:45:00+00:00",
+      "timestamp": 1763495100,
+      "periods": {
+        "first": 1763495100,
+        "second": 1763498700
+      },
+      "venue": {
+        "id": null,
+        "name": "Maurice Dufrasnestadion",
+        "city": "Liege"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 2
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1107,
+        "name": "Liechtenstein",
+        "logo": "https://media.api-sports.io/football/teams/1107.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 7,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 7,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323351,
+      "referee": "D. Rumsas",
+      "timezone": "UTC",
+      "date": "2025-11-15T14:00:00+00:00",
+      "timestamp": 1763215200,
+      "periods": {
+        "first": 1763215200,
+        "second": 1763218800
+      },
+      "venue": {
+        "id": null,
+        "name": "Astana Arena",
+        "city": "Astana"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1095,
+        "name": "Kazakhstan",
+        "logo": "https://media.api-sports.io/football/teams/1095.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323337,
+      "referee": "D. Siebert",
+      "timezone": "UTC",
+      "date": "2025-10-13T18:45:00+00:00",
+      "timestamp": 1760381100,
+      "periods": {
+        "first": 1760381100,
+        "second": 1760384700
+      },
+      "venue": {
+        "id": null,
+        "name": "Cardiff City Stadium",
+        "city": "Cardiff"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 767,
+        "name": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/767.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323321,
+      "referee": "H. U. Meler",
+      "timezone": "UTC",
+      "date": "2025-10-10T18:45:00+00:00",
+      "timestamp": 1760121900,
+      "periods": {
+        "first": 1760121900,
+        "second": 1760125500
+      },
+      "venue": {
+        "id": null,
+        "name": "Planet Group Arena",
+        "city": "Gent"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1105,
+        "name": "FYR Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/1105.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323299,
+      "referee": "R. M. Petrescu",
+      "timezone": "UTC",
+      "date": "2025-09-07T18:45:00+00:00",
+      "timestamp": 1757270700,
+      "periods": {
+        "first": 1757270700,
+        "second": 1757274300
+      },
+      "venue": {
+        "id": null,
+        "name": "Lotto Park",
+        "city": "Anderlecht"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1095,
+        "name": "Kazakhstan",
+        "logo": "https://media.api-sports.io/football/teams/1095.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 6,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 6,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323283,
+      "referee": "M. Krogh",
+      "timezone": "UTC",
+      "date": "2025-09-04T18:45:00+00:00",
+      "timestamp": 1757011500,
+      "periods": {
+        "first": 1757011500,
+        "second": 1757015100
+      },
+      "venue": {
+        "id": null,
+        "name": "Rheinpark Stadion",
+        "city": "Vaduz"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1107,
+        "name": "Liechtenstein",
+        "logo": "https://media.api-sports.io/football/teams/1107.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 6
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 6
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323272,
+      "referee": "I. Peljto",
+      "timezone": "UTC",
+      "date": "2025-06-09T18:45:00+00:00",
+      "timestamp": 1749494700,
+      "periods": {
+        "first": 1749494700,
+        "second": 1749498300
+      },
+      "venue": {
+        "id": null,
+        "name": "King Baudouin Stadium",
+        "city": "Brussels"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 767,
+        "name": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/767.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323262,
+      "referee": "C. Kavanagh",
+      "timezone": "UTC",
+      "date": "2025-06-06T18:45:00+00:00",
+      "timestamp": 1749235500,
+      "periods": {
+        "first": 1749235500,
+        "second": 1749239100
+      },
+      "venue": {
+        "id": null,
+        "name": "National Arena Toshe Proeski",
+        "city": "Skopje"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1105,
+        "name": "FYR Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/1105.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1316556,
+      "referee": "Daniel Siebert, Germany",
+      "timezone": "UTC",
+      "date": "2025-03-23T19:45:00+00:00",
+      "timestamp": 1742759100,
+      "periods": {
+        "first": 1742759100,
+        "second": 1742762700
+      },
+      "venue": {
+        "id": 12455,
+        "name": "Cegeka Arena",
+        "city": "Genk"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Play-offs A/B",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 772,
+        "name": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/772.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1316555,
+      "referee": "Sandro Schärer, Switzerland",
+      "timezone": "UTC",
+      "date": "2025-03-20T19:45:00+00:00",
+      "timestamp": 1742499900,
+      "periods": {
+        "first": 1742499900,
+        "second": 1742503500
+      },
+      "venue": {
+        "id": 3989,
+        "name": "Estadio Enrique Roca de Murcia",
+        "city": "Murcia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Play-offs A/B",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 772,
+        "name": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/772.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172979,
+      "referee": "Sebastian Gishamer, Austria",
+      "timezone": "UTC",
+      "date": "2024-11-17T19:45:00+00:00",
+      "timestamp": 1731872700,
+      "periods": {
+        "first": 1731872700,
+        "second": 1731876300
+      },
+      "venue": {
+        "id": 11902,
+        "name": "Bozsik Aréna",
+        "city": "Budapest"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League A - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1116,
+        "name": "Israel",
+        "logo": "https://media.api-sports.io/football/teams/1116.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172971,
+      "referee": "Petrescu Radu Marian, Romania",
+      "timezone": "UTC",
+      "date": "2024-11-14T19:45:00+00:00",
+      "timestamp": 1731613500,
+      "periods": {
+        "first": 1731613500,
+        "second": 1731617100
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussels"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League A - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": false
+      },
+      "away": {
+        "id": 768,
+        "name": "Italy",
+        "logo": "https://media.api-sports.io/football/teams/768.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172963,
+      "referee": "Irfan Peljto, Bosnia & Herzegovina",
+      "timezone": "UTC",
+      "date": "2024-10-14T18:45:00+00:00",
+      "timestamp": 1728931500,
+      "periods": {
+        "first": 1728931500,
+        "second": 1728935100
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussels"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League A - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2,
+        "name": "France",
+        "logo": "https://media.api-sports.io/football/teams/2.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172956,
+      "referee": "Espen Eskas, Norway",
+      "timezone": "UTC",
+      "date": "2024-10-10T18:45:00+00:00",
+      "timestamp": 1728585900,
+      "periods": {
+        "first": 1728585900,
+        "second": 1728589500
+      },
+      "venue": {
+        "id": 910,
+        "name": "Stadio Olimpico",
+        "city": "Roma"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League A - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 768,
+        "name": "Italy",
+        "logo": "https://media.api-sports.io/football/teams/768.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172951,
+      "referee": "Tobias Stieler, Germany",
+      "timezone": "UTC",
+      "date": "2024-09-09T18:45:00+00:00",
+      "timestamp": 1725907500,
+      "periods": {
+        "first": 1725907500,
+        "second": 1725911100
+      },
+      "venue": {
+        "id": 666,
+        "name": "Groupama Stadium",
+        "city": "Décines-Charpieu"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League A - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2,
+        "name": "France",
+        "logo": "https://media.api-sports.io/football/teams/2.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172943,
+      "referee": "Michael Oliver, England",
+      "timezone": "UTC",
+      "date": "2024-09-06T18:45:00+00:00",
+      "timestamp": 1725648300,
+      "periods": {
+        "first": 1725648300,
+        "second": 1725651900
+      },
+      "venue": {
+        "id": 795,
+        "name": "Nagyerdei Stadion",
+        "city": "Debrecen"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League A - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1116,
+        "name": "Israel",
+        "logo": "https://media.api-sports.io/football/teams/1116.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1215073,
+      "referee": "G. Nyberg",
+      "timezone": "UTC",
+      "date": "2024-07-01T16:00:00+00:00",
+      "timestamp": 1719849600,
+      "periods": {
+        "first": 1719849600,
+        "second": 1719853200
+      },
+      "venue": {
+        "id": 20735,
+        "name": "Düsseldorf Arena",
+        "city": "Düsseldorf"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Round of 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2,
+        "name": "France",
+        "logo": "https://media.api-sports.io/football/teams/2.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1189853,
+      "referee": "A. Taylor",
+      "timezone": "UTC",
+      "date": "2024-06-26T16:00:00+00:00",
+      "timestamp": 1719417600,
+      "periods": {
+        "first": 1719417600,
+        "second": 1719421200
+      },
+      "venue": {
+        "id": 20473,
+        "name": "MHPArena",
+        "city": "Stuttgart"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group E - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 772,
+        "name": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/772.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1145525,
+      "referee": "S. Marciniak",
+      "timezone": "UTC",
+      "date": "2024-06-22T19:00:00+00:00",
+      "timestamp": 1719082800,
+      "periods": {
+        "first": 1719082800,
+        "second": 1719086400
+      },
+      "venue": {
+        "id": 731,
+        "name": "RheinEnergieSTADION",
+        "city": "Köln"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group E - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 774,
+        "name": "Romania",
+        "logo": "https://media.api-sports.io/football/teams/774.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1145516,
+      "referee": "H. Meler",
+      "timezone": "UTC",
+      "date": "2024-06-17T16:00:00+00:00",
+      "timestamp": 1718640000,
+      "periods": {
+        "first": 1718640000,
+        "second": 1718643600
+      },
+      "venue": {
+        "id": 10491,
+        "name": "Deutsche Bank Park",
+        "city": "Frankfurt am Main"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group E - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": false
+      },
+      "away": {
+        "id": 773,
+        "name": "Slovakia",
+        "logo": "https://media.api-sports.io/football/teams/773.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1168423,
+      "referee": "P. Raczkowski",
+      "timezone": "UTC",
+      "date": "2024-06-08T18:00:00+00:00",
+      "timestamp": 1717869600,
+      "periods": {
+        "first": 1717869600,
+        "second": 1717873200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1102,
+        "name": "Luxembourg",
+        "logo": "https://media.api-sports.io/football/teams/1102.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1169677,
+      "referee": "K. Karlsson",
+      "timezone": "UTC",
+      "date": "2024-06-05T18:30:00+00:00",
+      "timestamp": 1717612200,
+      "periods": {
+        "first": 1717612200,
+        "second": 1717615800
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1109,
+        "name": "Montenegro",
+        "logo": "https://media.api-sports.io/football/teams/1109.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1155276,
+      "referee": "S. Gishamer",
+      "timezone": "UTC",
+      "date": "2024-03-26T19:45:00+00:00",
+      "timestamp": 1711482300,
+      "periods": {
+        "first": 1711482300,
+        "second": 1711485900
+      },
+      "venue": {
+        "id": 489,
+        "name": "Wembley Stadium",
+        "city": "London"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 10,
+        "name": "England",
+        "logo": "https://media.api-sports.io/football/teams/10.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1155268,
+      "referee": "R. Saggi",
+      "timezone": "UTC",
+      "date": "2024-03-23T17:00:00+00:00",
+      "timestamp": 1711213200,
+      "periods": {
+        "first": 1711213200,
+        "second": 1711216800
+      },
+      "venue": {
+        "id": 1970,
+        "name": "Aviva Stadium",
+        "city": "Dublin"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 776,
+        "name": "Rep. Of Ireland",
+        "logo": "https://media.api-sports.io/football/teams/776.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980665,
+      "referee": "G. Bogár",
+      "timezone": "UTC",
+      "date": "2023-11-19T17:00:00+00:00",
+      "timestamp": 1700413200,
+      "periods": {
+        "first": 1700413200,
+        "second": 1700416800
+      },
+      "venue": {
+        "id": 21827,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1096,
+        "name": "Azerbaijan",
+        "logo": "https://media.api-sports.io/football/teams/1096.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 4,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1028663,
+      "referee": "Marian Barbu, Romania",
+      "timezone": "UTC",
+      "date": "2023-11-15T19:45:00+00:00",
+      "timestamp": 1700077500,
+      "periods": {
+        "first": 1700077500,
+        "second": 1700081100
+      },
+      "venue": {
+        "id": 186,
+        "name": "King Power at Den Dreef Stadion",
+        "city": "Heverlee"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 14,
+        "name": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980629,
+      "referee": "M. Mariani",
+      "timezone": "UTC",
+      "date": "2023-10-16T18:45:00+00:00",
+      "timestamp": 1697481900,
+      "periods": {
+        "first": 1697481900,
+        "second": 1697485500
+      },
+      "venue": {
+        "id": 21827,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5,
+        "name": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/5.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980605,
+      "referee": "Gil Manzano",
+      "timezone": "UTC",
+      "date": "2023-10-13T18:45:00+00:00",
+      "timestamp": 1697222700,
+      "periods": {
+        "first": 1697222700,
+        "second": 1697226300
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980589,
+      "referee": "B. Frankowski",
+      "timezone": "UTC",
+      "date": "2023-09-12T18:45:00+00:00",
+      "timestamp": 1694544300,
+      "periods": {
+        "first": 1694544300,
+        "second": 1694547900
+      },
+      "venue": {
+        "id": 21827,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1101,
+        "name": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/1101.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980564,
+      "referee": "N. Minaković",
+      "timezone": "UTC",
+      "date": "2023-09-09T13:00:00+00:00",
+      "timestamp": 1694264400,
+      "periods": {
+        "first": 1694264400,
+        "second": 1694268000
+      },
+      "venue": {
+        "id": null,
+        "name": "Liv Bona Dea Arena",
+        "city": "Baku"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1096,
+        "name": "Azerbaijan",
+        "logo": "https://media.api-sports.io/football/teams/1096.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980542,
+      "referee": "J. Beaton",
+      "timezone": "UTC",
+      "date": "2023-06-20T18:45:00+00:00",
+      "timestamp": 1687286700,
+      "periods": {
+        "first": 1687286700,
+        "second": 1687290300
+      },
+      "venue": {
+        "id": 605,
+        "name": "A. Le Coq Arena",
+        "city": "Tallinn"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1101,
+        "name": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/1101.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980522,
+      "referee": "J. Brisard",
+      "timezone": "UTC",
+      "date": "2023-06-17T18:45:00+00:00",
+      "timestamp": 1687027500,
+      "periods": {
+        "first": 1687027500,
+        "second": 1687031100
+      },
+      "venue": {
+        "id": 21827,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1012344,
+      "referee": "Willy Delajod, France",
+      "timezone": "UTC",
+      "date": "2023-03-28T18:45:00+00:00",
+      "timestamp": 1680029100,
+      "periods": {
+        "first": 1680029100,
+        "second": 1680032700
+      },
+      "venue": {
+        "id": 731,
+        "name": "RheinEnergieStadion",
+        "city": "Köln"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 25,
+        "name": "Germany",
+        "logo": "https://media.api-sports.io/football/teams/25.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980468,
+      "referee": "O. Grinfeeld",
+      "timezone": "UTC",
+      "date": "2023-03-24T19:45:00+00:00",
+      "timestamp": 1679687100,
+      "periods": {
+        "first": 1679687100,
+        "second": 1679690700
+      },
+      "venue": {
+        "id": 21411,
+        "name": "Strawberry Arena",
+        "city": "Solna"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5,
+        "name": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/5.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 855766,
+      "referee": "A. Taylor",
+      "timezone": "UTC",
+      "date": "2022-12-01T15:00:00+00:00",
+      "timestamp": 1669906800,
+      "periods": {
+        "first": 1669906800,
+        "second": 1669910400
+      },
+      "venue": {
+        "id": null,
+        "name": "Ahmad bin Ali Stadium",
+        "city": "Al-Rayyan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 3,
+        "name": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/3.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 855753,
+      "referee": "C. Ramos",
+      "timezone": "UTC",
+      "date": "2022-11-27T13:00:00+00:00",
+      "timestamp": 1669554000,
+      "periods": {
+        "first": 1669554000,
+        "second": 1669557600
+      },
+      "venue": {
+        "id": null,
+        "name": "Al Thumama Stadium",
+        "city": "Doha"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": false
+      },
+      "away": {
+        "id": 31,
+        "name": "Morocco",
+        "logo": "https://media.api-sports.io/football/teams/31.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 855742,
+      "referee": "J. Sikazwe",
+      "timezone": "UTC",
+      "date": "2022-11-23T19:00:00+00:00",
+      "timestamp": 1669230000,
+      "periods": {
+        "first": 1669230000,
+        "second": 1669233600
+      },
+      "venue": {
+        "id": null,
+        "name": "Ahmad bin Ali Stadium",
+        "city": "Al-Rayyan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 958281,
+      "referee": "Ali Shaban",
+      "timezone": "UTC",
+      "date": "2022-11-18T15:00:00+00:00",
+      "timestamp": 1668783600,
+      "periods": {
+        "first": 1668783600,
+        "second": 1668787200
+      },
+      "venue": {
+        "id": null,
+        "name": "Jaber Al-Ahmad International Stadium",
+        "city": "Kuwait City"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": false
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 945815,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-11-15T00:00:00+00:00",
+      "timestamp": 1668470400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Basra Sport City Stadium",
+        "city": "Basra"
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1567,
+        "name": "Iraq",
+        "logo": "https://media.api-sports.io/football/teams/1567.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854619,
+      "referee": "Anthony Taylor, England",
+      "timezone": "UTC",
+      "date": "2022-09-25T18:45:00+00:00",
+      "timestamp": 1664131500,
+      "periods": {
+        "first": 1664131500,
+        "second": 1664135100
+      },
+      "venue": {
+        "id": 1117,
+        "name": "Johan Cruijff Arena",
+        "city": "Amsterdam"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League A - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1118,
+        "name": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1118.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854611,
+      "referee": "Ali Palabiyik, Turkey",
+      "timezone": "UTC",
+      "date": "2022-09-22T18:45:00+00:00",
+      "timestamp": 1663872300,
+      "periods": {
+        "first": 1663872300,
+        "second": 1663875900
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussels"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League A - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 767,
+        "name": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/767.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854606,
+      "referee": "Irfan Peljto, Bosnia & Herzegovina",
+      "timezone": "UTC",
+      "date": "2022-06-14T18:45:00+00:00",
+      "timestamp": 1655232300,
+      "periods": {
+        "first": 1655232300,
+        "second": 1655235900
+      },
+      "venue": {
+        "id": 1245,
+        "name": "Stadion Narodowy",
+        "city": "Warszawa"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League A - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 24,
+        "name": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854598,
+      "referee": "Benoît Bastien, France",
+      "timezone": "UTC",
+      "date": "2022-06-11T18:45:00+00:00",
+      "timestamp": 1654973100,
+      "periods": {
+        "first": 1654973100,
+        "second": 1654976700
+      },
+      "venue": {
+        "id": null,
+        "name": "Cardiff City Stadium",
+        "city": "Cardiff"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League A - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 767,
+        "name": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/767.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854589,
+      "referee": "Ivan Kruzliak, Slovakia",
+      "timezone": "UTC",
+      "date": "2022-06-08T18:45:00+00:00",
+      "timestamp": 1654713900,
+      "periods": {
+        "first": 1654713900,
+        "second": 1654717500
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussels"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League A - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 24,
+        "name": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 6,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 6,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854581,
+      "referee": "Jose Maria Sanchez Martinez, Spain",
+      "timezone": "UTC",
+      "date": "2022-06-03T18:45:00+00:00",
+      "timestamp": 1654281900,
+      "periods": {
+        "first": 1654281900,
+        "second": 1654285500
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussels"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League A - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1118,
+        "name": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1118.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 847817,
+      "referee": "D. Higler",
+      "timezone": "UTC",
+      "date": "2022-03-29T18:45:00+00:00",
+      "timestamp": 1648579500,
+      "periods": {
+        "first": 1648579500,
+        "second": 1648583100
+      },
+      "venue": {
+        "id": null,
+        "name": "Lotto Park",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1502,
+        "name": "Burkina Faso",
+        "logo": "https://media.api-sports.io/football/teams/1502.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 821426,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-03-29T00:00:00+00:00",
+      "timestamp": 1648512000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1091,
+        "name": "Slovenia",
+        "logo": "https://media.api-sports.io/football/teams/1091.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 828605,
+      "referee": "N. Walsh",
+      "timezone": "UTC",
+      "date": "2022-03-26T17:00:00+00:00",
+      "timestamp": 1648314000,
+      "periods": {
+        "first": 1648314000,
+        "second": 1648317600
+      },
+      "venue": {
+        "id": 1970,
+        "name": "Aviva Stadium",
+        "city": "Dublin"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 776,
+        "name": "Rep. Of Ireland",
+        "logo": "https://media.api-sports.io/football/teams/776.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 651151,
+      "referee": "Artur Soares Dias",
+      "timezone": "UTC",
+      "date": "2021-11-16T19:45:00+00:00",
+      "timestamp": 1637091900,
+      "periods": {
+        "first": 1637091900,
+        "second": 1637095500
+      },
+      "venue": {
+        "id": null,
+        "name": "Cardiff City Stadium",
+        "city": "Caerdydd"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 767,
+        "name": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/767.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 651127,
+      "referee": "H. Meler",
+      "timezone": "UTC",
+      "date": "2021-11-13T19:45:00+00:00",
+      "timestamp": 1636832700,
+      "periods": {
+        "first": 1636832700,
+        "second": 1636836300
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1101,
+        "name": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/1101.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 802475,
+      "referee": "Srdan Jovanovic, Serbia",
+      "timezone": "UTC",
+      "date": "2021-10-10T13:00:00+00:00",
+      "timestamp": 1633870800,
+      "periods": {
+        "first": 1633870800,
+        "second": 1633874400
+      },
+      "venue": {
+        "id": 909,
+        "name": "Allianz Stadium",
+        "city": "Torino"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "3rd Place Final",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 768,
+        "name": "Italy",
+        "logo": "https://media.api-sports.io/football/teams/768.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 649941,
+      "referee": "Daniel Siebert, Germany",
+      "timezone": "UTC",
+      "date": "2021-10-07T18:45:00+00:00",
+      "timestamp": 1633632300,
+      "periods": {
+        "first": 1633632300,
+        "second": 1633635900
+      },
+      "venue": {
+        "id": 909,
+        "name": "Allianz Stadium",
+        "city": "Torino"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Semi-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2,
+        "name": "France",
+        "logo": "https://media.api-sports.io/football/teams/2.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 651048,
+      "referee": "P. Raczkowski",
+      "timezone": "UTC",
+      "date": "2021-09-08T18:45:00+00:00",
+      "timestamp": 1631126700,
+      "periods": {
+        "first": 1631126700,
+        "second": 1631130300
+      },
+      "venue": {
+        "id": null,
+        "name": "Central'nyj stadion Kazan'",
+        "city": "Kazan'"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1100,
+        "name": "Belarus",
+        "logo": "https://media.api-sports.io/football/teams/1100.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 651026,
+      "referee": "M. Oliver",
+      "timezone": "UTC",
+      "date": "2021-09-05T18:45:00+00:00",
+      "timestamp": 1630867500,
+      "periods": {
+        "first": 1630867500,
+        "second": 1630871100
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 770,
+        "name": "Czechia",
+        "logo": "https://media.api-sports.io/football/teams/770.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 650998,
+      "referee": "Guillermo Cuadra",
+      "timezone": "UTC",
+      "date": "2021-09-02T18:45:00+00:00",
+      "timestamp": 1630608300,
+      "periods": {
+        "first": 1630608300,
+        "second": 1630611900
+      },
+      "venue": {
+        "id": 605,
+        "name": "A. Le Coq Arena",
+        "city": "Tallinn"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1101,
+        "name": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/1101.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 5
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 5
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 718242,
+      "referee": "S. Vinčić",
+      "timezone": "UTC",
+      "date": "2021-07-02T19:00:00+00:00",
+      "timestamp": 1625252400,
+      "periods": {
+        "first": 1625252400,
+        "second": 1625256000
+      },
+      "venue": {
+        "id": 700,
+        "name": "Allianz Arena",
+        "city": "München"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Quarter-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": false
+      },
+      "away": {
+        "id": 768,
+        "name": "Italy",
+        "logo": "https://media.api-sports.io/football/teams/768.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 713473,
+      "referee": "F. Brych",
+      "timezone": "UTC",
+      "date": "2021-06-27T19:00:00+00:00",
+      "timestamp": 1624820400,
+      "periods": {
+        "first": 1624820400,
+        "second": 1624824000
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Olímpico de Sevilla",
+        "city": "Sevilla"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Round of 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 27,
+        "name": "Portugal",
+        "logo": "https://media.api-sports.io/football/teams/27.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 657703,
+      "referee": "F. Brych",
+      "timezone": "UTC",
+      "date": "2021-06-21T19:00:00+00:00",
+      "timestamp": 1624302000,
+      "periods": {
+        "first": 1624302000,
+        "second": 1624305600
+      },
+      "venue": {
+        "id": null,
+        "name": "Saint-Petersburg Stadium",
+        "city": "St. Petersburg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group B - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1099,
+        "name": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/1099.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 657690,
+      "referee": "B. Kuipers",
+      "timezone": "UTC",
+      "date": "2021-06-17T16:00:00+00:00",
+      "timestamp": 1623945600,
+      "periods": {
+        "first": 1623945600,
+        "second": 1623949200
+      },
+      "venue": {
+        "id": 11600,
+        "name": "Parken",
+        "city": "København"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group B - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 21,
+        "name": "Denmark",
+        "logo": "https://media.api-sports.io/football/teams/21.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 657677,
+      "referee": "Antonio Mateu",
+      "timezone": "UTC",
+      "date": "2021-06-12T19:00:00+00:00",
+      "timestamp": 1623524400,
+      "periods": {
+        "first": 1623524400,
+        "second": 1623528000
+      },
+      "venue": {
+        "id": null,
+        "name": "Saint-Petersburg Stadium",
+        "city": "St. Petersburg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group B - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4,
+        "name": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/4.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 654819,
+      "referee": "D. Aytekin",
+      "timezone": "UTC",
+      "date": "2021-06-06T18:45:00+00:00",
+      "timestamp": 1623005100,
+      "periods": {
+        "first": 1623005100,
+        "second": 1623008700
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 3,
+        "name": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/3.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 697997,
+      "referee": "Fábio Veríssimo",
+      "timezone": "UTC",
+      "date": "2021-06-03T18:45:00+00:00",
+      "timestamp": 1622745900,
+      "periods": {
+        "first": 1622745900,
+        "second": 1622749500
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1117,
+        "name": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/1117.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 650957,
+      "referee": "D. Rumšas",
+      "timezone": "UTC",
+      "date": "2021-03-30T18:45:00+00:00",
+      "timestamp": 1617129900,
+      "periods": {
+        "first": 1617129900,
+        "second": 1617133500
+      },
+      "venue": {
+        "id": 186,
+        "name": "King Power at Den Dreef Stadion",
+        "city": "Heverlee"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1100,
+        "name": "Belarus",
+        "logo": "https://media.api-sports.io/football/teams/1100.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 8,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 4,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 8,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 650937,
+      "referee": "W. Collum",
+      "timezone": "UTC",
+      "date": "2021-03-27T19:45:00+00:00",
+      "timestamp": 1616874300,
+      "periods": {
+        "first": 1616874300,
+        "second": 1616877900
+      },
+      "venue": {
+        "id": 436,
+        "name": "Sinobo Stadium",
+        "city": "Praha"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 770,
+        "name": "Czechia",
+        "logo": "https://media.api-sports.io/football/teams/770.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 650910,
+      "referee": "C. Çakιr",
+      "timezone": "UTC",
+      "date": "2021-03-24T19:45:00+00:00",
+      "timestamp": 1616615100,
+      "periods": {
+        "first": 1616615100,
+        "second": 1616618700
+      },
+      "venue": {
+        "id": 186,
+        "name": "King Power at Den Dreef Stadion",
+        "city": "Heverlee"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 767,
+        "name": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/767.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332465,
+      "referee": "Slavko Vincic, Slovenia",
+      "timezone": "UTC",
+      "date": "2020-11-18T19:45:00+00:00",
+      "timestamp": 1605728700,
+      "periods": {
+        "first": 1605728700,
+        "second": 1605732300
+      },
+      "venue": {
+        "id": 186,
+        "name": "King Power at Den Dreef Stadion",
+        "city": "Heverlee"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League A - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 21,
+        "name": "Denmark",
+        "logo": "https://media.api-sports.io/football/teams/21.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332457,
+      "referee": "Danny Desmond Makkelie, Netherlands",
+      "timezone": "UTC",
+      "date": "2020-11-15T19:45:00+00:00",
+      "timestamp": 1605469500,
+      "periods": {
+        "first": 1605469500,
+        "second": 1605473100
+      },
+      "venue": {
+        "id": 186,
+        "name": "King Power at Den Dreef Stadion",
+        "city": "Heverlee"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League A - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 10,
+        "name": "England",
+        "logo": "https://media.api-sports.io/football/teams/10.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 598350,
+      "referee": "J. Brisard",
+      "timezone": "UTC",
+      "date": "2020-11-11T19:45:00+00:00",
+      "timestamp": 1605123900,
+      "periods": {
+        "first": 1605123900,
+        "second": 1605127500
+      },
+      "venue": {
+        "id": 186,
+        "name": "King Power at Den Dreef Stadion",
+        "city": "Heverlee"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 15,
+        "name": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/15.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332452,
+      "referee": "Andris Treimanis, Latvia",
+      "timezone": "UTC",
+      "date": "2020-10-14T18:45:00+00:00",
+      "timestamp": 1602701100,
+      "periods": {
+        "first": 1602701100,
+        "second": 1602704700
+      },
+      "venue": {
+        "id": 819,
+        "name": "Laugardalsvöllur",
+        "city": "Reykjavík"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League A - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 18,
+        "name": "Iceland",
+        "logo": "https://media.api-sports.io/football/teams/18.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332443,
+      "referee": "Tobias Stieler, Germany",
+      "timezone": "UTC",
+      "date": "2020-10-11T16:00:00+00:00",
+      "timestamp": 1602432000,
+      "periods": {
+        "first": 1602432000,
+        "second": 1602435600
+      },
+      "venue": {
+        "id": 489,
+        "name": "Wembley Stadium",
+        "city": "London"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League A - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 10,
+        "name": "England",
+        "logo": "https://media.api-sports.io/football/teams/10.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 598341,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-10-08T18:45:00+00:00",
+      "timestamp": 1602182700,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 640104,
+      "referee": "S. Gözübüyük",
+      "timezone": "UTC",
+      "date": "2020-10-08T18:45:00+00:00",
+      "timestamp": 1602182700,
+      "periods": {
+        "first": 1602182700,
+        "second": 1602186300
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332437,
+      "referee": "Pawel Raczkowski, Poland",
+      "timezone": "UTC",
+      "date": "2020-09-08T18:45:00+00:00",
+      "timestamp": 1599590700,
+      "periods": {
+        "first": 1599590700,
+        "second": 1599594300
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussels"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League A - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 18,
+        "name": "Iceland",
+        "logo": "https://media.api-sports.io/football/teams/18.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332430,
+      "referee": "Sandro Scharer, Switzerland",
+      "timezone": "UTC",
+      "date": "2020-09-05T18:45:00+00:00",
+      "timestamp": 1599331500,
+      "periods": {
+        "first": 1599331500,
+        "second": 1599335100
+      },
+      "venue": {
+        "id": 11600,
+        "name": "Parken",
+        "city": "København"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League A - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 21,
+        "name": "Denmark",
+        "logo": "https://media.api-sports.io/football/teams/21.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 324088,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-03-30T00:00:00+00:00",
+      "timestamp": 1585526400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 15,
+        "name": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/15.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 325564,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-03-27T00:00:00+00:00",
+      "timestamp": 1585267200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Westhills Stadium (Victoria, British Columbia)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      },
+      "away": {
+        "id": 27,
+        "name": "Portugal",
+        "logo": "https://media.api-sports.io/football/teams/27.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 133006,
+      "referee": "J. Burchardt",
+      "timezone": "UTC",
+      "date": "2019-11-19T19:45:00+00:00",
+      "timestamp": 1574192700,
+      "periods": {
+        "first": 1574192700,
+        "second": 1574196300
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1106,
+        "name": "Cyprus",
+        "logo": "https://media.api-sports.io/football/teams/1106.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 6,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 4,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 6,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132978,
+      "referee": "Artur Soares Dias",
+      "timezone": "UTC",
+      "date": "2019-11-16T17:00:00+00:00",
+      "timestamp": 1573923600,
+      "periods": {
+        "first": 1573923600,
+        "second": 1573927200
+      },
+      "venue": {
+        "id": null,
+        "name": "Saint-Petersburg Stadium",
+        "city": "St. Petersburg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 4,
+        "name": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/4.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132934,
+      "referee": "G. Mažeika",
+      "timezone": "UTC",
+      "date": "2019-10-13T13:00:00+00:00",
+      "timestamp": 1570971600,
+      "periods": {
+        "first": 1570971600,
+        "second": 1570975200
+      },
+      "venue": {
+        "id": 989,
+        "name": "Astana Arena",
+        "city": "Astana"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1095,
+        "name": "Kazakhstan",
+        "logo": "https://media.api-sports.io/football/teams/1095.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132918,
+      "referee": "A. Papapetrou",
+      "timezone": "UTC",
+      "date": "2019-10-10T18:45:00+00:00",
+      "timestamp": 1570733100,
+      "periods": {
+        "first": 1570733100,
+        "second": 1570736700
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1115,
+        "name": "San Marino",
+        "logo": "https://media.api-sports.io/football/teams/1115.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 9,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 6,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 9,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132899,
+      "referee": "P. Gil",
+      "timezone": "UTC",
+      "date": "2019-09-09T18:45:00+00:00",
+      "timestamp": 1568054700,
+      "periods": {
+        "first": 1568054700,
+        "second": 1568058300
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132876,
+      "referee": "H. Feșnic",
+      "timezone": "UTC",
+      "date": "2019-09-06T18:45:00+00:00",
+      "timestamp": 1567795500,
+      "periods": {
+        "first": 1567795500,
+        "second": 1567799100
+      },
+      "venue": {
+        "id": 2616,
+        "name": "Stadio Olimpico di Serravalle",
+        "city": "Serravalle"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1115,
+        "name": "San Marino",
+        "logo": "https://media.api-sports.io/football/teams/1115.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132855,
+      "referee": "P. Ardeleanu",
+      "timezone": "UTC",
+      "date": "2019-06-11T18:45:00+00:00",
+      "timestamp": 1560278700,
+      "periods": {
+        "first": 1560278700,
+        "second": 1560282300
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132832,
+      "referee": "I. Peljto",
+      "timezone": "UTC",
+      "date": "2019-06-08T18:45:00+00:00",
+      "timestamp": 1560019500,
+      "periods": {
+        "first": 1560019500,
+        "second": 1560023100
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1095,
+        "name": "Kazakhstan",
+        "logo": "https://media.api-sports.io/football/teams/1095.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132793,
+      "referee": "F. Letexier",
+      "timezone": "UTC",
+      "date": "2019-03-24T19:45:00+00:00",
+      "timestamp": 1553456700,
+      "periods": {
+        "first": 1553456700,
+        "second": 1553460300
+      },
+      "venue": {
+        "id": null,
+        "name": "Neo GSP",
+        "city": "Levkosía"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1106,
+        "name": "Cyprus",
+        "logo": "https://media.api-sports.io/football/teams/1106.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132768,
+      "referee": "O. Hațegan",
+      "timezone": "UTC",
+      "date": "2019-03-21T19:45:00+00:00",
+      "timestamp": 1553197500,
+      "periods": {
+        "first": 1553197500,
+        "second": 1553201100
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4,
+        "name": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/4.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132529,
+      "referee": "Daniele Orsato, Italy",
+      "timezone": "UTC",
+      "date": "2018-11-18T19:45:00+00:00",
+      "timestamp": 1542570300,
+      "periods": {
+        "first": 1542570300,
+        "second": 1542573900
+      },
+      "venue": {
+        "id": null,
+        "name": "Swissporarena",
+        "city": "Lucerne"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2018,
+      "round": "League A - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 15,
+        "name": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/15.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132524,
+      "referee": "Orel Grinfeld, Israel",
+      "timezone": "UTC",
+      "date": "2018-11-15T19:45:00+00:00",
+      "timestamp": 1542311100,
+      "periods": {
+        "first": 1542311100,
+        "second": 1542314700
+      },
+      "venue": {
+        "id": null,
+        "name": "Roi Baudouin",
+        "city": "Brussels"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2018,
+      "round": "League A - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 18,
+        "name": "Iceland",
+        "logo": "https://media.api-sports.io/football/teams/18.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225542,
+      "referee": "Artur Soares Dias, Portugal",
+      "timezone": "UTC",
+      "date": "2018-10-16T18:45:00+00:00",
+      "timestamp": 1539715500,
+      "periods": {
+        "first": 1539715500,
+        "second": 1539719100
+      },
+      "venue": {
+        "id": null,
+        "name": "Roi Baudouin",
+        "city": "Brussels"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1118,
+        "name": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1118.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132517,
+      "referee": "Antonio Mateu, Spain",
+      "timezone": "UTC",
+      "date": "2018-10-12T18:45:00+00:00",
+      "timestamp": 1539369900,
+      "periods": {
+        "first": 1539369900,
+        "second": 1539373500
+      },
+      "venue": {
+        "id": null,
+        "name": "Roi Baudouin",
+        "city": "Brussels"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2018,
+      "round": "League A - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 15,
+        "name": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/15.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132514,
+      "referee": "Sergei Karasev, Russia",
+      "timezone": "UTC",
+      "date": "2018-09-11T18:45:00+00:00",
+      "timestamp": 1536691500,
+      "periods": {
+        "first": 1536691500,
+        "second": 1536695100
+      },
+      "venue": {
+        "id": null,
+        "name": "Laugardalsvöllur",
+        "city": "Reykjavik"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2018,
+      "round": "League A - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 18,
+        "name": "Iceland",
+        "logo": "https://media.api-sports.io/football/teams/18.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225487,
+      "referee": "Luca Banti, Italy",
+      "timezone": "UTC",
+      "date": "2018-09-07T18:45:00+00:00",
+      "timestamp": 1536345900,
+      "periods": {
+        "first": 1536345900,
+        "second": 1536349500
+      },
+      "venue": {
+        "id": null,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 135775,
+      "referee": "A. Faghani",
+      "timezone": "UTC",
+      "date": "2018-07-14T14:00:00+00:00",
+      "timestamp": 1531576800,
+      "periods": {
+        "first": 1531576800,
+        "second": 1531580400
+      },
+      "venue": {
+        "id": null,
+        "name": "Saint-Petersburg Stadium",
+        "city": "St. Petersburg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Place Final",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 10,
+        "name": "England",
+        "logo": "https://media.api-sports.io/football/teams/10.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 135773,
+      "referee": "A. Cunha",
+      "timezone": "UTC",
+      "date": "2018-07-10T18:00:00+00:00",
+      "timestamp": 1531245600,
+      "periods": {
+        "first": 1531245600,
+        "second": 1531249200
+      },
+      "venue": {
+        "id": null,
+        "name": "Saint-Petersburg Stadium",
+        "city": "St. Petersburg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Semi-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2,
+        "name": "France",
+        "logo": "https://media.api-sports.io/football/teams/2.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 135770,
+      "referee": "M. Mažić",
+      "timezone": "UTC",
+      "date": "2018-07-06T18:00:00+00:00",
+      "timestamp": 1530900000,
+      "periods": {
+        "first": 1530900000,
+        "second": 1530903600
+      },
+      "venue": {
+        "id": 1349,
+        "name": "Kazan' Arena",
+        "city": "Kazan'"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Quarter-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 6,
+        "name": "Brazil",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 135766,
+      "referee": "M. Diedhiou",
+      "timezone": "UTC",
+      "date": "2018-07-02T18:00:00+00:00",
+      "timestamp": 1530554400,
+      "periods": {
+        "first": 1530554400,
+        "second": 1530558000
+      },
+      "venue": {
+        "id": 1339,
+        "name": "Rostov Arena",
+        "city": "Rostov-na-Donu"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2018,
+      "round": "8th Finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 12,
+        "name": "Japan",
+        "logo": "https://media.api-sports.io/football/teams/12.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 135823,
+      "referee": "D. Skomina",
+      "timezone": "UTC",
+      "date": "2018-06-28T18:00:00+00:00",
+      "timestamp": 1530208800,
+      "periods": {
+        "first": 1530208800,
+        "second": 1530212400
+      },
+      "venue": {
+        "id": 1331,
+        "name": "Stadion Kaliningrad",
+        "city": "Kaliningrad"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 10,
+        "name": "England",
+        "logo": "https://media.api-sports.io/football/teams/10.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 135803,
+      "referee": "J. Marrufo",
+      "timezone": "UTC",
+      "date": "2018-06-23T12:00:00+00:00",
+      "timestamp": 1529755200,
+      "periods": {
+        "first": 1529755200,
+        "second": 1529758800
+      },
+      "venue": {
+        "id": 1352,
+        "name": "Otkrytiye Arena",
+        "city": "Moskva"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 28,
+        "name": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/28.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 135789,
+      "referee": "J. Sikazwe",
+      "timezone": "UTC",
+      "date": "2018-06-18T15:00:00+00:00",
+      "timestamp": 1529334000,
+      "periods": {
+        "first": 1529334000,
+        "second": 1529337600
+      },
+      "venue": {
+        "id": 2834,
+        "name": "Olimpiyskiy Stadion Fisht",
+        "city": "Sochi"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 11,
+        "name": "Panama",
+        "logo": "https://media.api-sports.io/football/teams/11.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225478,
+      "referee": "Ovidiu Hategan, Romania",
+      "timezone": "UTC",
+      "date": "2018-06-11T18:45:00+00:00",
+      "timestamp": 1528742700,
+      "periods": {
+        "first": 1528742700,
+        "second": 1528746300
+      },
+      "venue": {
+        "id": null,
+        "name": "Roi Baudouin",
+        "city": "Brussels"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 29,
+        "name": "Costa Rica",
+        "logo": "https://media.api-sports.io/football/teams/29.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225457,
+      "referee": "Anastasios Sidiropoulos, Greece",
+      "timezone": "UTC",
+      "date": "2018-06-06T18:45:00+00:00",
+      "timestamp": 1528310700,
+      "periods": {
+        "first": 1528310700,
+        "second": 1528314300
+      },
+      "venue": {
+        "id": null,
+        "name": "Roi Baudouin",
+        "city": "Brussels"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225439,
+      "referee": "Viktor Kassai, Hungary",
+      "timezone": "UTC",
+      "date": "2018-06-02T18:45:00+00:00",
+      "timestamp": 1527965100,
+      "periods": {
+        "first": 1527965100,
+        "second": 1527968700
+      },
+      "venue": {
+        "id": null,
+        "name": "Roi Baudouin",
+        "city": "Brussels"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      },
+      "away": {
+        "id": 27,
+        "name": "Portugal",
+        "logo": "https://media.api-sports.io/football/teams/27.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225393,
+      "referee": "Matej Jug, Slovenia",
+      "timezone": "UTC",
+      "date": "2018-03-27T18:45:00+00:00",
+      "timestamp": 1522176300,
+      "periods": {
+        "first": 1522176300,
+        "second": 1522179900
+      },
+      "venue": {
+        "id": null,
+        "name": "Roi Baudouin",
+        "city": "Brussels"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 23,
+        "name": "Saudi Arabia",
+        "logo": "https://media.api-sports.io/football/teams/23.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256662,
+      "referee": "L. Banti",
+      "timezone": "UTC",
+      "date": "2017-10-10T18:45:00+00:00",
+      "timestamp": 1507661100,
+      "periods": {
+        "first": 1507661100,
+        "second": 1507664700
+      },
+      "venue": {
+        "id": null,
+        "name": "Roi Baudouin",
+        "city": "Brussels"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 10",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1106,
+        "name": "Cyprus",
+        "logo": "https://media.api-sports.io/football/teams/1106.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256631,
+      "referee": "W. Collum",
+      "timezone": "UTC",
+      "date": "2017-10-07T16:00:00+00:00",
+      "timestamp": 1507392000,
+      "periods": {
+        "first": 1507392000,
+        "second": 1507395600
+      },
+      "venue": {
+        "id": 201,
+        "name": "Stadion Grbavica",
+        "city": "Sarajevo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 9",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1113,
+        "name": "Bosnia & Herzegovina",
+        "logo": "https://media.api-sports.io/football/teams/1113.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256591,
+      "referee": "S. Marciniak",
+      "timezone": "UTC",
+      "date": "2017-09-03T18:45:00+00:00",
+      "timestamp": 1504464300,
+      "periods": {
+        "first": 1504464300,
+        "second": 1504467900
+      },
+      "venue": {
+        "id": null,
+        "name": "Stadio Georgios Karaiskáki",
+        "city": "Piraeus"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 8",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1117,
+        "name": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/1117.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256565,
+      "referee": "N. Doyle",
+      "timezone": "UTC",
+      "date": "2017-08-31T18:45:00+00:00",
+      "timestamp": 1504205100,
+      "periods": {
+        "first": 1504205100,
+        "second": 1504208700
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Maurice Dufrasne",
+        "city": "Luik"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 7",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1093,
+        "name": "Gibraltar",
+        "logo": "https://media.api-sports.io/football/teams/1093.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 9,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 6,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 9,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256537,
+      "referee": "J. Beaton",
+      "timezone": "UTC",
+      "date": "2017-06-09T18:45:00+00:00",
+      "timestamp": 1497033900,
+      "periods": {
+        "first": 1497033900,
+        "second": 1497037500
+      },
+      "venue": {
+        "id": 605,
+        "name": "A. Le Coq Arena",
+        "city": "Tallinn"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 6",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1101,
+        "name": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/1101.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256520,
+      "referee": "F. Brych",
+      "timezone": "UTC",
+      "date": "2017-03-25T19:45:00+00:00",
+      "timestamp": 1490471100,
+      "periods": {
+        "first": 1490471100,
+        "second": 1490474700
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 5",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1117,
+        "name": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/1117.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256501,
+      "referee": "A. Tudor",
+      "timezone": "UTC",
+      "date": "2016-11-13T19:45:00+00:00",
+      "timestamp": 1479066300,
+      "periods": {
+        "first": 1479066300,
+        "second": 1479069900
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1101,
+        "name": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/1101.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 8,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 8,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256466,
+      "referee": "P. Raczkowski",
+      "timezone": "UTC",
+      "date": "2016-10-10T18:45:00+00:00",
+      "timestamp": 1476125100,
+      "periods": {
+        "first": 1476125100,
+        "second": 1476128700
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio Do Algarve",
+        "city": "São João da Venda"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1093,
+        "name": "Gibraltar",
+        "logo": "https://media.api-sports.io/football/teams/1093.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 6
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 6
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256437,
+      "referee": "M. Atkinson",
+      "timezone": "UTC",
+      "date": "2016-10-07T18:45:00+00:00",
+      "timestamp": 1475865900,
+      "periods": {
+        "first": 1475865900,
+        "second": 1475869500
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1113,
+        "name": "Bosnia & Herzegovina",
+        "logo": "https://media.api-sports.io/football/teams/1113.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256420,
+      "referee": "F. Zwayer",
+      "timezone": "UTC",
+      "date": "2016-09-06T18:45:00+00:00",
+      "timestamp": 1473187500,
+      "periods": {
+        "first": 1473187500,
+        "second": 1473191100
+      },
+      "venue": {
+        "id": null,
+        "name": "Neo GSP",
+        "city": "Levkosía"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1106,
+        "name": "Cyprus",
+        "logo": "https://media.api-sports.io/football/teams/1106.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]

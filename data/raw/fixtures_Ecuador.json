@@ -1,0 +1,8052 @@
+[
+  {
+    "fixture": {
+      "id": 1567306,
+      "referee": "S. Vincic",
+      "timezone": "UTC",
+      "date": "2026-07-01T01:00:00+00:00",
+      "timestamp": 1782867600,
+      "periods": {
+        "first": 1782867600,
+        "second": 1782871200
+      },
+      "venue": {
+        "id": 1069,
+        "name": "Estadio Banorte",
+        "city": "Mexico City"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Round of 32",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489410,
+      "referee": "Tori Penso, USA",
+      "timezone": "UTC",
+      "date": "2026-06-25T20:00:00+00:00",
+      "timestamp": 1782417600,
+      "periods": {
+        "first": 1782417600,
+        "second": 1782421200
+      },
+      "venue": {
+        "id": null,
+        "name": "MetLife Stadium",
+        "city": "East Rutherford"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 25,
+        "name": "Germany",
+        "logo": "https://media.api-sports.io/football/teams/25.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489392,
+      "referee": "Ma Ning, China",
+      "timezone": "UTC",
+      "date": "2026-06-21T00:00:00+00:00",
+      "timestamp": 1782000000,
+      "periods": {
+        "first": 1782000000,
+        "second": 1782003600
+      },
+      "venue": {
+        "id": null,
+        "name": "Arrowhead Stadium",
+        "city": "Kansas City"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5530,
+        "name": "Curaçao",
+        "logo": "https://media.api-sports.io/football/teams/5530.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489375,
+      "referee": "François Letexier, France",
+      "timezone": "UTC",
+      "date": "2026-06-14T23:00:00+00:00",
+      "timestamp": 1781478000,
+      "periods": {
+        "first": 1781478000,
+        "second": 1781481600
+      },
+      "venue": {
+        "id": null,
+        "name": "Lincoln Financial Field",
+        "city": "Philadelphia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1542182,
+      "referee": "Marco Antonio Ortiz Nava, Mexico",
+      "timezone": "UTC",
+      "date": "2026-06-07T20:00:00+00:00",
+      "timestamp": 1780862400,
+      "periods": {
+        "first": 1780862400,
+        "second": 1780866000
+      },
+      "venue": {
+        "id": null,
+        "name": "Ohio Stadium",
+        "city": "Columbus"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 2
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5161,
+        "name": "Guatemala",
+        "logo": "https://media.api-sports.io/football/teams/5161.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1540948,
+      "referee": "Pierre-Luc Lauziere, Canada",
+      "timezone": "UTC",
+      "date": "2026-05-31T00:00:00+00:00",
+      "timestamp": 1780185600,
+      "periods": {
+        "first": 1780185600,
+        "second": 1780189200
+      },
+      "venue": {
+        "id": null,
+        "name": "Sports Illustrated Stadium",
+        "city": "Harrison"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 23,
+        "name": "Saudi Arabia",
+        "logo": "https://media.api-sports.io/football/teams/23.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1503007,
+      "referee": "S. Stegemann",
+      "timezone": "UTC",
+      "date": "2026-03-31T18:45:00+00:00",
+      "timestamp": 1774982700,
+      "periods": {
+        "first": 1774982700,
+        "second": 1774986300
+      },
+      "venue": {
+        "id": null,
+        "name": "Philips Stadion",
+        "city": "Eindhoven"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1118,
+        "name": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1118.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1522229,
+      "referee": "José Luis Munuera Montero, Spain",
+      "timezone": "UTC",
+      "date": "2026-03-27T20:15:00+00:00",
+      "timestamp": 1774642500,
+      "periods": {
+        "first": 1774642500,
+        "second": 1774646100
+      },
+      "venue": {
+        "id": null,
+        "name": "Wanda Metropolitano",
+        "city": "Madrid"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 31,
+        "name": "Morocco",
+        "logo": "https://media.api-sports.io/football/teams/31.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1469294,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-11-19T01:30:00+00:00",
+      "timestamp": 1763515800,
+      "periods": {
+        "first": 1763515800,
+        "second": 1763519400
+      },
+      "venue": {
+        "id": null,
+        "name": "Sports Illustrated Stadium",
+        "city": "Harrison"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1457377,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-11-14T00:30:00+00:00",
+      "timestamp": 1763080200,
+      "periods": {
+        "first": 1763080200,
+        "second": 1763083800
+      },
+      "venue": {
+        "id": null,
+        "name": "BMO Field",
+        "city": "Toronto"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1436252,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-10-15T02:30:00+00:00",
+      "timestamp": 1760495400,
+      "periods": {
+        "first": 1760495400,
+        "second": 1760499000
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Akron",
+        "city": "Guadalajara"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1402649,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-10-11T00:30:00+00:00",
+      "timestamp": 1760142600,
+      "periods": {
+        "first": 1760142600,
+        "second": 1760146200
+      },
+      "venue": {
+        "id": null,
+        "name": "Q2 Stadium",
+        "city": "Austin"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2384,
+        "name": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2384.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100320,
+      "referee": "Wilmar Roldan, Colombia",
+      "timezone": "UTC",
+      "date": "2025-09-09T23:00:00+00:00",
+      "timestamp": 1757458800,
+      "periods": {
+        "first": 1757458800,
+        "second": 1757462400
+      },
+      "venue": {
+        "id": 466,
+        "name": "Estadio Monumental Banco Pichincha",
+        "city": "Guayaquil"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100316,
+      "referee": "Raphael Claus, Brazil",
+      "timezone": "UTC",
+      "date": "2025-09-04T23:30:00+00:00",
+      "timestamp": 1757028600,
+      "periods": {
+        "first": 1757028600,
+        "second": 1757032200
+      },
+      "venue": {
+        "id": 20705,
+        "name": "Estadio Defensores del Chaco",
+        "city": "Asunción"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 17",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2380,
+        "name": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2380.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100312,
+      "referee": "Andres Rojas, Colombia",
+      "timezone": "UTC",
+      "date": "2025-06-11T01:30:00+00:00",
+      "timestamp": 1749605400,
+      "periods": {
+        "first": 1749605400,
+        "second": 1749609000
+      },
+      "venue": {
+        "id": 1228,
+        "name": "Estadio Nacional",
+        "city": "Lima"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100303,
+      "referee": "P. Maza",
+      "timezone": "UTC",
+      "date": "2025-06-05T23:00:00+00:00",
+      "timestamp": 1749164400,
+      "periods": {
+        "first": 1749164400,
+        "second": 1749168000
+      },
+      "venue": {
+        "id": 466,
+        "name": "Estadio Monumental Banco Pichincha",
+        "city": "Guayaquil"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 15",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      },
+      "away": {
+        "id": 6,
+        "name": "Brazil",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100302,
+      "referee": "G. Tejera",
+      "timezone": "UTC",
+      "date": "2025-03-26T00:00:00+00:00",
+      "timestamp": 1742947200,
+      "periods": {
+        "first": 1742947200,
+        "second": 1742950800
+      },
+      "venue": {
+        "id": 316,
+        "name": "Estadio Nacional Julio Martínez Prádanos",
+        "city": "Santiago de Chile"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 14",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2383,
+        "name": "Chile",
+        "logo": "https://media.api-sports.io/football/teams/2383.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100293,
+      "referee": "R. Abatti",
+      "timezone": "UTC",
+      "date": "2025-03-21T21:00:00+00:00",
+      "timestamp": 1742590800,
+      "periods": {
+        "first": 1742590800,
+        "second": 1742594400
+      },
+      "venue": {
+        "id": 471,
+        "name": "Estadio Rodrigo Paz Delgado",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 13",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2379,
+        "name": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2379.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100289,
+      "referee": "E. Ostojich",
+      "timezone": "UTC",
+      "date": "2024-11-19T23:00:00+00:00",
+      "timestamp": 1732057200,
+      "periods": {
+        "first": 1732057200,
+        "second": 1732060800
+      },
+      "venue": {
+        "id": 366,
+        "name": "Estadio Metropolitano Roberto Meléndez",
+        "city": "Barranquilla"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 12",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 8,
+        "name": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/8.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100286,
+      "referee": "M. Ramirez",
+      "timezone": "UTC",
+      "date": "2024-11-15T00:00:00+00:00",
+      "timestamp": 1731628800,
+      "periods": {
+        "first": 1731628800,
+        "second": 1731632400
+      },
+      "venue": {
+        "id": 466,
+        "name": "Estadio Monumental Banco Pichincha",
+        "city": "Guayaquil"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2381,
+        "name": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/2381.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100278,
+      "referee": "C. Garay",
+      "timezone": "UTC",
+      "date": "2024-10-15T23:30:00+00:00",
+      "timestamp": 1729035000,
+      "periods": {
+        "first": 1729035000,
+        "second": 1729038600
+      },
+      "venue": {
+        "id": 1624,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100274,
+      "referee": "R. Claus",
+      "timezone": "UTC",
+      "date": "2024-10-10T21:00:00+00:00",
+      "timestamp": 1728594000,
+      "periods": {
+        "first": 1728594000,
+        "second": 1728597600
+      },
+      "venue": {
+        "id": 471,
+        "name": "Estadio Rodrigo Paz Delgado",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2380,
+        "name": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2380.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100268,
+      "referee": "A. Rojas",
+      "timezone": "UTC",
+      "date": "2024-09-10T21:00:00+00:00",
+      "timestamp": 1726002000,
+      "periods": {
+        "first": 1726002000,
+        "second": 1726005600
+      },
+      "venue": {
+        "id": 471,
+        "name": "Estadio Rodrigo Paz Delgado",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100267,
+      "referee": "F. Tello",
+      "timezone": "UTC",
+      "date": "2024-09-07T01:00:00+00:00",
+      "timestamp": 1725670800,
+      "periods": {
+        "first": 1725670800,
+        "second": 1725674400
+      },
+      "venue": {
+        "id": 230,
+        "name": "Estádio Major Antônio Couto Pereira",
+        "city": "Curitiba"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 6,
+        "name": "Brazil",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1219957,
+      "referee": "A. Matonte",
+      "timezone": "UTC",
+      "date": "2024-07-05T01:00:00+00:00",
+      "timestamp": 1720141200,
+      "periods": {
+        "first": 1720141200,
+        "second": 1720144800
+      },
+      "venue": {
+        "id": null,
+        "name": "NRG Stadium",
+        "city": "Houston, Texas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Quarter-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty": {
+        "home": 4,
+        "away": 2
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1146315,
+      "referee": "M. Escobar",
+      "timezone": "UTC",
+      "date": "2024-07-01T00:00:00+00:00",
+      "timestamp": 1719792000,
+      "periods": {
+        "first": 1719792000,
+        "second": 1719795600
+      },
+      "venue": {
+        "id": 22725,
+        "name": "State Farm Stadium",
+        "city": "Glendale, Arizona"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1146308,
+      "referee": "C. Garay",
+      "timezone": "UTC",
+      "date": "2024-06-27T22:00:00+00:00",
+      "timestamp": 1719525600,
+      "periods": {
+        "first": 1719525600,
+        "second": 1719529200
+      },
+      "venue": {
+        "id": null,
+        "name": "Allegiant Stadium",
+        "city": "Las Vegas, Nevada"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2385,
+        "name": "Jamaica",
+        "logo": "https://media.api-sports.io/football/teams/2385.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1146302,
+      "referee": "W. Roldán",
+      "timezone": "UTC",
+      "date": "2024-06-22T22:00:00+00:00",
+      "timestamp": 1719093600,
+      "periods": {
+        "first": 1719093600,
+        "second": 1719097200
+      },
+      "venue": {
+        "id": null,
+        "name": "Levi's Stadium",
+        "city": "Santa Clara, California"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2379,
+        "name": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2379.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1198060,
+      "referee": "I. Cornejo",
+      "timezone": "UTC",
+      "date": "2024-06-16T19:30:00+00:00",
+      "timestamp": 1718566200,
+      "periods": {
+        "first": 1718566200,
+        "second": 1718569800
+      },
+      "venue": {
+        "id": null,
+        "name": "Pratt & Whitney Stadium at Rentschler Field",
+        "city": "East Hartford, Connecticut"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4672,
+        "name": "Honduras",
+        "logo": "https://media.api-sports.io/football/teams/4672.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1198577,
+      "referee": "L. Szpala",
+      "timezone": "UTC",
+      "date": "2024-06-13T00:30:00+00:00",
+      "timestamp": 1718238600,
+      "periods": {
+        "first": 1718238600,
+        "second": 1718242200
+      },
+      "venue": {
+        "id": 1620,
+        "name": "Subaru Park",
+        "city": "Chester, Pennsylvania"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2381,
+        "name": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/2381.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1193462,
+      "referee": "D. Fischer",
+      "timezone": "UTC",
+      "date": "2024-06-09T23:00:00+00:00",
+      "timestamp": 1717974000,
+      "periods": {
+        "first": 1717974000,
+        "second": 1717977600
+      },
+      "venue": {
+        "id": 1609,
+        "name": "Soldier Field",
+        "city": "Chicago, Illinois"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1171089,
+      "referee": "J. Freemon",
+      "timezone": "UTC",
+      "date": "2024-03-24T20:00:00+00:00",
+      "timestamp": 1711310400,
+      "periods": {
+        "first": 1711310400,
+        "second": 1711314000
+      },
+      "venue": {
+        "id": 1619,
+        "name": "Red Bull Arena",
+        "city": "Harrison, New Jersey"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      },
+      "away": {
+        "id": 768,
+        "name": "Italy",
+        "logo": "https://media.api-sports.io/football/teams/768.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1171088,
+      "referee": "L. Szpala",
+      "timezone": "UTC",
+      "date": "2024-03-22T00:30:00+00:00",
+      "timestamp": 1711067400,
+      "periods": {
+        "first": 1711067400,
+        "second": 1711071000
+      },
+      "venue": {
+        "id": 1619,
+        "name": "Red Bull Arena",
+        "city": "Harrison, New Jersey"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5161,
+        "name": "Guatemala",
+        "logo": "https://media.api-sports.io/football/teams/5161.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100259,
+      "referee": "A. Daronco",
+      "timezone": "UTC",
+      "date": "2023-11-21T23:30:00+00:00",
+      "timestamp": 1700609400,
+      "periods": {
+        "first": 1700609400,
+        "second": 1700613000
+      },
+      "venue": {
+        "id": 471,
+        "name": "Estadio Rodrigo Paz Delgado",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2383,
+        "name": "Chile",
+        "logo": "https://media.api-sports.io/football/teams/2383.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100254,
+      "referee": "J. Benitez",
+      "timezone": "UTC",
+      "date": "2023-11-16T22:00:00+00:00",
+      "timestamp": 1700172000,
+      "periods": {
+        "first": 1700172000,
+        "second": 1700175600
+      },
+      "venue": {
+        "id": 1660,
+        "name": "Estadio Monumental de Maturín",
+        "city": "Maturín"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2379,
+        "name": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2379.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100248,
+      "referee": "F. Tello",
+      "timezone": "UTC",
+      "date": "2023-10-17T23:30:00+00:00",
+      "timestamp": 1697585400,
+      "periods": {
+        "first": 1697585400,
+        "second": 1697589000
+      },
+      "venue": {
+        "id": 471,
+        "name": "Estadio Rodrigo Paz Delgado",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      },
+      "away": {
+        "id": 8,
+        "name": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/8.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100243,
+      "referee": "C. Garay",
+      "timezone": "UTC",
+      "date": "2023-10-12T23:00:00+00:00",
+      "timestamp": 1697151600,
+      "periods": {
+        "first": 1697151600,
+        "second": 1697155200
+      },
+      "venue": {
+        "id": 198,
+        "name": "Estadio Hernando Siles",
+        "city": "La Paz"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2381,
+        "name": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/2381.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100240,
+      "referee": "W. Sampaio",
+      "timezone": "UTC",
+      "date": "2023-09-12T21:00:00+00:00",
+      "timestamp": 1694552400,
+      "periods": {
+        "first": 1694552400,
+        "second": 1694556000
+      },
+      "venue": {
+        "id": 471,
+        "name": "Estadio Rodrigo Paz Delgado",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100237,
+      "referee": "W. Roldan",
+      "timezone": "UTC",
+      "date": "2023-09-08T00:00:00+00:00",
+      "timestamp": 1694131200,
+      "periods": {
+        "first": 1694131200,
+        "second": 1694134800
+      },
+      "venue": {
+        "id": 19570,
+        "name": "Estadio Monumental",
+        "city": "Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1028660,
+      "referee": "V. Cáceres",
+      "timezone": "UTC",
+      "date": "2023-06-21T00:15:00+00:00",
+      "timestamp": 1687306500,
+      "periods": {
+        "first": 1687306500,
+        "second": 1687310100
+      },
+      "venue": {
+        "id": 1620,
+        "name": "Subaru Park",
+        "city": "Chester, Pennsylvania"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 29,
+        "name": "Costa Rica",
+        "logo": "https://media.api-sports.io/football/teams/29.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1035619,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2023-06-21T00:15:00+00:00",
+      "timestamp": 1687306500,
+      "periods": {
+        "first": 1687306500,
+        "second": 1687310100
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 29,
+        "name": "Costa Rica",
+        "logo": "https://media.api-sports.io/football/teams/29.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1028651,
+      "referee": "V. Rivas",
+      "timezone": "UTC",
+      "date": "2023-06-17T23:30:00+00:00",
+      "timestamp": 1687044600,
+      "periods": {
+        "first": 1687044600,
+        "second": 1687048200
+      },
+      "venue": {
+        "id": 1619,
+        "name": "Red Bull Arena",
+        "city": "Harrison, New Jersey"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2381,
+        "name": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/2381.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1012341,
+      "referee": "Chae Sang-Hyeop",
+      "timezone": "UTC",
+      "date": "2023-03-28T08:30:00+00:00",
+      "timestamp": 1679992200,
+      "periods": {
+        "first": 1679992200,
+        "second": 1679995800
+      },
+      "venue": {
+        "id": null,
+        "name": "Marvel Stadium",
+        "city": "Melbourne"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 20,
+        "name": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1012326,
+      "referee": "Kim Dae-Yong",
+      "timezone": "UTC",
+      "date": "2023-03-24T09:00:00+00:00",
+      "timestamp": 1679648400,
+      "periods": {
+        "first": 1679648400,
+        "second": 1679652000
+      },
+      "venue": {
+        "id": 18601,
+        "name": "CommBank Stadium",
+        "city": "Sydney"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 20,
+        "name": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 855761,
+      "referee": "C. Turpin",
+      "timezone": "UTC",
+      "date": "2022-11-29T15:00:00+00:00",
+      "timestamp": 1669734000,
+      "periods": {
+        "first": 1669734000,
+        "second": 1669737600
+      },
+      "venue": {
+        "id": 22430,
+        "name": "Khalifa International Stadium",
+        "city": "Ar-Rayyan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      },
+      "away": {
+        "id": 13,
+        "name": "Senegal",
+        "logo": "https://media.api-sports.io/football/teams/13.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 855748,
+      "referee": "M. Ghorbal",
+      "timezone": "UTC",
+      "date": "2022-11-25T16:00:00+00:00",
+      "timestamp": 1669392000,
+      "periods": {
+        "first": 1669392000,
+        "second": 1669395600
+      },
+      "venue": {
+        "id": 22430,
+        "name": "Khalifa International Stadium",
+        "city": "Ar-Rayyan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1118,
+        "name": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1118.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 855736,
+      "referee": "D. Orsato",
+      "timezone": "UTC",
+      "date": "2022-11-20T16:00:00+00:00",
+      "timestamp": 1668960000,
+      "periods": {
+        "first": 1668960000,
+        "second": 1668963600
+      },
+      "venue": {
+        "id": null,
+        "name": "Al Bayt Stadium",
+        "city": "Al Khor"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1569,
+        "name": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/1569.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 965470,
+      "referee": "Gustavo Correia",
+      "timezone": "UTC",
+      "date": "2022-11-12T17:30:00+00:00",
+      "timestamp": 1668274200,
+      "periods": {
+        "first": 1668274200,
+        "second": 1668277800
+      },
+      "venue": {
+        "id": 19217,
+        "name": "Estádio Cívitas Metropolitano",
+        "city": "Madrid"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1567,
+        "name": "Iraq",
+        "logo": "https://media.api-sports.io/football/teams/1567.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 942157,
+      "referee": "S. Stegemann",
+      "timezone": "UTC",
+      "date": "2022-09-27T11:55:00+00:00",
+      "timestamp": 1664279700,
+      "periods": {
+        "first": 1664279700,
+        "second": 1664283300
+      },
+      "venue": {
+        "id": 714,
+        "name": "Merkur Spiel-Arena",
+        "city": "Düsseldorf"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 12,
+        "name": "Japan",
+        "logo": "https://media.api-sports.io/football/teams/12.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 861491,
+      "referee": "I. Bebek",
+      "timezone": "UTC",
+      "date": "2022-09-23T18:00:00+00:00",
+      "timestamp": 1663956000,
+      "periods": {
+        "first": 1663956000,
+        "second": 1663959600
+      },
+      "venue": {
+        "id": 3989,
+        "name": "Estadio Enrique Roca de Murcia",
+        "city": "Murcia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 23,
+        "name": "Saudi Arabia",
+        "logo": "https://media.api-sports.io/football/teams/23.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 861490,
+      "referee": "M. Gaymes",
+      "timezone": "UTC",
+      "date": "2022-06-12T00:00:00+00:00",
+      "timestamp": 1654992000,
+      "periods": {
+        "first": 1654992000,
+        "second": 1654995600
+      },
+      "venue": {
+        "id": 11976,
+        "name": "DRV PNK Stadium",
+        "city": "Fort Lauderdale, Florida"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1500,
+        "name": "Mali",
+        "logo": "https://media.api-sports.io/football/teams/1500.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 857897,
+      "referee": "O. Vergara",
+      "timezone": "UTC",
+      "date": "2022-06-05T23:30:00+00:00",
+      "timestamp": 1654471800,
+      "periods": {
+        "first": 1654471800,
+        "second": 1654475400
+      },
+      "venue": {
+        "id": 1609,
+        "name": "Soldier Field",
+        "city": "Chicago, Illinois"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 858020,
+      "referee": "R. Montero",
+      "timezone": "UTC",
+      "date": "2022-06-03T00:30:00+00:00",
+      "timestamp": 1654216200,
+      "periods": {
+        "first": 1654216200,
+        "second": 1654219800
+      },
+      "venue": {
+        "id": 1619,
+        "name": "Red Bull Arena",
+        "city": "Harrison, New Jersey"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 19,
+        "name": "Nigeria",
+        "logo": "https://media.api-sports.io/football/teams/19.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293662,
+      "referee": "Raphael Claus",
+      "timezone": "UTC",
+      "date": "2022-03-30T23:30:00+00:00",
+      "timestamp": 1648683000,
+      "periods": {
+        "first": 1648683000,
+        "second": 1648686600
+      },
+      "venue": {
+        "id": 466,
+        "name": "Estadio Monumental Banco Pichincha",
+        "city": "Guayaquil"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      },
+      "away": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293660,
+      "referee": "J. Valenzuela",
+      "timezone": "UTC",
+      "date": "2022-03-24T23:30:00+00:00",
+      "timestamp": 1648164600,
+      "periods": {
+        "first": 1648164600,
+        "second": 1648168200
+      },
+      "venue": {
+        "id": 1213,
+        "name": "Estadio Antonio Aranda",
+        "city": "Ciudad del Este"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 17",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2380,
+        "name": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2380.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293652,
+      "referee": "Wilton Pereira Sampaio",
+      "timezone": "UTC",
+      "date": "2022-02-02T02:00:00+00:00",
+      "timestamp": 1643767200,
+      "periods": {
+        "first": 1643767200,
+        "second": 1643770800
+      },
+      "venue": {
+        "id": 1228,
+        "name": "Estadio Nacional de Lima",
+        "city": "Lima"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293646,
+      "referee": "W. Roldán",
+      "timezone": "UTC",
+      "date": "2022-01-27T21:00:00+00:00",
+      "timestamp": 1643317200,
+      "periods": {
+        "first": 1643317200,
+        "second": 1643320800
+      },
+      "venue": {
+        "id": 471,
+        "name": "Estadio Rodrigo Paz Delgado",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 15",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      },
+      "away": {
+        "id": 6,
+        "name": "Brazil",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 814633,
+      "referee": "R. Solano",
+      "timezone": "UTC",
+      "date": "2021-12-05T02:00:00+00:00",
+      "timestamp": 1638669600,
+      "periods": {
+        "first": 1638669600,
+        "second": 1638673200
+      },
+      "venue": {
+        "id": 12599,
+        "name": "PNC Stadium",
+        "city": "Houston, Texas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5159,
+        "name": "El Salvador",
+        "logo": "https://media.api-sports.io/football/teams/5159.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293644,
+      "referee": "F. Rapallini",
+      "timezone": "UTC",
+      "date": "2021-11-17T00:15:00+00:00",
+      "timestamp": 1637108100,
+      "periods": {
+        "first": 1637108100,
+        "second": 1637111700
+      },
+      "venue": {
+        "id": 345,
+        "name": "Estadio San Carlos de Apoquindo",
+        "city": "Santiago de Chile"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 14",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2383,
+        "name": "Chile",
+        "logo": "https://media.api-sports.io/football/teams/2383.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293640,
+      "referee": "C. Ferreyra",
+      "timezone": "UTC",
+      "date": "2021-11-11T21:00:00+00:00",
+      "timestamp": 1636664400,
+      "periods": {
+        "first": 1636664400,
+        "second": 1636668000
+      },
+      "venue": {
+        "id": 471,
+        "name": "Estadio Rodrigo Paz Delgado",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 13",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2379,
+        "name": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2379.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 781084,
+      "referee": "T. Unkel",
+      "timezone": "UTC",
+      "date": "2021-10-28T01:00:00+00:00",
+      "timestamp": 1635382800,
+      "periods": {
+        "first": 1635382800,
+        "second": 1635386400
+      },
+      "venue": {
+        "id": null,
+        "name": "Bank of America Stadium",
+        "city": "Charlotte, North Carolina"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293631,
+      "referee": "D. Haro",
+      "timezone": "UTC",
+      "date": "2021-10-14T21:00:00+00:00",
+      "timestamp": 1634245200,
+      "periods": {
+        "first": 1634245200,
+        "second": 1634248800
+      },
+      "venue": {
+        "id": 366,
+        "name": "Estadio Metropolitano Roberto Meléndez",
+        "city": "Barranquilla"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 12",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 8,
+        "name": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/8.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293597,
+      "referee": "A. Cunha",
+      "timezone": "UTC",
+      "date": "2021-10-10T20:30:00+00:00",
+      "timestamp": 1633897800,
+      "periods": {
+        "first": 1633897800,
+        "second": 1633901400
+      },
+      "venue": {
+        "id": 1653,
+        "name": "Estadio Olímpico de la UCV",
+        "city": "Caracas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2379,
+        "name": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2379.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293630,
+      "referee": "W. Roldán",
+      "timezone": "UTC",
+      "date": "2021-10-08T00:30:00+00:00",
+      "timestamp": 1633653000,
+      "periods": {
+        "first": 1633653000,
+        "second": 1633656600
+      },
+      "venue": {
+        "id": 466,
+        "name": "Estadio Monumental Banco Pichincha",
+        "city": "Guayaquil"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2381,
+        "name": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/2381.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293621,
+      "referee": "Anderson Daronco",
+      "timezone": "UTC",
+      "date": "2021-09-09T22:30:00+00:00",
+      "timestamp": 1631226600,
+      "periods": {
+        "first": 1631226600,
+        "second": 1631230200
+      },
+      "venue": {
+        "id": 1640,
+        "name": "Estadio Campeón del Siglo",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293605,
+      "referee": "F. Tello",
+      "timezone": "UTC",
+      "date": "2021-09-05T21:00:00+00:00",
+      "timestamp": 1630875600,
+      "periods": {
+        "first": 1630875600,
+        "second": 1630879200
+      },
+      "venue": {
+        "id": 471,
+        "name": "Estadio Rodrigo Paz Delgado",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2383,
+        "name": "Chile",
+        "logo": "https://media.api-sports.io/football/teams/2383.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293620,
+      "referee": "A. Matonte",
+      "timezone": "UTC",
+      "date": "2021-09-02T21:00:00+00:00",
+      "timestamp": 1630616400,
+      "periods": {
+        "first": 1630616400,
+        "second": 1630620000
+      },
+      "venue": {
+        "id": 471,
+        "name": "Estadio Rodrigo Paz Delgado",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2380,
+        "name": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2380.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 718251,
+      "referee": "Wilton Pereira Sampaio",
+      "timezone": "UTC",
+      "date": "2021-07-04T01:00:00+00:00",
+      "timestamp": 1625360400,
+      "periods": {
+        "first": 1625360400,
+        "second": 1625364000
+      },
+      "venue": {
+        "id": 7311,
+        "name": "Estádio Olímpico Pedro Ludovico Teixeira",
+        "city": "Goiânia, Goiás"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Quarter-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 312572,
+      "referee": "R. Tobar",
+      "timezone": "UTC",
+      "date": "2021-06-27T21:00:00+00:00",
+      "timestamp": 1624827600,
+      "periods": {
+        "first": 1624827600,
+        "second": 1624831200
+      },
+      "venue": {
+        "id": 7311,
+        "name": "Estádio Olímpico Pedro Ludovico Teixeira",
+        "city": "Goiânia, Goiás"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group B - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 6,
+        "name": "Brazil",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 312566,
+      "referee": "Jesús Gil",
+      "timezone": "UTC",
+      "date": "2021-06-23T21:00:00+00:00",
+      "timestamp": 1624482000,
+      "periods": {
+        "first": 1624482000,
+        "second": 1624485600
+      },
+      "venue": {
+        "id": 7311,
+        "name": "Estádio Olímpico Pedro Ludovico Teixeira",
+        "city": "Goiânia, Goiás"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group B - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      },
+      "away": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 312560,
+      "referee": "R. Tobar",
+      "timezone": "UTC",
+      "date": "2021-06-20T21:00:00+00:00",
+      "timestamp": 1624222800,
+      "periods": {
+        "first": 1624222800,
+        "second": 1624226400
+      },
+      "venue": {
+        "id": 218,
+        "name": "Estádio Nilton Santos",
+        "city": "Rio de Janeiro"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group B - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2379,
+        "name": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2379.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 312547,
+      "referee": "N. Pitana",
+      "timezone": "UTC",
+      "date": "2021-06-14T00:00:00+00:00",
+      "timestamp": 1623628800,
+      "periods": {
+        "first": 1623628800,
+        "second": 1623632400
+      },
+      "venue": {
+        "id": 235,
+        "name": "Arena Pantanal",
+        "city": "Cuiabá, Mato Grosso"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group B - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 8,
+        "name": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/8.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293615,
+      "referee": "E. Ostojich",
+      "timezone": "UTC",
+      "date": "2021-06-08T21:00:00+00:00",
+      "timestamp": 1623186000,
+      "periods": {
+        "first": 1623186000,
+        "second": 1623189600
+      },
+      "venue": {
+        "id": 471,
+        "name": "Estadio Rodrigo Paz Delgado",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      },
+      "away": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293608,
+      "referee": "A. Herrera",
+      "timezone": "UTC",
+      "date": "2021-06-05T00:30:00+00:00",
+      "timestamp": 1622853000,
+      "periods": {
+        "first": 1622853000,
+        "second": 1622856600
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Beira-Rio",
+        "city": "Porto Alegre"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 6,
+        "name": "Brazil",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 685793,
+      "referee": "J. Ospina",
+      "timezone": "UTC",
+      "date": "2021-03-29T20:30:00+00:00",
+      "timestamp": 1617049800,
+      "periods": {
+        "first": 1617049800,
+        "second": 1617053400
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Banco Guayaquil",
+        "city": "Sangolquí"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2381,
+        "name": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/2381.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293595,
+      "referee": "J. Valenzuela",
+      "timezone": "UTC",
+      "date": "2020-11-17T21:00:00+00:00",
+      "timestamp": 1605646800,
+      "periods": {
+        "first": 1605646800,
+        "second": 1605650400
+      },
+      "venue": {
+        "id": 471,
+        "name": "Estadio Rodrigo Paz Delgado",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 8,
+        "name": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/8.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 6,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 4,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 6,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293588,
+      "referee": "Wilton Pereira Sampaio",
+      "timezone": "UTC",
+      "date": "2020-11-12T20:00:00+00:00",
+      "timestamp": 1605211200,
+      "periods": {
+        "first": 1605211200,
+        "second": 1605214800
+      },
+      "venue": {
+        "id": 198,
+        "name": "Estadio Hernando Siles",
+        "city": "La Paz"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2381,
+        "name": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/2381.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293585,
+      "referee": "W. Roldán",
+      "timezone": "UTC",
+      "date": "2020-10-13T21:00:00+00:00",
+      "timestamp": 1602622800,
+      "periods": {
+        "first": 1602622800,
+        "second": 1602626400
+      },
+      "venue": {
+        "id": 471,
+        "name": "Estadio Rodrigo Paz Delgado",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293580,
+      "referee": "R. Tobar",
+      "timezone": "UTC",
+      "date": "2020-10-09T00:30:00+00:00",
+      "timestamp": 1602203400,
+      "periods": {
+        "first": 1602203400,
+        "second": 1602207000
+      },
+      "venue": {
+        "id": 46,
+        "name": "Estadio Alberto José Armando",
+        "city": "Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 247686,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-11-20T01:00:00+00:00",
+      "timestamp": 1574211600,
+      "periods": {
+        "first": 1574211600,
+        "second": 1574215200
+      },
+      "venue": {
+        "id": null,
+        "name": "Red Bull Arena (Harrison, New Jersey)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      },
+      "away": {
+        "id": 8,
+        "name": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/8.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 255956,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-11-15T00:00:00+00:00",
+      "timestamp": 1573776000,
+      "periods": {
+        "first": 1573776000,
+        "second": 1573779600
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Reales Tamarindos (Portoviejo)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5168,
+        "name": "Trinidad and Tobago",
+        "logo": "https://media.api-sports.io/football/teams/5168.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 244954,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-10-13T14:00:00+00:00",
+      "timestamp": 1570975200,
+      "periods": {
+        "first": 1570975200,
+        "second": 1570978800
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Manuel Martínez Valero (Elche)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      },
+      "away": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 6
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 6
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 240842,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-09-11T00:00:00+00:00",
+      "timestamp": 1568160000,
+      "periods": {
+        "first": 1568160000,
+        "second": 1568163600
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Alejandro Serrano Aguilar Banco del Austro (Cuenca)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2381,
+        "name": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/2381.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 240831,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-09-06T00:00:00+00:00",
+      "timestamp": 1567728000,
+      "periods": {
+        "first": 1567728000,
+        "second": 1567731600
+      },
+      "venue": {
+        "id": null,
+        "name": "Red Bull Arena (Harrison, New Jersey)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 83277,
+      "referee": "Jesus Valenzuela, Venezuela",
+      "timezone": "UTC",
+      "date": "2019-06-24T23:00:00+00:00",
+      "timestamp": 1561417200,
+      "periods": {
+        "first": 1561417200,
+        "second": 1561420800
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio Mineirão",
+        "city": "Belo Horizonte"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      },
+      "away": {
+        "id": 12,
+        "name": "Japan",
+        "logo": "https://media.api-sports.io/football/teams/12.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 83271,
+      "referee": "Patricio Loustau, Argentina",
+      "timezone": "UTC",
+      "date": "2019-06-21T23:00:00+00:00",
+      "timestamp": 1561158000,
+      "periods": {
+        "first": 1561158000,
+        "second": 1561161600
+      },
+      "venue": {
+        "id": null,
+        "name": "Arena Fonte Nova",
+        "city": "Salvador"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2383,
+        "name": "Chile",
+        "logo": "https://media.api-sports.io/football/teams/2383.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 83264,
+      "referee": "Anderson Daronco, Brazil",
+      "timezone": "UTC",
+      "date": "2019-06-16T22:00:00+00:00",
+      "timestamp": 1560722400,
+      "periods": {
+        "first": 1560722400,
+        "second": 1560726000
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio Mineirão",
+        "city": "Belo Horizonte"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218318,
+      "referee": "David Gantar, Canada",
+      "timezone": "UTC",
+      "date": "2019-06-09T23:00:00+00:00",
+      "timestamp": 1560121200,
+      "periods": {
+        "first": 1560121200,
+        "second": 1560124800
+      },
+      "venue": {
+        "id": null,
+        "name": "AT&T Stadium",
+        "city": "Arlington"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218291,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-06-02T00:30:00+00:00",
+      "timestamp": 1559435400,
+      "periods": {
+        "first": 1559435400,
+        "second": 1559439000
+      },
+      "venue": {
+        "id": null,
+        "name": "Hard Rock Stadium (Miami Gardens, Florida)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2379,
+        "name": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2379.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218286,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-03-27T00:00:00+00:00",
+      "timestamp": 1553644800,
+      "periods": {
+        "first": 1553644800,
+        "second": 1553648400
+      },
+      "venue": {
+        "id": null,
+        "name": "Red Bull Arena (Harrison, New Jersey)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4672,
+        "name": "Honduras",
+        "logo": "https://media.api-sports.io/football/teams/4672.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218266,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-03-22T00:00:00+00:00",
+      "timestamp": 1553212800,
+      "periods": {
+        "first": 1553212800,
+        "second": 1553216400
+      },
+      "venue": {
+        "id": null,
+        "name": "Orlando City Stadium (Orlando, Florida)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2384,
+        "name": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2384.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225581,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-11-21T01:00:00+00:00",
+      "timestamp": 1542762000,
+      "periods": {
+        "first": 1542762000,
+        "second": 1542765600
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Rommel Fernandez",
+        "city": "Panama City"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 11,
+        "name": "Panama",
+        "logo": "https://media.api-sports.io/football/teams/11.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225552,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-11-16T01:30:00+00:00",
+      "timestamp": 1542331800,
+      "periods": {
+        "first": 1542331800,
+        "second": 1542335400
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Nacional de Lima (Lima)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225537,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-10-16T15:30:00+00:00",
+      "timestamp": 1539703800,
+      "periods": {
+        "first": 1539703800,
+        "second": 1539707400
+      },
+      "venue": {
+        "id": null,
+        "name": "Abdullah bin Nasser bin Khalifa Stadium (ad-Dōha (Doha))",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1552,
+        "name": "Oman",
+        "logo": "https://media.api-sports.io/football/teams/1552.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225522,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-10-12T15:30:00+00:00",
+      "timestamp": 1539358200,
+      "periods": {
+        "first": 1539358200,
+        "second": 1539361800
+      },
+      "venue": {
+        "id": null,
+        "name": "Jassim Bin Hamad Stadium (Al-Sadd Stadium) (ad-Dōha (Doha))",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1569,
+        "name": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/1569.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225510,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-09-12T01:05:00+00:00",
+      "timestamp": 1536714300,
+      "periods": {
+        "first": 1536714300,
+        "second": 1536717900
+      },
+      "venue": {
+        "id": null,
+        "name": "Toyota Park (Bridgeview, Illinois)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5161,
+        "name": "Guatemala",
+        "logo": "https://media.api-sports.io/football/teams/5161.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225490,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-09-08T00:00:00+00:00",
+      "timestamp": 1536364800,
+      "periods": {
+        "first": 1536364800,
+        "second": 1536368400
+      },
+      "venue": {
+        "id": null,
+        "name": "Red Bull Arena (Harrison, New Jersey)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2385,
+        "name": "Jamaica",
+        "logo": "https://media.api-sports.io/football/teams/2385.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256784,
+      "referee": "Anderson Daronco, Brazil",
+      "timezone": "UTC",
+      "date": "2017-10-10T23:30:00+00:00",
+      "timestamp": 1507678200,
+      "periods": {
+        "first": 1507678200,
+        "second": 1507681800
+      },
+      "venue": {
+        "id": null,
+        "name": "Olimpico Atahualpa",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 18",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      },
+      "away": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256780,
+      "referee": "Sandro Meira Ricci, Brazil",
+      "timezone": "UTC",
+      "date": "2017-10-05T23:30:00+00:00",
+      "timestamp": 1507246200,
+      "periods": {
+        "first": 1507246200,
+        "second": 1507249800
+      },
+      "venue": {
+        "id": null,
+        "name": "Monumental David Arellano",
+        "city": "Santiago"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 17",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2383,
+        "name": "Chile",
+        "logo": "https://media.api-sports.io/football/teams/2383.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256774,
+      "referee": "Enrique Caceres Villafane, Paraguay",
+      "timezone": "UTC",
+      "date": "2017-09-05T21:00:00+00:00",
+      "timestamp": 1504645200,
+      "periods": {
+        "first": 1504645200,
+        "second": 1504648800
+      },
+      "venue": {
+        "id": null,
+        "name": "Olimpico Atahualpa",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 16",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      },
+      "away": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256770,
+      "referee": "Mario Diaz De Vivar, Paraguay",
+      "timezone": "UTC",
+      "date": "2017-09-01T00:45:00+00:00",
+      "timestamp": 1504226700,
+      "periods": {
+        "first": 1504226700,
+        "second": 1504230300
+      },
+      "venue": {
+        "id": null,
+        "name": "Arena do Grêmio",
+        "city": "Porto Alegre"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 15",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 6,
+        "name": "Brazil",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256763,
+      "referee": "Nestor Pitana, Argentina",
+      "timezone": "UTC",
+      "date": "2017-03-28T22:00:00+00:00",
+      "timestamp": 1490738400,
+      "periods": {
+        "first": 1490738400,
+        "second": 1490742000
+      },
+      "venue": {
+        "id": null,
+        "name": "Olimpico Atahualpa",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 14",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      },
+      "away": {
+        "id": 8,
+        "name": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/8.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256758,
+      "referee": "Jose Ramon Argote Vega, Venezuela",
+      "timezone": "UTC",
+      "date": "2017-03-23T23:00:00+00:00",
+      "timestamp": 1490310000,
+      "periods": {
+        "first": 1490310000,
+        "second": 1490313600
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Defensores del Chaco",
+        "city": "Asuncion"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 13",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2380,
+        "name": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2380.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256753,
+      "referee": "Roberto Tobar, Chile",
+      "timezone": "UTC",
+      "date": "2016-11-15T21:00:00+00:00",
+      "timestamp": 1479243600,
+      "periods": {
+        "first": 1479243600,
+        "second": 1479247200
+      },
+      "venue": {
+        "id": null,
+        "name": "Olimpico Atahualpa",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 12",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2379,
+        "name": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2379.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256748,
+      "referee": "Victor Hugo Carrillo, Peru",
+      "timezone": "UTC",
+      "date": "2016-11-10T23:00:00+00:00",
+      "timestamp": 1478818800,
+      "periods": {
+        "first": 1478818800,
+        "second": 1478822400
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 11",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256742,
+      "referee": "Mario Diaz De Vivar, Paraguay",
+      "timezone": "UTC",
+      "date": "2016-10-11T20:00:00+00:00",
+      "timestamp": 1476216000,
+      "periods": {
+        "first": 1476216000,
+        "second": 1476219600
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Hernando Siles",
+        "city": "La Paz"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 10",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2381,
+        "name": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/2381.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256737,
+      "referee": "Mauro Vigliano, Argentina",
+      "timezone": "UTC",
+      "date": "2016-10-06T21:00:00+00:00",
+      "timestamp": 1475787600,
+      "periods": {
+        "first": 1475787600,
+        "second": 1475791200
+      },
+      "venue": {
+        "id": null,
+        "name": "Olimpico Atahualpa",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 9",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2383,
+        "name": "Chile",
+        "logo": "https://media.api-sports.io/football/teams/2383.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256736,
+      "referee": "Wilmar Roldan, Colombia",
+      "timezone": "UTC",
+      "date": "2016-09-07T02:15:00+00:00",
+      "timestamp": 1473214500,
+      "periods": {
+        "first": 1473214500,
+        "second": 1473218100
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Nacional",
+        "city": "Lima"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 8",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256729,
+      "referee": "Enrique Caceres Villafane, Paraguay",
+      "timezone": "UTC",
+      "date": "2016-09-01T21:00:00+00:00",
+      "timestamp": 1472763600,
+      "periods": {
+        "first": 1472763600,
+        "second": 1472767200
+      },
+      "venue": {
+        "id": null,
+        "name": "Olimpico Atahualpa",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 7",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      },
+      "away": {
+        "id": 6,
+        "name": "Brazil",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256722,
+      "referee": "Enrique Roberto Osses, Chile",
+      "timezone": "UTC",
+      "date": "2016-03-29T21:30:00+00:00",
+      "timestamp": 1459287000,
+      "periods": {
+        "first": 1459287000,
+        "second": 1459290600
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Metropolitano Roberto Meléndez",
+        "city": "Barranquilla"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 6",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 8,
+        "name": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/8.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256718,
+      "referee": "Daniel Fedorczuk, Brazil",
+      "timezone": "UTC",
+      "date": "2016-03-24T21:00:00+00:00",
+      "timestamp": 1458853200,
+      "periods": {
+        "first": 1458853200,
+        "second": 1458856800
+      },
+      "venue": {
+        "id": null,
+        "name": "Olimpico Atahualpa",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 5",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2380,
+        "name": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2380.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256713,
+      "referee": "Gery Vargas, Bolivia",
+      "timezone": "UTC",
+      "date": "2015-11-17T21:00:00+00:00",
+      "timestamp": 1447794000,
+      "periods": {
+        "first": 1447794000,
+        "second": 1447797600
+      },
+      "venue": {
+        "id": null,
+        "name": "Cachamay",
+        "city": "Puerto Ordaz"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2379,
+        "name": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2379.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256708,
+      "referee": "Ricardo Marques Ribeiro, Brazil",
+      "timezone": "UTC",
+      "date": "2015-11-12T21:00:00+00:00",
+      "timestamp": 1447362000,
+      "periods": {
+        "first": 1447362000,
+        "second": 1447365600
+      },
+      "venue": {
+        "id": null,
+        "name": "Olimpico Atahualpa",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256702,
+      "referee": "Sandro Meira Ricci, Brazil",
+      "timezone": "UTC",
+      "date": "2015-10-13T21:00:00+00:00",
+      "timestamp": 1444770000,
+      "periods": {
+        "first": 1444770000,
+        "second": 1444773600
+      },
+      "venue": {
+        "id": null,
+        "name": "Olimpico Atahualpa",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2381,
+        "name": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/2381.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256701,
+      "referee": "Julio Bascunan, Chile",
+      "timezone": "UTC",
+      "date": "2015-10-09T00:00:00+00:00",
+      "timestamp": 1444348800,
+      "periods": {
+        "first": 1444348800,
+        "second": 1444352400
+      },
+      "venue": {
+        "id": null,
+        "name": "El Monumental",
+        "city": "Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]

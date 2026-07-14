@@ -1,0 +1,156 @@
+[
+  {
+    "team": {
+      "id": 1531,
+      "name": "South Africa",
+      "logo": "https://media.api-sports.io/football/teams/1531.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 3
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 3
+      },
+      {
+        "type": "Total Shots",
+        "value": 6
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 0
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 2
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 4
+      },
+      {
+        "type": "Fouls",
+        "value": 13
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 3
+      },
+      {
+        "type": "Offsides",
+        "value": 1
+      },
+      {
+        "type": "Ball Possession",
+        "value": "56%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 4
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 6
+      },
+      {
+        "type": "Total passes",
+        "value": 401
+      },
+      {
+        "type": "Passes accurate",
+        "value": 340
+      },
+      {
+        "type": "Passes %",
+        "value": "85%"
+      },
+      {
+        "type": "expected_goals",
+        "value": null
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 1508,
+      "name": "Congo DR",
+      "logo": "https://media.api-sports.io/football/teams/1508.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 6
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 4
+      },
+      {
+        "type": "Total Shots",
+        "value": 13
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 3
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 10
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 3
+      },
+      {
+        "type": "Fouls",
+        "value": 8
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 7
+      },
+      {
+        "type": "Offsides",
+        "value": 1
+      },
+      {
+        "type": "Ball Possession",
+        "value": "44%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 1
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 2
+      },
+      {
+        "type": "Total passes",
+        "value": 301
+      },
+      {
+        "type": "Passes accurate",
+        "value": 240
+      },
+      {
+        "type": "Passes %",
+        "value": "80%"
+      },
+      {
+        "type": "expected_goals",
+        "value": null
+      }
+    ]
+  }
+]

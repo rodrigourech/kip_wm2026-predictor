@@ -1,0 +1,8192 @@
+[
+  {
+    "fixture": {
+      "id": 1528996,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-11-17T19:45:00+00:00",
+      "timestamp": 1794944700,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1116,
+        "name": "Israel",
+        "logo": "https://media.api-sports.io/football/teams/1116.png",
+        "winner": null
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1528976,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-11-14T19:45:00+00:00",
+      "timestamp": 1794685500,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      },
+      "away": {
+        "id": 776,
+        "name": "Rep. Of Ireland",
+        "logo": "https://media.api-sports.io/football/teams/776.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1528938,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-10-04T16:00:00+00:00",
+      "timestamp": 1791129600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1111,
+        "name": "Kosovo",
+        "logo": "https://media.api-sports.io/football/teams/1111.png",
+        "winner": null
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1528921,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-10-01T18:45:00+00:00",
+      "timestamp": 1790880300,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 776,
+        "name": "Rep. Of Ireland",
+        "logo": "https://media.api-sports.io/football/teams/776.png",
+        "winner": null
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1528898,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-09-27T16:00:00+00:00",
+      "timestamp": 1790524800,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1111,
+        "name": "Kosovo",
+        "logo": "https://media.api-sports.io/football/teams/1111.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1528878,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-09-24T18:45:00+00:00",
+      "timestamp": 1790275500,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1116,
+        "name": "Israel",
+        "logo": "https://media.api-sports.io/football/teams/1116.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1567311,
+      "referee": "Glenn Nyberg, Sweden",
+      "timezone": "UTC",
+      "date": "2026-07-02T19:00:00+00:00",
+      "timestamp": 1783018800,
+      "periods": {
+        "first": 1783018800,
+        "second": 1783022400
+      },
+      "venue": {
+        "id": null,
+        "name": "SoFi Stadium",
+        "city": "Inglewood"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 1
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Round of 32",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 9,
+        "name": "Spain",
+        "logo": "https://media.api-sports.io/football/teams/9.png",
+        "winner": true
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489418,
+      "referee": "I. Tantashev",
+      "timezone": "UTC",
+      "date": "2026-06-28T02:00:00+00:00",
+      "timestamp": 1782612000,
+      "periods": {
+        "first": 1782612000,
+        "second": 1782615600
+      },
+      "venue": {
+        "id": null,
+        "name": "Arrowhead Stadium",
+        "city": "Kansas City"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": null
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489399,
+      "referee": "Amin Mohamed Omar, Egypt",
+      "timezone": "UTC",
+      "date": "2026-06-22T17:00:00+00:00",
+      "timestamp": 1782147600,
+      "periods": {
+        "first": 1782147600,
+        "second": 1782151200
+      },
+      "venue": {
+        "id": null,
+        "name": "AT&T Stadium",
+        "city": "Arlington"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": true
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489382,
+      "referee": "Dahane Beida, Mauritania",
+      "timezone": "UTC",
+      "date": "2026-06-17T04:00:00+00:00",
+      "timestamp": 1781668800,
+      "periods": {
+        "first": 1781668800,
+        "second": 1781672400
+      },
+      "venue": {
+        "id": null,
+        "name": "Levi's Stadium",
+        "city": "Santa Clara"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 13
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1548,
+        "name": "Jordan",
+        "logo": "https://media.api-sports.io/football/teams/1548.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1542184,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-06-11T04:00:00+00:00",
+      "timestamp": 1781150400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Rose Bowl",
+        "city": null
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5161,
+        "name": "Guatemala",
+        "logo": "https://media.api-sports.io/football/teams/5161.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1511733,
+      "referee": "Jeremie Pignard, France",
+      "timezone": "UTC",
+      "date": "2026-06-01T18:45:00+00:00",
+      "timestamp": 1780339500,
+      "periods": {
+        "first": 1780339500,
+        "second": 1780343100
+      },
+      "venue": {
+        "id": null,
+        "name": "Ernst Happel Stadion",
+        "city": "Vienna"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 28,
+        "name": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/28.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1511732,
+      "referee": "S. van der Eijk",
+      "timezone": "UTC",
+      "date": "2026-03-31T18:45:00+00:00",
+      "timestamp": 1774982700,
+      "periods": {
+        "first": 1774982700,
+        "second": 1774986300
+      },
+      "venue": {
+        "id": null,
+        "name": "Ernst Happel Stadion",
+        "city": "Vienna"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 17,
+        "name": "South Korea",
+        "logo": "https://media.api-sports.io/football/teams/17.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1511731,
+      "referee": "Mohammed Khled Hoish, Saudi Arabia",
+      "timezone": "UTC",
+      "date": "2026-03-27T17:00:00+00:00",
+      "timestamp": 1774630800,
+      "periods": {
+        "first": 1774630800,
+        "second": 1774634400
+      },
+      "venue": {
+        "id": null,
+        "name": "Ernst Happel Stadion",
+        "city": "Vienna"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323371,
+      "referee": "J. Pinheiro",
+      "timezone": "UTC",
+      "date": "2025-11-18T19:45:00+00:00",
+      "timestamp": 1763495100,
+      "periods": {
+        "first": 1763495100,
+        "second": 1763498700
+      },
+      "venue": {
+        "id": null,
+        "name": "Ernst Happel Stadion",
+        "city": "Vienna"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1113,
+        "name": "Bosnia & Herzegovina",
+        "logo": "https://media.api-sports.io/football/teams/1113.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323353,
+      "referee": "U. Schnyder",
+      "timezone": "UTC",
+      "date": "2025-11-15T17:00:00+00:00",
+      "timestamp": 1763226000,
+      "periods": {
+        "first": 1763226000,
+        "second": 1763229600
+      },
+      "venue": {
+        "id": null,
+        "name": "Alphamega Stadium",
+        "city": "Limassol"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1106,
+        "name": "Cyprus",
+        "logo": "https://media.api-sports.io/football/teams/1106.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323331,
+      "referee": "D. Massa",
+      "timezone": "UTC",
+      "date": "2025-10-12T18:45:00+00:00",
+      "timestamp": 1760294700,
+      "periods": {
+        "first": 1760294700,
+        "second": 1760298300
+      },
+      "venue": {
+        "id": null,
+        "name": "Arena Nationala",
+        "city": "Bucharest"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 774,
+        "name": "Romania",
+        "logo": "https://media.api-sports.io/football/teams/774.png",
+        "winner": true
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323313,
+      "referee": "I. Frid",
+      "timezone": "UTC",
+      "date": "2025-10-09T18:45:00+00:00",
+      "timestamp": 1760035500,
+      "periods": {
+        "first": 1760035500,
+        "second": 1760039100
+      },
+      "venue": {
+        "id": null,
+        "name": "Ernst Happel Stadion",
+        "city": "Vienna"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1115,
+        "name": "San Marino",
+        "logo": "https://media.api-sports.io/football/teams/1115.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 10,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 6,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 10,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323307,
+      "referee": "J. Manzano",
+      "timezone": "UTC",
+      "date": "2025-09-09T18:45:00+00:00",
+      "timestamp": 1757443500,
+      "periods": {
+        "first": 1757443500,
+        "second": 1757447100
+      },
+      "venue": {
+        "id": null,
+        "name": "Bilino Polje",
+        "city": "Zenica"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1113,
+        "name": "Bosnia & Herzegovina",
+        "logo": "https://media.api-sports.io/football/teams/1113.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323293,
+      "referee": "J. Kehlet",
+      "timezone": "UTC",
+      "date": "2025-09-06T18:45:00+00:00",
+      "timestamp": 1757184300,
+      "periods": {
+        "first": 1757184300,
+        "second": 1757187900
+      },
+      "venue": {
+        "id": null,
+        "name": "Raiffeisen Arena",
+        "city": "Linz"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 12
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1106,
+        "name": "Cyprus",
+        "logo": "https://media.api-sports.io/football/teams/1106.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323276,
+      "referee": "O. Berka",
+      "timezone": "UTC",
+      "date": "2025-06-10T18:45:00+00:00",
+      "timestamp": 1749581100,
+      "periods": {
+        "first": 1749581100,
+        "second": 1749584700
+      },
+      "venue": {
+        "id": null,
+        "name": "San Marino Stadium",
+        "city": "Serravalle"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1115,
+        "name": "San Marino",
+        "logo": "https://media.api-sports.io/football/teams/1115.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 4
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323268,
+      "referee": "M. Mariani",
+      "timezone": "UTC",
+      "date": "2025-06-07T18:45:00+00:00",
+      "timestamp": 1749321900,
+      "periods": {
+        "first": 1749321900,
+        "second": 1749325500
+      },
+      "venue": {
+        "id": null,
+        "name": "Ernst Happel Stadion",
+        "city": "Vienna"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 774,
+        "name": "Romania",
+        "logo": "https://media.api-sports.io/football/teams/774.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1316558,
+      "referee": "José María Sánchez Martínez, Spain",
+      "timezone": "UTC",
+      "date": "2025-03-23T17:00:00+00:00",
+      "timestamp": 1742749200,
+      "periods": {
+        "first": 1742749200,
+        "second": 1742752800
+      },
+      "venue": {
+        "id": 1406,
+        "name": "Stadion Rajko Mitić",
+        "city": "Beograd"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Play-offs A/B",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 14,
+        "name": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14.png",
+        "winner": true
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1316557,
+      "referee": "Joao Pedro Pinheiro, Portugal",
+      "timezone": "UTC",
+      "date": "2025-03-20T19:45:00+00:00",
+      "timestamp": 1742499900,
+      "periods": {
+        "first": 1742499900,
+        "second": 1742503500
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Play-offs A/B",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      },
+      "away": {
+        "id": 14,
+        "name": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172933,
+      "referee": "Glenn Nyberg, Sweden",
+      "timezone": "UTC",
+      "date": "2024-11-17T17:00:00+00:00",
+      "timestamp": 1731862800,
+      "periods": {
+        "first": 1731862800,
+        "second": 1731866400
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League B - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1091,
+        "name": "Slovenia",
+        "logo": "https://media.api-sports.io/football/teams/1091.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172923,
+      "referee": "Marian Barbu, Romania",
+      "timezone": "UTC",
+      "date": "2024-11-14T15:00:00+00:00",
+      "timestamp": 1731596400,
+      "periods": {
+        "first": 1731596400,
+        "second": 1731600000
+      },
+      "venue": {
+        "id": null,
+        "name": "Central Stadium",
+        "city": "Almaty"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League B - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1095,
+        "name": "Kazakhstan",
+        "logo": "https://media.api-sports.io/football/teams/1095.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172918,
+      "referee": "Tamas Bognar, Hungary",
+      "timezone": "UTC",
+      "date": "2024-10-13T18:45:00+00:00",
+      "timestamp": 1728845100,
+      "periods": {
+        "first": 1728845100,
+        "second": 1728848700
+      },
+      "venue": {
+        "id": null,
+        "name": "Raiffeisen Arena",
+        "city": "Linz"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League B - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172909,
+      "referee": "Don Robertson, Scotland",
+      "timezone": "UTC",
+      "date": "2024-10-10T18:45:00+00:00",
+      "timestamp": 1728585900,
+      "periods": {
+        "first": 1728585900,
+        "second": 1728589500
+      },
+      "venue": {
+        "id": null,
+        "name": "Raiffeisen Arena",
+        "city": "Linz"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League B - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1095,
+        "name": "Kazakhstan",
+        "logo": "https://media.api-sports.io/football/teams/1095.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172899,
+      "referee": "Nikola Dabanovic, Montenegro",
+      "timezone": "UTC",
+      "date": "2024-09-09T18:45:00+00:00",
+      "timestamp": 1725907500,
+      "periods": {
+        "first": 1725907500,
+        "second": 1725911100
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League B - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172892,
+      "referee": "Petrescu Radu Marian, Romania",
+      "timezone": "UTC",
+      "date": "2024-09-06T18:45:00+00:00",
+      "timestamp": 1725648300,
+      "periods": {
+        "first": 1725648300,
+        "second": 1725651900
+      },
+      "venue": {
+        "id": 1442,
+        "name": "Stadion Stožice",
+        "city": "Ljubljana"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League B - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1091,
+        "name": "Slovenia",
+        "logo": "https://media.api-sports.io/football/teams/1091.png",
+        "winner": null
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1215078,
+      "referee": "Artur Soares Dias",
+      "timezone": "UTC",
+      "date": "2024-07-02T19:00:00+00:00",
+      "timestamp": 1719946800,
+      "periods": {
+        "first": 1719946800,
+        "second": 1719950400
+      },
+      "venue": {
+        "id": 20737,
+        "name": "Leipzig Stadium",
+        "city": "Leipzig"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Round of 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      },
+      "away": {
+        "id": 777,
+        "name": "Türkiye",
+        "logo": "https://media.api-sports.io/football/teams/777.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1145533,
+      "referee": "I. Kružliak",
+      "timezone": "UTC",
+      "date": "2024-06-25T16:00:00+00:00",
+      "timestamp": 1719331200,
+      "periods": {
+        "first": 1719331200,
+        "second": 1719334800
+      },
+      "venue": {
+        "id": 694,
+        "name": "Olympiastadion Berlin",
+        "city": "Berlin"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group D - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1118,
+        "name": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1118.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1189850,
+      "referee": "H. Meler",
+      "timezone": "UTC",
+      "date": "2024-06-21T16:00:00+00:00",
+      "timestamp": 1718985600,
+      "periods": {
+        "first": 1718985600,
+        "second": 1718989200
+      },
+      "venue": {
+        "id": 694,
+        "name": "Olympiastadion Berlin",
+        "city": "Berlin"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group D - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 24,
+        "name": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1145515,
+      "referee": "Gil Manzano",
+      "timezone": "UTC",
+      "date": "2024-06-17T19:00:00+00:00",
+      "timestamp": 1718650800,
+      "periods": {
+        "first": 1718650800,
+        "second": 1718654400
+      },
+      "venue": {
+        "id": 714,
+        "name": "Merkur Spiel-Arena",
+        "city": "Düsseldorf"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group D - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2,
+        "name": "France",
+        "logo": "https://media.api-sports.io/football/teams/2.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1173869,
+      "referee": "M. Ferrieri Caputi",
+      "timezone": "UTC",
+      "date": "2024-06-08T16:00:00+00:00",
+      "timestamp": 1717862400,
+      "periods": {
+        "first": 1717862400,
+        "second": 1717866000
+      },
+      "venue": {
+        "id": 1543,
+        "name": "kybunpark",
+        "city": "St. Gallen"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 15,
+        "name": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/15.png",
+        "winner": null
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1173868,
+      "referee": "António Nobre",
+      "timezone": "UTC",
+      "date": "2024-06-04T18:45:00+00:00",
+      "timestamp": 1717526700,
+      "periods": {
+        "first": 1717526700,
+        "second": 1717530300
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 14,
+        "name": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172362,
+      "referee": "D. Chiffi",
+      "timezone": "UTC",
+      "date": "2024-03-26T19:45:00+00:00",
+      "timestamp": 1711482300,
+      "periods": {
+        "first": 1711482300,
+        "second": 1711485900
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 777,
+        "name": "Türkiye",
+        "logo": "https://media.api-sports.io/football/teams/777.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 6,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 6,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1155269,
+      "referee": "T. Farrugia Cann",
+      "timezone": "UTC",
+      "date": "2024-03-23T17:00:00+00:00",
+      "timestamp": 1711213200,
+      "periods": {
+        "first": 1711213200,
+        "second": 1711216800
+      },
+      "venue": {
+        "id": 11914,
+        "name": "Štadión Tehelné pole",
+        "city": "Bratislava"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 773,
+        "name": "Slovakia",
+        "logo": "https://media.api-sports.io/football/teams/773.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1117888,
+      "referee": "Slavko Vincic, Slovenia",
+      "timezone": "UTC",
+      "date": "2023-11-21T19:45:00+00:00",
+      "timestamp": 1700595900,
+      "periods": {
+        "first": 1700595900,
+        "second": 1700599500
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 25,
+        "name": "Germany",
+        "logo": "https://media.api-sports.io/football/teams/25.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980641,
+      "referee": "N. Dabanović",
+      "timezone": "UTC",
+      "date": "2023-11-16T17:00:00+00:00",
+      "timestamp": 1700154000,
+      "periods": {
+        "first": 1700154000,
+        "second": 1700157600
+      },
+      "venue": {
+        "id": 605,
+        "name": "A. Le Coq Arena",
+        "city": "Tallinn"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1101,
+        "name": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/1101.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980626,
+      "referee": "A. Diamantopoulos",
+      "timezone": "UTC",
+      "date": "2023-10-16T16:00:00+00:00",
+      "timestamp": 1697472000,
+      "periods": {
+        "first": 1697472000,
+        "second": 1697475600
+      },
+      "venue": {
+        "id": 5799,
+        "name": "Tofiq Bəhramov adına Respublika stadionu",
+        "city": "Baku"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1096,
+        "name": "Azerbaijan",
+        "logo": "https://media.api-sports.io/football/teams/1096.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980605,
+      "referee": "Gil Manzano",
+      "timezone": "UTC",
+      "date": "2023-10-13T18:45:00+00:00",
+      "timestamp": 1697222700,
+      "periods": {
+        "first": 1697222700,
+        "second": 1697226300
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980590,
+      "referee": "S. Gözübüyük",
+      "timezone": "UTC",
+      "date": "2023-09-12T18:45:00+00:00",
+      "timestamp": 1694544300,
+      "periods": {
+        "first": 1694544300,
+        "second": 1694547900
+      },
+      "venue": {
+        "id": 21411,
+        "name": "Strawberry Arena",
+        "city": "Solna"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5,
+        "name": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/5.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1068052,
+      "referee": "Robert Jones, England",
+      "timezone": "UTC",
+      "date": "2023-09-07T18:30:00+00:00",
+      "timestamp": 1694111400,
+      "periods": {
+        "first": 1694111400,
+        "second": 1694115000
+      },
+      "venue": {
+        "id": null,
+        "name": "Raiffeisen Arena",
+        "city": "Linz"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1114,
+        "name": "Moldova",
+        "logo": "https://media.api-sports.io/football/teams/1114.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980541,
+      "referee": "M. Guida",
+      "timezone": "UTC",
+      "date": "2023-06-20T18:45:00+00:00",
+      "timestamp": 1687286700,
+      "periods": {
+        "first": 1687286700,
+        "second": 1687290300
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5,
+        "name": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/5.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980522,
+      "referee": "J. Brisard",
+      "timezone": "UTC",
+      "date": "2023-06-17T18:45:00+00:00",
+      "timestamp": 1687027500,
+      "periods": {
+        "first": 1687027500,
+        "second": 1687031100
+      },
+      "venue": {
+        "id": 21827,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980492,
+      "referee": "E. Jorgji",
+      "timezone": "UTC",
+      "date": "2023-03-27T18:45:00+00:00",
+      "timestamp": 1679942700,
+      "periods": {
+        "first": 1679942700,
+        "second": 1679946300
+      },
+      "venue": {
+        "id": 22797,
+        "name": "Raiffeisen Arena",
+        "city": "Linz"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1101,
+        "name": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/1101.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980469,
+      "referee": "B. Frankowski",
+      "timezone": "UTC",
+      "date": "2023-03-24T19:45:00+00:00",
+      "timestamp": 1679687100,
+      "periods": {
+        "first": 1679687100,
+        "second": 1679690700
+      },
+      "venue": {
+        "id": 22797,
+        "name": "Raiffeisen Arena",
+        "city": "Linz"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1096,
+        "name": "Azerbaijan",
+        "logo": "https://media.api-sports.io/football/teams/1096.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 962102,
+      "referee": "C. Dingert",
+      "timezone": "UTC",
+      "date": "2022-11-20T19:45:00+00:00",
+      "timestamp": 1668973500,
+      "periods": {
+        "first": 1668973500,
+        "second": 1668977100
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 768,
+        "name": "Italy",
+        "logo": "https://media.api-sports.io/football/teams/768.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 962098,
+      "referee": "José Munuera",
+      "timezone": "UTC",
+      "date": "2022-11-16T17:00:00+00:00",
+      "timestamp": 1668618000,
+      "periods": {
+        "first": 1668618000,
+        "second": 1668621600
+      },
+      "venue": {
+        "id": 1483,
+        "name": "Estadio La Rosaleda",
+        "city": "Málaga"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1110,
+        "name": "Andorra",
+        "logo": "https://media.api-sports.io/football/teams/1110.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854617,
+      "referee": "Artur Soares Dias, Portugal",
+      "timezone": "UTC",
+      "date": "2022-09-25T18:45:00+00:00",
+      "timestamp": 1664131500,
+      "periods": {
+        "first": 1664131500,
+        "second": 1664135100
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League A - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      },
+      "away": {
+        "id": 3,
+        "name": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/3.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854610,
+      "referee": "Andreas Ekberg, Sweden",
+      "timezone": "UTC",
+      "date": "2022-09-22T18:45:00+00:00",
+      "timestamp": 1663872300,
+      "periods": {
+        "first": 1663872300,
+        "second": 1663875900
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de France",
+        "city": "Paris"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League A - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2,
+        "name": "France",
+        "logo": "https://media.api-sports.io/football/teams/2.png",
+        "winner": true
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854603,
+      "referee": "Alejandro Hernandez, Spain",
+      "timezone": "UTC",
+      "date": "2022-06-13T18:45:00+00:00",
+      "timestamp": 1655145900,
+      "periods": {
+        "first": 1655145900,
+        "second": 1655149500
+      },
+      "venue": {
+        "id": 11600,
+        "name": "Parken",
+        "city": "København"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League A - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 21,
+        "name": "Denmark",
+        "logo": "https://media.api-sports.io/football/teams/21.png",
+        "winner": true
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854595,
+      "referee": "Tasos Sidiropoulos, Greece",
+      "timezone": "UTC",
+      "date": "2022-06-10T18:45:00+00:00",
+      "timestamp": 1654886700,
+      "periods": {
+        "first": 1654886700,
+        "second": 1654890300
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League A - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2,
+        "name": "France",
+        "logo": "https://media.api-sports.io/football/teams/2.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854587,
+      "referee": "William Collum, Scotland",
+      "timezone": "UTC",
+      "date": "2022-06-06T18:45:00+00:00",
+      "timestamp": 1654541100,
+      "periods": {
+        "first": 1654541100,
+        "second": 1654544700
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League A - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      },
+      "away": {
+        "id": 21,
+        "name": "Denmark",
+        "logo": "https://media.api-sports.io/football/teams/21.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854579,
+      "referee": "Chris Kavanagh, England",
+      "timezone": "UTC",
+      "date": "2022-06-03T18:45:00+00:00",
+      "timestamp": 1654281900,
+      "periods": {
+        "first": 1654281900,
+        "second": 1654285500
+      },
+      "venue": {
+        "id": 422,
+        "name": "Stadion Gradski vrt",
+        "city": "Osijek"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League A - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 3,
+        "name": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/3.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 852621,
+      "referee": "T. Bognár",
+      "timezone": "UTC",
+      "date": "2022-03-29T18:45:00+00:00",
+      "timestamp": 1648579500,
+      "periods": {
+        "first": 1648579500,
+        "second": 1648583100
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 813708,
+      "referee": "S. Marciniak",
+      "timezone": "UTC",
+      "date": "2022-03-24T19:45:00+00:00",
+      "timestamp": 1648151100,
+      "periods": {
+        "first": 1648151100,
+        "second": 1648154700
+      },
+      "venue": {
+        "id": null,
+        "name": "Cardiff City Stadium",
+        "city": "Caerdydd"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Play-offs - Semi-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 767,
+        "name": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/767.png",
+        "winner": true
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 651142,
+      "referee": "A. Stavrev",
+      "timezone": "UTC",
+      "date": "2021-11-15T19:45:00+00:00",
+      "timestamp": 1637005500,
+      "periods": {
+        "first": 1637005500,
+        "second": 1637009100
+      },
+      "venue": {
+        "id": 19258,
+        "name": "28 Black Arena",
+        "city": "Klagenfurt am Wörthersee"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1114,
+        "name": "Moldova",
+        "logo": "https://media.api-sports.io/football/teams/1114.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 651117,
+      "referee": "O. Hațegan",
+      "timezone": "UTC",
+      "date": "2021-11-12T19:45:00+00:00",
+      "timestamp": 1636746300,
+      "periods": {
+        "first": 1636746300,
+        "second": 1636749900
+      },
+      "venue": {
+        "id": 19258,
+        "name": "28 Black Arena",
+        "city": "Klagenfurt am Wörthersee"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1116,
+        "name": "Israel",
+        "logo": "https://media.api-sports.io/football/teams/1116.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 651099,
+      "referee": "I. Kružliak",
+      "timezone": "UTC",
+      "date": "2021-10-12T18:45:00+00:00",
+      "timestamp": 1634064300,
+      "periods": {
+        "first": 1634064300,
+        "second": 1634067900
+      },
+      "venue": {
+        "id": 11600,
+        "name": "Parken",
+        "city": "København"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 21,
+        "name": "Denmark",
+        "logo": "https://media.api-sports.io/football/teams/21.png",
+        "winner": true
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 651075,
+      "referee": "I. Peljto",
+      "timezone": "UTC",
+      "date": "2021-10-09T18:45:00+00:00",
+      "timestamp": 1633805100,
+      "periods": {
+        "first": 1633805100,
+        "second": 1633808700
+      },
+      "venue": {
+        "id": 2609,
+        "name": "Tórsvøllur",
+        "city": "Tórshavn, Streymoy"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1098,
+        "name": "Faroe Islands",
+        "logo": "https://media.api-sports.io/football/teams/1098.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 651034,
+      "referee": "G. Kabakov",
+      "timezone": "UTC",
+      "date": "2021-09-07T18:45:00+00:00",
+      "timestamp": 1631040300,
+      "periods": {
+        "first": 1631040300,
+        "second": 1631043900
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 651013,
+      "referee": "F. Zwayer",
+      "timezone": "UTC",
+      "date": "2021-09-04T18:45:00+00:00",
+      "timestamp": 1630781100,
+      "periods": {
+        "first": 1630781100,
+        "second": 1630784700
+      },
+      "venue": {
+        "id": 868,
+        "name": "Sammy Ofer Stadium",
+        "city": "Haifa"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1116,
+        "name": "Israel",
+        "logo": "https://media.api-sports.io/football/teams/1116.png",
+        "winner": true
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 650986,
+      "referee": "P. Tierney",
+      "timezone": "UTC",
+      "date": "2021-09-01T18:45:00+00:00",
+      "timestamp": 1630521900,
+      "periods": {
+        "first": 1630521900,
+        "second": 1630525500
+      },
+      "venue": {
+        "id": 2615,
+        "name": "Stadionul Zimbru",
+        "city": "Chişinău"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1114,
+        "name": "Moldova",
+        "logo": "https://media.api-sports.io/football/teams/1114.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 713161,
+      "referee": "A. Taylor",
+      "timezone": "UTC",
+      "date": "2021-06-26T19:00:00+00:00",
+      "timestamp": 1624734000,
+      "periods": {
+        "first": 1624734000,
+        "second": 1624737600
+      },
+      "venue": {
+        "id": 489,
+        "name": "Wembley Stadium",
+        "city": "London"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "AET",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Round of 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 768,
+        "name": "Italy",
+        "logo": "https://media.api-sports.io/football/teams/768.png",
+        "winner": true
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": 2,
+        "away": 1
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 657700,
+      "referee": "C. Çakιr",
+      "timezone": "UTC",
+      "date": "2021-06-21T16:00:00+00:00",
+      "timestamp": 1624291200,
+      "periods": {
+        "first": 1624291200,
+        "second": 1624294800
+      },
+      "venue": {
+        "id": 1326,
+        "name": "Arena Naţională",
+        "city": "Bucureşti"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group C - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 772,
+        "name": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/772.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 657691,
+      "referee": "O. Grinfeeld",
+      "timezone": "UTC",
+      "date": "2021-06-17T19:00:00+00:00",
+      "timestamp": 1623956400,
+      "periods": {
+        "first": 1623956400,
+        "second": 1623960000
+      },
+      "venue": {
+        "id": 1117,
+        "name": "Johan Cruijff Arena",
+        "city": "Amsterdam"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group C - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1118,
+        "name": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1118.png",
+        "winner": true
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 657679,
+      "referee": "A. Ekberg",
+      "timezone": "UTC",
+      "date": "2021-06-13T16:00:00+00:00",
+      "timestamp": 1623600000,
+      "periods": {
+        "first": 1623600000,
+        "second": 1623603600
+      },
+      "venue": {
+        "id": 1326,
+        "name": "Arena Naţională",
+        "city": "Bucureşti"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group C - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1105,
+        "name": "FYR Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/1105.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 673772,
+      "referee": "U. Schnyder",
+      "timezone": "UTC",
+      "date": "2021-06-06T15:30:00+00:00",
+      "timestamp": 1622993400,
+      "periods": {
+        "first": 1622993400,
+        "second": 1622997000
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      },
+      "away": {
+        "id": 773,
+        "name": "Slovakia",
+        "logo": "https://media.api-sports.io/football/teams/773.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 673769,
+      "referee": "L. Visser",
+      "timezone": "UTC",
+      "date": "2021-06-02T19:00:00+00:00",
+      "timestamp": 1622660400,
+      "periods": {
+        "first": 1622660400,
+        "second": 1622664000
+      },
+      "venue": {
+        "id": 558,
+        "name": "Riverside Stadium",
+        "city": "Middlesbrough"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 10,
+        "name": "England",
+        "logo": "https://media.api-sports.io/football/teams/10.png",
+        "winner": true
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 650972,
+      "referee": "Artur Soares Dias",
+      "timezone": "UTC",
+      "date": "2021-03-31T18:45:00+00:00",
+      "timestamp": 1617216300,
+      "periods": {
+        "first": 1617216300,
+        "second": 1617219900
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      },
+      "away": {
+        "id": 21,
+        "name": "Denmark",
+        "logo": "https://media.api-sports.io/football/teams/21.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 650949,
+      "referee": "K. Monzul",
+      "timezone": "UTC",
+      "date": "2021-03-28T18:45:00+00:00",
+      "timestamp": 1616957100,
+      "periods": {
+        "first": 1616957100,
+        "second": 1616960700
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1098,
+        "name": "Faroe Islands",
+        "logo": "https://media.api-sports.io/football/teams/1098.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 650923,
+      "referee": "Carlos Del Cerro",
+      "timezone": "UTC",
+      "date": "2021-03-25T19:45:00+00:00",
+      "timestamp": 1616701500,
+      "periods": {
+        "first": 1616701500,
+        "second": 1616705100
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332515,
+      "referee": "Benoît Bastien, France",
+      "timezone": "UTC",
+      "date": "2020-11-18T19:45:00+00:00",
+      "timestamp": 1605728700,
+      "periods": {
+        "first": 1605728700,
+        "second": 1605732300
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League B - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332511,
+      "referee": "Maurizio Mariani, Italy",
+      "timezone": "UTC",
+      "date": "2020-11-15T19:45:00+00:00",
+      "timestamp": 1605469500,
+      "periods": {
+        "first": 1605469500,
+        "second": 1605473100
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League B - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 771,
+        "name": "Northern Ireland",
+        "logo": "https://media.api-sports.io/football/teams/771.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 598347,
+      "referee": "A. Delerue",
+      "timezone": "UTC",
+      "date": "2020-11-11T19:30:00+00:00",
+      "timestamp": 1605123000,
+      "periods": {
+        "first": 1605123000,
+        "second": 1605126600
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Josy Barthel",
+        "city": "Luxembourg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1102,
+        "name": "Luxembourg",
+        "logo": "https://media.api-sports.io/football/teams/1102.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332499,
+      "referee": "Daniel Stefanski, Poland",
+      "timezone": "UTC",
+      "date": "2020-10-14T18:45:00+00:00",
+      "timestamp": 1602701100,
+      "periods": {
+        "first": 1602701100,
+        "second": 1602704700
+      },
+      "venue": {
+        "id": 1312,
+        "name": "Stadionul Ilie Oană",
+        "city": "Ploieşti"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League B - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 774,
+        "name": "Romania",
+        "logo": "https://media.api-sports.io/football/teams/774.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332489,
+      "referee": "Petr Ardeleanu, Czech Republic",
+      "timezone": "UTC",
+      "date": "2020-10-11T18:45:00+00:00",
+      "timestamp": 1602441900,
+      "periods": {
+        "first": 1602441900,
+        "second": 1602445500
+      },
+      "venue": {
+        "id": 1971,
+        "name": "Windsor Park",
+        "city": "Belfast"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League B - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 771,
+        "name": "Northern Ireland",
+        "logo": "https://media.api-sports.io/football/teams/771.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 598334,
+      "referee": "M. Jug",
+      "timezone": "UTC",
+      "date": "2020-10-07T18:30:00+00:00",
+      "timestamp": 1602095400,
+      "periods": {
+        "first": 1602095400,
+        "second": 1602099000
+      },
+      "venue": {
+        "id": null,
+        "name": "Wörthersee Stadion",
+        "city": "Klagenfurt am Wörthersee"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1117,
+        "name": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/1117.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332485,
+      "referee": "Glenn Nyberg, Sweden",
+      "timezone": "UTC",
+      "date": "2020-09-07T18:45:00+00:00",
+      "timestamp": 1599504300,
+      "periods": {
+        "first": 1599504300,
+        "second": 1599507900
+      },
+      "venue": {
+        "id": 11874,
+        "name": "Wörthersee Stadion",
+        "city": "Klagenfurt am Wörthersee"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League B - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      },
+      "away": {
+        "id": 774,
+        "name": "Romania",
+        "logo": "https://media.api-sports.io/football/teams/774.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332477,
+      "referee": "Mattias Gestranius, Finland",
+      "timezone": "UTC",
+      "date": "2020-09-04T18:45:00+00:00",
+      "timestamp": 1599245100,
+      "periods": {
+        "first": 1599245100,
+        "second": 1599248700
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League B - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 313234,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-06-07T16:00:00+00:00",
+      "timestamp": 1591545600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 770,
+        "name": "Czechia",
+        "logo": "https://media.api-sports.io/football/teams/770.png",
+        "winner": null
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 313226,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-06-02T18:45:00+00:00",
+      "timestamp": 1591123500,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      },
+      "away": {
+        "id": 10,
+        "name": "England",
+        "logo": "https://media.api-sports.io/football/teams/10.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 313214,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-03-30T00:00:00+00:00",
+      "timestamp": 1585526400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      },
+      "away": {
+        "id": 777,
+        "name": "Türkiye",
+        "logo": "https://media.api-sports.io/football/teams/777.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 313208,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-03-27T00:00:00+00:00",
+      "timestamp": 1585267200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 591,
+        "name": "Liberty Stadium",
+        "city": "Swansea"
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 767,
+        "name": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/767.png",
+        "winner": null
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 133004,
+      "referee": "Alejandro Hernández",
+      "timezone": "UTC",
+      "date": "2019-11-19T19:45:00+00:00",
+      "timestamp": 1574192700,
+      "periods": {
+        "first": 1574192700,
+        "second": 1574196300
+      },
+      "venue": {
+        "id": null,
+        "name": "Daugavas Stadionā",
+        "city": "Riga"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1092,
+        "name": "Latvia",
+        "logo": "https://media.api-sports.io/football/teams/1092.png",
+        "winner": true
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132983,
+      "referee": "M. Oliver",
+      "timezone": "UTC",
+      "date": "2019-11-16T19:45:00+00:00",
+      "timestamp": 1573933500,
+      "periods": {
+        "first": 1573933500,
+        "second": 1573937100
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1105,
+        "name": "FYR Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/1105.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132941,
+      "referee": "C. Çakιr",
+      "timezone": "UTC",
+      "date": "2019-10-13T18:45:00+00:00",
+      "timestamp": 1570992300,
+      "periods": {
+        "first": 1570992300,
+        "second": 1570995900
+      },
+      "venue": {
+        "id": 1442,
+        "name": "Stadion Stožice",
+        "city": "Ljubljana"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1091,
+        "name": "Slovenia",
+        "logo": "https://media.api-sports.io/football/teams/1091.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132916,
+      "referee": "W. Collum",
+      "timezone": "UTC",
+      "date": "2019-10-10T18:45:00+00:00",
+      "timestamp": 1570733100,
+      "periods": {
+        "first": 1570733100,
+        "second": 1570736700
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1116,
+        "name": "Israel",
+        "logo": "https://media.api-sports.io/football/teams/1116.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132897,
+      "referee": "V. Kassai",
+      "timezone": "UTC",
+      "date": "2019-09-09T18:45:00+00:00",
+      "timestamp": 1568054700,
+      "periods": {
+        "first": 1568054700,
+        "second": 1568058300
+      },
+      "venue": {
+        "id": 1245,
+        "name": "Stadion Narodowy",
+        "city": "Warszawa"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 24,
+        "name": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24.png",
+        "winner": null
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132874,
+      "referee": "R. Hennessy",
+      "timezone": "UTC",
+      "date": "2019-09-06T18:45:00+00:00",
+      "timestamp": 1567795500,
+      "periods": {
+        "first": 1567795500,
+        "second": 1567799100
+      },
+      "venue": {
+        "id": 148,
+        "name": "Red Bull Arena",
+        "city": "Wals-Siezenheim"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1092,
+        "name": "Latvia",
+        "logo": "https://media.api-sports.io/football/teams/1092.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 6,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 6,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132845,
+      "referee": "A. Eskov",
+      "timezone": "UTC",
+      "date": "2019-06-10T18:45:00+00:00",
+      "timestamp": 1560192300,
+      "periods": {
+        "first": 1560192300,
+        "second": 1560195900
+      },
+      "venue": {
+        "id": 1045,
+        "name": "Toše Proeski Arena",
+        "city": "Skopje"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1105,
+        "name": "FYR Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/1105.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132820,
+      "referee": "A. Kulbakov",
+      "timezone": "UTC",
+      "date": "2019-06-07T18:45:00+00:00",
+      "timestamp": 1559933100,
+      "periods": {
+        "first": 1559933100,
+        "second": 1559936700
+      },
+      "venue": {
+        "id": null,
+        "name": "Wörthersee Stadion",
+        "city": "Klagenfurt am Wörthersee"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1091,
+        "name": "Slovenia",
+        "logo": "https://media.api-sports.io/football/teams/1091.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132787,
+      "referee": "E. Aranovskiy",
+      "timezone": "UTC",
+      "date": "2019-03-24T17:00:00+00:00",
+      "timestamp": 1553446800,
+      "periods": {
+        "first": 1553446800,
+        "second": 1553450400
+      },
+      "venue": {
+        "id": 868,
+        "name": "Sammy Ofer Stadium",
+        "city": "Haifa"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1116,
+        "name": "Israel",
+        "logo": "https://media.api-sports.io/football/teams/1116.png",
+        "winner": true
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132767,
+      "referee": "A. Sidiropoulos",
+      "timezone": "UTC",
+      "date": "2019-03-21T19:45:00+00:00",
+      "timestamp": 1553197500,
+      "periods": {
+        "first": 1553197500,
+        "second": 1553201100
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      },
+      "away": {
+        "id": 24,
+        "name": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132552,
+      "referee": "Jonathan Lardot, Belgium",
+      "timezone": "UTC",
+      "date": "2018-11-18T17:00:00+00:00",
+      "timestamp": 1542560400,
+      "periods": {
+        "first": 1542560400,
+        "second": 1542564000
+      },
+      "venue": {
+        "id": null,
+        "name": "Windsor Park",
+        "city": "Belfast"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2018,
+      "round": "League B - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 771,
+        "name": "Northern Ireland",
+        "logo": "https://media.api-sports.io/football/teams/771.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132548,
+      "referee": "Andrew Dallas, Scotland",
+      "timezone": "UTC",
+      "date": "2018-11-15T19:45:00+00:00",
+      "timestamp": 1542311100,
+      "periods": {
+        "first": 1542311100,
+        "second": 1542314700
+      },
+      "venue": {
+        "id": null,
+        "name": "Ernst Happel Stadion",
+        "city": "Vienna"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2018,
+      "round": "League B - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1113,
+        "name": "Bosnia & Herzegovina",
+        "logo": "https://media.api-sports.io/football/teams/1113.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225540,
+      "referee": "Ola Hobber Nilsen, Norway",
+      "timezone": "UTC",
+      "date": "2018-10-16T18:45:00+00:00",
+      "timestamp": 1539715500,
+      "periods": {
+        "first": 1539715500,
+        "second": 1539719100
+      },
+      "venue": {
+        "id": null,
+        "name": "MCH Arena",
+        "city": "Herning"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 21,
+        "name": "Denmark",
+        "logo": "https://media.api-sports.io/football/teams/21.png",
+        "winner": true
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132541,
+      "referee": "Georgi Kabakov, Bulgaria",
+      "timezone": "UTC",
+      "date": "2018-10-12T18:45:00+00:00",
+      "timestamp": 1539369900,
+      "periods": {
+        "first": 1539369900,
+        "second": 1539373500
+      },
+      "venue": {
+        "id": null,
+        "name": "Ernst Happel Stadion",
+        "city": "Vienna"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2018,
+      "round": "League B - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 771,
+        "name": "Northern Ireland",
+        "logo": "https://media.api-sports.io/football/teams/771.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132539,
+      "referee": "Ruddy Buquet, France",
+      "timezone": "UTC",
+      "date": "2018-09-11T18:45:00+00:00",
+      "timestamp": 1536691500,
+      "periods": {
+        "first": 1536691500,
+        "second": 1536695100
+      },
+      "venue": {
+        "id": null,
+        "name": "Stadion Bilino Polje",
+        "city": "Zenica"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2018,
+      "round": "League B - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1113,
+        "name": "Bosnia & Herzegovina",
+        "logo": "https://media.api-sports.io/football/teams/1113.png",
+        "winner": true
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225482,
+      "referee": "Pawel Gil, Poland",
+      "timezone": "UTC",
+      "date": "2018-09-06T18:45:00+00:00",
+      "timestamp": 1536259500,
+      "periods": {
+        "first": 1536259500,
+        "second": 1536263100
+      },
+      "venue": {
+        "id": null,
+        "name": "Generali Arena",
+        "city": "Vienna"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5,
+        "name": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/5.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225476,
+      "referee": "Viktor Kassai, Hungary",
+      "timezone": "UTC",
+      "date": "2018-06-10T14:00:00+00:00",
+      "timestamp": 1528639200,
+      "periods": {
+        "first": 1528639200,
+        "second": 1528642800
+      },
+      "venue": {
+        "id": null,
+        "name": "Ernst Happel Stadion",
+        "city": "Vienna"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      },
+      "away": {
+        "id": 6,
+        "name": "Brazil",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225436,
+      "referee": "Pavel Kralovec, Czech Republic",
+      "timezone": "UTC",
+      "date": "2018-06-02T17:40:00+00:00",
+      "timestamp": 1527961200,
+      "periods": {
+        "first": 1527961200,
+        "second": 1527964800
+      },
+      "venue": {
+        "id": null,
+        "name": "Worthersee Stadion",
+        "city": "Klagenfurt"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 25,
+        "name": "Germany",
+        "logo": "https://media.api-sports.io/football/teams/25.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225424,
+      "referee": "Bas Nijhuis, Netherlands",
+      "timezone": "UTC",
+      "date": "2018-05-30T18:45:00+00:00",
+      "timestamp": 1527705900,
+      "periods": {
+        "first": 1527705900,
+        "second": 1527709500
+      },
+      "venue": {
+        "id": null,
+        "name": "Tivoli W1",
+        "city": "Innsbruck"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4,
+        "name": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/4.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225389,
+      "referee": "Mattias Gestranius, Finland",
+      "timezone": "UTC",
+      "date": "2018-03-27T18:30:00+00:00",
+      "timestamp": 1522175400,
+      "periods": {
+        "first": 1522175400,
+        "second": 1522179000
+      },
+      "venue": {
+        "id": null,
+        "name": "Josy Barthel",
+        "city": "Luxembourg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1102,
+        "name": "Luxembourg",
+        "logo": "https://media.api-sports.io/football/teams/1102.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225354,
+      "referee": "Stephan Klossner, Switzerland",
+      "timezone": "UTC",
+      "date": "2018-03-23T19:45:00+00:00",
+      "timestamp": 1521834300,
+      "periods": {
+        "first": 1521834300,
+        "second": 1521837900
+      },
+      "venue": {
+        "id": null,
+        "name": "Worthersee Stadion",
+        "city": "Klagenfurt"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1091,
+        "name": "Slovenia",
+        "logo": "https://media.api-sports.io/football/teams/1091.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256647,
+      "referee": "B. Vertenten",
+      "timezone": "UTC",
+      "date": "2017-10-09T18:45:00+00:00",
+      "timestamp": 1507574700,
+      "periods": {
+        "first": 1507574700,
+        "second": 1507578300
+      },
+      "venue": {
+        "id": 2615,
+        "name": "Stadionul Zimbru",
+        "city": "Chişinău"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 10",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1114,
+        "name": "Moldova",
+        "logo": "https://media.api-sports.io/football/teams/1114.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256621,
+      "referee": "P. Kralovec",
+      "timezone": "UTC",
+      "date": "2017-10-06T18:45:00+00:00",
+      "timestamp": 1507315500,
+      "periods": {
+        "first": 1507315500,
+        "second": 1507319100
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 9",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 14,
+        "name": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256602,
+      "referee": "O. Grinfeld",
+      "timezone": "UTC",
+      "date": "2017-09-05T18:45:00+00:00",
+      "timestamp": 1504637100,
+      "periods": {
+        "first": 1504637100,
+        "second": 1504640700
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 8",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1104,
+        "name": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/1104.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256579,
+      "referee": "O. Hațegan",
+      "timezone": "UTC",
+      "date": "2017-09-02T18:45:00+00:00",
+      "timestamp": 1504377900,
+      "periods": {
+        "first": 1504377900,
+        "second": 1504381500
+      },
+      "venue": {
+        "id": null,
+        "name": "Cardiff City Stadium",
+        "city": "Caerdydd"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 7",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 767,
+        "name": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/767.png",
+        "winner": true
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256549,
+      "referee": "David Fernández",
+      "timezone": "UTC",
+      "date": "2017-06-11T16:00:00+00:00",
+      "timestamp": 1497196800,
+      "periods": {
+        "first": 1497196800,
+        "second": 1497200400
+      },
+      "venue": {
+        "id": 1970,
+        "name": "Aviva Stadium",
+        "city": "Dublin"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 6",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 776,
+        "name": "Rep. Of Ireland",
+        "logo": "https://media.api-sports.io/football/teams/776.png",
+        "winner": null
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256505,
+      "referee": "I. Vad II",
+      "timezone": "UTC",
+      "date": "2017-03-24T19:45:00+00:00",
+      "timestamp": 1490384700,
+      "periods": {
+        "first": 1490384700,
+        "second": 1490388300
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 5",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1114,
+        "name": "Moldova",
+        "logo": "https://media.api-sports.io/football/teams/1114.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256486,
+      "referee": "S. Karasev",
+      "timezone": "UTC",
+      "date": "2016-11-12T17:00:00+00:00",
+      "timestamp": 1478970000,
+      "periods": {
+        "first": 1478970000,
+        "second": 1478973600
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      },
+      "away": {
+        "id": 776,
+        "name": "Rep. Of Ireland",
+        "logo": "https://media.api-sports.io/football/teams/776.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256454,
+      "referee": "J. Eriksson",
+      "timezone": "UTC",
+      "date": "2016-10-09T18:45:00+00:00",
+      "timestamp": 1476038700,
+      "periods": {
+        "first": 1476038700,
+        "second": 1476042300
+      },
+      "venue": {
+        "id": 1406,
+        "name": "Stadion Rajko Mitić",
+        "city": "Beograd"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 14,
+        "name": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14.png",
+        "winner": true
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256422,
+      "referee": "C. Çakιr",
+      "timezone": "UTC",
+      "date": "2016-10-06T18:45:00+00:00",
+      "timestamp": 1475779500,
+      "periods": {
+        "first": 1475779500,
+        "second": 1475783100
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      },
+      "away": {
+        "id": 767,
+        "name": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/767.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256404,
+      "referee": "A. Kulbakov",
+      "timezone": "UTC",
+      "date": "2016-09-05T16:00:00+00:00",
+      "timestamp": 1473091200,
+      "periods": {
+        "first": 1473091200,
+        "second": 1473094800
+      },
+      "venue": {
+        "id": 691,
+        "name": "Boris Paichadze Dinamo Arena",
+        "city": "Tbilisi"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1104,
+        "name": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/1104.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]

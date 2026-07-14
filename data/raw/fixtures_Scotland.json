@@ -1,0 +1,7632 @@
+[
+  {
+    "fixture": {
+      "id": 1545652,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-11-16T18:45:00+00:00",
+      "timestamp": 1794854700,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 15,
+        "name": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/15.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1545659,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-11-13T18:45:00+00:00",
+      "timestamp": 1794595500,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1105,
+        "name": "FYR Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/1105.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1545657,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-10-06T18:45:00+00:00",
+      "timestamp": 1791312300,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1091,
+        "name": "Slovenia",
+        "logo": "https://media.api-sports.io/football/teams/1091.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1545660,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-10-03T18:45:00+00:00",
+      "timestamp": 1791053100,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1105,
+        "name": "FYR Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/1105.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1545651,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-09-29T18:45:00+00:00",
+      "timestamp": 1790707500,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      },
+      "away": {
+        "id": 15,
+        "name": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/15.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1545658,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-09-26T18:45:00+00:00",
+      "timestamp": 1790448300,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1091,
+        "name": "Slovenia",
+        "logo": "https://media.api-sports.io/football/teams/1091.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489406,
+      "referee": "César Ramos Palazuelos, Mexico",
+      "timezone": "UTC",
+      "date": "2026-06-24T22:00:00+00:00",
+      "timestamp": 1782338400,
+      "periods": {
+        "first": 1782338400,
+        "second": 1782342000
+      },
+      "venue": {
+        "id": null,
+        "name": "Hard Rock Stadium",
+        "city": "Miami Gardens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      },
+      "away": {
+        "id": 6,
+        "name": "Brazil",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489390,
+      "referee": "Ilgiz Tantashev, Uzbekistan",
+      "timezone": "UTC",
+      "date": "2026-06-19T22:00:00+00:00",
+      "timestamp": 1781906400,
+      "periods": {
+        "first": 1781906400,
+        "second": 1781910000
+      },
+      "venue": {
+        "id": 1618,
+        "name": "Gillette Stadium",
+        "city": "Boston"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      },
+      "away": {
+        "id": 31,
+        "name": "Morocco",
+        "logo": "https://media.api-sports.io/football/teams/31.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489372,
+      "referee": "Mustapha Ghorbal, Algeria",
+      "timezone": "UTC",
+      "date": "2026-06-14T01:00:00+00:00",
+      "timestamp": 1781398800,
+      "periods": {
+        "first": 1781398800,
+        "second": 1781402400
+      },
+      "venue": {
+        "id": 1618,
+        "name": "Gillette Stadium",
+        "city": "Boston"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1540949,
+      "referee": "Rosendo Mendoza, USA",
+      "timezone": "UTC",
+      "date": "2026-06-06T20:00:00+00:00",
+      "timestamp": 1780776000,
+      "periods": {
+        "first": 1780776000,
+        "second": 1780779600
+      },
+      "venue": {
+        "id": null,
+        "name": "Sports Illustrated Stadium",
+        "city": "Harrison"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2381,
+        "name": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/2381.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 4
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1511779,
+      "referee": "Goga Kikacheishvili, Georgia",
+      "timezone": "UTC",
+      "date": "2026-05-30T12:00:00+00:00",
+      "timestamp": 1780142400,
+      "periods": {
+        "first": 1780142400,
+        "second": 1780146000
+      },
+      "venue": {
+        "id": null,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5530,
+        "name": "Curaçao",
+        "logo": "https://media.api-sports.io/football/teams/5530.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1528278,
+      "referee": "D. Elder",
+      "timezone": "UTC",
+      "date": "2026-03-31T18:30:00+00:00",
+      "timestamp": 1774981800,
+      "periods": {
+        "first": 1774981800,
+        "second": 1774985400
+      },
+      "venue": {
+        "id": null,
+        "name": "Hill Dickinson Stadium",
+        "city": "Liverpool"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1511777,
+      "referee": "Shaun Evans, Australia",
+      "timezone": "UTC",
+      "date": "2026-03-28T17:00:00+00:00",
+      "timestamp": 1774717200,
+      "periods": {
+        "first": 1774717200,
+        "second": 1774720800
+      },
+      "venue": {
+        "id": null,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      },
+      "away": {
+        "id": 12,
+        "name": "Japan",
+        "logo": "https://media.api-sports.io/football/teams/12.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1366325,
+      "referee": "S. Marciniak",
+      "timezone": "UTC",
+      "date": "2025-11-18T19:45:00+00:00",
+      "timestamp": 1763495100,
+      "periods": {
+        "first": 1763495100,
+        "second": 1763498700
+      },
+      "venue": {
+        "id": null,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 10
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 21,
+        "name": "Denmark",
+        "logo": "https://media.api-sports.io/football/teams/21.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323357,
+      "referee": "J. Manzano",
+      "timezone": "UTC",
+      "date": "2025-11-15T19:45:00+00:00",
+      "timestamp": 1763235900,
+      "periods": {
+        "first": 1763235900,
+        "second": 1763239500
+      },
+      "venue": {
+        "id": null,
+        "name": "Georgios Karaiskakis Stadium",
+        "city": "Piraeus"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1117,
+        "name": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/1117.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323328,
+      "referee": "M. Barbu",
+      "timezone": "UTC",
+      "date": "2025-10-12T16:00:00+00:00",
+      "timestamp": 1760284800,
+      "periods": {
+        "first": 1760284800,
+        "second": 1760288400
+      },
+      "venue": {
+        "id": null,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 10
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1100,
+        "name": "Belarus",
+        "logo": "https://media.api-sports.io/football/teams/1100.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323311,
+      "referee": "E. Eskas",
+      "timezone": "UTC",
+      "date": "2025-10-09T18:45:00+00:00",
+      "timestamp": 1760035500,
+      "periods": {
+        "first": 1760035500,
+        "second": 1760039100
+      },
+      "venue": {
+        "id": null,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1117,
+        "name": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/1117.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323302,
+      "referee": "N. Dabanovic",
+      "timezone": "UTC",
+      "date": "2025-09-08T18:45:00+00:00",
+      "timestamp": 1757357100,
+      "periods": {
+        "first": 1757357100,
+        "second": 1757360700
+      },
+      "venue": {
+        "id": 818,
+        "name": "ZTE-Aréna",
+        "city": "Zalaegerszeg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1100,
+        "name": "Belarus",
+        "logo": "https://media.api-sports.io/football/teams/1100.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1366282,
+      "referee": "D. Siebert",
+      "timezone": "UTC",
+      "date": "2025-09-05T18:45:00+00:00",
+      "timestamp": 1757097900,
+      "periods": {
+        "first": 1757097900,
+        "second": 1757101500
+      },
+      "venue": {
+        "id": null,
+        "name": "Parken Stadium",
+        "city": "Copenhagen"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 21,
+        "name": "Denmark",
+        "logo": "https://media.api-sports.io/football/teams/21.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1339003,
+      "referee": "Julian Weinberger, Austria",
+      "timezone": "UTC",
+      "date": "2025-06-09T16:00:00+00:00",
+      "timestamp": 1749484800,
+      "periods": {
+        "first": 1749484800,
+        "second": 1749488400
+      },
+      "venue": {
+        "id": 1545,
+        "name": "Rheinpark Stadion",
+        "city": "Vaduz"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1107,
+        "name": "Liechtenstein",
+        "logo": "https://media.api-sports.io/football/teams/1107.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1339002,
+      "referee": "Granit Maqedonci, Sweden",
+      "timezone": "UTC",
+      "date": "2025-06-06T18:45:00+00:00",
+      "timestamp": 1749235500,
+      "periods": {
+        "first": 1749235500,
+        "second": 1749239100
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      },
+      "away": {
+        "id": 18,
+        "name": "Iceland",
+        "logo": "https://media.api-sports.io/football/teams/18.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1316560,
+      "referee": "Massa, Davide, Italy",
+      "timezone": "UTC",
+      "date": "2025-03-23T17:00:00+00:00",
+      "timestamp": 1742749200,
+      "periods": {
+        "first": 1742749200,
+        "second": 1742752800
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Play-offs A/B",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1117,
+        "name": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/1117.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1316559,
+      "referee": "Tobias Stieler, Germany",
+      "timezone": "UTC",
+      "date": "2025-03-20T19:45:00+00:00",
+      "timestamp": 1742499900,
+      "periods": {
+        "first": 1742499900,
+        "second": 1742503500
+      },
+      "venue": {
+        "id": null,
+        "name": "Georgios Karaiskakis",
+        "city": "Piraeus"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Play-offs A/B",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1117,
+        "name": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/1117.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172982,
+      "referee": "Christian Dingert, Germany",
+      "timezone": "UTC",
+      "date": "2024-11-18T19:45:00+00:00",
+      "timestamp": 1731959100,
+      "periods": {
+        "first": 1731959100,
+        "second": 1731962700
+      },
+      "venue": {
+        "id": 1245,
+        "name": "Stadion Narodowy",
+        "city": "Warszawa"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League A - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 24,
+        "name": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172974,
+      "referee": "Orel Grinfeeld, Israel",
+      "timezone": "UTC",
+      "date": "2024-11-15T19:45:00+00:00",
+      "timestamp": 1731699900,
+      "periods": {
+        "first": 1731699900,
+        "second": 1731703500
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League A - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 3,
+        "name": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/3.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172968,
+      "referee": "Lawrence Visser, Belgium",
+      "timezone": "UTC",
+      "date": "2024-10-15T18:45:00+00:00",
+      "timestamp": 1729017900,
+      "periods": {
+        "first": 1729017900,
+        "second": 1729021500
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League A - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      },
+      "away": {
+        "id": 27,
+        "name": "Portugal",
+        "logo": "https://media.api-sports.io/football/teams/27.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172959,
+      "referee": "Istvan Kovacs, Romania",
+      "timezone": "UTC",
+      "date": "2024-10-12T16:00:00+00:00",
+      "timestamp": 1728748800,
+      "periods": {
+        "first": 1728748800,
+        "second": 1728752400
+      },
+      "venue": {
+        "id": 412,
+        "name": "Stadion Maksimir",
+        "city": "Zagreb"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League A - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 3,
+        "name": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/3.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172949,
+      "referee": "Maurizio Mariani, Italy",
+      "timezone": "UTC",
+      "date": "2024-09-08T18:45:00+00:00",
+      "timestamp": 1725821100,
+      "periods": {
+        "first": 1725821100,
+        "second": 1725824700
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio da Luz",
+        "city": "Lisbon"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League A - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 27,
+        "name": "Portugal",
+        "logo": "https://media.api-sports.io/football/teams/27.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172940,
+      "referee": "Glenn Nyberg, Sweden",
+      "timezone": "UTC",
+      "date": "2024-09-05T18:45:00+00:00",
+      "timestamp": 1725561900,
+      "periods": {
+        "first": 1725561900,
+        "second": 1725565500
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League A - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      },
+      "away": {
+        "id": 24,
+        "name": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1145528,
+      "referee": "F. Tello",
+      "timezone": "UTC",
+      "date": "2024-06-23T19:00:00+00:00",
+      "timestamp": 1719169200,
+      "periods": {
+        "first": 1719169200,
+        "second": 1719172800
+      },
+      "venue": {
+        "id": 20473,
+        "name": "MHPArena",
+        "city": "Stuttgart"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group A - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      },
+      "away": {
+        "id": 769,
+        "name": "Hungary",
+        "logo": "https://media.api-sports.io/football/teams/769.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1145518,
+      "referee": "I. Kružliak",
+      "timezone": "UTC",
+      "date": "2024-06-19T19:00:00+00:00",
+      "timestamp": 1718823600,
+      "periods": {
+        "first": 1718823600,
+        "second": 1718827200
+      },
+      "venue": {
+        "id": 731,
+        "name": "RheinEnergieSTADION",
+        "city": "Köln"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group A - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      },
+      "away": {
+        "id": 15,
+        "name": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/15.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1145509,
+      "referee": "C. Turpin",
+      "timezone": "UTC",
+      "date": "2024-06-14T19:00:00+00:00",
+      "timestamp": 1718391600,
+      "periods": {
+        "first": 1718391600,
+        "second": 1718395200
+      },
+      "venue": {
+        "id": 700,
+        "name": "Allianz Arena",
+        "city": "München"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group A - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 25,
+        "name": "Germany",
+        "logo": "https://media.api-sports.io/football/teams/25.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1165957,
+      "referee": "L. Kuźma",
+      "timezone": "UTC",
+      "date": "2024-06-07T18:45:00+00:00",
+      "timestamp": 1717785900,
+      "periods": {
+        "first": 1717785900,
+        "second": 1717789500
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1099,
+        "name": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/1099.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1165956,
+      "referee": "J. Robinson",
+      "timezone": "UTC",
+      "date": "2024-06-03T16:00:00+00:00",
+      "timestamp": 1717430400,
+      "periods": {
+        "first": 1717430400,
+        "second": 1717434000
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio Do Algarve",
+        "city": "Almancil"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1093,
+        "name": "Gibraltar",
+        "logo": "https://media.api-sports.io/football/teams/1093.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1155278,
+      "referee": "R. Jones",
+      "timezone": "UTC",
+      "date": "2024-03-26T19:45:00+00:00",
+      "timestamp": 1711482300,
+      "periods": {
+        "first": 1711482300,
+        "second": 1711485900
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      },
+      "away": {
+        "id": 771,
+        "name": "Northern Ireland",
+        "logo": "https://media.api-sports.io/football/teams/771.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1155267,
+      "referee": "E. Lambrechts",
+      "timezone": "UTC",
+      "date": "2024-03-22T19:45:00+00:00",
+      "timestamp": 1711136700,
+      "periods": {
+        "first": 1711136700,
+        "second": 1711140300
+      },
+      "venue": {
+        "id": 1117,
+        "name": "Johan Cruijff Arena",
+        "city": "Amsterdam"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1118,
+        "name": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1118.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980668,
+      "referee": "H. Feșnic",
+      "timezone": "UTC",
+      "date": "2023-11-19T19:45:00+00:00",
+      "timestamp": 1700423100,
+      "periods": {
+        "first": 1700423100,
+        "second": 1700426700
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980640,
+      "referee": "A. Stavrev",
+      "timezone": "UTC",
+      "date": "2023-11-16T17:00:00+00:00",
+      "timestamp": 1700154000,
+      "periods": {
+        "first": 1700154000,
+        "second": 1700157600
+      },
+      "venue": {
+        "id": 691,
+        "name": "Boris Paichadze Dinamo Arena",
+        "city": "Tbilisi"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1104,
+        "name": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/1104.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1028662,
+      "referee": "Tobias Stieler, Germany",
+      "timezone": "UTC",
+      "date": "2023-10-17T19:00:00+00:00",
+      "timestamp": 1697569200,
+      "periods": {
+        "first": 1697569200,
+        "second": 1697572800
+      },
+      "venue": {
+        "id": 19207,
+        "name": "Decathlon Arena – Stade Pierre-Mauroy",
+        "city": "Villeneuve d'Ascq"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2,
+        "name": "France",
+        "logo": "https://media.api-sports.io/football/teams/2.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980594,
+      "referee": "S. Gözübüyük",
+      "timezone": "UTC",
+      "date": "2023-10-12T18:45:00+00:00",
+      "timestamp": 1697136300,
+      "periods": {
+        "first": 1697136300,
+        "second": 1697139900
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Olímpico de Sevilla",
+        "city": "Sevilla"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 9,
+        "name": "Spain",
+        "logo": "https://media.api-sports.io/football/teams/9.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 984806,
+      "referee": "Davide Massa, Italy",
+      "timezone": "UTC",
+      "date": "2023-09-12T18:45:00+00:00",
+      "timestamp": 1694544300,
+      "periods": {
+        "first": 1694544300,
+        "second": 1694547900
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      },
+      "away": {
+        "id": 10,
+        "name": "England",
+        "logo": "https://media.api-sports.io/football/teams/10.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980558,
+      "referee": "B. Berke",
+      "timezone": "UTC",
+      "date": "2023-09-08T18:45:00+00:00",
+      "timestamp": 1694198700,
+      "periods": {
+        "first": 1694198700,
+        "second": 1694202300
+      },
+      "venue": {
+        "id": 22732,
+        "name": "AEK Arena - George Karapatakis",
+        "city": "Larnaca"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1106,
+        "name": "Cyprus",
+        "logo": "https://media.api-sports.io/football/teams/1106.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980537,
+      "referee": "I. Vad II",
+      "timezone": "UTC",
+      "date": "2023-06-20T18:45:00+00:00",
+      "timestamp": 1687286700,
+      "periods": {
+        "first": 1687286700,
+        "second": 1687290300
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1104,
+        "name": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/1104.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980516,
+      "referee": "M. Jug",
+      "timezone": "UTC",
+      "date": "2023-06-17T16:00:00+00:00",
+      "timestamp": 1687017600,
+      "periods": {
+        "first": 1687017600,
+        "second": 1687021200
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980496,
+      "referee": "S. Schärer",
+      "timezone": "UTC",
+      "date": "2023-03-28T18:45:00+00:00",
+      "timestamp": 1680029100,
+      "periods": {
+        "first": 1680029100,
+        "second": 1680032700
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 9,
+        "name": "Spain",
+        "logo": "https://media.api-sports.io/football/teams/9.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980472,
+      "referee": "D. Strukan",
+      "timezone": "UTC",
+      "date": "2023-03-25T14:00:00+00:00",
+      "timestamp": 1679752800,
+      "periods": {
+        "first": 1679752800,
+        "second": 1679756400
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1106,
+        "name": "Cyprus",
+        "logo": "https://media.api-sports.io/football/teams/1106.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 965672,
+      "referee": "V. Kastrati",
+      "timezone": "UTC",
+      "date": "2022-11-16T17:00:00+00:00",
+      "timestamp": 1668618000,
+      "periods": {
+        "first": 1668618000,
+        "second": 1668621600
+      },
+      "venue": {
+        "id": null,
+        "name": "Diyarbakır Yeni Stadyumu",
+        "city": "Diyarbakır"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 777,
+        "name": "Türkiye",
+        "logo": "https://media.api-sports.io/football/teams/777.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854666,
+      "referee": "Tasos Sidiropoulos, Greece",
+      "timezone": "UTC",
+      "date": "2022-09-27T18:45:00+00:00",
+      "timestamp": 1664304300,
+      "periods": {
+        "first": 1664304300,
+        "second": 1664307900
+      },
+      "venue": {
+        "id": 1247,
+        "name": "Stadion Cracovii im. Józefa Piłsudskiego",
+        "city": "Kraków"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League B - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 772,
+        "name": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/772.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854658,
+      "referee": "Sandro Scharer, Switzerland",
+      "timezone": "UTC",
+      "date": "2022-09-24T18:45:00+00:00",
+      "timestamp": 1664045100,
+      "periods": {
+        "first": 1664045100,
+        "second": 1664048700
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League B - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 776,
+        "name": "Rep. Of Ireland",
+        "logo": "https://media.api-sports.io/football/teams/776.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854638,
+      "referee": "Maurizio Mariani, Italy",
+      "timezone": "UTC",
+      "date": "2022-09-21T18:45:00+00:00",
+      "timestamp": 1663785900,
+      "periods": {
+        "first": 1663785900,
+        "second": 1663789500
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League B - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 772,
+        "name": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/772.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854653,
+      "referee": "Nikola Dabanovic, Montenegro",
+      "timezone": "UTC",
+      "date": "2022-06-14T16:00:00+00:00",
+      "timestamp": 1655222400,
+      "periods": {
+        "first": 1655222400,
+        "second": 1655226000
+      },
+      "venue": {
+        "id": 121,
+        "name": "Vazgen Sargsyan anvan Hanrapetakan Marzadasht",
+        "city": "Yerevan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League B - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1094,
+        "name": "Armenia",
+        "logo": "https://media.api-sports.io/football/teams/1094.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854646,
+      "referee": "Marco Di Bello, Italy",
+      "timezone": "UTC",
+      "date": "2022-06-11T16:00:00+00:00",
+      "timestamp": 1654963200,
+      "periods": {
+        "first": 1654963200,
+        "second": 1654966800
+      },
+      "venue": {
+        "id": 1970,
+        "name": "Aviva Stadium",
+        "city": "Dublin"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League B - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 776,
+        "name": "Rep. Of Ireland",
+        "logo": "https://media.api-sports.io/football/teams/776.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854629,
+      "referee": "Sebastian Gishamer, Austria",
+      "timezone": "UTC",
+      "date": "2022-06-08T18:45:00+00:00",
+      "timestamp": 1654713900,
+      "periods": {
+        "first": 1654713900,
+        "second": 1654717500
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League B - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1094,
+        "name": "Armenia",
+        "logo": "https://media.api-sports.io/football/teams/1094.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 813707,
+      "referee": "D. Makkelie",
+      "timezone": "UTC",
+      "date": "2022-06-01T18:45:00+00:00",
+      "timestamp": 1654109100,
+      "periods": {
+        "first": 1654109100,
+        "second": 1654112700
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Play-offs - Semi-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      },
+      "away": {
+        "id": 772,
+        "name": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/772.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 852621,
+      "referee": "T. Bognár",
+      "timezone": "UTC",
+      "date": "2022-03-29T18:45:00+00:00",
+      "timestamp": 1648579500,
+      "periods": {
+        "first": 1648579500,
+        "second": 1648583100
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 849943,
+      "referee": "R. Hennessy",
+      "timezone": "UTC",
+      "date": "2022-03-24T19:45:00+00:00",
+      "timestamp": 1648151100,
+      "periods": {
+        "first": 1648151100,
+        "second": 1648154700
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      },
+      "away": {
+        "id": 24,
+        "name": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 651144,
+      "referee": "Alejandro Hernández",
+      "timezone": "UTC",
+      "date": "2021-11-15T19:45:00+00:00",
+      "timestamp": 1637005500,
+      "periods": {
+        "first": 1637005500,
+        "second": 1637009100
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 21,
+        "name": "Denmark",
+        "logo": "https://media.api-sports.io/football/teams/21.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 651119,
+      "referee": "S. Jovanović",
+      "timezone": "UTC",
+      "date": "2021-11-12T17:00:00+00:00",
+      "timestamp": 1636736400,
+      "periods": {
+        "first": 1636736400,
+        "second": 1636740000
+      },
+      "venue": {
+        "id": 2615,
+        "name": "Stadionul Zimbru",
+        "city": "Chişinău"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1114,
+        "name": "Moldova",
+        "logo": "https://media.api-sports.io/football/teams/1114.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 651100,
+      "referee": "M. Jug",
+      "timezone": "UTC",
+      "date": "2021-10-12T18:45:00+00:00",
+      "timestamp": 1634064300,
+      "periods": {
+        "first": 1634064300,
+        "second": 1634067900
+      },
+      "venue": {
+        "id": 2609,
+        "name": "Tórsvøllur",
+        "city": "Tórshavn, Streymoy"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1098,
+        "name": "Faroe Islands",
+        "logo": "https://media.api-sports.io/football/teams/1098.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 651072,
+      "referee": "S. Marciniak",
+      "timezone": "UTC",
+      "date": "2021-10-09T16:00:00+00:00",
+      "timestamp": 1633795200,
+      "periods": {
+        "first": 1633795200,
+        "second": 1633798800
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1116,
+        "name": "Israel",
+        "logo": "https://media.api-sports.io/football/teams/1116.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 651034,
+      "referee": "G. Kabakov",
+      "timezone": "UTC",
+      "date": "2021-09-07T18:45:00+00:00",
+      "timestamp": 1631040300,
+      "periods": {
+        "first": 1631040300,
+        "second": 1631043900
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 651014,
+      "referee": "L. Visser",
+      "timezone": "UTC",
+      "date": "2021-09-04T18:45:00+00:00",
+      "timestamp": 1630781100,
+      "periods": {
+        "first": 1630781100,
+        "second": 1630784700
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1114,
+        "name": "Moldova",
+        "logo": "https://media.api-sports.io/football/teams/1114.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 650984,
+      "referee": "O. Hațegan",
+      "timezone": "UTC",
+      "date": "2021-09-01T18:45:00+00:00",
+      "timestamp": 1630521900,
+      "periods": {
+        "first": 1630521900,
+        "second": 1630525500
+      },
+      "venue": {
+        "id": 11600,
+        "name": "Parken",
+        "city": "København"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 21,
+        "name": "Denmark",
+        "logo": "https://media.api-sports.io/football/teams/21.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 657704,
+      "referee": "F. Rapallini",
+      "timezone": "UTC",
+      "date": "2021-06-22T19:00:00+00:00",
+      "timestamp": 1624388400,
+      "periods": {
+        "first": 1624388400,
+        "second": 1624392000
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group D - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 3,
+        "name": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/3.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 657694,
+      "referee": "Antonio Mateu",
+      "timezone": "UTC",
+      "date": "2021-06-18T19:00:00+00:00",
+      "timestamp": 1624042800,
+      "periods": {
+        "first": 1624042800,
+        "second": 1624046400
+      },
+      "venue": {
+        "id": 489,
+        "name": "Wembley Stadium",
+        "city": "London"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group D - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 10,
+        "name": "England",
+        "logo": "https://media.api-sports.io/football/teams/10.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 657681,
+      "referee": "D. Siebert",
+      "timezone": "UTC",
+      "date": "2021-06-14T13:00:00+00:00",
+      "timestamp": 1623675600,
+      "periods": {
+        "first": 1623675600,
+        "second": 1623679200
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group D - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      },
+      "away": {
+        "id": 770,
+        "name": "Czechia",
+        "logo": "https://media.api-sports.io/football/teams/770.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 698001,
+      "referee": "E. Hamiti",
+      "timezone": "UTC",
+      "date": "2021-06-06T16:00:00+00:00",
+      "timestamp": 1622995200,
+      "periods": {
+        "first": 1622995200,
+        "second": 1622998800
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Josy Barthel",
+        "city": "Luxembourg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1102,
+        "name": "Luxembourg",
+        "logo": "https://media.api-sports.io/football/teams/1102.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 697995,
+      "referee": "Vitor Ferreira",
+      "timezone": "UTC",
+      "date": "2021-06-02T18:45:00+00:00",
+      "timestamp": 1622659500,
+      "periods": {
+        "first": 1622659500,
+        "second": 1622663100
+      },
+      "venue": {
+        "id": 10889,
+        "name": "Estádio Do Algarve",
+        "city": "São João da Venda"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1118,
+        "name": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1118.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 650974,
+      "referee": "T. Farrugia Cann",
+      "timezone": "UTC",
+      "date": "2021-03-31T18:45:00+00:00",
+      "timestamp": 1617216300,
+      "periods": {
+        "first": 1617216300,
+        "second": 1617219900
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1098,
+        "name": "Faroe Islands",
+        "logo": "https://media.api-sports.io/football/teams/1098.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 650950,
+      "referee": "D. Aytekin",
+      "timezone": "UTC",
+      "date": "2021-03-28T18:45:00+00:00",
+      "timestamp": 1616957100,
+      "periods": {
+        "first": 1616957100,
+        "second": 1616960700
+      },
+      "venue": {
+        "id": null,
+        "name": "Bloomfield Stadium",
+        "city": "Tel-Aviv"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1116,
+        "name": "Israel",
+        "logo": "https://media.api-sports.io/football/teams/1116.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 650923,
+      "referee": "Carlos Del Cerro",
+      "timezone": "UTC",
+      "date": "2021-03-25T19:45:00+00:00",
+      "timestamp": 1616701500,
+      "periods": {
+        "first": 1616701500,
+        "second": 1616705100
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332518,
+      "referee": "Pawel Raczkowski, Poland",
+      "timezone": "UTC",
+      "date": "2020-11-18T19:45:00+00:00",
+      "timestamp": 1605728700,
+      "periods": {
+        "first": 1605728700,
+        "second": 1605732300
+      },
+      "venue": {
+        "id": 11941,
+        "name": "Netanya Stadium",
+        "city": "Netanya"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League B - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1116,
+        "name": "Israel",
+        "logo": "https://media.api-sports.io/football/teams/1116.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332509,
+      "referee": "Istvan Kovacs, Romania",
+      "timezone": "UTC",
+      "date": "2020-11-15T14:00:00+00:00",
+      "timestamp": 1605448800,
+      "periods": {
+        "first": 1605448800,
+        "second": 1605452400
+      },
+      "venue": {
+        "id": 11602,
+        "name": "CITY ARENA – Štadión Antona Malatinského",
+        "city": "Trnava"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League B - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 773,
+        "name": "Slovakia",
+        "logo": "https://media.api-sports.io/football/teams/773.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 640595,
+      "referee": "Antonio Mateu",
+      "timezone": "UTC",
+      "date": "2020-11-12T19:45:00+00:00",
+      "timestamp": 1605210300,
+      "periods": {
+        "first": 1605210300,
+        "second": 1605213900
+      },
+      "venue": {
+        "id": 1406,
+        "name": "Stadion Rajko Mitić",
+        "city": "Beograd"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Play-offs Path C - Final",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 14,
+        "name": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty": {
+        "home": 4,
+        "away": 5
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332497,
+      "referee": "Felix Zwayer, Germany",
+      "timezone": "UTC",
+      "date": "2020-10-14T18:45:00+00:00",
+      "timestamp": 1602701100,
+      "periods": {
+        "first": 1602701100,
+        "second": 1602704700
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League B - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 770,
+        "name": "Czechia",
+        "logo": "https://media.api-sports.io/football/teams/770.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332492,
+      "referee": "Davide Massa, Italy",
+      "timezone": "UTC",
+      "date": "2020-10-11T18:45:00+00:00",
+      "timestamp": 1602441900,
+      "periods": {
+        "first": 1602441900,
+        "second": 1602445500
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League B - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 773,
+        "name": "Slovakia",
+        "logo": "https://media.api-sports.io/football/teams/773.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 569450,
+      "referee": "O. Hațegan",
+      "timezone": "UTC",
+      "date": "2020-10-08T18:45:00+00:00",
+      "timestamp": 1602182700,
+      "periods": {
+        "first": 1602182700,
+        "second": 1602186300
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Play-offs Path C - Semi-Finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1116,
+        "name": "Israel",
+        "logo": "https://media.api-sports.io/football/teams/1116.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty": {
+        "home": 5,
+        "away": 3
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332487,
+      "referee": "Serdar Gozubuyuk, Netherlands",
+      "timezone": "UTC",
+      "date": "2020-09-07T18:45:00+00:00",
+      "timestamp": 1599504300,
+      "periods": {
+        "first": 1599504300,
+        "second": 1599507900
+      },
+      "venue": {
+        "id": 435,
+        "name": "Andrův stadion",
+        "city": "Olomouc"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League B - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 770,
+        "name": "Czechia",
+        "logo": "https://media.api-sports.io/football/teams/770.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332479,
+      "referee": "Slavko Vincic, Slovenia",
+      "timezone": "UTC",
+      "date": "2020-09-04T18:45:00+00:00",
+      "timestamp": 1599245100,
+      "periods": {
+        "first": 1599245100,
+        "second": 1599248700
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League B - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1116,
+        "name": "Israel",
+        "logo": "https://media.api-sports.io/football/teams/1116.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 133008,
+      "referee": "B. Nijhuis",
+      "timezone": "UTC",
+      "date": "2019-11-19T19:45:00+00:00",
+      "timestamp": 1574192700,
+      "periods": {
+        "first": 1574192700,
+        "second": 1574196300
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1095,
+        "name": "Kazakhstan",
+        "logo": "https://media.api-sports.io/football/teams/1095.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132974,
+      "referee": "H. Lechner",
+      "timezone": "UTC",
+      "date": "2019-11-16T14:00:00+00:00",
+      "timestamp": 1573912800,
+      "periods": {
+        "first": 1573912800,
+        "second": 1573916400
+      },
+      "venue": {
+        "id": null,
+        "name": "Neo GSP",
+        "city": "Levkosía"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1106,
+        "name": "Cyprus",
+        "logo": "https://media.api-sports.io/football/teams/1106.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132937,
+      "referee": "J. Brisard",
+      "timezone": "UTC",
+      "date": "2019-10-13T16:00:00+00:00",
+      "timestamp": 1570982400,
+      "periods": {
+        "first": 1570982400,
+        "second": 1570986000
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1115,
+        "name": "San Marino",
+        "logo": "https://media.api-sports.io/football/teams/1115.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 6,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 6,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132917,
+      "referee": "J. Kehlet",
+      "timezone": "UTC",
+      "date": "2019-10-10T18:45:00+00:00",
+      "timestamp": 1570733100,
+      "periods": {
+        "first": 1570733100,
+        "second": 1570736700
+      },
+      "venue": {
+        "id": null,
+        "name": "Stadion Luzhniki",
+        "city": "Moskva"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 4,
+        "name": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/4.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132899,
+      "referee": "P. Gil",
+      "timezone": "UTC",
+      "date": "2019-09-09T18:45:00+00:00",
+      "timestamp": 1568054700,
+      "periods": {
+        "first": 1568054700,
+        "second": 1568058300
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132875,
+      "referee": "A. Sidiropoulos",
+      "timezone": "UTC",
+      "date": "2019-09-06T18:45:00+00:00",
+      "timestamp": 1567795500,
+      "periods": {
+        "first": 1567795500,
+        "second": 1567799100
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      },
+      "away": {
+        "id": 4,
+        "name": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/4.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132855,
+      "referee": "P. Ardeleanu",
+      "timezone": "UTC",
+      "date": "2019-06-11T18:45:00+00:00",
+      "timestamp": 1560278700,
+      "periods": {
+        "first": 1560278700,
+        "second": 1560282300
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132831,
+      "referee": "O. Nilsen",
+      "timezone": "UTC",
+      "date": "2019-06-08T18:45:00+00:00",
+      "timestamp": 1560019500,
+      "periods": {
+        "first": 1560019500,
+        "second": 1560023100
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1106,
+        "name": "Cyprus",
+        "logo": "https://media.api-sports.io/football/teams/1106.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132788,
+      "referee": "M. Schüttengruber",
+      "timezone": "UTC",
+      "date": "2019-03-24T17:00:00+00:00",
+      "timestamp": 1553446800,
+      "periods": {
+        "first": 1553446800,
+        "second": 1553450400
+      },
+      "venue": {
+        "id": 2616,
+        "name": "Stadio Olimpico di Serravalle",
+        "city": "Serravalle"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1115,
+        "name": "San Marino",
+        "logo": "https://media.api-sports.io/football/teams/1115.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132759,
+      "referee": "S. Jovanović",
+      "timezone": "UTC",
+      "date": "2019-03-21T15:00:00+00:00",
+      "timestamp": 1553180400,
+      "periods": {
+        "first": 1553180400,
+        "second": 1553184000
+      },
+      "venue": {
+        "id": 989,
+        "name": "Astana Arena",
+        "city": "Astana"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1095,
+        "name": "Kazakhstan",
+        "logo": "https://media.api-sports.io/football/teams/1095.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132595,
+      "referee": "Tobias Welz, Germany",
+      "timezone": "UTC",
+      "date": "2018-11-20T19:45:00+00:00",
+      "timestamp": 1542743100,
+      "periods": {
+        "first": 1542743100,
+        "second": 1542746700
+      },
+      "venue": {
+        "id": null,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2018,
+      "round": "League C - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1116,
+        "name": "Israel",
+        "logo": "https://media.api-sports.io/football/teams/1116.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132589,
+      "referee": "Vladislav Bezborodov, Russia",
+      "timezone": "UTC",
+      "date": "2018-11-17T19:45:00+00:00",
+      "timestamp": 1542483900,
+      "periods": {
+        "first": 1542483900,
+        "second": 1542487500
+      },
+      "venue": {
+        "id": null,
+        "name": "Loro Boriçi Stadium",
+        "city": "Shkodër"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2018,
+      "round": "League C - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 778,
+        "name": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/778.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225527,
+      "referee": "Ruddy Buquet, France",
+      "timezone": "UTC",
+      "date": "2018-10-14T16:00:00+00:00",
+      "timestamp": 1539532800,
+      "periods": {
+        "first": 1539532800,
+        "second": 1539536400
+      },
+      "venue": {
+        "id": null,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      },
+      "away": {
+        "id": 27,
+        "name": "Portugal",
+        "logo": "https://media.api-sports.io/football/teams/27.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132570,
+      "referee": "Daniel Stefanski, Poland",
+      "timezone": "UTC",
+      "date": "2018-10-11T18:45:00+00:00",
+      "timestamp": 1539283500,
+      "periods": {
+        "first": 1539283500,
+        "second": 1539287100
+      },
+      "venue": {
+        "id": null,
+        "name": "Sammy Ofer Stadium",
+        "city": "Haifa"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2018,
+      "round": "League C - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1116,
+        "name": "Israel",
+        "logo": "https://media.api-sports.io/football/teams/1116.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132565,
+      "referee": "Matej Jug, Slovenia",
+      "timezone": "UTC",
+      "date": "2018-09-10T18:45:00+00:00",
+      "timestamp": 1536605100,
+      "periods": {
+        "first": 1536605100,
+        "second": 1536608700
+      },
+      "venue": {
+        "id": null,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2018,
+      "round": "League C - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 778,
+        "name": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/778.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225487,
+      "referee": "Luca Banti, Italy",
+      "timezone": "UTC",
+      "date": "2018-09-07T18:45:00+00:00",
+      "timestamp": 1536345900,
+      "periods": {
+        "first": 1536345900,
+        "second": 1536349500
+      },
+      "venue": {
+        "id": null,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225442,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-06-03T00:00:00+00:00",
+      "timestamp": 1527984000,
+      "periods": {
+        "first": 1527984000,
+        "second": 1527987600
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Azteca (Ciudad de México (D.F.))",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225422,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-05-30T01:00:00+00:00",
+      "timestamp": 1527642000,
+      "periods": {
+        "first": 1527642000,
+        "second": 1527645600
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Nacional de Lima (Lima)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225384,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-03-27T18:00:00+00:00",
+      "timestamp": 1522173600,
+      "periods": {
+        "first": 1522173600,
+        "second": 1522177200
+      },
+      "venue": {
+        "id": null,
+        "name": "Groupama Aréna (Budapest)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 769,
+        "name": "Hungary",
+        "logo": "https://media.api-sports.io/football/teams/769.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225355,
+      "referee": "Tobias Stieler, Germany",
+      "timezone": "UTC",
+      "date": "2018-03-23T19:45:00+00:00",
+      "timestamp": 1521834300,
+      "periods": {
+        "first": 1521834300,
+        "second": 1521837900
+      },
+      "venue": {
+        "id": null,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      },
+      "away": {
+        "id": 29,
+        "name": "Costa Rica",
+        "logo": "https://media.api-sports.io/football/teams/29.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256643,
+      "referee": "J. Eriksson",
+      "timezone": "UTC",
+      "date": "2017-10-08T16:00:00+00:00",
+      "timestamp": 1507478400,
+      "periods": {
+        "first": 1507478400,
+        "second": 1507482000
+      },
+      "venue": {
+        "id": 1442,
+        "name": "Stadion Stožice",
+        "city": "Ljubljana"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 10",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1091,
+        "name": "Slovenia",
+        "logo": "https://media.api-sports.io/football/teams/1091.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256619,
+      "referee": "M. Mažić",
+      "timezone": "UTC",
+      "date": "2017-10-05T18:45:00+00:00",
+      "timestamp": 1507229100,
+      "periods": {
+        "first": 1507229100,
+        "second": 1507232700
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 9",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 773,
+        "name": "Slovakia",
+        "logo": "https://media.api-sports.io/football/teams/773.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256600,
+      "referee": "J. Kehlet",
+      "timezone": "UTC",
+      "date": "2017-09-04T18:45:00+00:00",
+      "timestamp": 1504550700,
+      "periods": {
+        "first": 1504550700,
+        "second": 1504554300
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 8",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1112,
+        "name": "Malta",
+        "logo": "https://media.api-sports.io/football/teams/1112.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256572,
+      "referee": "Carlos Del Cerro",
+      "timezone": "UTC",
+      "date": "2017-09-01T18:45:00+00:00",
+      "timestamp": 1504291500,
+      "periods": {
+        "first": 1504291500,
+        "second": 1504295100
+      },
+      "venue": {
+        "id": 1030,
+        "name": "Vilniaus LFF stadionas",
+        "city": "Vilnius"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 7",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1097,
+        "name": "Lithuania",
+        "logo": "https://media.api-sports.io/football/teams/1097.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256541,
+      "referee": "P. Tagliavento",
+      "timezone": "UTC",
+      "date": "2017-06-10T16:00:00+00:00",
+      "timestamp": 1497110400,
+      "periods": {
+        "first": 1497110400,
+        "second": 1497114000
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 6",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      },
+      "away": {
+        "id": 10,
+        "name": "England",
+        "logo": "https://media.api-sports.io/football/teams/10.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256529,
+      "referee": "B. Kuipers",
+      "timezone": "UTC",
+      "date": "2017-03-26T19:45:00+00:00",
+      "timestamp": 1490557500,
+      "periods": {
+        "first": 1490557500,
+        "second": 1490561100
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 5",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1091,
+        "name": "Slovenia",
+        "logo": "https://media.api-sports.io/football/teams/1091.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256483,
+      "referee": "C. Çakιr",
+      "timezone": "UTC",
+      "date": "2016-11-11T19:45:00+00:00",
+      "timestamp": 1478893500,
+      "periods": {
+        "first": 1478893500,
+        "second": 1478897100
+      },
+      "venue": {
+        "id": 489,
+        "name": "Wembley Stadium",
+        "city": "London"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 10,
+        "name": "England",
+        "logo": "https://media.api-sports.io/football/teams/10.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256474,
+      "referee": "M. Strömbergsson",
+      "timezone": "UTC",
+      "date": "2016-10-11T18:45:00+00:00",
+      "timestamp": 1476211500,
+      "periods": {
+        "first": 1476211500,
+        "second": 1476215100
+      },
+      "venue": {
+        "id": 1438,
+        "name": "City Arena Trnava",
+        "city": "Trnava"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 773,
+        "name": "Slovakia",
+        "logo": "https://media.api-sports.io/football/teams/773.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256447,
+      "referee": "T. Stieler",
+      "timezone": "UTC",
+      "date": "2016-10-08T18:45:00+00:00",
+      "timestamp": 1475952300,
+      "periods": {
+        "first": 1475952300,
+        "second": 1475955900
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1097,
+        "name": "Lithuania",
+        "logo": "https://media.api-sports.io/football/teams/1097.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256403,
+      "referee": "E. Aranovskiy",
+      "timezone": "UTC",
+      "date": "2016-09-04T18:45:00+00:00",
+      "timestamp": 1473014700,
+      "periods": {
+        "first": 1473014700,
+        "second": 1473018300
+      },
+      "venue": {
+        "id": 2614,
+        "name": "Ta'Qali National Stadium",
+        "city": "Ta'Qali"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1112,
+        "name": "Malta",
+        "logo": "https://media.api-sports.io/football/teams/1112.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 5
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 5
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "team": {
+      "id": 1503,
+      "name": "Gabon",
+      "logo": "https://media.api-sports.io/football/teams/1503.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 3
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 5
+      },
+      {
+        "type": "Total Shots",
+        "value": 14
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 6
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 6
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 8
+      },
+      {
+        "type": "Fouls",
+        "value": 30
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 5
+      },
+      {
+        "type": "Offsides",
+        "value": 1
+      },
+      {
+        "type": "Ball Possession",
+        "value": "48%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 3
+      },
+      {
+        "type": "Red Cards",
+        "value": 0
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 0
+      },
+      {
+        "type": "Total passes",
+        "value": 320
+      },
+      {
+        "type": "Passes accurate",
+        "value": 251
+      },
+      {
+        "type": "Passes %",
+        "value": "78%"
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 1504,
+      "name": "Ghana",
+      "logo": "https://media.api-sports.io/football/teams/1504.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 1
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 4
+      },
+      {
+        "type": "Total Shots",
+        "value": 6
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 1
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 1
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 5
+      },
+      {
+        "type": "Fouls",
+        "value": 21
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 3
+      },
+      {
+        "type": "Offsides",
+        "value": 1
+      },
+      {
+        "type": "Ball Possession",
+        "value": "52%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 4
+      },
+      {
+        "type": "Red Cards",
+        "value": 1
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 2
+      },
+      {
+        "type": "Total passes",
+        "value": 361
+      },
+      {
+        "type": "Passes accurate",
+        "value": 275
+      },
+      {
+        "type": "Passes %",
+        "value": "76%"
+      }
+    ]
+  }
+]

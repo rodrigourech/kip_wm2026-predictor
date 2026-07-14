@@ -1,0 +1,164 @@
+[
+  {
+    "team": {
+      "id": 27,
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 9
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 4
+      },
+      {
+        "type": "Total Shots",
+        "value": 20
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 7
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 11
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 9
+      },
+      {
+        "type": "Fouls",
+        "value": 6
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 7
+      },
+      {
+        "type": "Offsides",
+        "value": 2
+      },
+      {
+        "type": "Ball Possession",
+        "value": "69%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": null
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 1
+      },
+      {
+        "type": "Total passes",
+        "value": 773
+      },
+      {
+        "type": "Passes accurate",
+        "value": 721
+      },
+      {
+        "type": "Passes %",
+        "value": "93%"
+      },
+      {
+        "type": "expected_goals",
+        "value": null
+      },
+      {
+        "type": "goals_prevented",
+        "value": null
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 776,
+      "name": "Rep. Of Ireland",
+      "logo": "https://media.api-sports.io/football/teams/776.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 1
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 2
+      },
+      {
+        "type": "Total Shots",
+        "value": 5
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 2
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 5
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 0
+      },
+      {
+        "type": "Fouls",
+        "value": 9
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 2
+      },
+      {
+        "type": "Offsides",
+        "value": 1
+      },
+      {
+        "type": "Ball Possession",
+        "value": "31%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": null
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 6
+      },
+      {
+        "type": "Total passes",
+        "value": 344
+      },
+      {
+        "type": "Passes accurate",
+        "value": 284
+      },
+      {
+        "type": "Passes %",
+        "value": "83%"
+      },
+      {
+        "type": "expected_goals",
+        "value": null
+      },
+      {
+        "type": "goals_prevented",
+        "value": null
+      }
+    ]
+  }
+]

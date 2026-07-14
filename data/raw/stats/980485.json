@@ -1,0 +1,156 @@
+[
+  {
+    "team": {
+      "id": 773,
+      "name": "Slovakia",
+      "logo": "https://media.api-sports.io/football/teams/773.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 4
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 6
+      },
+      {
+        "type": "Total Shots",
+        "value": 14
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 4
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 7
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 7
+      },
+      {
+        "type": "Fouls",
+        "value": 15
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 6
+      },
+      {
+        "type": "Offsides",
+        "value": 1
+      },
+      {
+        "type": "Ball Possession",
+        "value": "45%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": null
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 1
+      },
+      {
+        "type": "Total passes",
+        "value": 480
+      },
+      {
+        "type": "Passes accurate",
+        "value": 397
+      },
+      {
+        "type": "Passes %",
+        "value": "83%"
+      },
+      {
+        "type": "expected_goals",
+        "value": null
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 1113,
+      "name": "Bosnia & Herzegovina",
+      "logo": "https://media.api-sports.io/football/teams/1113.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 1
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 3
+      },
+      {
+        "type": "Total Shots",
+        "value": 6
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 2
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 6
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 0
+      },
+      {
+        "type": "Fouls",
+        "value": 14
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 3
+      },
+      {
+        "type": "Offsides",
+        "value": 0
+      },
+      {
+        "type": "Ball Possession",
+        "value": "55%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": null
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 2
+      },
+      {
+        "type": "Total passes",
+        "value": 587
+      },
+      {
+        "type": "Passes accurate",
+        "value": 487
+      },
+      {
+        "type": "Passes %",
+        "value": "83%"
+      },
+      {
+        "type": "expected_goals",
+        "value": null
+      }
+    ]
+  }
+]

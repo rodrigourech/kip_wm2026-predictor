@@ -1,0 +1,148 @@
+[
+  {
+    "team": {
+      "id": 1105,
+      "name": "FYR Macedonia",
+      "logo": "https://media.api-sports.io/football/teams/1105.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 1
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 2
+      },
+      {
+        "type": "Total Shots",
+        "value": 5
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 2
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 2
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 3
+      },
+      {
+        "type": "Fouls",
+        "value": 18
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 3
+      },
+      {
+        "type": "Offsides",
+        "value": 1
+      },
+      {
+        "type": "Ball Possession",
+        "value": "22%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 5
+      },
+      {
+        "type": "Red Cards",
+        "value": 0
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 4
+      },
+      {
+        "type": "Total passes",
+        "value": 224
+      },
+      {
+        "type": "Passes accurate",
+        "value": 157
+      },
+      {
+        "type": "Passes %",
+        "value": "70%"
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 6
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 8
+      },
+      {
+        "type": "Total Shots",
+        "value": 19
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 5
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 14
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 5
+      },
+      {
+        "type": "Fouls",
+        "value": 18
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 11
+      },
+      {
+        "type": "Offsides",
+        "value": 1
+      },
+      {
+        "type": "Ball Possession",
+        "value": "78%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 2
+      },
+      {
+        "type": "Red Cards",
+        "value": 0
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 0
+      },
+      {
+        "type": "Total passes",
+        "value": 793
+      },
+      {
+        "type": "Passes accurate",
+        "value": 727
+      },
+      {
+        "type": "Passes %",
+        "value": "92%"
+      }
+    ]
+  }
+]

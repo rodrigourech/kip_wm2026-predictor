@@ -1,0 +1,156 @@
+[
+  {
+    "team": {
+      "id": 2384,
+      "name": "USA",
+      "logo": "https://media.api-sports.io/football/teams/2384.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 8
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 11
+      },
+      {
+        "type": "Total Shots",
+        "value": 23
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 4
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 19
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 4
+      },
+      {
+        "type": "Fouls",
+        "value": 11
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 5
+      },
+      {
+        "type": "Offsides",
+        "value": 1
+      },
+      {
+        "type": "Ball Possession",
+        "value": "67%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 1
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 3
+      },
+      {
+        "type": "Total passes",
+        "value": 615
+      },
+      {
+        "type": "Passes accurate",
+        "value": 545
+      },
+      {
+        "type": "Passes %",
+        "value": "89%"
+      },
+      {
+        "type": "expected_goals",
+        "value": null
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 5168,
+      "name": "Trinidad and Tobago",
+      "logo": "https://media.api-sports.io/football/teams/5168.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 3
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 6
+      },
+      {
+        "type": "Total Shots",
+        "value": 9
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 0
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 7
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 2
+      },
+      {
+        "type": "Fouls",
+        "value": 7
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 4
+      },
+      {
+        "type": "Offsides",
+        "value": 0
+      },
+      {
+        "type": "Ball Possession",
+        "value": "33%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 1
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 2
+      },
+      {
+        "type": "Total passes",
+        "value": 305
+      },
+      {
+        "type": "Passes accurate",
+        "value": 232
+      },
+      {
+        "type": "Passes %",
+        "value": "76%"
+      },
+      {
+        "type": "expected_goals",
+        "value": null
+      }
+    ]
+  }
+]

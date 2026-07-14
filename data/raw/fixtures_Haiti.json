@@ -1,0 +1,5742 @@
+[
+  {
+    "fixture": {
+      "id": 1489405,
+      "referee": "Danny Makkelie, Netherlands",
+      "timezone": "UTC",
+      "date": "2026-06-24T22:00:00+00:00",
+      "timestamp": 1782338400,
+      "periods": {
+        "first": 1782338400,
+        "second": 1782342000
+      },
+      "venue": {
+        "id": 1898,
+        "name": "Mercedes-Benz Stadium",
+        "city": "Atlanta"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 31,
+        "name": "Morocco",
+        "logo": "https://media.api-sports.io/football/teams/31.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489389,
+      "referee": "Alejandro Hernandez, Spain",
+      "timezone": "UTC",
+      "date": "2026-06-20T00:30:00+00:00",
+      "timestamp": 1781915400,
+      "periods": {
+        "first": 1781915400,
+        "second": 1781919000
+      },
+      "venue": {
+        "id": null,
+        "name": "Lincoln Financial Field",
+        "city": "Philadelphia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 6,
+        "name": "Brazil",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489372,
+      "referee": "Mustapha Ghorbal, Algeria",
+      "timezone": "UTC",
+      "date": "2026-06-14T01:00:00+00:00",
+      "timestamp": 1781398800,
+      "periods": {
+        "first": 1781398800,
+        "second": 1781402400
+      },
+      "venue": {
+        "id": 1618,
+        "name": "Gillette Stadium",
+        "city": "Boston"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1544811,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-06-06T00:00:00+00:00",
+      "timestamp": 1780704000,
+      "periods": {
+        "first": 1780704000,
+        "second": 1780707600
+      },
+      "venue": {
+        "id": null,
+        "name": "Nu Stadium",
+        "city": "Miami"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      },
+      "away": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1544806,
+      "referee": "Rubiel Vazquez, USA",
+      "timezone": "UTC",
+      "date": "2026-06-03T00:00:00+00:00",
+      "timestamp": 1780444800,
+      "periods": {
+        "first": 1780444800,
+        "second": 1780448400
+      },
+      "venue": {
+        "id": null,
+        "name": "Chase Stadium",
+        "city": "Fort Lauderdale"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 1
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1512764,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-03-31T17:30:00+00:00",
+      "timestamp": 1774978200,
+      "periods": {
+        "first": 1774978200,
+        "second": 1774981800
+      },
+      "venue": {
+        "id": null,
+        "name": "BMO Field",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 1
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": null
+      },
+      "away": {
+        "id": 18,
+        "name": "Iceland",
+        "logo": "https://media.api-sports.io/football/teams/18.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1512761,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-03-29T00:00:00+00:00",
+      "timestamp": 1774742400,
+      "periods": {
+        "first": 1774742400,
+        "second": 1774746000
+      },
+      "venue": {
+        "id": null,
+        "name": "BMO Field",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      },
+      "away": {
+        "id": 28,
+        "name": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/28.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1397472,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-11-19T01:00:00+00:00",
+      "timestamp": 1763514000,
+      "periods": {
+        "first": 1763514000,
+        "second": 1763517600
+      },
+      "venue": {
+        "id": 19758,
+        "name": "Stadion Ergilio Hato",
+        "city": "Willemstad"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Final Round - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5164,
+        "name": "Nicaragua",
+        "logo": "https://media.api-sports.io/football/teams/5164.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1446022,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-11-14T02:00:00+00:00",
+      "timestamp": 1763085600,
+      "periods": {
+        "first": 1763085600,
+        "second": 1763089200
+      },
+      "venue": {
+        "id": 19758,
+        "name": "Stadion Ergilio Hato",
+        "city": "Willemstad"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Final Round - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 29,
+        "name": "Costa Rica",
+        "logo": "https://media.api-sports.io/football/teams/29.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1397460,
+      "referee": "O. Nation",
+      "timezone": "UTC",
+      "date": "2025-10-14T00:00:00+00:00",
+      "timestamp": 1760400000,
+      "periods": {
+        "first": 1760400000,
+        "second": 1760403600
+      },
+      "venue": {
+        "id": 19208,
+        "name": "Estadio Nacional Jose de la Paz Herrera Ucles",
+        "city": "Tegucigalpa"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Final Round - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 4672,
+        "name": "Honduras",
+        "logo": "https://media.api-sports.io/football/teams/4672.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1397454,
+      "referee": "V. Caceres",
+      "timezone": "UTC",
+      "date": "2025-10-10T00:00:00+00:00",
+      "timestamp": 1760054400,
+      "periods": {
+        "first": 1760054400,
+        "second": 1760058000
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Nacional de Futbol",
+        "city": "Managua"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Final Round - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5164,
+        "name": "Nicaragua",
+        "logo": "https://media.api-sports.io/football/teams/5164.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1397447,
+      "referee": "T. Penso",
+      "timezone": "UTC",
+      "date": "2025-09-10T02:00:00+00:00",
+      "timestamp": 1757469600,
+      "periods": {
+        "first": 1757469600,
+        "second": 1757473200
+      },
+      "venue": {
+        "id": 392,
+        "name": "Estadio Nacional de Costa Rica",
+        "city": "San José"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Final Round - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 29,
+        "name": "Costa Rica",
+        "logo": "https://media.api-sports.io/football/teams/29.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1397442,
+      "referee": "P. Lauziere",
+      "timezone": "UTC",
+      "date": "2025-09-06T00:00:00+00:00",
+      "timestamp": 1757116800,
+      "periods": {
+        "first": 1757116800,
+        "second": 1757120400
+      },
+      "venue": {
+        "id": 19758,
+        "name": "Stadion Ergilio Hato",
+        "city": "Willemstad"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Final Round - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4672,
+        "name": "Honduras",
+        "logo": "https://media.api-sports.io/football/teams/4672.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1371373,
+      "referee": "Katia Itzel García",
+      "timezone": "UTC",
+      "date": "2025-06-22T23:00:00+00:00",
+      "timestamp": 1750633200,
+      "periods": {
+        "first": 1750633200,
+        "second": 1750636800
+      },
+      "venue": {
+        "id": null,
+        "name": "AT&T Stadium",
+        "city": "Arlington, Texas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2384,
+        "name": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2384.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1371366,
+      "referee": "Ismael Alexander Cornejo Meléndez",
+      "timezone": "UTC",
+      "date": "2025-06-19T22:45:00+00:00",
+      "timestamp": 1750373100,
+      "periods": {
+        "first": 1750373100,
+        "second": 1750376700
+      },
+      "venue": {
+        "id": 19418,
+        "name": "Shell Energy Stadium",
+        "city": "Houston, Texas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5168,
+        "name": "Trinidad and Tobago",
+        "logo": "https://media.api-sports.io/football/teams/5168.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1371358,
+      "referee": "Walter Alexander López Castellanos",
+      "timezone": "UTC",
+      "date": "2025-06-16T00:15:00+00:00",
+      "timestamp": 1750032900,
+      "periods": {
+        "first": 1750032900,
+        "second": 1750036500
+      },
+      "venue": {
+        "id": 22425,
+        "name": "Snapdragon Stadium",
+        "city": "San Diego, California"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      },
+      "away": {
+        "id": 23,
+        "name": "Saudi Arabia",
+        "logo": "https://media.api-sports.io/football/teams/23.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1169554,
+      "referee": "Steven Josué Madrigal Fallas",
+      "timezone": "UTC",
+      "date": "2025-06-10T22:00:00+00:00",
+      "timestamp": 1749592800,
+      "periods": {
+        "first": 1749592800,
+        "second": 1749596400
+      },
+      "venue": {
+        "id": null,
+        "name": "Complejo Deportivo Guillermo Prospero Trinidad",
+        "city": "Oranjestad"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2026,
+      "round": "2nd Round - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5530,
+        "name": "Curaçao",
+        "logo": "https://media.api-sports.io/football/teams/5530.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 5
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 5
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1169547,
+      "referee": "Luis Enrique Santander Aguirre",
+      "timezone": "UTC",
+      "date": "2025-06-07T21:00:00+00:00",
+      "timestamp": 1749330000,
+      "periods": {
+        "first": 1749330000,
+        "second": 1749333600
+      },
+      "venue": {
+        "id": null,
+        "name": "Complejo Deportivo Guillermo Prospero Trinidad",
+        "city": "Oranjestad"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 1
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2026,
+      "round": "2nd Round - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 8167,
+        "name": "Aruba",
+        "logo": "https://media.api-sports.io/football/teams/8167.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 5
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 5
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1357846,
+      "referee": "K. Sağlam",
+      "timezone": "UTC",
+      "date": "2025-03-22T17:30:00+00:00",
+      "timestamp": 1742664600,
+      "periods": {
+        "first": 1742664600,
+        "second": 1742668200
+      },
+      "venue": {
+        "id": 4130,
+        "name": "Mehdi Huseynzade Stadium",
+        "city": "Sumqayit"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1096,
+        "name": "Azerbaijan",
+        "logo": "https://media.api-sports.io/football/teams/1096.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1201323,
+      "referee": "R. Vazquez",
+      "timezone": "UTC",
+      "date": "2024-11-19T00:00:00+00:00",
+      "timestamp": 1731974400,
+      "periods": {
+        "first": 1731974400,
+        "second": 1731978000
+      },
+      "venue": {
+        "id": 22464,
+        "name": "Estadio Centroamericano de Mayagüez",
+        "city": "Mayagüez"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League B - 6",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5539,
+        "name": "Puerto Rico",
+        "logo": "https://media.api-sports.io/football/teams/5539.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1201316,
+      "referee": "N. Da Silva",
+      "timezone": "UTC",
+      "date": "2024-11-15T21:00:00+00:00",
+      "timestamp": 1731704400,
+      "periods": {
+        "first": 1731704400,
+        "second": 1731708000
+      },
+      "venue": {
+        "id": 22464,
+        "name": "Estadio Centroamericano de Mayagüez",
+        "city": "Mayagüez"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League B - 5",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 10985,
+        "name": "Sint Maarten",
+        "logo": "https://media.api-sports.io/football/teams/10985.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 8
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 4
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 8
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1201307,
+      "referee": "D. Gómez",
+      "timezone": "UTC",
+      "date": "2024-10-15T00:00:00+00:00",
+      "timestamp": 1728950400,
+      "periods": {
+        "first": 1728950400,
+        "second": 1728954000
+      },
+      "venue": {
+        "id": null,
+        "name": "Compleho Deportivo Guillermo Prospero Trinidad",
+        "city": "Oranjestad"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League B - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 8167,
+        "name": "Aruba",
+        "logo": "https://media.api-sports.io/football/teams/8167.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1201299,
+      "referee": "K. Williams",
+      "timezone": "UTC",
+      "date": "2024-10-12T00:00:00+00:00",
+      "timestamp": 1728691200,
+      "periods": {
+        "first": 1728691200,
+        "second": 1728694800
+      },
+      "venue": {
+        "id": null,
+        "name": "Compleho Deportivo Guillermo Prospero Trinidad",
+        "city": "Oranjestad"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League B - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 8167,
+        "name": "Aruba",
+        "logo": "https://media.api-sports.io/football/teams/8167.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1201291,
+      "referee": "C. Shaw-MacLaren",
+      "timezone": "UTC",
+      "date": "2024-09-09T21:00:00+00:00",
+      "timestamp": 1725915600,
+      "periods": {
+        "first": 1725915600,
+        "second": 1725919200
+      },
+      "venue": {
+        "id": 22464,
+        "name": "Estadio Centroamericano de Mayagüez",
+        "city": "Mayagüez"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League B - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 10985,
+        "name": "Sint Maarten",
+        "logo": "https://media.api-sports.io/football/teams/10985.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 6,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 6,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1201283,
+      "referee": "F. Dujic",
+      "timezone": "UTC",
+      "date": "2024-09-07T00:00:00+00:00",
+      "timestamp": 1725667200,
+      "periods": {
+        "first": 1725667200,
+        "second": 1725670800
+      },
+      "venue": {
+        "id": 22464,
+        "name": "Estadio Centroamericano de Mayagüez",
+        "city": "Mayagüez"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League B - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5539,
+        "name": "Puerto Rico",
+        "logo": "https://media.api-sports.io/football/teams/5539.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1169527,
+      "referee": "K. Herrera",
+      "timezone": "UTC",
+      "date": "2024-06-09T21:00:00+00:00",
+      "timestamp": 1717966800,
+      "periods": {
+        "first": 1717966800,
+        "second": 1717970400
+      },
+      "venue": {
+        "id": null,
+        "name": "Wildey Turf",
+        "city": "Bridgetown"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2026,
+      "round": "2nd Round - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5527,
+        "name": "Barbados",
+        "logo": "https://media.api-sports.io/football/teams/5527.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1169517,
+      "referee": "I. Elfath",
+      "timezone": "UTC",
+      "date": "2024-06-06T21:00:00+00:00",
+      "timestamp": 1717707600,
+      "periods": {
+        "first": 1717707600,
+        "second": 1717711200
+      },
+      "venue": {
+        "id": null,
+        "name": "Wildey Turf",
+        "city": "Bridgetown"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2026,
+      "round": "2nd Round - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5540,
+        "name": "St. Lucia",
+        "logo": "https://media.api-sports.io/football/teams/5540.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1189572,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-03-23T20:00:00+00:00",
+      "timestamp": 1711224000,
+      "periods": {
+        "first": 1711224000,
+        "second": 1711227600
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "World: Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 8118,
+        "name": "French Guyana",
+        "logo": "https://media.api-sports.io/football/teams/8118.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1060797,
+      "referee": "K. Herrera",
+      "timezone": "UTC",
+      "date": "2023-10-16T00:00:00+00:00",
+      "timestamp": 1697414400,
+      "periods": {
+        "first": 1697414400,
+        "second": 1697418000
+      },
+      "venue": {
+        "id": 3905,
+        "name": "Hasely Crawford Stadium",
+        "city": "Port of Spain"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2023,
+      "round": "League A - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2385,
+        "name": "Jamaica",
+        "logo": "https://media.api-sports.io/football/teams/2385.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1060791,
+      "referee": "V. Cáceres",
+      "timezone": "UTC",
+      "date": "2023-10-12T22:00:00+00:00",
+      "timestamp": 1697148000,
+      "periods": {
+        "first": 1697148000,
+        "second": 1697151600
+      },
+      "venue": {
+        "id": 7380,
+        "name": "Dr. Ir. Franklin Essed Stadion",
+        "city": "Paramaribo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2023,
+      "round": "League A - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 8171,
+        "name": "Suriname",
+        "logo": "https://media.api-sports.io/football/teams/8171.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1060788,
+      "referee": "C. Ramos",
+      "timezone": "UTC",
+      "date": "2023-09-13T00:00:00+00:00",
+      "timestamp": 1694563200,
+      "periods": {
+        "first": 1694563200,
+        "second": 1694566800
+      },
+      "venue": {
+        "id": 1976,
+        "name": "Independence Park",
+        "city": "Kingston"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2023,
+      "round": "League A - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2385,
+        "name": "Jamaica",
+        "logo": "https://media.api-sports.io/football/teams/2385.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1060782,
+      "referee": "R. Solano",
+      "timezone": "UTC",
+      "date": "2023-09-08T20:00:00+00:00",
+      "timestamp": 1694203200,
+      "periods": {
+        "first": 1694203200,
+        "second": 1694206800
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Panamericano",
+        "city": "San Cristóbal"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2023,
+      "round": "League A - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2388,
+        "name": "Cuba",
+        "logo": "https://media.api-sports.io/football/teams/2388.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1023113,
+      "referee": "O. Nation",
+      "timezone": "UTC",
+      "date": "2023-07-03T01:00:00+00:00",
+      "timestamp": 1688346000,
+      "periods": {
+        "first": 1688346000,
+        "second": 1688349600
+      },
+      "venue": {
+        "id": 18659,
+        "name": "Bank of America Stadium",
+        "city": "Charlotte, North Carolina"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 4672,
+        "name": "Honduras",
+        "logo": "https://media.api-sports.io/football/teams/4672.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1023109,
+      "referee": "W. López",
+      "timezone": "UTC",
+      "date": "2023-06-30T02:00:00+00:00",
+      "timestamp": 1688090400,
+      "periods": {
+        "first": 1688090400,
+        "second": 1688094000
+      },
+      "venue": {
+        "id": null,
+        "name": "State Farm Stadium",
+        "city": "Glendale, Arizona"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      },
+      "away": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1023103,
+      "referee": "D. Parchment",
+      "timezone": "UTC",
+      "date": "2023-06-25T22:00:00+00:00",
+      "timestamp": 1687730400,
+      "periods": {
+        "first": 1687730400,
+        "second": 1687734000
+      },
+      "venue": {
+        "id": null,
+        "name": "NRG Stadium",
+        "city": "Houston, Texas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1569,
+        "name": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/1569.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 856871,
+      "referee": "M. Matamoros",
+      "timezone": "UTC",
+      "date": "2023-03-28T22:00:00+00:00",
+      "timestamp": 1680040800,
+      "periods": {
+        "first": 1680040800,
+        "second": 1680044400
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Panamericano",
+        "city": "San Cristóbal"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League B - 6",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5158,
+        "name": "Bermuda",
+        "logo": "https://media.api-sports.io/football/teams/5158.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 856862,
+      "referee": "B. López",
+      "timezone": "UTC",
+      "date": "2023-03-25T21:00:00+00:00",
+      "timestamp": 1679778000,
+      "periods": {
+        "first": 1679778000,
+        "second": 1679781600
+      },
+      "venue": {
+        "id": 7391,
+        "name": "Blakes Estate Stadium",
+        "city": "Look Out"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League B - 5",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 8170,
+        "name": "Montserrat",
+        "logo": "https://media.api-sports.io/football/teams/8170.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 856855,
+      "referee": "R. Encarnacion",
+      "timezone": "UTC",
+      "date": "2022-06-14T22:00:00+00:00",
+      "timestamp": 1655244000,
+      "periods": {
+        "first": 1655244000,
+        "second": 1655247600
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Olímpico Félix Sánchez",
+        "city": "Santo Domingo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League B - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5162,
+        "name": "Guyana",
+        "logo": "https://media.api-sports.io/football/teams/5162.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 6,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 6,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 856846,
+      "referee": "L. Santander",
+      "timezone": "UTC",
+      "date": "2022-06-11T20:00:00+00:00",
+      "timestamp": 1654977600,
+      "periods": {
+        "first": 1654977600,
+        "second": 1654981200
+      },
+      "venue": {
+        "id": null,
+        "name": "Synthetic Track and Field Facility",
+        "city": "Leonora"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League B - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5162,
+        "name": "Guyana",
+        "logo": "https://media.api-sports.io/football/teams/5162.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 6
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 5
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 6
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 856838,
+      "referee": "D. Gómez",
+      "timezone": "UTC",
+      "date": "2022-06-07T21:00:00+00:00",
+      "timestamp": 1654635600,
+      "periods": {
+        "first": 1654635600,
+        "second": 1654639200
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Olímpico Félix Sánchez",
+        "city": "Santo Domingo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League B - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 8170,
+        "name": "Montserrat",
+        "logo": "https://media.api-sports.io/football/teams/8170.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 856831,
+      "referee": "R. Radix",
+      "timezone": "UTC",
+      "date": "2022-06-04T21:00:00+00:00",
+      "timestamp": 1654376400,
+      "periods": {
+        "first": 1654376400,
+        "second": 1654380000
+      },
+      "venue": {
+        "id": null,
+        "name": "Dame Flora Duffy National Sports Centre",
+        "city": "Hamilton, Devonshire Parish"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League B - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5158,
+        "name": "Bermuda",
+        "logo": "https://media.api-sports.io/football/teams/5158.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 847828,
+      "referee": "R. Vazquez",
+      "timezone": "UTC",
+      "date": "2022-03-27T20:00:00+00:00",
+      "timestamp": 1648411200,
+      "periods": {
+        "first": 1648411200,
+        "second": 1648414800
+      },
+      "venue": {
+        "id": 11976,
+        "name": "DRV PNK Stadium",
+        "city": "Fort Lauderdale, Florida"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5161,
+        "name": "Guatemala",
+        "logo": "https://media.api-sports.io/football/teams/5161.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 781087,
+      "referee": "Mohammad Khaled",
+      "timezone": "UTC",
+      "date": "2021-09-04T16:00:00+00:00",
+      "timestamp": 1630771200,
+      "periods": {
+        "first": 1630771200,
+        "second": 1630774800
+      },
+      "venue": {
+        "id": null,
+        "name": "Stād al-Bahrayn al-Watanī",
+        "city": "Riffa"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1548,
+        "name": "Jordan",
+        "logo": "https://media.api-sports.io/football/teams/1548.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 781085,
+      "referee": "Ahmed Eisa Mohamed",
+      "timezone": "UTC",
+      "date": "2021-09-01T16:00:00+00:00",
+      "timestamp": 1630512000,
+      "periods": {
+        "first": 1630512000,
+        "second": 1630515600
+      },
+      "venue": {
+        "id": null,
+        "name": "Stād al-Bahrayn al-Watanī",
+        "city": "Riffa"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1547,
+        "name": "Bahrain",
+        "logo": "https://media.api-sports.io/football/teams/1547.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 6,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 5,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 6,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 723378,
+      "referee": "I. Cornejo",
+      "timezone": "UTC",
+      "date": "2021-07-18T21:00:00+00:00",
+      "timestamp": 1626642000,
+      "periods": {
+        "first": 1626642000,
+        "second": 1626645600
+      },
+      "venue": {
+        "id": 1612,
+        "name": "Toyota Stadium",
+        "city": "Frisco, Texas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 8117,
+        "name": "Martinique",
+        "logo": "https://media.api-sports.io/football/teams/8117.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 723376,
+      "referee": "J. Calderón",
+      "timezone": "UTC",
+      "date": "2021-07-15T23:30:00+00:00",
+      "timestamp": 1626391800,
+      "periods": {
+        "first": 1626391800,
+        "second": 1626395400
+      },
+      "venue": {
+        "id": 1615,
+        "name": "Children's Mercy Park",
+        "city": "Kansas City, Kansas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 723373,
+      "referee": "S. Martínez",
+      "timezone": "UTC",
+      "date": "2021-07-12T00:30:00+00:00",
+      "timestamp": 1626049800,
+      "periods": {
+        "first": 1626049800,
+        "second": 1626053400
+      },
+      "venue": {
+        "id": 1615,
+        "name": "Children's Mercy Park",
+        "city": "Kansas City, Kansas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2384,
+        "name": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2384.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 748037,
+      "referee": "I. Barton",
+      "timezone": "UTC",
+      "date": "2021-07-06T23:00:00+00:00",
+      "timestamp": 1625612400,
+      "periods": {
+        "first": 1625612400,
+        "second": 1625616000
+      },
+      "venue": {
+        "id": 11976,
+        "name": "DRV PNK Stadium",
+        "city": "Fort Lauderdale, Florida"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 858,
+      "name": "CONCACAF Gold Cup - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/858.png",
+      "flag": null,
+      "season": 2021,
+      "round": "2nd Preliminary Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5158,
+        "name": "Bermuda",
+        "logo": "https://media.api-sports.io/football/teams/5158.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 748039,
+      "referee": "O. Nation",
+      "timezone": "UTC",
+      "date": "2021-07-02T20:30:00+00:00",
+      "timestamp": 1625257800,
+      "periods": {
+        "first": 1625257800,
+        "second": 1625261400
+      },
+      "venue": {
+        "id": 11976,
+        "name": "DRV PNK Stadium",
+        "city": "Fort Lauderdale, Florida"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 858,
+      "name": "CONCACAF Gold Cup - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/858.png",
+      "flag": null,
+      "season": 2021,
+      "round": "1st Preliminary Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5541,
+        "name": "St. Vincent / Grenadines",
+        "logo": "https://media.api-sports.io/football/teams/5541.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 6,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 6,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 706970,
+      "referee": "R. Vazquez",
+      "timezone": "UTC",
+      "date": "2021-06-16T01:00:00+00:00",
+      "timestamp": 1623805200,
+      "periods": {
+        "first": 1623805200,
+        "second": 1623808800
+      },
+      "venue": {
+        "id": 19491,
+        "name": "SeatGeek Stadium",
+        "city": "Bridgeview, Illinois"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "2nd Round",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 706969,
+      "referee": "J. Pitti",
+      "timezone": "UTC",
+      "date": "2021-06-12T21:00:00+00:00",
+      "timestamp": 1623531600,
+      "periods": {
+        "first": 1623531600,
+        "second": 1623535200
+      },
+      "venue": {
+        "id": 2856,
+        "name": "Stade Sylvio Cator",
+        "city": "Port-au-Prince"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "2nd Round",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 592718,
+      "referee": "K. Morrison",
+      "timezone": "UTC",
+      "date": "2021-06-08T21:00:00+00:00",
+      "timestamp": 1623186000,
+      "periods": {
+        "first": 1623186000,
+        "second": 1623189600
+      },
+      "venue": {
+        "id": 2856,
+        "name": "Stade Sylvio Cator",
+        "city": "Port-au-Prince"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "1st Round - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5164,
+        "name": "Nicaragua",
+        "logo": "https://media.api-sports.io/football/teams/5164.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 592712,
+      "referee": "D. Montaño",
+      "timezone": "UTC",
+      "date": "2021-06-05T19:00:00+00:00",
+      "timestamp": 1622919600,
+      "periods": {
+        "first": 1622919600,
+        "second": 1622923200
+      },
+      "venue": {
+        "id": 3906,
+        "name": "TCIFA National Stadium",
+        "city": "Providenciales"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "1st Round - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5169,
+        "name": "Turks and Caicos Islands",
+        "logo": "https://media.api-sports.io/football/teams/5169.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 10
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 5
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 10
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 592688,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2021-03-28T00:00:00+00:00",
+      "timestamp": 1616889600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "1st Round - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5540,
+        "name": "St. Lucia",
+        "logo": "https://media.api-sports.io/football/teams/5540.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 592676,
+      "referee": "W. López",
+      "timezone": "UTC",
+      "date": "2021-03-25T21:00:00+00:00",
+      "timestamp": 1616706000,
+      "periods": {
+        "first": 1616706000,
+        "second": 1616709600
+      },
+      "venue": {
+        "id": 2856,
+        "name": "Stade Sylvio Cator",
+        "city": "Port-au-Prince"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "1st Round - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5528,
+        "name": "Belize",
+        "logo": "https://media.api-sports.io/football/teams/5528.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 362655,
+      "referee": "S. Martínez",
+      "timezone": "UTC",
+      "date": "2019-11-18T00:00:00+00:00",
+      "timestamp": 1574035200,
+      "periods": {
+        "first": 1574035200,
+        "second": 1574038800
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Ricardo Saprissa Aymá",
+        "city": "San José"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League A - 6",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 29,
+        "name": "Costa Rica",
+        "logo": "https://media.api-sports.io/football/teams/29.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 246527,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-10-16T00:00:00+00:00",
+      "timestamp": 1571184000,
+      "periods": {
+        "first": 1571184000,
+        "second": 1571187600
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Ramón Aguilera Costas (Santa Cruz de la Sierra)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2381,
+        "name": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/2381.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 362644,
+      "referee": "D. Fischer",
+      "timezone": "UTC",
+      "date": "2019-10-11T01:00:00+00:00",
+      "timestamp": 1570755600,
+      "periods": {
+        "first": 1570755600,
+        "second": 1570759200
+      },
+      "venue": {
+        "id": null,
+        "name": "New Thomas A. Robinson National Stadium",
+        "city": "Nassau"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League A - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": null
+      },
+      "away": {
+        "id": 29,
+        "name": "Costa Rica",
+        "logo": "https://media.api-sports.io/football/teams/29.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 362641,
+      "referee": "W. López",
+      "timezone": "UTC",
+      "date": "2019-09-11T00:00:00+00:00",
+      "timestamp": 1568160000,
+      "periods": {
+        "first": 1568160000,
+        "second": 1568163600
+      },
+      "venue": {
+        "id": 2856,
+        "name": "Stade Sylvio Cator",
+        "city": "Port-au-Prince"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League A - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5530,
+        "name": "Curaçao",
+        "logo": "https://media.api-sports.io/football/teams/5530.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 362637,
+      "referee": "K. Herrera",
+      "timezone": "UTC",
+      "date": "2019-09-08T00:00:00+00:00",
+      "timestamp": 1567900800,
+      "periods": {
+        "first": 1567900800,
+        "second": 1567904400
+      },
+      "venue": {
+        "id": null,
+        "name": "Stadion Ergilio Hato",
+        "city": "Willemstad"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League A - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5530,
+        "name": "Curaçao",
+        "logo": "https://media.api-sports.io/football/teams/5530.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 255382,
+      "referee": "Abdulrahman Al Jassim",
+      "timezone": "UTC",
+      "date": "2019-07-03T02:30:00+00:00",
+      "timestamp": 1562121000,
+      "periods": {
+        "first": 1562121000,
+        "second": 1562124600
+      },
+      "venue": {
+        "id": null,
+        "name": "State Farm Stadium",
+        "city": "Glendale, Arizona"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Semi-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      },
+      "away": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": 0,
+        "away": 1
+      },
+      "penalty": {
+        "home": 0,
+        "away": 0
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 255378,
+      "referee": "J. Marrufo",
+      "timezone": "UTC",
+      "date": "2019-06-29T23:00:00+00:00",
+      "timestamp": 1561849200,
+      "periods": {
+        "first": 1561849200,
+        "second": 1561852800
+      },
+      "venue": {
+        "id": null,
+        "name": "NRG Stadium",
+        "city": "Houston, Texas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Quarter-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 255404,
+      "referee": "I. Elfath",
+      "timezone": "UTC",
+      "date": "2019-06-25T01:00:00+00:00",
+      "timestamp": 1561424400,
+      "periods": {
+        "first": 1561424400,
+        "second": 1561428000
+      },
+      "venue": {
+        "id": null,
+        "name": "Red Bull Arena (Harrison, New Jersey)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 29,
+        "name": "Costa Rica",
+        "logo": "https://media.api-sports.io/football/teams/29.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 255395,
+      "referee": "M. Escobar",
+      "timezone": "UTC",
+      "date": "2019-06-20T23:00:00+00:00",
+      "timestamp": 1561071600,
+      "periods": {
+        "first": 1561071600,
+        "second": 1561075200
+      },
+      "venue": {
+        "id": 1612,
+        "name": "Toyota Stadium",
+        "city": "Frisco, Texas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5164,
+        "name": "Nicaragua",
+        "logo": "https://media.api-sports.io/football/teams/5164.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 255387,
+      "referee": "D. Parchment",
+      "timezone": "UTC",
+      "date": "2019-06-16T22:00:00+00:00",
+      "timestamp": 1560722400,
+      "periods": {
+        "first": 1560722400,
+        "second": 1560726000
+      },
+      "venue": {
+        "id": 392,
+        "name": "Estadio Nacional de Costa Rica",
+        "city": "San José"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5158,
+        "name": "Bermuda",
+        "logo": "https://media.api-sports.io/football/teams/5158.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218369,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-06-11T20:00:00+00:00",
+      "timestamp": 1560283200,
+      "periods": {
+        "first": 1560283200,
+        "second": 1560286800
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5162,
+        "name": "Guyana",
+        "logo": "https://media.api-sports.io/football/teams/5162.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218302,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-06-06T23:00:00+00:00",
+      "timestamp": 1559862000,
+      "periods": {
+        "first": 1559862000,
+        "second": 1559865600
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio La Portada de La Serena (La Serena)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2383,
+        "name": "Chile",
+        "logo": "https://media.api-sports.io/football/teams/2383.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218366,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-06-02T20:00:00+00:00",
+      "timestamp": 1559505600,
+      "periods": {
+        "first": 1559505600,
+        "second": 1559509200
+      },
+      "venue": {
+        "id": null,
+        "name": "Robert F. Kennedy Memorial Stadium (Washington, District of Columbia)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5159,
+        "name": "El Salvador",
+        "logo": "https://media.api-sports.io/football/teams/5159.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 672487,
+      "referee": "W. López",
+      "timezone": "UTC",
+      "date": "2019-03-24T22:30:00+00:00",
+      "timestamp": 1553466600,
+      "periods": {
+        "first": 1553466600,
+        "second": 1553470200
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 808,
+      "name": "CONCACAF Nations League - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/808.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Group Stage - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2388,
+        "name": "Cuba",
+        "logo": "https://media.api-sports.io/football/teams/2388.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225639,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-11-21T01:00:00+00:00",
+      "timestamp": 1542762000,
+      "periods": {
+        "first": 1542762000,
+        "second": 1542765600
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Cuscatlan",
+        "city": "San Salvador"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5159,
+        "name": "El Salvador",
+        "logo": "https://media.api-sports.io/football/teams/5159.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 672461,
+      "referee": "D. Fischer",
+      "timezone": "UTC",
+      "date": "2018-11-18T01:00:00+00:00",
+      "timestamp": 1542502800,
+      "periods": {
+        "first": 1542502800,
+        "second": 1542506400
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Nacional de Fútbol",
+        "city": "Managua"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 808,
+      "name": "CONCACAF Nations League - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/808.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Group Stage - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5164,
+        "name": "Nicaragua",
+        "logo": "https://media.api-sports.io/football/teams/5164.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 672454,
+      "referee": "T. Richards",
+      "timezone": "UTC",
+      "date": "2018-10-17T01:15:00+00:00",
+      "timestamp": 1539738900,
+      "periods": {
+        "first": 1539738900,
+        "second": 1539742500
+      },
+      "venue": {
+        "id": 5761,
+        "name": "Stade Municipal Pierre-Aliker",
+        "city": "Fort-de-France"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 808,
+      "name": "CONCACAF Nations League - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/808.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Group Stage - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5540,
+        "name": "St. Lucia",
+        "logo": "https://media.api-sports.io/football/teams/5540.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 672434,
+      "referee": "N. Sandoval",
+      "timezone": "UTC",
+      "date": "2018-09-10T22:30:00+00:00",
+      "timestamp": 1536618600,
+      "periods": {
+        "first": 1536618600,
+        "second": 1536622200
+      },
+      "venue": {
+        "id": 2856,
+        "name": "Stade Sylvio Cator",
+        "city": "Port-au-Prince"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 808,
+      "name": "CONCACAF Nations League - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/808.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Group Stage - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 10985,
+        "name": "Sint Maarten",
+        "logo": "https://media.api-sports.io/football/teams/10985.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 13,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 5,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 13,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225420,
+      "referee": "Arnaldo Samaniego, Paraguay",
+      "timezone": "UTC",
+      "date": "2018-05-29T23:00:00+00:00",
+      "timestamp": 1527634800,
+      "periods": {
+        "first": 1527634800,
+        "second": 1527638400
+      },
+      "venue": {
+        "id": null,
+        "name": "Alberto J. Armando",
+        "city": "Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256338,
+      "referee": "A. Skeete",
+      "timezone": "UTC",
+      "date": "2016-09-07T01:30:00+00:00",
+      "timestamp": 1473211800,
+      "periods": {
+        "first": 1473211800,
+        "second": 1473215400
+      },
+      "venue": {
+        "id": 1976,
+        "name": "Independence Park",
+        "city": "Kingston"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2018,
+      "round": "4th Round - 6",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2385,
+        "name": "Jamaica",
+        "logo": "https://media.api-sports.io/football/teams/2385.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256332,
+      "referee": "M. Mejia",
+      "timezone": "UTC",
+      "date": "2016-09-03T00:00:00+00:00",
+      "timestamp": 1472860800,
+      "periods": {
+        "first": 1472860800,
+        "second": 1472864400
+      },
+      "venue": {
+        "id": 2856,
+        "name": "Stade Sylvio Cator",
+        "city": "Port-au-Prince"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2018,
+      "round": "4th Round - 5",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      },
+      "away": {
+        "id": 29,
+        "name": "Costa Rica",
+        "logo": "https://media.api-sports.io/football/teams/29.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256326,
+      "referee": "O. Moncada",
+      "timezone": "UTC",
+      "date": "2016-03-30T02:30:00+00:00",
+      "timestamp": 1459305000,
+      "periods": {
+        "first": 1459305000,
+        "second": 1459308600
+      },
+      "venue": {
+        "id": 1207,
+        "name": "Estadio Rommel Fernández Gutiérrez",
+        "city": "Ciudad de Panamá"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2018,
+      "round": "4th Round - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 11,
+        "name": "Panama",
+        "logo": "https://media.api-sports.io/football/teams/11.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256319,
+      "referee": "O. Reyna",
+      "timezone": "UTC",
+      "date": "2016-03-26T00:00:00+00:00",
+      "timestamp": 1458950400,
+      "periods": {
+        "first": 1458950400,
+        "second": 1458954000
+      },
+      "venue": {
+        "id": 2856,
+        "name": "Stade Sylvio Cator",
+        "city": "Port-au-Prince"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2018,
+      "round": "4th Round - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": null
+      },
+      "away": {
+        "id": 11,
+        "name": "Panama",
+        "logo": "https://media.api-sports.io/football/teams/11.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256314,
+      "referee": "J. Santos",
+      "timezone": "UTC",
+      "date": "2015-11-18T00:00:00+00:00",
+      "timestamp": 1447804800,
+      "periods": {
+        "first": 1447804800,
+        "second": 1447808400
+      },
+      "venue": {
+        "id": 2856,
+        "name": "Stade Sylvio Cator",
+        "city": "Port-au-Prince"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2018,
+      "round": "4th Round - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2385,
+        "name": "Jamaica",
+        "logo": "https://media.api-sports.io/football/teams/2385.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256308,
+      "referee": "Y. Martinez",
+      "timezone": "UTC",
+      "date": "2015-11-14T02:00:00+00:00",
+      "timestamp": 1447466400,
+      "periods": {
+        "first": 1447466400,
+        "second": 1447470000
+      },
+      "venue": {
+        "id": 392,
+        "name": "Estadio Nacional de Costa Rica",
+        "city": "San José"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2018,
+      "round": "4th Round - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 29,
+        "name": "Costa Rica",
+        "logo": "https://media.api-sports.io/football/teams/29.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256344,
+      "referee": "D. Gantar",
+      "timezone": "UTC",
+      "date": "2015-09-08T23:00:00+00:00",
+      "timestamp": 1441753200,
+      "periods": {
+        "first": 1441753200,
+        "second": 1441756800
+      },
+      "venue": {
+        "id": 2856,
+        "name": "Stade Sylvio Cator",
+        "city": "Port-au-Prince"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5533,
+        "name": "Grenada",
+        "logo": "https://media.api-sports.io/football/teams/5533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256343,
+      "referee": "H. Rodríguez",
+      "timezone": "UTC",
+      "date": "2015-09-04T20:15:00+00:00",
+      "timestamp": 1441397700,
+      "periods": {
+        "first": 1441397700,
+        "second": 1441401300
+      },
+      "venue": {
+        "id": null,
+        "name": "Kirani James National Stadium",
+        "city": "St. George's"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5533,
+        "name": "Grenada",
+        "logo": "https://media.api-sports.io/football/teams/5533.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]

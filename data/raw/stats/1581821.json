@@ -1,0 +1,164 @@
+[
+  {
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 8
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 4
+      },
+      {
+        "type": "Total Shots",
+        "value": 17
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 5
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 10
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 7
+      },
+      {
+        "type": "Fouls",
+        "value": 13
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 5
+      },
+      {
+        "type": "Offsides",
+        "value": 3
+      },
+      {
+        "type": "Ball Possession",
+        "value": "68%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 2
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 1
+      },
+      {
+        "type": "Total passes",
+        "value": 665
+      },
+      {
+        "type": "Passes accurate",
+        "value": 598
+      },
+      {
+        "type": "Passes %",
+        "value": "90%"
+      },
+      {
+        "type": "expected_goals",
+        "value": "2.08"
+      },
+      {
+        "type": "goals_prevented",
+        "value": "0.59"
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 2
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 1
+      },
+      {
+        "type": "Total Shots",
+        "value": 5
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 2
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 4
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 1
+      },
+      {
+        "type": "Fouls",
+        "value": 18
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 1
+      },
+      {
+        "type": "Offsides",
+        "value": 1
+      },
+      {
+        "type": "Ball Possession",
+        "value": "32%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 2
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 6
+      },
+      {
+        "type": "Total passes",
+        "value": 314
+      },
+      {
+        "type": "Passes accurate",
+        "value": 244
+      },
+      {
+        "type": "Passes %",
+        "value": "78%"
+      },
+      {
+        "type": "expected_goals",
+        "value": "0.37"
+      },
+      {
+        "type": "goals_prevented",
+        "value": "0.59"
+      }
+    ]
+  }
+]

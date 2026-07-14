@@ -1,0 +1,148 @@
+[
+  {
+    "team": {
+      "id": 1563,
+      "name": "United Arab Emirates",
+      "logo": "https://media.api-sports.io/football/teams/1563.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 2
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 2
+      },
+      {
+        "type": "Total Shots",
+        "value": 5
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 1
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 3
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 2
+      },
+      {
+        "type": "Fouls",
+        "value": 13
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 0
+      },
+      {
+        "type": "Offsides",
+        "value": 1
+      },
+      {
+        "type": "Ball Possession",
+        "value": "23%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 1
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 2
+      },
+      {
+        "type": "Total passes",
+        "value": 204
+      },
+      {
+        "type": "Passes accurate",
+        "value": 153
+      },
+      {
+        "type": "Passes %",
+        "value": "75%"
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 17,
+      "name": "South Korea",
+      "logo": "https://media.api-sports.io/football/teams/17.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 2
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 2
+      },
+      {
+        "type": "Total Shots",
+        "value": 9
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 5
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 3
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 6
+      },
+      {
+        "type": "Fouls",
+        "value": 10
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 16
+      },
+      {
+        "type": "Offsides",
+        "value": 2
+      },
+      {
+        "type": "Ball Possession",
+        "value": "77%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 2
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 1
+      },
+      {
+        "type": "Total passes",
+        "value": 676
+      },
+      {
+        "type": "Passes accurate",
+        "value": 608
+      },
+      {
+        "type": "Passes %",
+        "value": "90%"
+      }
+    ]
+  }
+]

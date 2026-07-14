@@ -1,0 +1,164 @@
+[
+  {
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 1
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 9
+      },
+      {
+        "type": "Total Shots",
+        "value": 13
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 3
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 11
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 2
+      },
+      {
+        "type": "Fouls",
+        "value": 4
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 7
+      },
+      {
+        "type": "Offsides",
+        "value": 4
+      },
+      {
+        "type": "Ball Possession",
+        "value": "68%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 0
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 3
+      },
+      {
+        "type": "Total passes",
+        "value": 653
+      },
+      {
+        "type": "Passes accurate",
+        "value": 598
+      },
+      {
+        "type": "Passes %",
+        "value": "92%"
+      },
+      {
+        "type": "expected_goals",
+        "value": null
+      },
+      {
+        "type": "goals_prevented",
+        "value": null
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 18,
+      "name": "Iceland",
+      "logo": "https://media.api-sports.io/football/teams/18.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 4
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 0
+      },
+      {
+        "type": "Total Shots",
+        "value": 8
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 4
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 4
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 4
+      },
+      {
+        "type": "Fouls",
+        "value": 9
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 5
+      },
+      {
+        "type": "Offsides",
+        "value": 0
+      },
+      {
+        "type": "Ball Possession",
+        "value": "32%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 3
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 1
+      },
+      {
+        "type": "Total passes",
+        "value": 319
+      },
+      {
+        "type": "Passes accurate",
+        "value": 250
+      },
+      {
+        "type": "Passes %",
+        "value": "78%"
+      },
+      {
+        "type": "expected_goals",
+        "value": null
+      },
+      {
+        "type": "goals_prevented",
+        "value": null
+      }
+    ]
+  }
+]

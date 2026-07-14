@@ -1,0 +1,7562 @@
+[
+  {
+    "fixture": {
+      "id": 1528993,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-11-17T19:45:00+00:00",
+      "timestamp": 1794944700,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 21,
+        "name": "Denmark",
+        "logo": "https://media.api-sports.io/football/teams/21.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1528972,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-11-14T17:00:00+00:00",
+      "timestamp": 1794675600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      },
+      "away": {
+        "id": 767,
+        "name": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/767.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1528941,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-10-04T18:45:00+00:00",
+      "timestamp": 1791139500,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 27,
+        "name": "Portugal",
+        "logo": "https://media.api-sports.io/football/teams/27.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1528920,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-10-01T18:45:00+00:00",
+      "timestamp": 1790880300,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 767,
+        "name": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/767.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1528900,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-09-27T18:45:00+00:00",
+      "timestamp": 1790534700,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      },
+      "away": {
+        "id": 27,
+        "name": "Portugal",
+        "logo": "https://media.api-sports.io/football/teams/27.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1528865,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-09-24T18:45:00+00:00",
+      "timestamp": 1790275500,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2026,
+      "round": "1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      },
+      "away": {
+        "id": 21,
+        "name": "Denmark",
+        "logo": "https://media.api-sports.io/football/teams/21.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1581037,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-07-11T21:00:00+00:00",
+      "timestamp": 1783803600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 0,
+        "name": "Hard Rock Stadium",
+        "city": "Miami"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Quarter-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      },
+      "away": {
+        "id": 10,
+        "name": "England",
+        "logo": "https://media.api-sports.io/football/teams/10.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1568100,
+      "referee": "Ismail Elfath, USA",
+      "timezone": "UTC",
+      "date": "2026-07-05T20:00:00+00:00",
+      "timestamp": 1783281600,
+      "periods": {
+        "first": 1783281600,
+        "second": 1783285200
+      },
+      "venue": {
+        "id": 0,
+        "name": "MetLife Stadium",
+        "city": "East Rutherford"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 12
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Round of 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 6,
+        "name": "Brazil",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1564789,
+      "referee": "Jesús Valenzuela, Venezuela",
+      "timezone": "UTC",
+      "date": "2026-06-30T17:00:00+00:00",
+      "timestamp": 1782838800,
+      "periods": {
+        "first": 1782838800,
+        "second": 1782842400
+      },
+      "venue": {
+        "id": 0,
+        "name": "AT&T Stadium",
+        "city": "Dallas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Round of 32",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489416,
+      "referee": "Michael Oliver, England",
+      "timezone": "UTC",
+      "date": "2026-06-26T19:00:00+00:00",
+      "timestamp": 1782500400,
+      "periods": {
+        "first": 1782500400,
+        "second": 1782504000
+      },
+      "venue": {
+        "id": 1618,
+        "name": "Gillette Stadium",
+        "city": "Boston"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2,
+        "name": "France",
+        "logo": "https://media.api-sports.io/football/teams/2.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489401,
+      "referee": "Wilton Pereira Sampaio, Brazil",
+      "timezone": "UTC",
+      "date": "2026-06-23T00:00:00+00:00",
+      "timestamp": 1782172800,
+      "periods": {
+        "first": 1782172800,
+        "second": 1782176400
+      },
+      "venue": {
+        "id": null,
+        "name": "MetLife Stadium",
+        "city": "East Rutherford"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 11
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 13,
+        "name": "Senegal",
+        "logo": "https://media.api-sports.io/football/teams/13.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1539016,
+      "referee": "Pierre Ghislain Atcho, Gabon",
+      "timezone": "UTC",
+      "date": "2026-06-16T22:00:00+00:00",
+      "timestamp": 1781647200,
+      "periods": {
+        "first": 1781647200,
+        "second": 1781650800
+      },
+      "venue": {
+        "id": 1618,
+        "name": "Gillette Stadium",
+        "city": "Boston"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1567,
+        "name": "Iraq",
+        "logo": "https://media.api-sports.io/football/teams/1567.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1540950,
+      "referee": "Pierre-Luc Lauziere, Canada",
+      "timezone": "UTC",
+      "date": "2026-06-07T19:00:00+00:00",
+      "timestamp": 1780858800,
+      "periods": {
+        "first": 1780858800,
+        "second": 1780862400
+      },
+      "venue": {
+        "id": null,
+        "name": "Sports Illustrated Stadium",
+        "city": "Harrison"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 1
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 31,
+        "name": "Morocco",
+        "logo": "https://media.api-sports.io/football/teams/31.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1536927,
+      "referee": "Balazs Berke, Hungary",
+      "timezone": "UTC",
+      "date": "2026-06-01T17:00:00+00:00",
+      "timestamp": 1780333200,
+      "periods": {
+        "first": 1780333200,
+        "second": 1780336800
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5,
+        "name": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/5.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1503006,
+      "referee": "J. Vergoote",
+      "timezone": "UTC",
+      "date": "2026-03-31T16:00:00+00:00",
+      "timestamp": 1774972800,
+      "periods": {
+        "first": 1774972800,
+        "second": 1774976400
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      },
+      "away": {
+        "id": 15,
+        "name": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/15.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1503005,
+      "referee": "Lawrence Visser, Belgium",
+      "timezone": "UTC",
+      "date": "2026-03-27T19:45:00+00:00",
+      "timestamp": 1774640700,
+      "periods": {
+        "first": 1774640700,
+        "second": 1774644300
+      },
+      "venue": {
+        "id": null,
+        "name": "Johan Cruijff Arena",
+        "city": "Amsterdam"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 2
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1118,
+        "name": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1118.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1366321,
+      "referee": "A. Hernandez",
+      "timezone": "UTC",
+      "date": "2025-11-16T19:45:00+00:00",
+      "timestamp": 1763322300,
+      "periods": {
+        "first": 1763322300,
+        "second": 1763325900
+      },
+      "venue": {
+        "id": null,
+        "name": "San Siro/Giuseppe Meazza",
+        "city": "Milan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 768,
+        "name": "Italy",
+        "logo": "https://media.api-sports.io/football/teams/768.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323345,
+      "referee": "M. Jug",
+      "timezone": "UTC",
+      "date": "2025-11-13T17:00:00+00:00",
+      "timestamp": 1763053200,
+      "periods": {
+        "first": 1763053200,
+        "second": 1763056800
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1101,
+        "name": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/1101.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1352746,
+      "referee": "Horatiu Fesnic, Romania",
+      "timezone": "UTC",
+      "date": "2025-10-14T16:00:00+00:00",
+      "timestamp": 1760457600,
+      "periods": {
+        "first": 1760457600,
+        "second": 1760461200
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323324,
+      "referee": "S. Marciniak",
+      "timezone": "UTC",
+      "date": "2025-10-11T16:00:00+00:00",
+      "timestamp": 1760198400,
+      "periods": {
+        "first": 1760198400,
+        "second": 1760202000
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 1
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1116,
+        "name": "Israel",
+        "logo": "https://media.api-sports.io/football/teams/1116.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323303,
+      "referee": "B. Berke",
+      "timezone": "UTC",
+      "date": "2025-09-09T18:45:00+00:00",
+      "timestamp": 1757443500,
+      "periods": {
+        "first": 1757443500,
+        "second": 1757447100
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1114,
+        "name": "Moldova",
+        "logo": "https://media.api-sports.io/football/teams/1114.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 11,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 5,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 11,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1352744,
+      "referee": "Robert Hennessy, Ireland",
+      "timezone": "UTC",
+      "date": "2025-09-04T16:00:00+00:00",
+      "timestamp": 1757001600,
+      "periods": {
+        "first": 1757001600,
+        "second": 1757005200
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 2
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1099,
+        "name": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/1099.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323271,
+      "referee": "S. Jovanovic",
+      "timezone": "UTC",
+      "date": "2025-06-09T18:45:00+00:00",
+      "timestamp": 1749494700,
+      "periods": {
+        "first": 1749494700,
+        "second": 1749498300
+      },
+      "venue": {
+        "id": null,
+        "name": "A. Le Coq Arena",
+        "city": "Tallinn"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1101,
+        "name": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/1101.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1366273,
+      "referee": "J. Sanchez",
+      "timezone": "UTC",
+      "date": "2025-06-06T18:45:00+00:00",
+      "timestamp": 1749235500,
+      "periods": {
+        "first": 1749235500,
+        "second": 1749239100
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 768,
+        "name": "Italy",
+        "logo": "https://media.api-sports.io/football/teams/768.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323255,
+      "referee": "C. Kavanagh",
+      "timezone": "UTC",
+      "date": "2025-03-25T19:45:00+00:00",
+      "timestamp": 1742931900,
+      "periods": {
+        "first": 1742931900,
+        "second": 1742935500
+      },
+      "venue": {
+        "id": null,
+        "name": "Nagyerdei Stadion",
+        "city": "Debrecen"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1116,
+        "name": "Israel",
+        "logo": "https://media.api-sports.io/football/teams/1116.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1323244,
+      "referee": "M. Jug",
+      "timezone": "UTC",
+      "date": "2025-03-22T17:00:00+00:00",
+      "timestamp": 1742662800,
+      "periods": {
+        "first": 1742662800,
+        "second": 1742666400
+      },
+      "venue": {
+        "id": null,
+        "name": "Stadionul Zimbru",
+        "city": "Chisinau"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1114,
+        "name": "Moldova",
+        "logo": "https://media.api-sports.io/football/teams/1114.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 5
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 4
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 5
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172934,
+      "referee": "Jasper Vergoote, Belgium",
+      "timezone": "UTC",
+      "date": "2024-11-17T17:00:00+00:00",
+      "timestamp": 1731862800,
+      "periods": {
+        "first": 1731862800,
+        "second": 1731866400
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League B - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1095,
+        "name": "Kazakhstan",
+        "logo": "https://media.api-sports.io/football/teams/1095.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172926,
+      "referee": "Michael Oliver, England",
+      "timezone": "UTC",
+      "date": "2024-11-14T19:45:00+00:00",
+      "timestamp": 1731613500,
+      "periods": {
+        "first": 1731613500,
+        "second": 1731617100
+      },
+      "venue": {
+        "id": 1442,
+        "name": "Stadion Stožice",
+        "city": "Ljubljana"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League B - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1091,
+        "name": "Slovenia",
+        "logo": "https://media.api-sports.io/football/teams/1091.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172918,
+      "referee": "Tamas Bognar, Hungary",
+      "timezone": "UTC",
+      "date": "2024-10-13T18:45:00+00:00",
+      "timestamp": 1728845100,
+      "periods": {
+        "first": 1728845100,
+        "second": 1728848700
+      },
+      "venue": {
+        "id": null,
+        "name": "Raiffeisen Arena",
+        "city": "Linz"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League B - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172910,
+      "referee": "Manfredas Lukjancukas, Lithuania",
+      "timezone": "UTC",
+      "date": "2024-10-10T18:45:00+00:00",
+      "timestamp": 1728585900,
+      "periods": {
+        "first": 1728585900,
+        "second": 1728589500
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League B - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1091,
+        "name": "Slovenia",
+        "logo": "https://media.api-sports.io/football/teams/1091.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172899,
+      "referee": "Nikola Dabanovic, Montenegro",
+      "timezone": "UTC",
+      "date": "2024-09-09T18:45:00+00:00",
+      "timestamp": 1725907500,
+      "periods": {
+        "first": 1725907500,
+        "second": 1725911100
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League B - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1172891,
+      "referee": "Allard Lindhout, Netherlands",
+      "timezone": "UTC",
+      "date": "2024-09-06T14:00:00+00:00",
+      "timestamp": 1725631200,
+      "periods": {
+        "first": 1725631200,
+        "second": 1725634800
+      },
+      "venue": {
+        "id": null,
+        "name": "Central Stadium",
+        "city": "Almaty"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2024,
+      "round": "League B - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1095,
+        "name": "Kazakhstan",
+        "logo": "https://media.api-sports.io/football/teams/1095.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1171722,
+      "referee": "S. Frappart",
+      "timezone": "UTC",
+      "date": "2024-06-08T17:30:00+00:00",
+      "timestamp": 1717867800,
+      "periods": {
+        "first": 1717867800,
+        "second": 1717871400
+      },
+      "venue": {
+        "id": 443,
+        "name": "Brøndby Stadion",
+        "city": "Brøndby"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 21,
+        "name": "Denmark",
+        "logo": "https://media.api-sports.io/football/teams/21.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1171752,
+      "referee": "M. Redder",
+      "timezone": "UTC",
+      "date": "2024-06-05T17:00:00+00:00",
+      "timestamp": 1717606800,
+      "periods": {
+        "first": 1717606800,
+        "second": 1717610400
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1111,
+        "name": "Kosovo",
+        "logo": "https://media.api-sports.io/football/teams/1111.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1156212,
+      "referee": "G. Kruashvili",
+      "timezone": "UTC",
+      "date": "2024-03-26T18:00:00+00:00",
+      "timestamp": 1711476000,
+      "periods": {
+        "first": 1711476000,
+        "second": 1711479600
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      },
+      "away": {
+        "id": 773,
+        "name": "Slovakia",
+        "logo": "https://media.api-sports.io/football/teams/773.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1156210,
+      "referee": "W. Delajod",
+      "timezone": "UTC",
+      "date": "2024-03-22T17:00:00+00:00",
+      "timestamp": 1711126800,
+      "periods": {
+        "first": 1711126800,
+        "second": 1711130400
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      },
+      "away": {
+        "id": 770,
+        "name": "Czechia",
+        "logo": "https://media.api-sports.io/football/teams/770.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980668,
+      "referee": "H. Feșnic",
+      "timezone": "UTC",
+      "date": "2023-11-19T19:45:00+00:00",
+      "timestamp": 1700423100,
+      "periods": {
+        "first": 1700423100,
+        "second": 1700426700
+      },
+      "venue": {
+        "id": 2617,
+        "name": "Hampden Park",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1012353,
+      "referee": "V. Thórarinsson",
+      "timezone": "UTC",
+      "date": "2023-11-16T17:00:00+00:00",
+      "timestamp": 1700154000,
+      "periods": {
+        "first": 1700154000,
+        "second": 1700157600
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1098,
+        "name": "Faroe Islands",
+        "logo": "https://media.api-sports.io/football/teams/1098.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980620,
+      "referee": "T. Stieler",
+      "timezone": "UTC",
+      "date": "2023-10-15T18:45:00+00:00",
+      "timestamp": 1697395500,
+      "periods": {
+        "first": 1697395500,
+        "second": 1697399100
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      },
+      "away": {
+        "id": 9,
+        "name": "Spain",
+        "logo": "https://media.api-sports.io/football/teams/9.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980595,
+      "referee": "D. Rumšas",
+      "timezone": "UTC",
+      "date": "2023-10-12T18:45:00+00:00",
+      "timestamp": 1697136300,
+      "periods": {
+        "first": 1697136300,
+        "second": 1697139900
+      },
+      "venue": {
+        "id": 22732,
+        "name": "AEK Arena - George Karapatakis",
+        "city": "Larnaca"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1106,
+        "name": "Cyprus",
+        "logo": "https://media.api-sports.io/football/teams/1106.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980581,
+      "referee": "N. Dabanović",
+      "timezone": "UTC",
+      "date": "2023-09-12T18:45:00+00:00",
+      "timestamp": 1694544300,
+      "periods": {
+        "first": 1694544300,
+        "second": 1694547900
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1104,
+        "name": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/1104.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1012348,
+      "referee": "Kristoffer Karlsson, Sweden",
+      "timezone": "UTC",
+      "date": "2023-09-07T17:00:00+00:00",
+      "timestamp": 1694106000,
+      "periods": {
+        "first": 1694106000,
+        "second": 1694109600
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1548,
+        "name": "Jordan",
+        "logo": "https://media.api-sports.io/football/teams/1548.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 6,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 4,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 6,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980538,
+      "referee": "A. Stavrev",
+      "timezone": "UTC",
+      "date": "2023-06-20T18:45:00+00:00",
+      "timestamp": 1687286700,
+      "periods": {
+        "first": 1687286700,
+        "second": 1687290300
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1106,
+        "name": "Cyprus",
+        "logo": "https://media.api-sports.io/football/teams/1106.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980516,
+      "referee": "M. Jug",
+      "timezone": "UTC",
+      "date": "2023-06-17T16:00:00+00:00",
+      "timestamp": 1687017600,
+      "periods": {
+        "first": 1687017600,
+        "second": 1687021200
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1108,
+        "name": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980495,
+      "referee": "A. Treimanis",
+      "timezone": "UTC",
+      "date": "2023-03-28T16:00:00+00:00",
+      "timestamp": 1680019200,
+      "periods": {
+        "first": 1680019200,
+        "second": 1680022800
+      },
+      "venue": {
+        "id": null,
+        "name": "Batumi Arena",
+        "city": "Batumi"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1104,
+        "name": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/1104.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 980475,
+      "referee": "B. Bastien",
+      "timezone": "UTC",
+      "date": "2023-03-25T19:45:00+00:00",
+      "timestamp": 1679773500,
+      "periods": {
+        "first": 1679773500,
+        "second": 1679777100
+      },
+      "venue": {
+        "id": 1483,
+        "name": "Estadio La Rosaleda",
+        "city": "Málaga"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/960.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Qualifying Round - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 9,
+        "name": "Spain",
+        "logo": "https://media.api-sports.io/football/teams/9.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 962414,
+      "referee": "M. Krogh",
+      "timezone": "UTC",
+      "date": "2022-11-20T13:00:00+00:00",
+      "timestamp": 1668949200,
+      "periods": {
+        "first": 1668949200,
+        "second": 1668952800
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1099,
+        "name": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/1099.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 962524,
+      "referee": "A. Lindhout",
+      "timezone": "UTC",
+      "date": "2022-11-17T19:45:00+00:00",
+      "timestamp": 1668714300,
+      "periods": {
+        "first": 1668714300,
+        "second": 1668717900
+      },
+      "venue": {
+        "id": 1970,
+        "name": "Aviva Stadium",
+        "city": "Dublin"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 776,
+        "name": "Rep. Of Ireland",
+        "logo": "https://media.api-sports.io/football/teams/776.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854671,
+      "referee": "Antonio Mateu, Spain",
+      "timezone": "UTC",
+      "date": "2022-09-27T18:45:00+00:00",
+      "timestamp": 1664304300,
+      "periods": {
+        "first": 1664304300,
+        "second": 1664307900
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League B - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      },
+      "away": {
+        "id": 14,
+        "name": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854662,
+      "referee": "Lawrence Visser, Belgium",
+      "timezone": "UTC",
+      "date": "2022-09-24T16:00:00+00:00",
+      "timestamp": 1664035200,
+      "periods": {
+        "first": 1664035200,
+        "second": 1664038800
+      },
+      "venue": {
+        "id": 1442,
+        "name": "Stadion Stožice",
+        "city": "Ljubljana"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League B - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1091,
+        "name": "Slovenia",
+        "logo": "https://media.api-sports.io/football/teams/1091.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854649,
+      "referee": "Harm Osmers, Germany",
+      "timezone": "UTC",
+      "date": "2022-06-12T16:00:00+00:00",
+      "timestamp": 1655049600,
+      "periods": {
+        "first": 1655049600,
+        "second": 1655053200
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League B - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5,
+        "name": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/5.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854641,
+      "referee": "Fabio Jose Costa Verissimo, Portugal",
+      "timezone": "UTC",
+      "date": "2022-06-09T18:45:00+00:00",
+      "timestamp": 1654800300,
+      "periods": {
+        "first": 1654800300,
+        "second": 1654803900
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League B - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1091,
+        "name": "Slovenia",
+        "logo": "https://media.api-sports.io/football/teams/1091.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854634,
+      "referee": "Anthony Taylor, England",
+      "timezone": "UTC",
+      "date": "2022-06-05T18:45:00+00:00",
+      "timestamp": 1654454700,
+      "periods": {
+        "first": 1654454700,
+        "second": 1654458300
+      },
+      "venue": {
+        "id": 1501,
+        "name": "Friends Arena",
+        "city": "Solna"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League B - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5,
+        "name": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/5.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 854627,
+      "referee": "Pawel Raczkowski, Poland",
+      "timezone": "UTC",
+      "date": "2022-06-02T18:45:00+00:00",
+      "timestamp": 1654195500,
+      "periods": {
+        "first": 1654195500,
+        "second": 1654199100
+      },
+      "venue": {
+        "id": 1406,
+        "name": "Stadion Rajko Mitić",
+        "city": "Beograd"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League B - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 14,
+        "name": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 821427,
+      "referee": "M. Kristoffersen",
+      "timezone": "UTC",
+      "date": "2022-03-29T17:00:00+00:00",
+      "timestamp": 1648573200,
+      "periods": {
+        "first": 1648573200,
+        "second": 1648576800
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1094,
+        "name": "Armenia",
+        "logo": "https://media.api-sports.io/football/teams/1094.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 9,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 5,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 9,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 821422,
+      "referee": "M. Gestranius",
+      "timezone": "UTC",
+      "date": "2022-03-25T17:00:00+00:00",
+      "timestamp": 1648227600,
+      "periods": {
+        "first": 1648227600,
+        "second": 1648231200
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 773,
+        "name": "Slovakia",
+        "logo": "https://media.api-sports.io/football/teams/773.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 651154,
+      "referee": "C. Turpin",
+      "timezone": "UTC",
+      "date": "2021-11-16T19:45:00+00:00",
+      "timestamp": 1637091900,
+      "periods": {
+        "first": 1637091900,
+        "second": 1637095500
+      },
+      "venue": {
+        "id": 1128,
+        "name": "Stadion Feijenoord",
+        "city": "Rotterdam"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1118,
+        "name": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1118.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 651124,
+      "referee": "L. Visser",
+      "timezone": "UTC",
+      "date": "2021-11-13T17:00:00+00:00",
+      "timestamp": 1636822800,
+      "periods": {
+        "first": 1636822800,
+        "second": 1636826400
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1092,
+        "name": "Latvia",
+        "logo": "https://media.api-sports.io/football/teams/1092.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 651084,
+      "referee": "I. Kovacs",
+      "timezone": "UTC",
+      "date": "2021-10-11T18:45:00+00:00",
+      "timestamp": 1633977900,
+      "periods": {
+        "first": 1633977900,
+        "second": 1633981500
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1109,
+        "name": "Montenegro",
+        "logo": "https://media.api-sports.io/football/teams/1109.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 651059,
+      "referee": "F. Brych",
+      "timezone": "UTC",
+      "date": "2021-10-08T18:45:00+00:00",
+      "timestamp": 1633718700,
+      "periods": {
+        "first": 1633718700,
+        "second": 1633722300
+      },
+      "venue": {
+        "id": 1581,
+        "name": "Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi",
+        "city": "İstanbul"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 777,
+        "name": "Türkiye",
+        "logo": "https://media.api-sports.io/football/teams/777.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 651039,
+      "referee": "N. Neokleous",
+      "timezone": "UTC",
+      "date": "2021-09-07T18:45:00+00:00",
+      "timestamp": 1631040300,
+      "periods": {
+        "first": 1631040300,
+        "second": 1631043900
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1093,
+        "name": "Gibraltar",
+        "logo": "https://media.api-sports.io/football/teams/1093.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 651010,
+      "referee": "D. Fuxman",
+      "timezone": "UTC",
+      "date": "2021-09-04T16:00:00+00:00",
+      "timestamp": 1630771200,
+      "periods": {
+        "first": 1630771200,
+        "second": 1630774800
+      },
+      "venue": {
+        "id": null,
+        "name": "Daugavas Stadionā",
+        "city": "Riga"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1092,
+        "name": "Latvia",
+        "logo": "https://media.api-sports.io/football/teams/1092.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 650988,
+      "referee": "S. Marciniak",
+      "timezone": "UTC",
+      "date": "2021-09-01T18:45:00+00:00",
+      "timestamp": 1630521900,
+      "periods": {
+        "first": 1630521900,
+        "second": 1630525500
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1118,
+        "name": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1118.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 700409,
+      "referee": "J. Kehlet",
+      "timezone": "UTC",
+      "date": "2021-06-06T17:00:00+00:00",
+      "timestamp": 1622998800,
+      "periods": {
+        "first": 1622998800,
+        "second": 1623002400
+      },
+      "venue": {
+        "id": 1483,
+        "name": "Estadio La Rosaleda",
+        "city": "Málaga"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1117,
+        "name": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/1117.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 697994,
+      "referee": "K. Karlsson",
+      "timezone": "UTC",
+      "date": "2021-06-02T17:00:00+00:00",
+      "timestamp": 1622653200,
+      "periods": {
+        "first": 1622653200,
+        "second": 1622656800
+      },
+      "venue": {
+        "id": 1483,
+        "name": "Estadio La Rosaleda",
+        "city": "Málaga"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1102,
+        "name": "Luxembourg",
+        "logo": "https://media.api-sports.io/football/teams/1102.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 650960,
+      "referee": "A. Taylor",
+      "timezone": "UTC",
+      "date": "2021-03-30T18:45:00+00:00",
+      "timestamp": 1617129900,
+      "periods": {
+        "first": 1617129900,
+        "second": 1617133500
+      },
+      "venue": {
+        "id": 1095,
+        "name": "Stadion Pod Goricom",
+        "city": "Podgorica"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1109,
+        "name": "Montenegro",
+        "logo": "https://media.api-sports.io/football/teams/1109.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 650933,
+      "referee": "Alejandro Hernández",
+      "timezone": "UTC",
+      "date": "2021-03-27T17:00:00+00:00",
+      "timestamp": 1616864400,
+      "periods": {
+        "first": 1616864400,
+        "second": 1616868000
+      },
+      "venue": {
+        "id": 1483,
+        "name": "Estadio La Rosaleda",
+        "city": "Málaga"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      },
+      "away": {
+        "id": 777,
+        "name": "Türkiye",
+        "logo": "https://media.api-sports.io/football/teams/777.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 650911,
+      "referee": "D. Strukan",
+      "timezone": "UTC",
+      "date": "2021-03-24T19:45:00+00:00",
+      "timestamp": 1616615100,
+      "periods": {
+        "first": 1616615100,
+        "second": 1616618700
+      },
+      "venue": {
+        "id": 760,
+        "name": "Victoria Stadium",
+        "city": "Gibraltar"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1093,
+        "name": "Gibraltar",
+        "logo": "https://media.api-sports.io/football/teams/1093.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332515,
+      "referee": "Benoît Bastien, France",
+      "timezone": "UTC",
+      "date": "2020-11-18T19:45:00+00:00",
+      "timestamp": 1605728700,
+      "periods": {
+        "first": 1605728700,
+        "second": 1605732300
+      },
+      "venue": {
+        "id": 1967,
+        "name": "Ernst-Happel-Stadion",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League B - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332508,
+      "referee": "A. Palabıyık",
+      "timezone": "UTC",
+      "date": "2020-11-15T19:45:00+00:00",
+      "timestamp": 1605469500,
+      "periods": {
+        "first": 1605469500,
+        "second": 1605473100
+      },
+      "venue": {
+        "id": 1326,
+        "name": "Arena Naţională",
+        "city": "Bucureşti"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League B - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 774,
+        "name": "Romania",
+        "logo": "https://media.api-sports.io/football/teams/774.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 644689,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-11-11T17:00:00+00:00",
+      "timestamp": 1605114000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1116,
+        "name": "Israel",
+        "logo": "https://media.api-sports.io/football/teams/1116.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332498,
+      "referee": "Kristo Tohver, Estonia",
+      "timezone": "UTC",
+      "date": "2020-10-14T18:45:00+00:00",
+      "timestamp": 1602701100,
+      "periods": {
+        "first": 1602701100,
+        "second": 1602704700
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League B - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 771,
+        "name": "Northern Ireland",
+        "logo": "https://media.api-sports.io/football/teams/771.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332490,
+      "referee": "Ivan Kruzliak, Slovakia",
+      "timezone": "UTC",
+      "date": "2020-10-11T16:00:00+00:00",
+      "timestamp": 1602432000,
+      "periods": {
+        "first": 1602432000,
+        "second": 1602435600
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League B - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 774,
+        "name": "Romania",
+        "logo": "https://media.api-sports.io/football/teams/774.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 569451,
+      "referee": "D. Orsato",
+      "timezone": "UTC",
+      "date": "2020-10-08T18:45:00+00:00",
+      "timestamp": 1602182700,
+      "periods": {
+        "first": 1602182700,
+        "second": 1602186300
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "AET",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Play-offs Path C - Semi-Finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      },
+      "away": {
+        "id": 14,
+        "name": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": 0,
+        "away": 1
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332486,
+      "referee": "Bartosz Frankowski, Poland",
+      "timezone": "UTC",
+      "date": "2020-09-07T18:45:00+00:00",
+      "timestamp": 1599504300,
+      "periods": {
+        "first": 1599504300,
+        "second": 1599507900
+      },
+      "venue": {
+        "id": 1971,
+        "name": "Windsor Park",
+        "city": "Belfast"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League B - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 771,
+        "name": "Northern Ireland",
+        "logo": "https://media.api-sports.io/football/teams/771.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 5
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 5
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 332477,
+      "referee": "Mattias Gestranius, Finland",
+      "timezone": "UTC",
+      "date": "2020-09-04T18:45:00+00:00",
+      "timestamp": 1599245100,
+      "periods": {
+        "first": 1599245100,
+        "second": 1599248700
+      },
+      "venue": {
+        "id": 11603,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League B - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      },
+      "away": {
+        "id": 775,
+        "name": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 323221,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-06-05T22:00:00+00:00",
+      "timestamp": 1591394400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      },
+      "away": {
+        "id": 773,
+        "name": "Slovakia",
+        "logo": "https://media.api-sports.io/football/teams/773.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 323219,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-05-31T22:00:00+00:00",
+      "timestamp": 1590962400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Laugardalsvöllur (Reykjavík)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 21,
+        "name": "Denmark",
+        "logo": "https://media.api-sports.io/football/teams/21.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132995,
+      "referee": "Ə. Ağayev",
+      "timezone": "UTC",
+      "date": "2019-11-18T19:45:00+00:00",
+      "timestamp": 1574106300,
+      "periods": {
+        "first": 1574106300,
+        "second": 1574109900
+      },
+      "venue": {
+        "id": 2614,
+        "name": "Ta'Qali National Stadium",
+        "city": "Ta'Qali"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1112,
+        "name": "Malta",
+        "logo": "https://media.api-sports.io/football/teams/1112.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132972,
+      "referee": "F. Jović",
+      "timezone": "UTC",
+      "date": "2019-11-15T17:00:00+00:00",
+      "timestamp": 1573837200,
+      "periods": {
+        "first": 1573837200,
+        "second": 1573840800
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1098,
+        "name": "Faroe Islands",
+        "logo": "https://media.api-sports.io/football/teams/1098.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132954,
+      "referee": "B. Madden",
+      "timezone": "UTC",
+      "date": "2019-10-15T18:45:00+00:00",
+      "timestamp": 1571165100,
+      "periods": {
+        "first": 1571165100,
+        "second": 1571168700
+      },
+      "venue": {
+        "id": 1326,
+        "name": "Arena Naţională",
+        "city": "Bucureşti"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 774,
+        "name": "Romania",
+        "logo": "https://media.api-sports.io/football/teams/774.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132930,
+      "referee": "M. Oliver",
+      "timezone": "UTC",
+      "date": "2019-10-12T18:45:00+00:00",
+      "timestamp": 1570905900,
+      "periods": {
+        "first": 1570905900,
+        "second": 1570909500
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      },
+      "away": {
+        "id": 9,
+        "name": "Spain",
+        "logo": "https://media.api-sports.io/football/teams/9.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132889,
+      "referee": "S. Vinčić",
+      "timezone": "UTC",
+      "date": "2019-09-08T18:45:00+00:00",
+      "timestamp": 1567968300,
+      "periods": {
+        "first": 1567968300,
+        "second": 1567971900
+      },
+      "venue": {
+        "id": 1501,
+        "name": "Friends Arena",
+        "city": "Solna"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5,
+        "name": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/5.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132863,
+      "referee": "D. Muntean",
+      "timezone": "UTC",
+      "date": "2019-09-05T18:45:00+00:00",
+      "timestamp": 1567709100,
+      "periods": {
+        "first": 1567709100,
+        "second": 1567712700
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1112,
+        "name": "Malta",
+        "logo": "https://media.api-sports.io/football/teams/1112.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132842,
+      "referee": "D. Rumšas",
+      "timezone": "UTC",
+      "date": "2019-06-10T18:45:00+00:00",
+      "timestamp": 1560192300,
+      "periods": {
+        "first": 1560192300,
+        "second": 1560195900
+      },
+      "venue": {
+        "id": 2609,
+        "name": "Tórsvøllur",
+        "city": "Tórshavn, Streymoy"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1098,
+        "name": "Faroe Islands",
+        "logo": "https://media.api-sports.io/football/teams/1098.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132816,
+      "referee": "S. Karasev",
+      "timezone": "UTC",
+      "date": "2019-06-07T18:45:00+00:00",
+      "timestamp": 1559933100,
+      "periods": {
+        "first": 1559933100,
+        "second": 1559936700
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      },
+      "away": {
+        "id": 774,
+        "name": "Romania",
+        "logo": "https://media.api-sports.io/football/teams/774.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132805,
+      "referee": "G. Rocchi",
+      "timezone": "UTC",
+      "date": "2019-03-26T19:45:00+00:00",
+      "timestamp": 1553629500,
+      "periods": {
+        "first": 1553629500,
+        "second": 1553633100
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5,
+        "name": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/5.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132780,
+      "referee": "A. Treimanis",
+      "timezone": "UTC",
+      "date": "2019-03-23T19:45:00+00:00",
+      "timestamp": 1553370300,
+      "periods": {
+        "first": 1553370300,
+        "second": 1553373900
+      },
+      "venue": {
+        "id": 1497,
+        "name": "Estadio de Mestalla",
+        "city": "Valencia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/4.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Qualifying Round - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 9,
+        "name": "Spain",
+        "logo": "https://media.api-sports.io/football/teams/9.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132594,
+      "referee": "Istvan Vad, Hungary",
+      "timezone": "UTC",
+      "date": "2018-11-19T19:45:00+00:00",
+      "timestamp": 1542656700,
+      "periods": {
+        "first": 1542656700,
+        "second": 1542660300
+      },
+      "venue": {
+        "id": null,
+        "name": "GSP Stadium",
+        "city": "Nicosia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2018,
+      "round": "League C - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1106,
+        "name": "Cyprus",
+        "logo": "https://media.api-sports.io/football/teams/1106.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132587,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-11-16T19:45:00+00:00",
+      "timestamp": 1542397500,
+      "periods": {
+        "first": 1542397500,
+        "second": 1542401100
+      },
+      "venue": {
+        "id": null,
+        "name": "Stadion Stožice (Ljubljana)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2018,
+      "round": "League C - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1091,
+        "name": "Slovenia",
+        "logo": "https://media.api-sports.io/football/teams/1091.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132582,
+      "referee": "John Beaton, Scotland",
+      "timezone": "UTC",
+      "date": "2018-10-16T18:45:00+00:00",
+      "timestamp": 1539715500,
+      "periods": {
+        "first": 1539715500,
+        "second": 1539719100
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2018,
+      "round": "League C - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1103,
+        "name": "Bulgaria",
+        "logo": "https://media.api-sports.io/football/teams/1103.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132575,
+      "referee": "Daniel Siebert, Germany",
+      "timezone": "UTC",
+      "date": "2018-10-13T16:00:00+00:00",
+      "timestamp": 1539446400,
+      "periods": {
+        "first": 1539446400,
+        "second": 1539450000
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2018,
+      "round": "League C - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1091,
+        "name": "Slovenia",
+        "logo": "https://media.api-sports.io/football/teams/1091.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132563,
+      "referee": "Daniel Stefanski, Poland",
+      "timezone": "UTC",
+      "date": "2018-09-09T16:00:00+00:00",
+      "timestamp": 1536508800,
+      "periods": {
+        "first": 1536508800,
+        "second": 1536512400
+      },
+      "venue": {
+        "id": null,
+        "name": "Vasil Levski National Stadium",
+        "city": "Sofia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2018,
+      "round": "League C - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1103,
+        "name": "Bulgaria",
+        "logo": "https://media.api-sports.io/football/teams/1103.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 132557,
+      "referee": "Istvan Kovacs, Romania",
+      "timezone": "UTC",
+      "date": "2018-09-06T18:45:00+00:00",
+      "timestamp": 1536259500,
+      "periods": {
+        "first": 1536259500,
+        "second": 1536263100
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/5.png",
+      "flag": null,
+      "season": 2018,
+      "round": "League C - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1106,
+        "name": "Cyprus",
+        "logo": "https://media.api-sports.io/football/teams/1106.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225455,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-06-06T17:00:00+00:00",
+      "timestamp": 1528304400,
+      "periods": {
+        "first": 1528304400,
+        "second": 1528308000
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal Stadion (Oslo)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 11,
+        "name": "Panama",
+        "logo": "https://media.api-sports.io/football/teams/11.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225441,
+      "referee": "Jonas Eriksson, Sweden",
+      "timezone": "UTC",
+      "date": "2018-06-02T20:00:00+00:00",
+      "timestamp": 1527969600,
+      "periods": {
+        "first": 1527969600,
+        "second": 1527973200
+      },
+      "venue": {
+        "id": null,
+        "name": "Laugardalsvöllur",
+        "city": "Reykjavik"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 18,
+        "name": "Iceland",
+        "logo": "https://media.api-sports.io/football/teams/18.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225372,
+      "referee": "Fyodor Zammit",
+      "timezone": "UTC",
+      "date": "2018-03-26T17:00:00+00:00",
+      "timestamp": 1522083600,
+      "periods": {
+        "first": 1522083600,
+        "second": 1522087200
+      },
+      "venue": {
+        "id": null,
+        "name": "Elbasan Arena",
+        "city": "Elbasan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 778,
+        "name": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/778.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225342,
+      "referee": "Andreas Ekberg, Sweden",
+      "timezone": "UTC",
+      "date": "2018-03-23T17:00:00+00:00",
+      "timestamp": 1521824400,
+      "periods": {
+        "first": 1521824400,
+        "second": 1521828000
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 20,
+        "name": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256646,
+      "referee": "S. Boyko",
+      "timezone": "UTC",
+      "date": "2017-10-08T18:45:00+00:00",
+      "timestamp": 1507488300,
+      "periods": {
+        "first": 1507488300,
+        "second": 1507491900
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 10",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 771,
+        "name": "Northern Ireland",
+        "logo": "https://media.api-sports.io/football/teams/771.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256614,
+      "referee": "A. Dallas",
+      "timezone": "UTC",
+      "date": "2017-10-05T18:45:00+00:00",
+      "timestamp": 1507229100,
+      "periods": {
+        "first": 1507229100,
+        "second": 1507232700
+      },
+      "venue": {
+        "id": 2616,
+        "name": "Stadio Olimpico di Serravalle",
+        "city": "Serravalle"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 9",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1115,
+        "name": "San Marino",
+        "logo": "https://media.api-sports.io/football/teams/1115.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 8
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 4
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 8
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256595,
+      "referee": "G. Mažeika",
+      "timezone": "UTC",
+      "date": "2017-09-04T18:45:00+00:00",
+      "timestamp": 1504550700,
+      "periods": {
+        "first": 1504550700,
+        "second": 1504554300
+      },
+      "venue": {
+        "id": 750,
+        "name": "Mercedes-Benz-Arena",
+        "city": "Stuttgart"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 8",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 25,
+        "name": "Germany",
+        "logo": "https://media.api-sports.io/football/teams/25.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 6,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 4,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 6,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256568,
+      "referee": "D. Stefanski",
+      "timezone": "UTC",
+      "date": "2017-09-01T18:45:00+00:00",
+      "timestamp": 1504291500,
+      "periods": {
+        "first": 1504291500,
+        "second": 1504295100
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 7",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1096,
+        "name": "Azerbaijan",
+        "logo": "https://media.api-sports.io/football/teams/1096.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256544,
+      "referee": "A. Marriner",
+      "timezone": "UTC",
+      "date": "2017-06-10T18:45:00+00:00",
+      "timestamp": 1497120300,
+      "periods": {
+        "first": 1497120300,
+        "second": 1497123900
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 6",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      },
+      "away": {
+        "id": 770,
+        "name": "Czechia",
+        "logo": "https://media.api-sports.io/football/teams/770.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256525,
+      "referee": "H. Göçek",
+      "timezone": "UTC",
+      "date": "2017-03-26T19:45:00+00:00",
+      "timestamp": 1490557500,
+      "periods": {
+        "first": 1490557500,
+        "second": 1490561100
+      },
+      "venue": {
+        "id": 1971,
+        "name": "Windsor Park",
+        "city": "Belfast"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 5",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 771,
+        "name": "Northern Ireland",
+        "logo": "https://media.api-sports.io/football/teams/771.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256478,
+      "referee": "B. Nijhuis",
+      "timezone": "UTC",
+      "date": "2016-11-11T19:45:00+00:00",
+      "timestamp": 1478893500,
+      "periods": {
+        "first": 1478893500,
+        "second": 1478897100
+      },
+      "venue": {
+        "id": 436,
+        "name": "Sinobo Stadium",
+        "city": "Praha"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 770,
+        "name": "Czechia",
+        "logo": "https://media.api-sports.io/football/teams/770.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256470,
+      "referee": "B. Bastien",
+      "timezone": "UTC",
+      "date": "2016-10-11T18:45:00+00:00",
+      "timestamp": 1476211500,
+      "periods": {
+        "first": 1476211500,
+        "second": 1476215100
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1115,
+        "name": "San Marino",
+        "logo": "https://media.api-sports.io/football/teams/1115.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256440,
+      "referee": "L. Liani",
+      "timezone": "UTC",
+      "date": "2016-10-08T16:00:00+00:00",
+      "timestamp": 1475942400,
+      "periods": {
+        "first": 1475942400,
+        "second": 1475946000
+      },
+      "venue": {
+        "id": 2607,
+        "name": "Bakı Olimpiya Stadionu",
+        "city": "Baku"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1096,
+        "name": "Azerbaijan",
+        "logo": "https://media.api-sports.io/football/teams/1096.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256401,
+      "referee": "W. Collum",
+      "timezone": "UTC",
+      "date": "2016-09-04T18:45:00+00:00",
+      "timestamp": 1473014700,
+      "periods": {
+        "first": 1473014700,
+        "second": 1473018300
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal Stadion",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/32.png",
+      "flag": null,
+      "season": 2018,
+      "round": "1st Round - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": false
+      },
+      "away": {
+        "id": 25,
+        "name": "Germany",
+        "logo": "https://media.api-sports.io/football/teams/25.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]

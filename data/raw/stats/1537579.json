@@ -1,0 +1,164 @@
+[
+  {
+    "team": {
+      "id": 770,
+      "name": "Czechia",
+      "logo": "https://media.api-sports.io/football/teams/770.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 4
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 3
+      },
+      {
+        "type": "Total Shots",
+        "value": 9
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 2
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 5
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 4
+      },
+      {
+        "type": "Fouls",
+        "value": 20
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 7
+      },
+      {
+        "type": "Offsides",
+        "value": 1
+      },
+      {
+        "type": "Ball Possession",
+        "value": "23%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 1
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 5
+      },
+      {
+        "type": "Total passes",
+        "value": 286
+      },
+      {
+        "type": "Passes accurate",
+        "value": 163
+      },
+      {
+        "type": "Passes %",
+        "value": "57%"
+      },
+      {
+        "type": "expected_goals",
+        "value": null
+      },
+      {
+        "type": "goals_prevented",
+        "value": null
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 21,
+      "name": "Denmark",
+      "logo": "https://media.api-sports.io/football/teams/21.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 8
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 7
+      },
+      {
+        "type": "Total Shots",
+        "value": 22
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 7
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 11
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 11
+      },
+      {
+        "type": "Fouls",
+        "value": 11
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 4
+      },
+      {
+        "type": "Offsides",
+        "value": 1
+      },
+      {
+        "type": "Ball Possession",
+        "value": "77%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 2
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 2
+      },
+      {
+        "type": "Total passes",
+        "value": 997
+      },
+      {
+        "type": "Passes accurate",
+        "value": 860
+      },
+      {
+        "type": "Passes %",
+        "value": "86%"
+      },
+      {
+        "type": "expected_goals",
+        "value": null
+      },
+      {
+        "type": "goals_prevented",
+        "value": null
+      }
+    ]
+  }
+]

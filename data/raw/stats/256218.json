@@ -1,0 +1,148 @@
+[
+  {
+    "team": {
+      "id": 1545,
+      "name": "Nepal",
+      "logo": "https://media.api-sports.io/football/teams/1545.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 0
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 1
+      },
+      {
+        "type": "Total Shots",
+        "value": 0
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 0
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 1
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 0
+      },
+      {
+        "type": "Fouls",
+        "value": 8
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 0
+      },
+      {
+        "type": "Offsides",
+        "value": 2
+      },
+      {
+        "type": "Ball Possession",
+        "value": "29%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": null
+      },
+      {
+        "type": "Red Cards",
+        "value": 1
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 9
+      },
+      {
+        "type": "Total passes",
+        "value": 225
+      },
+      {
+        "type": "Passes accurate",
+        "value": 126
+      },
+      {
+        "type": "Passes %",
+        "value": "56%"
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 20,
+      "name": "Australia",
+      "logo": "https://media.api-sports.io/football/teams/20.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 12
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 13
+      },
+      {
+        "type": "Total Shots",
+        "value": 0
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 3
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 16
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 12
+      },
+      {
+        "type": "Fouls",
+        "value": 12
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 9
+      },
+      {
+        "type": "Offsides",
+        "value": 4
+      },
+      {
+        "type": "Ball Possession",
+        "value": "71%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": null
+      },
+      {
+        "type": "Red Cards",
+        "value": 0
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 0
+      },
+      {
+        "type": "Total passes",
+        "value": 519
+      },
+      {
+        "type": "Passes accurate",
+        "value": 442
+      },
+      {
+        "type": "Passes %",
+        "value": "85%"
+      }
+    ]
+  }
+]

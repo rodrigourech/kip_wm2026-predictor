@@ -1,0 +1,164 @@
+[
+  {
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 11
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 8
+      },
+      {
+        "type": "Total Shots",
+        "value": 21
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 2
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 19
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 2
+      },
+      {
+        "type": "Fouls",
+        "value": 6
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 8
+      },
+      {
+        "type": "Offsides",
+        "value": 0
+      },
+      {
+        "type": "Ball Possession",
+        "value": "71%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": null
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 0
+      },
+      {
+        "type": "Total passes",
+        "value": 644
+      },
+      {
+        "type": "Passes accurate",
+        "value": 580
+      },
+      {
+        "type": "Passes %",
+        "value": "90%"
+      },
+      {
+        "type": "expected_goals",
+        "value": null
+      },
+      {
+        "type": "goals_prevented",
+        "value": null
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 1571,
+      "name": "Indonesia",
+      "logo": "https://media.api-sports.io/football/teams/1571.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 0
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 0
+      },
+      {
+        "type": "Total Shots",
+        "value": 0
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 0
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 0
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 0
+      },
+      {
+        "type": "Fouls",
+        "value": 6
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 0
+      },
+      {
+        "type": "Offsides",
+        "value": 3
+      },
+      {
+        "type": "Ball Possession",
+        "value": "29%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": null
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 5
+      },
+      {
+        "type": "Total passes",
+        "value": 268
+      },
+      {
+        "type": "Passes accurate",
+        "value": 202
+      },
+      {
+        "type": "Passes %",
+        "value": "75%"
+      },
+      {
+        "type": "expected_goals",
+        "value": null
+      },
+      {
+        "type": "goals_prevented",
+        "value": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "team": {
+      "id": 19,
+      "name": "Nigeria",
+      "logo": "https://media.api-sports.io/football/teams/19.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 1
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 1
+      },
+      {
+        "type": "Total Shots",
+        "value": 2
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 0
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 0
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 2
+      },
+      {
+        "type": "Fouls",
+        "value": 29
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 1
+      },
+      {
+        "type": "Offsides",
+        "value": null
+      },
+      {
+        "type": "Ball Possession",
+        "value": "51%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 2
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 5
+      },
+      {
+        "type": "Total passes",
+        "value": 555
+      },
+      {
+        "type": "Passes accurate",
+        "value": 462
+      },
+      {
+        "type": "Passes %",
+        "value": "83%"
+      },
+      {
+        "type": "expected_goals",
+        "value": null
+      },
+      {
+        "type": "goals_prevented",
+        "value": null
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 5
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 7
+      },
+      {
+        "type": "Total Shots",
+        "value": 16
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 4
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 8
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 8
+      },
+      {
+        "type": "Fouls",
+        "value": 22
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 5
+      },
+      {
+        "type": "Offsides",
+        "value": null
+      },
+      {
+        "type": "Ball Possession",
+        "value": "49%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 0
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 1
+      },
+      {
+        "type": "Total passes",
+        "value": 527
+      },
+      {
+        "type": "Passes accurate",
+        "value": 439
+      },
+      {
+        "type": "Passes %",
+        "value": "83%"
+      },
+      {
+        "type": "expected_goals",
+        "value": null
+      },
+      {
+        "type": "goals_prevented",
+        "value": null
+      }
+    ]
+  }
+]

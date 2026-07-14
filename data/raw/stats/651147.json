@@ -1,0 +1,148 @@
+[
+  {
+    "team": {
+      "id": 1115,
+      "name": "San Marino",
+      "logo": "https://media.api-sports.io/football/teams/1115.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 1
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 1
+      },
+      {
+        "type": "Total Shots",
+        "value": 2
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 0
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 0
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 2
+      },
+      {
+        "type": "Fouls",
+        "value": 11
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 1
+      },
+      {
+        "type": "Offsides",
+        "value": null
+      },
+      {
+        "type": "Ball Possession",
+        "value": "15%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 5
+      },
+      {
+        "type": "Red Cards",
+        "value": 1
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 4
+      },
+      {
+        "type": "Total passes",
+        "value": 157
+      },
+      {
+        "type": "Passes accurate",
+        "value": 93
+      },
+      {
+        "type": "Passes %",
+        "value": "59%"
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 13
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 5
+      },
+      {
+        "type": "Total Shots",
+        "value": 22
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 4
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 20
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 2
+      },
+      {
+        "type": "Fouls",
+        "value": 8
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 4
+      },
+      {
+        "type": "Offsides",
+        "value": null
+      },
+      {
+        "type": "Ball Possession",
+        "value": "85%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 1
+      },
+      {
+        "type": "Red Cards",
+        "value": 0
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 1
+      },
+      {
+        "type": "Total passes",
+        "value": 880
+      },
+      {
+        "type": "Passes accurate",
+        "value": 824
+      },
+      {
+        "type": "Passes %",
+        "value": "94%"
+      }
+    ]
+  }
+]

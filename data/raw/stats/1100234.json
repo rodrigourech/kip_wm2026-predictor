@@ -1,0 +1,156 @@
+[
+  {
+    "team": {
+      "id": 6,
+      "name": "Brazil",
+      "logo": "https://media.api-sports.io/football/teams/6.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 11
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 7
+      },
+      {
+        "type": "Total Shots",
+        "value": 21
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 3
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 16
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 5
+      },
+      {
+        "type": "Fouls",
+        "value": 6
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 6
+      },
+      {
+        "type": "Offsides",
+        "value": 1
+      },
+      {
+        "type": "Ball Possession",
+        "value": "80%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 1
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 2
+      },
+      {
+        "type": "Total passes",
+        "value": 614
+      },
+      {
+        "type": "Passes accurate",
+        "value": 568
+      },
+      {
+        "type": "Passes %",
+        "value": "93%"
+      },
+      {
+        "type": "expected_goals",
+        "value": null
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 2381,
+      "name": "Bolivia",
+      "logo": "https://media.api-sports.io/football/teams/2381.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 3
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 1
+      },
+      {
+        "type": "Total Shots",
+        "value": 4
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 0
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 1
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 3
+      },
+      {
+        "type": "Fouls",
+        "value": 14
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 1
+      },
+      {
+        "type": "Offsides",
+        "value": 4
+      },
+      {
+        "type": "Ball Possession",
+        "value": "20%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 2
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 6
+      },
+      {
+        "type": "Total passes",
+        "value": 156
+      },
+      {
+        "type": "Passes accurate",
+        "value": 110
+      },
+      {
+        "type": "Passes %",
+        "value": "71%"
+      },
+      {
+        "type": "expected_goals",
+        "value": null
+      }
+    ]
+  }
+]

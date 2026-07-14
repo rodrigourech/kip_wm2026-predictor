@@ -1,0 +1,156 @@
+[
+  {
+    "team": {
+      "id": 17,
+      "name": "South Korea",
+      "logo": "https://media.api-sports.io/football/teams/17.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 1
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 0
+      },
+      {
+        "type": "Total Shots",
+        "value": 1
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 0
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 1
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": null
+      },
+      {
+        "type": "Fouls",
+        "value": 1
+      },
+      {
+        "type": "Corner Kicks",
+        "value": null
+      },
+      {
+        "type": "Offsides",
+        "value": null
+      },
+      {
+        "type": "Ball Possession",
+        "value": null
+      },
+      {
+        "type": "Yellow Cards",
+        "value": null
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": null
+      },
+      {
+        "type": "Total passes",
+        "value": null
+      },
+      {
+        "type": "Passes accurate",
+        "value": null
+      },
+      {
+        "type": "Passes %",
+        "value": null
+      },
+      {
+        "type": "expected_goals",
+        "value": null
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 1542,
+      "name": "Vietnam",
+      "logo": "https://media.api-sports.io/football/teams/1542.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 0
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 0
+      },
+      {
+        "type": "Total Shots",
+        "value": 0
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 0
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 0
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": null
+      },
+      {
+        "type": "Fouls",
+        "value": 0
+      },
+      {
+        "type": "Corner Kicks",
+        "value": null
+      },
+      {
+        "type": "Offsides",
+        "value": null
+      },
+      {
+        "type": "Ball Possession",
+        "value": null
+      },
+      {
+        "type": "Yellow Cards",
+        "value": null
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": null
+      },
+      {
+        "type": "Total passes",
+        "value": null
+      },
+      {
+        "type": "Passes accurate",
+        "value": null
+      },
+      {
+        "type": "Passes %",
+        "value": null
+      },
+      {
+        "type": "expected_goals",
+        "value": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "team": {
+      "id": 21,
+      "name": "Denmark",
+      "logo": "https://media.api-sports.io/football/teams/21.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 5
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 5
+      },
+      {
+        "type": "Total Shots",
+        "value": 11
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 1
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 6
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 5
+      },
+      {
+        "type": "Fouls",
+        "value": 11
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 2
+      },
+      {
+        "type": "Offsides",
+        "value": 1
+      },
+      {
+        "type": "Ball Possession",
+        "value": "61%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": null
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 2
+      },
+      {
+        "type": "Total passes",
+        "value": 670
+      },
+      {
+        "type": "Passes accurate",
+        "value": 599
+      },
+      {
+        "type": "Passes %",
+        "value": "89%"
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 1108,
+      "name": "Scotland",
+      "logo": "https://media.api-sports.io/football/teams/1108.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 2
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 3
+      },
+      {
+        "type": "Total Shots",
+        "value": 5
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 0
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 3
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 2
+      },
+      {
+        "type": "Fouls",
+        "value": 12
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 5
+      },
+      {
+        "type": "Offsides",
+        "value": 1
+      },
+      {
+        "type": "Ball Possession",
+        "value": "39%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": null
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 3
+      },
+      {
+        "type": "Total passes",
+        "value": 416
+      },
+      {
+        "type": "Passes accurate",
+        "value": 337
+      },
+      {
+        "type": "Passes %",
+        "value": "81%"
+      }
+    ]
+  }
+]

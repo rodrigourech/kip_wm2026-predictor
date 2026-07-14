@@ -1,0 +1,7982 @@
+[
+  {
+    "fixture": {
+      "id": 1567824,
+      "referee": "Michael Oliver, England",
+      "timezone": "UTC",
+      "date": "2026-07-04T17:00:00+00:00",
+      "timestamp": 1783184400,
+      "periods": {
+        "first": 1783184400,
+        "second": 1783188000
+      },
+      "venue": {
+        "id": null,
+        "name": "NRG Stadium",
+        "city": "Houston"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Round of 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      },
+      "away": {
+        "id": 31,
+        "name": "Morocco",
+        "logo": "https://media.api-sports.io/football/teams/31.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1561329,
+      "referee": "Joao Pedro Pinheiro, Portugal",
+      "timezone": "UTC",
+      "date": "2026-06-28T19:00:00+00:00",
+      "timestamp": 1782673200,
+      "periods": {
+        "first": 1782673200,
+        "second": 1782676800
+      },
+      "venue": {
+        "id": null,
+        "name": "SoFi Stadium",
+        "city": "Inglewood"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Round of 32",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1531,
+        "name": "South Africa",
+        "logo": "https://media.api-sports.io/football/teams/1531.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489408,
+      "referee": "Ramon Abatti Abel, Brazil",
+      "timezone": "UTC",
+      "date": "2026-06-24T19:00:00+00:00",
+      "timestamp": 1782327600,
+      "periods": {
+        "first": 1782327600,
+        "second": 1782331200
+      },
+      "venue": {
+        "id": 19445,
+        "name": "BC Place",
+        "city": "Vancouver"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 15,
+        "name": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/15.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489387,
+      "referee": "Cristian Garay, Chile",
+      "timezone": "UTC",
+      "date": "2026-06-18T22:00:00+00:00",
+      "timestamp": 1781820000,
+      "periods": {
+        "first": 1781820000,
+        "second": 1781823600
+      },
+      "venue": {
+        "id": 19445,
+        "name": "BC Place",
+        "city": "Vancouver"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 10
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1569,
+        "name": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/1569.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 6,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 6,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1539000,
+      "referee": "Facundo Raul Tello Figueroa, Argentina",
+      "timezone": "UTC",
+      "date": "2026-06-12T19:00:00+00:00",
+      "timestamp": 1781290800,
+      "periods": {
+        "first": 1781290800,
+        "second": 1781294400
+      },
+      "venue": {
+        "id": 312,
+        "name": "BMO Field",
+        "city": "Toronto"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1113,
+        "name": "Bosnia & Herzegovina",
+        "logo": "https://media.api-sports.io/football/teams/1113.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1528285,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-06-05T23:30:00+00:00",
+      "timestamp": 1780702200,
+      "periods": {
+        "first": 1780702200,
+        "second": 1780705800
+      },
+      "venue": {
+        "id": null,
+        "name": "Saputo Stadium",
+        "city": "Montréal"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      },
+      "away": {
+        "id": 776,
+        "name": "Rep. Of Ireland",
+        "logo": "https://media.api-sports.io/football/teams/776.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1514472,
+      "referee": "Marco Antonio Ortiz Nava, Mexico",
+      "timezone": "UTC",
+      "date": "2026-06-02T01:00:00+00:00",
+      "timestamp": 1780362000,
+      "periods": {
+        "first": 1780362000,
+        "second": 1780365600
+      },
+      "venue": {
+        "id": null,
+        "name": "Commonwealth Stadium",
+        "city": "Edmonton"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1568,
+        "name": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/1568.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1512765,
+      "referee": "K. Herrera",
+      "timezone": "UTC",
+      "date": "2026-03-31T23:30:00+00:00",
+      "timestamp": 1774999800,
+      "periods": {
+        "first": 1774999800,
+        "second": 1775003400
+      },
+      "venue": {
+        "id": null,
+        "name": "BMO Field",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 1
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      },
+      "away": {
+        "id": 28,
+        "name": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/28.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1512760,
+      "referee": "J. Freemon",
+      "timezone": "UTC",
+      "date": "2026-03-28T17:00:00+00:00",
+      "timestamp": 1774717200,
+      "periods": {
+        "first": 1774717200,
+        "second": 1774720800
+      },
+      "venue": {
+        "id": null,
+        "name": "BMO Field",
+        "city": "Toronto"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      },
+      "away": {
+        "id": 18,
+        "name": "Iceland",
+        "logo": "https://media.api-sports.io/football/teams/18.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1501808,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-01-18T03:00:00+00:00",
+      "timestamp": 1768705200,
+      "periods": {
+        "first": 1768705200,
+        "second": 1768708800
+      },
+      "venue": {
+        "id": null,
+        "name": "BMO Stadium",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5161,
+        "name": "Guatemala",
+        "logo": "https://media.api-sports.io/football/teams/5161.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1469295,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-11-19T01:30:00+00:00",
+      "timestamp": 1763515800,
+      "periods": {
+        "first": 1763515800,
+        "second": 1763519400
+      },
+      "venue": {
+        "id": null,
+        "name": "Chase Stadium",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2379,
+        "name": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2379.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1457377,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-11-14T00:30:00+00:00",
+      "timestamp": 1763080200,
+      "periods": {
+        "first": 1763080200,
+        "second": 1763083800
+      },
+      "venue": {
+        "id": null,
+        "name": "BMO Field",
+        "city": "Toronto"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1396845,
+      "referee": "Guido Gonzales Jr, USA",
+      "timezone": "UTC",
+      "date": "2025-10-15T00:30:00+00:00",
+      "timestamp": 1760488200,
+      "periods": {
+        "first": 1760488200,
+        "second": 1760491800
+      },
+      "venue": {
+        "id": null,
+        "name": "Sports Illustrated Stadium",
+        "city": "Harrison"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      },
+      "away": {
+        "id": 8,
+        "name": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/8.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1396844,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-10-10T23:30:00+00:00",
+      "timestamp": 1760139000,
+      "periods": {
+        "first": 1760139000,
+        "second": 1760142600
+      },
+      "venue": {
+        "id": null,
+        "name": "Saputo Stadium",
+        "city": "Montreal"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      },
+      "away": {
+        "id": 20,
+        "name": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1352904,
+      "referee": "Robert Jones",
+      "timezone": "UTC",
+      "date": "2025-09-09T18:45:00+00:00",
+      "timestamp": 1757443500,
+      "periods": {
+        "first": 1757443500,
+        "second": 1757447100
+      },
+      "venue": {
+        "id": null,
+        "name": "Swansea.com Stadium",
+        "city": "Swansea"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 767,
+        "name": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/767.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1352745,
+      "referee": "Lothar D'hondt, Belgium",
+      "timezone": "UTC",
+      "date": "2025-09-05T18:00:00+00:00",
+      "timestamp": 1757095200,
+      "periods": {
+        "first": 1757095200,
+        "second": 1757098800
+      },
+      "venue": {
+        "id": null,
+        "name": "National Arena",
+        "city": "Bucharest"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 774,
+        "name": "Romania",
+        "logo": "https://media.api-sports.io/football/teams/774.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1383918,
+      "referee": "Keylor Herrera",
+      "timezone": "UTC",
+      "date": "2025-06-29T20:00:00+00:00",
+      "timestamp": 1751227200,
+      "periods": {
+        "first": 1751227200,
+        "second": 1751230800
+      },
+      "venue": {
+        "id": null,
+        "name": "U.S. Bank Stadium",
+        "city": "Minneapolis, Minnesota"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Quarter-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5161,
+        "name": "Guatemala",
+        "logo": "https://media.api-sports.io/football/teams/5161.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty": {
+        "home": 5,
+        "away": 6
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1371378,
+      "referee": "Joe Dickerson",
+      "timezone": "UTC",
+      "date": "2025-06-25T02:00:00+00:00",
+      "timestamp": 1750816800,
+      "periods": {
+        "first": 1750816800,
+        "second": 1750820400
+      },
+      "venue": {
+        "id": 19418,
+        "name": "Shell Energy Stadium",
+        "city": "Houston, Texas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 1
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5159,
+        "name": "El Salvador",
+        "logo": "https://media.api-sports.io/football/teams/5159.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1371370,
+      "referee": "Juan Calderón",
+      "timezone": "UTC",
+      "date": "2025-06-21T23:00:00+00:00",
+      "timestamp": 1750546800,
+      "periods": {
+        "first": 1750546800,
+        "second": 1750550400
+      },
+      "venue": {
+        "id": 19418,
+        "name": "Shell Energy Stadium",
+        "city": "Houston, Texas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 10
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5530,
+        "name": "Curaçao",
+        "logo": "https://media.api-sports.io/football/teams/5530.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1371363,
+      "referee": "Mario Alberto Escobar Toca",
+      "timezone": "UTC",
+      "date": "2025-06-18T02:30:00+00:00",
+      "timestamp": 1750213800,
+      "periods": {
+        "first": 1750213800,
+        "second": 1750217400
+      },
+      "venue": {
+        "id": 19445,
+        "name": "BC Place",
+        "city": "Vancouver, British Columbia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4672,
+        "name": "Honduras",
+        "logo": "https://media.api-sports.io/football/teams/4672.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 6,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 6,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1364925,
+      "referee": "Filip Dujic, USA",
+      "timezone": "UTC",
+      "date": "2025-06-11T00:30:00+00:00",
+      "timestamp": 1749601800,
+      "periods": {
+        "first": 1749601800,
+        "second": 1749605400
+      },
+      "venue": {
+        "id": 312,
+        "name": "BMO Field",
+        "city": "Toronto, Ontario"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": 4,
+        "away": 5
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1364922,
+      "referee": "Josué Ugalde",
+      "timezone": "UTC",
+      "date": "2025-06-07T19:30:00+00:00",
+      "timestamp": 1749324600,
+      "periods": {
+        "first": 1749324600,
+        "second": 1749328200
+      },
+      "venue": {
+        "id": 312,
+        "name": "BMO Field",
+        "city": "Toronto, Ontario"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 772,
+        "name": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/772.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1364768,
+      "referee": "K. Garcia",
+      "timezone": "UTC",
+      "date": "2025-03-22T22:00:00+00:00",
+      "timestamp": 1742680800,
+      "periods": {
+        "first": 1742680800,
+        "second": 1742684400
+      },
+      "venue": {
+        "id": null,
+        "name": "SoFi Stadium",
+        "city": "Inglewood, California"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2024,
+      "round": "3rd Place Final",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2384,
+        "name": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2384.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1316376,
+      "referee": "H. Martinez",
+      "timezone": "UTC",
+      "date": "2025-03-21T02:30:00+00:00",
+      "timestamp": 1742524200,
+      "periods": {
+        "first": 1742524200,
+        "second": 1742527800
+      },
+      "venue": {
+        "id": null,
+        "name": "SoFi Stadium",
+        "city": "Inglewood, California"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Semi-finals",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      },
+      "away": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1312099,
+      "referee": "K. Garcia",
+      "timezone": "UTC",
+      "date": "2024-11-20T00:30:00+00:00",
+      "timestamp": 1732062600,
+      "periods": {
+        "first": 1732062600,
+        "second": 1732066200
+      },
+      "venue": {
+        "id": 312,
+        "name": "BMO Field",
+        "city": "Toronto, Ontario"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Quarter-finals",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 8171,
+        "name": "Suriname",
+        "logo": "https://media.api-sports.io/football/teams/8171.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1312098,
+      "referee": "O. Nation",
+      "timezone": "UTC",
+      "date": "2024-11-15T23:30:00+00:00",
+      "timestamp": 1731713400,
+      "periods": {
+        "first": 1731713400,
+        "second": 1731717000
+      },
+      "venue": {
+        "id": 7380,
+        "name": "Dr. Ir. Franklin Essed Stadion",
+        "city": "Paramaribo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Quarter-finals",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 8171,
+        "name": "Suriname",
+        "logo": "https://media.api-sports.io/football/teams/8171.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1294672,
+      "referee": "T. Penso",
+      "timezone": "UTC",
+      "date": "2024-10-15T23:30:00+00:00",
+      "timestamp": 1729035000,
+      "periods": {
+        "first": 1729035000,
+        "second": 1729038600
+      },
+      "venue": {
+        "id": 312,
+        "name": "BMO Field",
+        "city": "Toronto, Ontario"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 11,
+        "name": "Panama",
+        "logo": "https://media.api-sports.io/football/teams/11.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1184586,
+      "referee": "V. Rivas",
+      "timezone": "UTC",
+      "date": "2024-09-11T01:00:00+00:00",
+      "timestamp": 1726016400,
+      "periods": {
+        "first": 1726016400,
+        "second": 1726020000
+      },
+      "venue": {
+        "id": null,
+        "name": "AT&T Stadium",
+        "city": "Arlington, Texas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1215627,
+      "referee": "K. Herrera",
+      "timezone": "UTC",
+      "date": "2024-09-07T20:00:00+00:00",
+      "timestamp": 1725739200,
+      "periods": {
+        "first": 1725739200,
+        "second": 1725742800
+      },
+      "venue": {
+        "id": 1615,
+        "name": "Children's Mercy Park",
+        "city": "Kansas City, Kansas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2384,
+        "name": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2384.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1234029,
+      "referee": "A. Herrera",
+      "timezone": "UTC",
+      "date": "2024-07-14T00:00:00+00:00",
+      "timestamp": 1720915200,
+      "periods": {
+        "first": 1720915200,
+        "second": 1720918800
+      },
+      "venue": {
+        "id": 18659,
+        "name": "Bank of America Stadium",
+        "city": "Charlotte, North Carolina"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2024,
+      "round": "3rd Place Final",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty": {
+        "home": 3,
+        "away": 4
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1227537,
+      "referee": "P. Maza",
+      "timezone": "UTC",
+      "date": "2024-07-10T00:00:00+00:00",
+      "timestamp": 1720569600,
+      "periods": {
+        "first": 1720569600,
+        "second": 1720573200
+      },
+      "venue": {
+        "id": null,
+        "name": "MetLife Stadium",
+        "city": "East Rutherford, New Jersey"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Semi-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1219958,
+      "referee": "Wilton Pereira Sampaio",
+      "timezone": "UTC",
+      "date": "2024-07-06T01:00:00+00:00",
+      "timestamp": 1720227600,
+      "periods": {
+        "first": 1720227600,
+        "second": 1720231200
+      },
+      "venue": {
+        "id": null,
+        "name": "AT&T Stadium",
+        "city": "Arlington, Texas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Quarter-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2379,
+        "name": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2379.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty": {
+        "home": 3,
+        "away": 4
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1189124,
+      "referee": "W. Roldán",
+      "timezone": "UTC",
+      "date": "2024-06-30T00:00:00+00:00",
+      "timestamp": 1719705600,
+      "periods": {
+        "first": 1719705600,
+        "second": 1719709200
+      },
+      "venue": {
+        "id": 20500,
+        "name": "Inter&Co Stadium",
+        "city": "Orlando, Florida"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2383,
+        "name": "Chile",
+        "logo": "https://media.api-sports.io/football/teams/2383.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1189122,
+      "referee": "M. Escobar",
+      "timezone": "UTC",
+      "date": "2024-06-26T22:00:00+00:00",
+      "timestamp": 1719439200,
+      "periods": {
+        "first": 1719439200,
+        "second": 1719442800
+      },
+      "venue": {
+        "id": 1615,
+        "name": "Children's Mercy Park",
+        "city": "Kansas City, Kansas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1189120,
+      "referee": "J. Valenzuela",
+      "timezone": "UTC",
+      "date": "2024-06-21T00:00:00+00:00",
+      "timestamp": 1718928000,
+      "periods": {
+        "first": 1718928000,
+        "second": 1718931600
+      },
+      "venue": {
+        "id": 1898,
+        "name": "Mercedes-Benz Stadium",
+        "city": "Atlanta, Georgia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1196553,
+      "referee": "Fábio Veríssimo",
+      "timezone": "UTC",
+      "date": "2024-06-09T19:15:00+00:00",
+      "timestamp": 1717960500,
+      "periods": {
+        "first": 1717960500,
+        "second": 1717964100
+      },
+      "venue": {
+        "id": 638,
+        "name": "Stade Matmut-Atlantique",
+        "city": "Bordeaux"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2,
+        "name": "France",
+        "logo": "https://media.api-sports.io/football/teams/2.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1182784,
+      "referee": "R. Saggi",
+      "timezone": "UTC",
+      "date": "2024-06-06T18:45:00+00:00",
+      "timestamp": 1717699500,
+      "periods": {
+        "first": 1717699500,
+        "second": 1717703100
+      },
+      "venue": {
+        "id": 1128,
+        "name": "Stadion Feijenoord",
+        "city": "Rotterdam"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1118,
+        "name": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1118.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1144239,
+      "referee": "M. Ortíz",
+      "timezone": "UTC",
+      "date": "2024-03-23T20:00:00+00:00",
+      "timestamp": 1711224000,
+      "periods": {
+        "first": 1711224000,
+        "second": 1711227600
+      },
+      "venue": {
+        "id": 1612,
+        "name": "Toyota Stadium",
+        "city": "Frisco, Texas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Play-offs",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5168,
+        "name": "Trinidad and Tobago",
+        "logo": "https://media.api-sports.io/football/teams/5168.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1139204,
+      "referee": "C. Ramos",
+      "timezone": "UTC",
+      "date": "2023-11-22T00:30:00+00:00",
+      "timestamp": 1700613000,
+      "periods": {
+        "first": 1700613000,
+        "second": 1700616600
+      },
+      "venue": {
+        "id": 312,
+        "name": "BMO Field",
+        "city": "Toronto, Ontario"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Quarter-finals",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2385,
+        "name": "Jamaica",
+        "logo": "https://media.api-sports.io/football/teams/2385.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1139203,
+      "referee": "M. Penso",
+      "timezone": "UTC",
+      "date": "2023-11-18T15:30:00+00:00",
+      "timestamp": 1700321400,
+      "periods": {
+        "first": 1700321400,
+        "second": 1700325000
+      },
+      "venue": {
+        "id": 1976,
+        "name": "Independence Park",
+        "city": "Kingston"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Quarter-finals",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2385,
+        "name": "Jamaica",
+        "logo": "https://media.api-sports.io/football/teams/2385.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1114142,
+      "referee": "A. King",
+      "timezone": "UTC",
+      "date": "2023-10-13T10:35:00+00:00",
+      "timestamp": 1697193300,
+      "periods": {
+        "first": 1697193300,
+        "second": 1697196900
+      },
+      "venue": {
+        "id": 952,
+        "name": "Denka Big Swan Stadium",
+        "city": "Niigata"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 12,
+        "name": "Japan",
+        "logo": "https://media.api-sports.io/football/teams/12.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1051776,
+      "referee": "M. Ortíz",
+      "timezone": "UTC",
+      "date": "2023-07-09T23:30:00+00:00",
+      "timestamp": 1688945400,
+      "periods": {
+        "first": 1688945400,
+        "second": 1688949000
+      },
+      "venue": {
+        "id": 19229,
+        "name": "TQL Stadium",
+        "city": "Cincinnati, Ohio"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Quarter-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2384,
+        "name": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2384.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": 1,
+        "away": 1
+      },
+      "penalty": {
+        "home": 3,
+        "away": 2
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1023115,
+      "referee": "K. Herrera",
+      "timezone": "UTC",
+      "date": "2023-07-04T22:30:00+00:00",
+      "timestamp": 1688509800,
+      "periods": {
+        "first": 1688509800,
+        "second": 1688513400
+      },
+      "venue": {
+        "id": 19418,
+        "name": "Shell Energy Stadium",
+        "city": "Houston, Texas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2388,
+        "name": "Cuba",
+        "logo": "https://media.api-sports.io/football/teams/2388.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1023111,
+      "referee": "M. Ortíz",
+      "timezone": "UTC",
+      "date": "2023-07-02T01:30:00+00:00",
+      "timestamp": 1688261400,
+      "periods": {
+        "first": 1688261400,
+        "second": 1688265000
+      },
+      "venue": {
+        "id": 19418,
+        "name": "Shell Energy Stadium",
+        "city": "Houston, Texas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5161,
+        "name": "Guatemala",
+        "logo": "https://media.api-sports.io/football/teams/5161.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1036607,
+      "referee": "R. Vazquez",
+      "timezone": "UTC",
+      "date": "2023-06-27T23:00:00+00:00",
+      "timestamp": 1687906800,
+      "periods": {
+        "first": 1687906800,
+        "second": 1687910400
+      },
+      "venue": {
+        "id": 312,
+        "name": "BMO Field",
+        "city": "Toronto, Ontario"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      },
+      "away": {
+        "id": 10983,
+        "name": "Guadeloupe",
+        "logo": "https://media.api-sports.io/football/teams/10983.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1035658,
+      "referee": "S. Martínez",
+      "timezone": "UTC",
+      "date": "2023-06-19T00:30:00+00:00",
+      "timestamp": 1687134600,
+      "periods": {
+        "first": 1687134600,
+        "second": 1687138200
+      },
+      "venue": {
+        "id": null,
+        "name": "Allegiant Stadium",
+        "city": "Las Vegas, Nevada"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Final",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2384,
+        "name": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2384.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1019252,
+      "referee": "J. Calderón",
+      "timezone": "UTC",
+      "date": "2023-06-15T23:00:00+00:00",
+      "timestamp": 1686870000,
+      "periods": {
+        "first": 1686870000,
+        "second": 1686873600
+      },
+      "venue": {
+        "id": null,
+        "name": "Allegiant Stadium",
+        "city": "Las Vegas, Nevada"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Semi-finals",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 11,
+        "name": "Panama",
+        "logo": "https://media.api-sports.io/football/teams/11.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 856823,
+      "referee": "Ivan Cisneros",
+      "timezone": "UTC",
+      "date": "2023-03-29T00:00:00+00:00",
+      "timestamp": 1680048000,
+      "periods": {
+        "first": 1680048000,
+        "second": 1680051600
+      },
+      "venue": {
+        "id": 312,
+        "name": "BMO Field",
+        "city": "Toronto, Ontario"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League A - 6",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4672,
+        "name": "Honduras",
+        "logo": "https://media.api-sports.io/football/teams/4672.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 856819,
+      "referee": "J. Calderón",
+      "timezone": "UTC",
+      "date": "2023-03-26T01:00:00+00:00",
+      "timestamp": 1679792400,
+      "periods": {
+        "first": 1679792400,
+        "second": 1679796000
+      },
+      "venue": {
+        "id": 19758,
+        "name": "Stadion Ergilio Hato",
+        "city": "Willemstad"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League A - 5",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5530,
+        "name": "Curaçao",
+        "logo": "https://media.api-sports.io/football/teams/5530.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 855767,
+      "referee": "Raphael Claus",
+      "timezone": "UTC",
+      "date": "2022-12-01T15:00:00+00:00",
+      "timestamp": 1669906800,
+      "periods": {
+        "first": 1669906800,
+        "second": 1669910400
+      },
+      "venue": {
+        "id": null,
+        "name": "Al Thumama Stadium",
+        "city": "Doha"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      },
+      "away": {
+        "id": 31,
+        "name": "Morocco",
+        "logo": "https://media.api-sports.io/football/teams/31.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 855754,
+      "referee": "A. Matonte",
+      "timezone": "UTC",
+      "date": "2022-11-27T16:00:00+00:00",
+      "timestamp": 1669564800,
+      "periods": {
+        "first": 1669564800,
+        "second": 1669568400
+      },
+      "venue": {
+        "id": 22430,
+        "name": "Khalifa International Stadium",
+        "city": "Ar-Rayyan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 3,
+        "name": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/3.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 855742,
+      "referee": "J. Sikazwe",
+      "timezone": "UTC",
+      "date": "2022-11-23T19:00:00+00:00",
+      "timestamp": 1669230000,
+      "periods": {
+        "first": 1669230000,
+        "second": 1669233600
+      },
+      "venue": {
+        "id": null,
+        "name": "Ahmad bin Ali Stadium",
+        "city": "Al-Rayyan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 959633,
+      "referee": "Omar Mohamed Al Ali",
+      "timezone": "UTC",
+      "date": "2022-11-17T13:40:00+00:00",
+      "timestamp": 1668692400,
+      "periods": {
+        "first": 1668692400,
+        "second": 1668696000
+      },
+      "venue": {
+        "id": null,
+        "name": "Al Maktoum Stadium",
+        "city": "Dubai"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 12,
+        "name": "Japan",
+        "logo": "https://media.api-sports.io/football/teams/12.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 967962,
+      "referee": "Abdullah Jamali",
+      "timezone": "UTC",
+      "date": "2022-11-11T15:30:00+00:00",
+      "timestamp": 1668180600,
+      "periods": {
+        "first": 1668180600,
+        "second": 1668184200
+      },
+      "venue": {
+        "id": null,
+        "name": "Madinat 'Isa Stadium",
+        "city": "Manama"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1547,
+        "name": "Bahrain",
+        "logo": "https://media.api-sports.io/football/teams/1547.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 942152,
+      "referee": "P. Kralovic",
+      "timezone": "UTC",
+      "date": "2022-09-27T16:00:00+00:00",
+      "timestamp": 1664294400,
+      "periods": {
+        "first": 1664294400,
+        "second": 1664298000
+      },
+      "venue": {
+        "id": 11914,
+        "name": "Štadión Tehelné pole",
+        "city": "Bratislava"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 942144,
+      "referee": "M. Schüttengruber",
+      "timezone": "UTC",
+      "date": "2022-09-23T17:00:00+00:00",
+      "timestamp": 1663952400,
+      "periods": {
+        "first": 1663952400,
+        "second": 1663956000
+      },
+      "venue": {
+        "id": 136,
+        "name": "Generali Arena",
+        "city": "Wien"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1569,
+        "name": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/1569.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 856814,
+      "referee": "M. Escobar",
+      "timezone": "UTC",
+      "date": "2022-06-14T02:00:00+00:00",
+      "timestamp": 1655172000,
+      "periods": {
+        "first": 1655172000,
+        "second": 1655175600
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Olímpico Metropolitano",
+        "city": "San Pedro Sula"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League A - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4672,
+        "name": "Honduras",
+        "logo": "https://media.api-sports.io/football/teams/4672.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 856809,
+      "referee": "N. Saghafi",
+      "timezone": "UTC",
+      "date": "2022-06-10T02:30:00+00:00",
+      "timestamp": 1654828200,
+      "periods": {
+        "first": 1654828200,
+        "second": 1654831800
+      },
+      "venue": {
+        "id": 313,
+        "name": "BC Place Stadium",
+        "city": "Vancouver, British Columbia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2022,
+      "round": "League A - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5530,
+        "name": "Curaçao",
+        "logo": "https://media.api-sports.io/football/teams/5530.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 861762,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-06-05T23:00:00+00:00",
+      "timestamp": 1654470000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 313,
+        "name": "BC Place Stadium",
+        "city": "Vancouver, British Columbia"
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      },
+      "away": {
+        "id": 22,
+        "name": "Iran",
+        "logo": "https://media.api-sports.io/football/teams/22.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 864292,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-06-05T23:00:00+00:00",
+      "timestamp": 1654470000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 313,
+        "name": "BC Place Stadium",
+        "city": "Vancouver, British Columbia"
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      },
+      "away": {
+        "id": 11,
+        "name": "Panama",
+        "logo": "https://media.api-sports.io/football/teams/11.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 708861,
+      "referee": "J. Marrufo",
+      "timezone": "UTC",
+      "date": "2022-03-31T01:05:00+00:00",
+      "timestamp": 1648688700,
+      "periods": {
+        "first": 1648688700,
+        "second": 1648692300
+      },
+      "venue": {
+        "id": 1207,
+        "name": "Estadio Rommel Fernández Gutiérrez",
+        "city": "Ciudad de Panamá"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Final Round - 14",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 11,
+        "name": "Panama",
+        "logo": "https://media.api-sports.io/football/teams/11.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 708857,
+      "referee": "F. Guerrero",
+      "timezone": "UTC",
+      "date": "2022-03-27T20:05:00+00:00",
+      "timestamp": 1648411500,
+      "periods": {
+        "first": 1648411500,
+        "second": 1648415100
+      },
+      "venue": {
+        "id": 312,
+        "name": "BMO Field",
+        "city": "Toronto, Ontario"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Final Round - 13",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2385,
+        "name": "Jamaica",
+        "logo": "https://media.api-sports.io/football/teams/2385.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 708853,
+      "referee": "S. Martínez",
+      "timezone": "UTC",
+      "date": "2022-03-25T02:05:00+00:00",
+      "timestamp": 1648173900,
+      "periods": {
+        "first": 1648173900,
+        "second": 1648177500
+      },
+      "venue": {
+        "id": 392,
+        "name": "Estadio Nacional de Costa Rica",
+        "city": "San José"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Final Round - 12",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 29,
+        "name": "Costa Rica",
+        "logo": "https://media.api-sports.io/football/teams/29.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 708849,
+      "referee": "A. Villarreal",
+      "timezone": "UTC",
+      "date": "2022-02-03T02:00:00+00:00",
+      "timestamp": 1643853600,
+      "periods": {
+        "first": 1643853600,
+        "second": 1643857200
+      },
+      "venue": {
+        "id": 3284,
+        "name": "Estadio Cuscatlán",
+        "city": "San Salvador"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Final Round - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5159,
+        "name": "El Salvador",
+        "logo": "https://media.api-sports.io/football/teams/5159.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 708845,
+      "referee": "C. Ramos",
+      "timezone": "UTC",
+      "date": "2022-01-30T20:05:00+00:00",
+      "timestamp": 1643573100,
+      "periods": {
+        "first": 1643573100,
+        "second": 1643576700
+      },
+      "venue": {
+        "id": 2602,
+        "name": "Tim Hortons Field",
+        "city": "Hamilton"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Final Round - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2384,
+        "name": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2384.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 708841,
+      "referee": "D. Parchment",
+      "timezone": "UTC",
+      "date": "2022-01-28T01:05:00+00:00",
+      "timestamp": 1643331900,
+      "periods": {
+        "first": 1643331900,
+        "second": 1643335500
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Olímpico Metropolitano",
+        "city": "San Pedro Sula"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Final Round - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 4672,
+        "name": "Honduras",
+        "logo": "https://media.api-sports.io/football/teams/4672.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 821420,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-01-23T00:00:00+00:00",
+      "timestamp": 1642896000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 11976,
+        "name": "DRV PNK Stadium",
+        "city": "Fort Lauderdale, Florida"
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5161,
+        "name": "Guatemala",
+        "logo": "https://media.api-sports.io/football/teams/5161.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 708837,
+      "referee": "M. Escobar",
+      "timezone": "UTC",
+      "date": "2021-11-17T02:05:00+00:00",
+      "timestamp": 1637114700,
+      "periods": {
+        "first": 1637114700,
+        "second": 1637118300
+      },
+      "venue": {
+        "id": null,
+        "name": "Commonwealth Stadium",
+        "city": "Edmonton, Alberta"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Final Round - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 708833,
+      "referee": "I. Elfath",
+      "timezone": "UTC",
+      "date": "2021-11-13T02:05:00+00:00",
+      "timestamp": 1636769100,
+      "periods": {
+        "first": 1636769100,
+        "second": 1636772700
+      },
+      "venue": {
+        "id": null,
+        "name": "Commonwealth Stadium",
+        "city": "Edmonton, Alberta"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Final Round - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 29,
+        "name": "Costa Rica",
+        "logo": "https://media.api-sports.io/football/teams/29.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 708829,
+      "referee": "A. Villarreal",
+      "timezone": "UTC",
+      "date": "2021-10-13T23:30:00+00:00",
+      "timestamp": 1634167800,
+      "periods": {
+        "first": 1634167800,
+        "second": 1634171400
+      },
+      "venue": {
+        "id": 312,
+        "name": "BMO Field",
+        "city": "Toronto, Ontario"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Final Round - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 11,
+        "name": "Panama",
+        "logo": "https://media.api-sports.io/football/teams/11.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 708825,
+      "referee": "K. Herrera",
+      "timezone": "UTC",
+      "date": "2021-10-10T22:00:00+00:00",
+      "timestamp": 1633903200,
+      "periods": {
+        "first": 1633903200,
+        "second": 1633906800
+      },
+      "venue": {
+        "id": 1976,
+        "name": "Independence Park",
+        "city": "Kingston"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Final Round - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2385,
+        "name": "Jamaica",
+        "logo": "https://media.api-sports.io/football/teams/2385.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 708821,
+      "referee": "I. Cornejo",
+      "timezone": "UTC",
+      "date": "2021-10-08T01:40:00+00:00",
+      "timestamp": 1633657200,
+      "periods": {
+        "first": 1633657200,
+        "second": 1633660800
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Azteca",
+        "city": "D.F."
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Final Round - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 708817,
+      "referee": "R. Montero",
+      "timezone": "UTC",
+      "date": "2021-09-08T23:30:00+00:00",
+      "timestamp": 1631143800,
+      "periods": {
+        "first": 1631143800,
+        "second": 1631147400
+      },
+      "venue": {
+        "id": 312,
+        "name": "BMO Field",
+        "city": "Toronto, Ontario"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Final Round - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5159,
+        "name": "El Salvador",
+        "logo": "https://media.api-sports.io/football/teams/5159.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 708813,
+      "referee": "O. Nation",
+      "timezone": "UTC",
+      "date": "2021-09-06T00:00:00+00:00",
+      "timestamp": 1630886400,
+      "periods": {
+        "first": 1630886400,
+        "second": 1630890000
+      },
+      "venue": {
+        "id": 6664,
+        "name": "Nissan Stadium",
+        "city": "Nashville, Tennessee"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Final Round - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2384,
+        "name": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2384.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 708809,
+      "referee": "F. Guerrero",
+      "timezone": "UTC",
+      "date": "2021-09-03T00:05:00+00:00",
+      "timestamp": 1630627500,
+      "periods": {
+        "first": 1630627500,
+        "second": 1630631100
+      },
+      "venue": {
+        "id": 312,
+        "name": "BMO Field",
+        "city": "Toronto, Ontario"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Final Round - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4672,
+        "name": "Honduras",
+        "logo": "https://media.api-sports.io/football/teams/4672.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 746999,
+      "referee": "D. Parchment",
+      "timezone": "UTC",
+      "date": "2021-07-30T02:00:00+00:00",
+      "timestamp": 1627610400,
+      "periods": {
+        "first": 1627610400,
+        "second": 1627614000
+      },
+      "venue": {
+        "id": null,
+        "name": "NRG Stadium",
+        "city": "Houston, Texas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Semi-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 740334,
+      "referee": "J. Marrufo",
+      "timezone": "UTC",
+      "date": "2021-07-25T23:00:00+00:00",
+      "timestamp": 1627254000,
+      "periods": {
+        "first": 1627254000,
+        "second": 1627257600
+      },
+      "venue": {
+        "id": null,
+        "name": "AT&T Stadium",
+        "city": "Arlington, Texas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Quarter-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 29,
+        "name": "Costa Rica",
+        "logo": "https://media.api-sports.io/football/teams/29.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 704147,
+      "referee": "A. Escobedo",
+      "timezone": "UTC",
+      "date": "2021-07-18T21:00:00+00:00",
+      "timestamp": 1626642000,
+      "periods": {
+        "first": 1626642000,
+        "second": 1626645600
+      },
+      "venue": {
+        "id": 1615,
+        "name": "Children's Mercy Park",
+        "city": "Kansas City, Kansas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2384,
+        "name": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2384.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 723376,
+      "referee": "J. Calderón",
+      "timezone": "UTC",
+      "date": "2021-07-15T23:30:00+00:00",
+      "timestamp": 1626391800,
+      "periods": {
+        "first": 1626391800,
+        "second": 1626395400
+      },
+      "venue": {
+        "id": 1615,
+        "name": "Children's Mercy Park",
+        "city": "Kansas City, Kansas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 704138,
+      "referee": "Ivan Cisneros",
+      "timezone": "UTC",
+      "date": "2021-07-11T22:30:00+00:00",
+      "timestamp": 1626042600,
+      "periods": {
+        "first": 1626042600,
+        "second": 1626046200
+      },
+      "venue": {
+        "id": 1615,
+        "name": "Children's Mercy Park",
+        "city": "Kansas City, Kansas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 8117,
+        "name": "Martinique",
+        "logo": "https://media.api-sports.io/football/teams/8117.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 706970,
+      "referee": "R. Vazquez",
+      "timezone": "UTC",
+      "date": "2021-06-16T01:00:00+00:00",
+      "timestamp": 1623805200,
+      "periods": {
+        "first": 1623805200,
+        "second": 1623808800
+      },
+      "venue": {
+        "id": 19491,
+        "name": "SeatGeek Stadium",
+        "city": "Bridgeview, Illinois"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "2nd Round",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 706969,
+      "referee": "J. Pitti",
+      "timezone": "UTC",
+      "date": "2021-06-12T21:00:00+00:00",
+      "timestamp": 1623531600,
+      "periods": {
+        "first": 1623531600,
+        "second": 1623535200
+      },
+      "venue": {
+        "id": 2856,
+        "name": "Stade Sylvio Cator",
+        "city": "Port-au-Prince"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "2nd Round",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 592715,
+      "referee": "N. Saghafi",
+      "timezone": "UTC",
+      "date": "2021-06-09T01:05:00+00:00",
+      "timestamp": 1623200700,
+      "periods": {
+        "first": 1623200700,
+        "second": 1623204300
+      },
+      "venue": {
+        "id": 19491,
+        "name": "SeatGeek Stadium",
+        "city": "Bridgeview, Illinois"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "1st Round - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 8171,
+        "name": "Suriname",
+        "logo": "https://media.api-sports.io/football/teams/8171.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 592709,
+      "referee": "M. Ortíz",
+      "timezone": "UTC",
+      "date": "2021-06-06T00:00:00+00:00",
+      "timestamp": 1622937600,
+      "periods": {
+        "first": 1622937600,
+        "second": 1622941200
+      },
+      "venue": {
+        "id": null,
+        "name": "IMG Soccer Stadium",
+        "city": "Bradenton, Florida"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "1st Round - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 8167,
+        "name": "Aruba",
+        "logo": "https://media.api-sports.io/football/teams/8167.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 7
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 7
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 592685,
+      "referee": "T. Unkel",
+      "timezone": "UTC",
+      "date": "2021-03-30T20:00:00+00:00",
+      "timestamp": 1617134400,
+      "periods": {
+        "first": 1617134400,
+        "second": 1617138000
+      },
+      "venue": {
+        "id": null,
+        "name": "IMG Soccer Stadium",
+        "city": "Bradenton, Florida"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "1st Round - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 8169,
+        "name": "Cayman Islands",
+        "logo": "https://media.api-sports.io/football/teams/8169.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 11
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 6
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 11
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 592673,
+      "referee": "A. Villarreal",
+      "timezone": "UTC",
+      "date": "2021-03-26T00:00:00+00:00",
+      "timestamp": 1616716800,
+      "periods": {
+        "first": 1616716800,
+        "second": 1616720400
+      },
+      "venue": {
+        "id": 1838,
+        "name": "Exploria Stadium",
+        "city": "Orlando, Florida"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2022,
+      "round": "1st Round - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5158,
+        "name": "Bermuda",
+        "logo": "https://media.api-sports.io/football/teams/5158.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 325566,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-03-30T00:00:00+00:00",
+      "timestamp": 1585526400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 2600,
+        "name": "Westhills Stadium",
+        "city": "Victoria, British Columbia"
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5168,
+        "name": "Trinidad and Tobago",
+        "logo": "https://media.api-sports.io/football/teams/5168.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 325565,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-03-28T00:00:00+00:00",
+      "timestamp": 1585353600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 2600,
+        "name": "Westhills Stadium",
+        "city": "Victoria, British Columbia"
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5168,
+        "name": "Trinidad and Tobago",
+        "logo": "https://media.api-sports.io/football/teams/5168.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 313198,
+      "referee": "R. Vazquez",
+      "timezone": "UTC",
+      "date": "2020-01-16T00:00:00+00:00",
+      "timestamp": 1579132800,
+      "periods": {
+        "first": 1579132800,
+        "second": 1579136400
+      },
+      "venue": {
+        "id": 3057,
+        "name": "Championship Soccer Stadium at OC Great Park",
+        "city": "Irvine, California"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 18,
+        "name": "Iceland",
+        "logo": "https://media.api-sports.io/football/teams/18.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 313279,
+      "referee": "N. Saghafi",
+      "timezone": "UTC",
+      "date": "2020-01-11T00:30:00+00:00",
+      "timestamp": 1578702600,
+      "periods": {
+        "first": 1578702600,
+        "second": 1578706200
+      },
+      "venue": {
+        "id": 3057,
+        "name": "Championship Soccer Stadium at OC Great Park",
+        "city": "Irvine, California"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5527,
+        "name": "Barbados",
+        "logo": "https://media.api-sports.io/football/teams/5527.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 313278,
+      "referee": "R. Vazquez",
+      "timezone": "UTC",
+      "date": "2020-01-08T00:30:00+00:00",
+      "timestamp": 1578443400,
+      "periods": {
+        "first": 1578443400,
+        "second": 1578447000
+      },
+      "venue": {
+        "id": 3057,
+        "name": "Championship Soccer Stadium at OC Great Park",
+        "city": "Irvine, California"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5527,
+        "name": "Barbados",
+        "logo": "https://media.api-sports.io/football/teams/5527.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 362653,
+      "referee": "C. Ramos",
+      "timezone": "UTC",
+      "date": "2019-11-16T00:00:00+00:00",
+      "timestamp": 1573862400,
+      "periods": {
+        "first": 1573862400,
+        "second": 1573866000
+      },
+      "venue": {
+        "id": 1838,
+        "name": "Exploria Stadium",
+        "city": "Orlando, Florida"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League A - 5",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2384,
+        "name": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2384.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 362649,
+      "referee": "D. Parchment",
+      "timezone": "UTC",
+      "date": "2019-10-15T23:30:00+00:00",
+      "timestamp": 1571182200,
+      "periods": {
+        "first": 1571182200,
+        "second": 1571185800
+      },
+      "venue": {
+        "id": 312,
+        "name": "BMO Field",
+        "city": "Toronto, Ontario"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League A - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2384,
+        "name": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2384.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 362642,
+      "referee": "M. Escobar",
+      "timezone": "UTC",
+      "date": "2019-09-10T23:15:00+00:00",
+      "timestamp": 1568157300,
+      "periods": {
+        "first": 1568157300,
+        "second": 1568160900
+      },
+      "venue": {
+        "id": 5790,
+        "name": "Truman Bodden Sports Complex",
+        "city": "George Town"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League A - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2388,
+        "name": "Cuba",
+        "logo": "https://media.api-sports.io/football/teams/2388.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 362638,
+      "referee": "F. Hernández",
+      "timezone": "UTC",
+      "date": "2019-09-08T00:00:00+00:00",
+      "timestamp": 1567900800,
+      "periods": {
+        "first": 1567900800,
+        "second": 1567904400
+      },
+      "venue": {
+        "id": 312,
+        "name": "BMO Field",
+        "city": "Toronto, Ontario"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/536.png",
+      "flag": null,
+      "season": 2020,
+      "round": "League A - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2388,
+        "name": "Cuba",
+        "logo": "https://media.api-sports.io/football/teams/2388.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 6,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 6,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 255378,
+      "referee": "J. Marrufo",
+      "timezone": "UTC",
+      "date": "2019-06-29T23:00:00+00:00",
+      "timestamp": 1561849200,
+      "periods": {
+        "first": 1561849200,
+        "second": 1561852800
+      },
+      "venue": {
+        "id": null,
+        "name": "NRG Stadium",
+        "city": "Houston, Texas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Quarter-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 255401,
+      "referee": "A. Villarreal",
+      "timezone": "UTC",
+      "date": "2019-06-24T00:00:00+00:00",
+      "timestamp": 1561334400,
+      "periods": {
+        "first": 1561334400,
+        "second": 1561338000
+      },
+      "venue": {
+        "id": null,
+        "name": "Bank of America Stadium (Charlotte, North Carolina)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2388,
+        "name": "Cuba",
+        "logo": "https://media.api-sports.io/football/teams/2388.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 7,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 4,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 7,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 255394,
+      "referee": "H. Bejarano",
+      "timezone": "UTC",
+      "date": "2019-06-20T02:30:00+00:00",
+      "timestamp": 1560997800,
+      "periods": {
+        "first": 1560997800,
+        "second": 1561001400
+      },
+      "venue": {
+        "id": null,
+        "name": "Sports Authority Field at Mile High",
+        "city": "Denver, Colorado"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 255385,
+      "referee": "H. Martinez",
+      "timezone": "UTC",
+      "date": "2019-06-15T23:30:00+00:00",
+      "timestamp": 1560641400,
+      "periods": {
+        "first": 1560641400,
+        "second": 1560645000
+      },
+      "venue": {
+        "id": null,
+        "name": "Rose Bowl",
+        "city": "Pasadena, California"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/22.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 8117,
+        "name": "Martinique",
+        "logo": "https://media.api-sports.io/football/teams/8117.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 672486,
+      "referee": "D. Montaño",
+      "timezone": "UTC",
+      "date": "2019-03-24T22:00:00+00:00",
+      "timestamp": 1553464800,
+      "periods": {
+        "first": 1553464800,
+        "second": 1553468400
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 808,
+      "name": "CONCACAF Nations League - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/808.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Group Stage - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 8118,
+        "name": "French Guyana",
+        "logo": "https://media.api-sports.io/football/teams/8118.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 672466,
+      "referee": "K. Morrison",
+      "timezone": "UTC",
+      "date": "2018-11-19T00:00:00+00:00",
+      "timestamp": 1542585600,
+      "periods": {
+        "first": 1542585600,
+        "second": 1542589200
+      },
+      "venue": {
+        "id": 4158,
+        "name": "Warner Park Football Stadium",
+        "city": "Basseterre"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 808,
+      "name": "CONCACAF Nations League - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/808.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Group Stage - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5536,
+        "name": "St. Kitts and Nevis",
+        "logo": "https://media.api-sports.io/football/teams/5536.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 672452,
+      "referee": "Ó. Macías",
+      "timezone": "UTC",
+      "date": "2018-10-16T23:00:00+00:00",
+      "timestamp": 1539730800,
+      "periods": {
+        "first": 1539730800,
+        "second": 1539734400
+      },
+      "venue": {
+        "id": 312,
+        "name": "BMO Field",
+        "city": "Toronto, Ontario"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 808,
+      "name": "CONCACAF Nations League - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/808.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Group Stage - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5531,
+        "name": "Dominica",
+        "logo": "https://media.api-sports.io/football/teams/5531.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 672429,
+      "referee": "M. Gaymes",
+      "timezone": "UTC",
+      "date": "2018-09-09T20:00:00+00:00",
+      "timestamp": 1536523200,
+      "periods": {
+        "first": 1536523200,
+        "second": 1536526800
+      },
+      "venue": {
+        "id": null,
+        "name": "IMG Soccer Stadium",
+        "city": "Bradenton, Florida"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 808,
+      "name": "CONCACAF Nations League - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/808.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Group Stage - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 8172,
+        "name": "US Virgin Islands",
+        "logo": "https://media.api-sports.io/football/teams/8172.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 8
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 5
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 8
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225362,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-03-24T15:00:00+00:00",
+      "timestamp": 1521903600,
+      "periods": {
+        "first": 1521903600,
+        "second": 1521907200
+      },
+      "venue": {
+        "id": null,
+        "name": "Pinatar Arena Football Center (San Pedro del Pinatar)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256340,
+      "referee": "V. Legister",
+      "timezone": "UTC",
+      "date": "2016-09-07T02:00:00+00:00",
+      "timestamp": 1473213600,
+      "periods": {
+        "first": 1473213600,
+        "second": 1473217200
+      },
+      "venue": {
+        "id": 313,
+        "name": "BC Place Stadium",
+        "city": "Vancouver, British Columbia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2018,
+      "round": "4th Round - 6",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5159,
+        "name": "El Salvador",
+        "logo": "https://media.api-sports.io/football/teams/5159.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256330,
+      "referee": "Y. Martinez",
+      "timezone": "UTC",
+      "date": "2016-09-02T21:06:00+00:00",
+      "timestamp": 1472850360,
+      "periods": {
+        "first": 1472850360,
+        "second": 1472853960
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Olímpico Metropolitano",
+        "city": "San Pedro Sula"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2018,
+      "round": "4th Round - 5",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4672,
+        "name": "Honduras",
+        "logo": "https://media.api-sports.io/football/teams/4672.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256328,
+      "referee": "Y. Martinez",
+      "timezone": "UTC",
+      "date": "2016-03-30T03:30:00+00:00",
+      "timestamp": 1459308600,
+      "periods": {
+        "first": 1459308600,
+        "second": 1459312200
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Azteca",
+        "city": "D.F."
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2018,
+      "round": "4th Round - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256322,
+      "referee": "K. Ward",
+      "timezone": "UTC",
+      "date": "2016-03-26T02:08:00+00:00",
+      "timestamp": 1458958080,
+      "periods": {
+        "first": 1458958080,
+        "second": 1458961680
+      },
+      "venue": {
+        "id": 313,
+        "name": "BC Place Stadium",
+        "city": "Vancouver, British Columbia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2018,
+      "round": "4th Round - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      },
+      "away": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256315,
+      "referee": "M. Geiger",
+      "timezone": "UTC",
+      "date": "2015-11-18T01:30:00+00:00",
+      "timestamp": 1447810200,
+      "periods": {
+        "first": 1447810200,
+        "second": 1447813800
+      },
+      "venue": {
+        "id": 3284,
+        "name": "Estadio Cuscatlán",
+        "city": "San Salvador"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2018,
+      "round": "4th Round - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5159,
+        "name": "El Salvador",
+        "logo": "https://media.api-sports.io/football/teams/5159.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256310,
+      "referee": "K. Morrison",
+      "timezone": "UTC",
+      "date": "2015-11-14T03:15:00+00:00",
+      "timestamp": 1447470900,
+      "periods": {
+        "first": 1447470900,
+        "second": 1447474500
+      },
+      "venue": {
+        "id": 313,
+        "name": "BC Place Stadium",
+        "city": "Vancouver, British Columbia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2018,
+      "round": "4th Round - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4672,
+        "name": "Honduras",
+        "logo": "https://media.api-sports.io/football/teams/4672.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256348,
+      "referee": "J. Santos",
+      "timezone": "UTC",
+      "date": "2015-09-09T01:00:00+00:00",
+      "timestamp": 1441760400,
+      "periods": {
+        "first": 1441760400,
+        "second": 1441764000
+      },
+      "venue": {
+        "id": 4153,
+        "name": "FFB Field",
+        "city": "Belmopán"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5528,
+        "name": "Belize",
+        "logo": "https://media.api-sports.io/football/teams/5528.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256347,
+      "referee": "J. Pitti",
+      "timezone": "UTC",
+      "date": "2015-09-04T23:30:00+00:00",
+      "timestamp": 1441409400,
+      "periods": {
+        "first": 1441409400,
+        "second": 1441413000
+      },
+      "venue": {
+        "id": 312,
+        "name": "BMO Field",
+        "city": "Toronto, Ontario"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5528,
+        "name": "Belize",
+        "logo": "https://media.api-sports.io/football/teams/5528.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256366,
+      "referee": "G. Ascani",
+      "timezone": "UTC",
+      "date": "2015-06-16T23:37:00+00:00",
+      "timestamp": 1434497820,
+      "periods": {
+        "first": 1434497820,
+        "second": 1434501420
+      },
+      "venue": {
+        "id": 312,
+        "name": "BMO Field",
+        "city": "Toronto, Ontario"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2018,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5531,
+        "name": "Dominica",
+        "logo": "https://media.api-sports.io/football/teams/5531.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256365,
+      "referee": "J. Solis",
+      "timezone": "UTC",
+      "date": "2015-06-11T23:00:00+00:00",
+      "timestamp": 1434063600,
+      "periods": {
+        "first": 1434063600,
+        "second": 1434067200
+      },
+      "venue": {
+        "id": 4154,
+        "name": "Windsor Park Stadium",
+        "city": "Roseau"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/31.png",
+      "flag": null,
+      "season": 2018,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5531,
+        "name": "Dominica",
+        "logo": "https://media.api-sports.io/football/teams/5531.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]

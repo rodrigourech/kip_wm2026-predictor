@@ -1,0 +1,6162 @@
+[
+  {
+    "fixture": {
+      "id": 1565179,
+      "referee": "Drew Fischer, Canada",
+      "timezone": "UTC",
+      "date": "2026-07-03T22:00:00+00:00",
+      "timestamp": 1783116000,
+      "periods": {
+        "first": 1783116000,
+        "second": 1783119600
+      },
+      "venue": {
+        "id": 0,
+        "name": "Hard Rock Stadium",
+        "city": "Miami"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "AET",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Round of 32",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": 2,
+        "away": 1
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489413,
+      "referee": "François Letexier, France",
+      "timezone": "UTC",
+      "date": "2026-06-27T00:00:00+00:00",
+      "timestamp": 1782518400,
+      "periods": {
+        "first": 1782518400,
+        "second": 1782522000
+      },
+      "venue": {
+        "id": null,
+        "name": "NRG Stadium",
+        "city": "Houston"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      },
+      "away": {
+        "id": 23,
+        "name": "Saudi Arabia",
+        "logo": "https://media.api-sports.io/football/teams/23.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489398,
+      "referee": "Espen Eskas, Norway",
+      "timezone": "UTC",
+      "date": "2026-06-21T22:00:00+00:00",
+      "timestamp": 1782079200,
+      "periods": {
+        "first": 1782079200,
+        "second": 1782082800
+      },
+      "venue": {
+        "id": null,
+        "name": "Hard Rock Stadium",
+        "city": "Miami Gardens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489380,
+      "referee": "Adham Mohammad, Jordan",
+      "timezone": "UTC",
+      "date": "2026-06-15T16:00:00+00:00",
+      "timestamp": 1781539200,
+      "periods": {
+        "first": 1781539200,
+        "second": 1781542800
+      },
+      "venue": {
+        "id": 1898,
+        "name": "Mercedes-Benz Stadium",
+        "city": "Atlanta"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 9,
+        "name": "Spain",
+        "logo": "https://media.api-sports.io/football/teams/9.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1546499,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-06-06T20:00:00+00:00",
+      "timestamp": 1780776000,
+      "periods": {
+        "first": 1780776000,
+        "second": 1780779600
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5158,
+        "name": "Bermuda",
+        "logo": "https://media.api-sports.io/football/teams/5158.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1543819,
+      "referee": "J. Goncalves",
+      "timezone": "UTC",
+      "date": "2026-05-31T15:00:00+00:00",
+      "timestamp": 1780239600,
+      "periods": {
+        "first": 1780239600,
+        "second": 1780243200
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio do Restelo",
+        "city": "Lisbon"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      },
+      "away": {
+        "id": 14,
+        "name": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1537253,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-03-30T03:00:00+00:00",
+      "timestamp": 1774839600,
+      "periods": {
+        "first": 1774839600,
+        "second": 1774843200
+      },
+      "venue": {
+        "id": null,
+        "name": "Eden Park",
+        "city": "Auckland"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1222,
+      "name": "FIFA Series",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1222.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1099,
+        "name": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/1099.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": 4,
+        "away": 2
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1537246,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-03-27T03:00:00+00:00",
+      "timestamp": 1774580400,
+      "periods": {
+        "first": 1774580400,
+        "second": 1774584000
+      },
+      "venue": {
+        "id": null,
+        "name": "Eden Park",
+        "city": "Auckland"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 1222,
+      "name": "FIFA Series",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1222.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2383,
+        "name": "Chile",
+        "logo": "https://media.api-sports.io/football/teams/2383.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1486541,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-11-17T16:00:00+00:00",
+      "timestamp": 1763395200,
+      "periods": {
+        "first": 1763395200,
+        "second": 1763398800
+      },
+      "venue": {
+        "id": null,
+        "name": "Al Maktoum Stadium",
+        "city": "Dubai"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": 2,
+        "away": 0
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1485001,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-11-13T16:00:00+00:00",
+      "timestamp": 1763049600,
+      "periods": {
+        "first": 1763049600,
+        "second": 1763053200
+      },
+      "venue": {
+        "id": null,
+        "name": "Hazza bin Zayed Stadium",
+        "city": "Al Ain"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 22,
+        "name": "Iran",
+        "logo": "https://media.api-sports.io/football/teams/22.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": 5,
+        "away": 4
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126098,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-10-13T16:00:00+00:00",
+      "timestamp": 1760371200,
+      "periods": {
+        "first": 1760371200,
+        "second": 1760374800
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Nacional de Cabo Verde",
+        "city": "Praia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2995,
+        "name": "Eswatini",
+        "logo": "https://media.api-sports.io/football/teams/2995.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126072,
+      "referee": "M. Ismail",
+      "timezone": "UTC",
+      "date": "2025-10-08T13:00:00+00:00",
+      "timestamp": 1759928400,
+      "periods": {
+        "first": 1759928400,
+        "second": 1759932000
+      },
+      "venue": {
+        "id": null,
+        "name": "Tripoli International Stadium",
+        "city": "Tripoli"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1526,
+        "name": "Libya",
+        "logo": "https://media.api-sports.io/football/teams/1526.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126044,
+      "referee": "D. Nii Ayi Laryea",
+      "timezone": "UTC",
+      "date": "2025-09-09T16:00:00+00:00",
+      "timestamp": 1757433600,
+      "periods": {
+        "first": 1757433600,
+        "second": 1757437200
+      },
+      "venue": {
+        "id": 314,
+        "name": "Estádio Nacional de Cabo Verde",
+        "city": "Praia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1530,
+        "name": "Cameroon",
+        "logo": "https://media.api-sports.io/football/teams/1530.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126018,
+      "referee": "Mohamed Diraneh Guedi",
+      "timezone": "UTC",
+      "date": "2025-09-04T16:00:00+00:00",
+      "timestamp": 1757001600,
+      "periods": {
+        "first": 1757001600,
+        "second": 1757005200
+      },
+      "venue": {
+        "id": 22431,
+        "name": "National Sports Complex Pitch 1",
+        "city": "Saint Pierre"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1497,
+        "name": "Mauritius",
+        "logo": "https://media.api-sports.io/football/teams/1497.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1373374,
+      "referee": "Henrik Nalbandian, Armenia",
+      "timezone": "UTC",
+      "date": "2025-06-08T16:00:00+00:00",
+      "timestamp": 1749398400,
+      "periods": {
+        "first": 1749398400,
+        "second": 1749402000
+      },
+      "venue": {
+        "id": 693,
+        "name": "Stadion Ramaz Shengelia",
+        "city": "Kutaisi"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1104,
+        "name": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/1104.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1375273,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-06-03T12:00:00+00:00",
+      "timestamp": 1748952000,
+      "periods": {
+        "first": 1748952000,
+        "second": 1748955600
+      },
+      "venue": {
+        "id": 19696,
+        "name": "Bukit Jalil National Stadium",
+        "city": "Kuala Lumpur"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1538,
+        "name": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/1538.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1375272,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-05-29T13:00:00+00:00",
+      "timestamp": 1748523600,
+      "periods": {
+        "first": 1748523600,
+        "second": 1748527200
+      },
+      "venue": {
+        "id": 20723,
+        "name": "Stadium Bola Sepak",
+        "city": "Kuala Lumpur"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1538,
+        "name": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/1538.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125990,
+      "referee": "M. Ghorbal",
+      "timezone": "UTC",
+      "date": "2025-03-25T16:00:00+00:00",
+      "timestamp": 1742918400,
+      "periods": {
+        "first": 1742918400,
+        "second": 1742922000
+      },
+      "venue": {
+        "id": 3712,
+        "name": "Estádio 11 de Novembro",
+        "city": "Luanda"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1529,
+        "name": "Angola",
+        "logo": "https://media.api-sports.io/football/teams/1529.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125963,
+      "referee": "Y. Malala",
+      "timezone": "UTC",
+      "date": "2025-03-20T16:00:00+00:00",
+      "timestamp": 1742486400,
+      "periods": {
+        "first": 1742486400,
+        "second": 1742490000
+      },
+      "venue": {
+        "id": 314,
+        "name": "Estádio Nacional de Cabo Verde",
+        "city": "Praia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1497,
+        "name": "Mauritius",
+        "logo": "https://media.api-sports.io/football/teams/1497.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232529,
+      "referee": "L. Benbraham",
+      "timezone": "UTC",
+      "date": "2024-11-19T15:00:00+00:00",
+      "timestamp": 1732028400,
+      "periods": {
+        "first": 1732028400,
+        "second": 1732032000
+      },
+      "venue": {
+        "id": 20023,
+        "name": "Stade Cheikha Ould Boïdiya",
+        "city": "Nouakchott"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1491,
+        "name": "Mauritania",
+        "logo": "https://media.api-sports.io/football/teams/1491.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232505,
+      "referee": "Houngnandande",
+      "timezone": "UTC",
+      "date": "2024-11-15T16:00:00+00:00",
+      "timestamp": 1731686400,
+      "periods": {
+        "first": 1731686400,
+        "second": 1731690000
+      },
+      "venue": {
+        "id": 314,
+        "name": "Estádio Nacional de Cabo Verde",
+        "city": "Praia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232482,
+      "referee": "M. Nkounkou",
+      "timezone": "UTC",
+      "date": "2024-10-15T16:00:00+00:00",
+      "timestamp": 1729008000,
+      "periods": {
+        "first": 1729008000,
+        "second": 1729011600
+      },
+      "venue": {
+        "id": 4183,
+        "name": "Francistown Stadium",
+        "city": "Francistown"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1520,
+        "name": "Botswana",
+        "logo": "https://media.api-sports.io/football/teams/1520.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232458,
+      "referee": "S. Guezzaz",
+      "timezone": "UTC",
+      "date": "2024-10-10T16:00:00+00:00",
+      "timestamp": 1728576000,
+      "periods": {
+        "first": 1728576000,
+        "second": 1728579600
+      },
+      "venue": {
+        "id": 314,
+        "name": "Estádio Nacional de Cabo Verde",
+        "city": "Praia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1520,
+        "name": "Botswana",
+        "logo": "https://media.api-sports.io/football/teams/1520.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232433,
+      "referee": "Ibrahim Mutaz",
+      "timezone": "UTC",
+      "date": "2024-09-10T19:00:00+00:00",
+      "timestamp": 1725994800,
+      "periods": {
+        "first": 1725994800,
+        "second": 1725998400
+      },
+      "venue": {
+        "id": 314,
+        "name": "Estádio Nacional de Cabo Verde",
+        "city": "Praia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1491,
+        "name": "Mauritania",
+        "logo": "https://media.api-sports.io/football/teams/1491.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1232409,
+      "referee": "A. Tom",
+      "timezone": "UTC",
+      "date": "2024-09-06T19:00:00+00:00",
+      "timestamp": 1725649200,
+      "periods": {
+        "first": 1725649200,
+        "second": 1725652800
+      },
+      "venue": {
+        "id": null,
+        "name": "Cairo International Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125936,
+      "referee": "K. Traore",
+      "timezone": "UTC",
+      "date": "2024-06-11T16:00:00+00:00",
+      "timestamp": 1718121600,
+      "periods": {
+        "first": 1718121600,
+        "second": 1718125200
+      },
+      "venue": {
+        "id": 314,
+        "name": "Estádio Nacional de Cabo Verde",
+        "city": "Praia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1526,
+        "name": "Libya",
+        "logo": "https://media.api-sports.io/football/teams/1526.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125911,
+      "referee": "Mustapha Ghorbal, Algeria",
+      "timezone": "UTC",
+      "date": "2024-06-08T13:00:00+00:00",
+      "timestamp": 1717851600,
+      "periods": {
+        "first": 1717851600,
+        "second": 1717855200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Ahmadou Ahidjo",
+        "city": "Yaounde"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1530,
+        "name": "Cameroon",
+        "logo": "https://media.api-sports.io/football/teams/1530.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1178429,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-03-25T19:00:00+00:00",
+      "timestamp": 1711393200,
+      "periods": {
+        "first": 1711393200,
+        "second": 1711396800
+      },
+      "venue": {
+        "id": 19932,
+        "name": "Prince Abdullah al-Faisal Stadium",
+        "city": "Jeddah"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1521,
+        "name": "Equatorial Guinea",
+        "logo": "https://media.api-sports.io/football/teams/1521.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1178425,
+      "referee": "Shukri Hussain Al-Hunfush",
+      "timezone": "UTC",
+      "date": "2024-03-21T19:00:00+00:00",
+      "timestamp": 1711047600,
+      "periods": {
+        "first": 1711047600,
+        "second": 1711051200
+      },
+      "venue": {
+        "id": 19932,
+        "name": "Prince Abdullah al-Faisal Stadium",
+        "city": "Jeddah"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5162,
+        "name": "Guyana",
+        "logo": "https://media.api-sports.io/football/teams/5162.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1169664,
+      "referee": "J. Ndala",
+      "timezone": "UTC",
+      "date": "2024-02-03T20:00:00+00:00",
+      "timestamp": 1706990400,
+      "periods": {
+        "first": 1706990400,
+        "second": 1706994000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Charles Konan Banny de Yamoussoukro",
+        "city": "Yamoussoukro"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Quarter-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1531,
+        "name": "South Africa",
+        "logo": "https://media.api-sports.io/football/teams/1531.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty": {
+        "home": 1,
+        "away": 2
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1166110,
+      "referee": "Mohamed Adel",
+      "timezone": "UTC",
+      "date": "2024-01-29T17:00:00+00:00",
+      "timestamp": 1706547600,
+      "periods": {
+        "first": 1706547600,
+        "second": 1706551200
+      },
+      "venue": {
+        "id": 411,
+        "name": "Stade Félix Houphouët-Boigny",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Round of 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1491,
+        "name": "Mauritania",
+        "logo": "https://media.api-sports.io/football/teams/1491.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1138724,
+      "referee": "A. Mahamat",
+      "timezone": "UTC",
+      "date": "2024-01-22T20:00:00+00:00",
+      "timestamp": 1705953600,
+      "periods": {
+        "first": 1705953600,
+        "second": 1705957200
+      },
+      "venue": {
+        "id": 411,
+        "name": "Stade Félix Houphouët-Boigny",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1138714,
+      "referee": "S. Guezzaz",
+      "timezone": "UTC",
+      "date": "2024-01-19T14:00:00+00:00",
+      "timestamp": 1705672800,
+      "periods": {
+        "first": 1705672800,
+        "second": 1705676400
+      },
+      "venue": {
+        "id": 411,
+        "name": "Stade Félix Houphouët-Boigny",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1512,
+        "name": "Mozambique",
+        "logo": "https://media.api-sports.io/football/teams/1512.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1138700,
+      "referee": "J. Ndala",
+      "timezone": "UTC",
+      "date": "2024-01-14T20:00:00+00:00",
+      "timestamp": 1705262400,
+      "periods": {
+        "first": 1705262400,
+        "second": 1705266000
+      },
+      "venue": {
+        "id": 411,
+        "name": "Stade Félix Houphouët-Boigny",
+        "city": "Abidjan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1155256,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-01-10T17:30:00+00:00",
+      "timestamp": 1704907800,
+      "periods": {
+        "first": 1704907800,
+        "second": 1704911400
+      },
+      "venue": {
+        "id": 19755,
+        "name": "Stade Olympique Hammadi Agrebi",
+        "city": "Radès"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 28,
+        "name": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/28.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125884,
+      "referee": "S. M. Fadul",
+      "timezone": "UTC",
+      "date": "2023-11-21T13:00:00+00:00",
+      "timestamp": 1700571600,
+      "periods": {
+        "first": 1700571600,
+        "second": 1700575200
+      },
+      "venue": {
+        "id": null,
+        "name": "Mbombela Stadium",
+        "city": "Mbombela"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2995,
+        "name": "Eswatini",
+        "logo": "https://media.api-sports.io/football/teams/2995.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125855,
+      "referee": "Y. Gamouh",
+      "timezone": "UTC",
+      "date": "2023-11-16T19:00:00+00:00",
+      "timestamp": 1700161200,
+      "periods": {
+        "first": 1700161200,
+        "second": 1700164800
+      },
+      "venue": {
+        "id": 314,
+        "name": "Estádio Nacional de Cabo Verde",
+        "city": "Praia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1529,
+        "name": "Angola",
+        "logo": "https://media.api-sports.io/football/teams/1529.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1137563,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2023-10-17T13:00:00+00:00",
+      "timestamp": 1697547600,
+      "periods": {
+        "first": 1697547600,
+        "second": 1697551200
+      },
+      "venue": {
+        "id": 2132,
+        "name": "Stade Parsemain",
+        "city": "Fos-sur-Mer"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1524,
+        "name": "Comoros",
+        "logo": "https://media.api-sports.io/football/teams/1524.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1135018,
+      "referee": "M. Malki",
+      "timezone": "UTC",
+      "date": "2023-10-12T19:00:00+00:00",
+      "timestamp": 1697137200,
+      "periods": {
+        "first": 1697137200,
+        "second": 1697140800
+      },
+      "venue": {
+        "id": 16,
+        "name": "Stade Mohamed-Hamlaoui",
+        "city": "Constantine"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859238,
+      "referee": "Ibrahim Mutaz",
+      "timezone": "UTC",
+      "date": "2023-09-10T16:00:00+00:00",
+      "timestamp": 1694361600,
+      "periods": {
+        "first": 1694361600,
+        "second": 1694365200
+      },
+      "venue": {
+        "id": 1563,
+        "name": "Stade de Kégué",
+        "city": "Lomé"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 6",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1534,
+        "name": "Togo",
+        "logo": "https://media.api-sports.io/football/teams/1534.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859213,
+      "referee": "H. Guirat",
+      "timezone": "UTC",
+      "date": "2023-06-18T16:00:00+00:00",
+      "timestamp": 1687104000,
+      "periods": {
+        "first": 1687104000,
+        "second": 1687107600
+      },
+      "venue": {
+        "id": 314,
+        "name": "Estádio Nacional de Cabo Verde",
+        "city": "Praia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 5",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1502,
+        "name": "Burkina Faso",
+        "logo": "https://media.api-sports.io/football/teams/1502.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1028636,
+      "referee": "M. Kéïta",
+      "timezone": "UTC",
+      "date": "2023-06-12T19:00:00+00:00",
+      "timestamp": 1686596400,
+      "periods": {
+        "first": 1686596400,
+        "second": 1686600000
+      },
+      "venue": {
+        "id": 1103,
+        "name": "Stade Prince Moulay Abdallah",
+        "city": "Rabat"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 31,
+        "name": "Morocco",
+        "logo": "https://media.api-sports.io/football/teams/31.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859190,
+      "referee": "J. Ishimwe",
+      "timezone": "UTC",
+      "date": "2023-03-28T13:00:00+00:00",
+      "timestamp": 1680008400,
+      "periods": {
+        "first": 1680008400,
+        "second": 1680012000
+      },
+      "venue": {
+        "id": 12715,
+        "name": "Mbombela Stadium",
+        "city": "Nelspruit"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2995,
+        "name": "Eswatini",
+        "logo": "https://media.api-sports.io/football/teams/2995.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859166,
+      "referee": "C. Bulu",
+      "timezone": "UTC",
+      "date": "2023-03-24T16:00:00+00:00",
+      "timestamp": 1679673600,
+      "periods": {
+        "first": 1679673600,
+        "second": 1679677200
+      },
+      "venue": {
+        "id": 314,
+        "name": "Estádio Nacional de Cabo Verde",
+        "city": "Praia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2995,
+        "name": "Eswatini",
+        "logo": "https://media.api-sports.io/football/teams/2995.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 945819,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-09-23T15:30:00+00:00",
+      "timestamp": 1663947000,
+      "periods": {
+        "first": 1663947000,
+        "second": 1663950600
+      },
+      "venue": {
+        "id": null,
+        "name": "Stād al-Bahrayn al-Watanī",
+        "city": "Riffa"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1547,
+        "name": "Bahrain",
+        "logo": "https://media.api-sports.io/football/teams/1547.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859142,
+      "referee": "M. Malki",
+      "timezone": "UTC",
+      "date": "2022-06-07T16:00:00+00:00",
+      "timestamp": 1654617600,
+      "periods": {
+        "first": 1654617600,
+        "second": 1654621200
+      },
+      "venue": {
+        "id": 1107,
+        "name": "Stade de Marrakech",
+        "city": "Marrakech"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1534,
+        "name": "Togo",
+        "logo": "https://media.api-sports.io/football/teams/1534.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859117,
+      "referee": "D. Laryea",
+      "timezone": "UTC",
+      "date": "2022-06-03T19:00:00+00:00",
+      "timestamp": 1654282800,
+      "periods": {
+        "first": 1654282800,
+        "second": 1654286400
+      },
+      "venue": {
+        "id": 1107,
+        "name": "Stade de Marrakech",
+        "city": "Marrakech"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1502,
+        "name": "Burkina Faso",
+        "logo": "https://media.api-sports.io/football/teams/1502.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 851151,
+      "referee": "Guillermo Cuadra",
+      "timezone": "UTC",
+      "date": "2022-03-28T15:00:00+00:00",
+      "timestamp": 1648479600,
+      "periods": {
+        "first": 1648479600,
+        "second": 1648483200
+      },
+      "venue": {
+        "id": null,
+        "name": "Pinatar Arena Football Center",
+        "city": "San Pedro del Pinatar"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1115,
+        "name": "San Marino",
+        "logo": "https://media.api-sports.io/football/teams/1115.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 832031,
+      "referee": "D. Bel",
+      "timezone": "UTC",
+      "date": "2022-03-25T16:00:00+00:00",
+      "timestamp": 1648224000,
+      "periods": {
+        "first": 1648224000,
+        "second": 1648227600
+      },
+      "venue": {
+        "id": null,
+        "name": "Pinatar Arena Football Center",
+        "city": "San Pedro del Pinatar"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1107,
+        "name": "Liechtenstein",
+        "logo": "https://media.api-sports.io/football/teams/1107.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 6
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 4
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 6
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 826690,
+      "referee": "L. Benbraham",
+      "timezone": "UTC",
+      "date": "2022-01-25T16:00:00+00:00",
+      "timestamp": 1643126400,
+      "periods": {
+        "first": 1643126400,
+        "second": 1643130000
+      },
+      "venue": {
+        "id": 4074,
+        "name": "Stade Omnisports de Bafoussam",
+        "city": "Bafoussam"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Round of 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 13,
+        "name": "Senegal",
+        "logo": "https://media.api-sports.io/football/teams/13.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 819021,
+      "referee": "S. Selmi",
+      "timezone": "UTC",
+      "date": "2022-01-17T16:00:00+00:00",
+      "timestamp": 1642435200,
+      "periods": {
+        "first": 1642435200,
+        "second": 1642438800
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Omnisport Paul Biya",
+        "city": "Yaoundé"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1530,
+        "name": "Cameroon",
+        "logo": "https://media.api-sports.io/football/teams/1530.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 819010,
+      "referee": "Amin Omar",
+      "timezone": "UTC",
+      "date": "2022-01-13T19:00:00+00:00",
+      "timestamp": 1642100400,
+      "periods": {
+        "first": 1642100400,
+        "second": 1642104000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Omnisport Paul Biya",
+        "city": "Yaoundé"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1502,
+        "name": "Burkina Faso",
+        "logo": "https://media.api-sports.io/football/teams/1502.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 818998,
+      "referee": "Hélder Martins de Carvalho",
+      "timezone": "UTC",
+      "date": "2022-01-09T19:00:00+00:00",
+      "timestamp": 1641754800,
+      "periods": {
+        "first": 1641754800,
+        "second": 1641758400
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Omnisport Paul Biya",
+        "city": "Yaoundé"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1506,
+        "name": "Ethiopia",
+        "logo": "https://media.api-sports.io/football/teams/1506.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701135,
+      "referee": "M. Ghorbal",
+      "timezone": "UTC",
+      "date": "2021-11-16T16:00:00+00:00",
+      "timestamp": 1637078400,
+      "periods": {
+        "first": 1637078400,
+        "second": 1637082000
+      },
+      "venue": {
+        "id": 3921,
+        "name": "Teslim Balogun Stadium",
+        "city": "Lagos"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group C - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 19,
+        "name": "Nigeria",
+        "logo": "https://media.api-sports.io/football/teams/19.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701116,
+      "referee": "D. Laryea Nii Ayi",
+      "timezone": "UTC",
+      "date": "2021-11-13T16:00:00+00:00",
+      "timestamp": 1636819200,
+      "periods": {
+        "first": 1636819200,
+        "second": 1636822800
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio Municipal Adérito Sena",
+        "city": "Mindelo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group C - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1527,
+        "name": "Central African Republic",
+        "logo": "https://media.api-sports.io/football/teams/1527.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701096,
+      "referee": "M. Moussa",
+      "timezone": "UTC",
+      "date": "2021-10-10T16:00:00+00:00",
+      "timestamp": 1633881600,
+      "periods": {
+        "first": 1633881600,
+        "second": 1633885200
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio Municipal Adérito Sena",
+        "city": "Mindelo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group C - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1525,
+        "name": "Liberia",
+        "logo": "https://media.api-sports.io/football/teams/1525.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701076,
+      "referee": "J. Ouattara",
+      "timezone": "UTC",
+      "date": "2021-10-07T13:00:00+00:00",
+      "timestamp": 1633611600,
+      "periods": {
+        "first": 1633611600,
+        "second": 1633615200
+      },
+      "venue": {
+        "id": 759,
+        "name": "Ohene Djan Sports Stadium",
+        "city": "Accra"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group C - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1525,
+        "name": "Liberia",
+        "logo": "https://media.api-sports.io/football/teams/1525.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701055,
+      "referee": "S. Guezzaz",
+      "timezone": "UTC",
+      "date": "2021-09-07T16:00:00+00:00",
+      "timestamp": 1631030400,
+      "periods": {
+        "first": 1631030400,
+        "second": 1631034000
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio Municipal Adérito Sena",
+        "city": "Mindelo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group C - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      },
+      "away": {
+        "id": 19,
+        "name": "Nigeria",
+        "logo": "https://media.api-sports.io/football/teams/19.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 701035,
+      "referee": "K. Waweru",
+      "timezone": "UTC",
+      "date": "2021-09-01T13:00:00+00:00",
+      "timestamp": 1630501200,
+      "periods": {
+        "first": 1630501200,
+        "second": 1630504800
+      },
+      "venue": {
+        "id": 4077,
+        "name": "Stade de la Réunification",
+        "city": "Douala"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group C - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1527,
+        "name": "Central African Republic",
+        "logo": "https://media.api-sports.io/football/teams/1527.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 705155,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2021-06-11T19:00:00+00:00",
+      "timestamp": 1623438000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 786,
+        "name": "Estádio Nacional 24 de Setembro",
+        "city": "Bissau"
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1513,
+        "name": "Guinea-Bissau",
+        "logo": "https://media.api-sports.io/football/teams/1513.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 705137,
+      "referee": "M. Jallow",
+      "timezone": "UTC",
+      "date": "2021-06-08T19:00:00+00:00",
+      "timestamp": 1623178800,
+      "periods": {
+        "first": 1623178800,
+        "second": 1623182400
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Lat Dior",
+        "city": "Thiès"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 13,
+        "name": "Senegal",
+        "logo": "https://media.api-sports.io/football/teams/13.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257355,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2021-03-30T19:00:00+00:00",
+      "timestamp": 1617130800,
+      "periods": {
+        "first": 1617130800,
+        "second": 1617134400
+      },
+      "venue": {
+        "id": 1113,
+        "name": "Estádio Nacional do Zimpeto",
+        "city": "Maputo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1512,
+        "name": "Mozambique",
+        "logo": "https://media.api-sports.io/football/teams/1512.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257328,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2021-03-26T16:00:00+00:00",
+      "timestamp": 1616774400,
+      "periods": {
+        "first": 1616774400,
+        "second": 1616778000
+      },
+      "venue": {
+        "id": 314,
+        "name": "Estádio Nacional de Cabo Verde",
+        "city": "Praia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1530,
+        "name": "Cameroon",
+        "logo": "https://media.api-sports.io/football/teams/1530.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257305,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-11-17T13:00:00+00:00",
+      "timestamp": 1605618000,
+      "periods": {
+        "first": 1605618000,
+        "second": 1605621600
+      },
+      "venue": {
+        "id": 4012,
+        "name": "Stade Régional de Nyamirambo",
+        "city": "Kigali"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1514,
+        "name": "Rwanda",
+        "logo": "https://media.api-sports.io/football/teams/1514.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257281,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-11-12T16:00:00+00:00",
+      "timestamp": 1605196800,
+      "periods": {
+        "first": 1605196800,
+        "second": 1605200400
+      },
+      "venue": {
+        "id": 314,
+        "name": "Estádio Nacional de Cabo Verde",
+        "city": "Praia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1514,
+        "name": "Rwanda",
+        "logo": "https://media.api-sports.io/football/teams/1514.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 634738,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-10-10T14:00:00+00:00",
+      "timestamp": 1602338400,
+      "periods": {
+        "first": 1602338400,
+        "second": 1602342000
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio Municipal de Albufeira",
+        "city": "Albufeira"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1509,
+        "name": "Guinea",
+        "logo": "https://media.api-sports.io/football/teams/1509.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 598358,
+      "referee": "José Munuera",
+      "timezone": "UTC",
+      "date": "2020-10-07T18:45:00+00:00",
+      "timestamp": 1602096300,
+      "periods": {
+        "first": 1602096300,
+        "second": 1602099900
+      },
+      "venue": {
+        "id": 2618,
+        "name": "Estadi Nacional",
+        "city": "Andorra la Vella"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1110,
+        "name": "andorra",
+        "logo": "https://media.api-sports.io/football/teams/1110.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257264,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-11-18T16:00:00+00:00",
+      "timestamp": 1574092800,
+      "periods": {
+        "first": 1574092800,
+        "second": 1574096400
+      },
+      "venue": {
+        "id": 314,
+        "name": "Estádio Nacional de Cabo Verde",
+        "city": "Praia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1512,
+        "name": "Mozambique",
+        "logo": "https://media.api-sports.io/football/teams/1512.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257230,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-11-13T16:00:00+00:00",
+      "timestamp": 1573660800,
+      "periods": {
+        "first": 1573660800,
+        "second": 1573664400
+      },
+      "venue": {
+        "id": 308,
+        "name": "Stade Omnisport Ahmadou Ahidjo",
+        "city": "Yaoundé"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1530,
+        "name": "Cameroon",
+        "logo": "https://media.api-sports.io/football/teams/1530.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 246989,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-10-10T14:00:00+00:00",
+      "timestamp": 1570716000,
+      "periods": {
+        "first": 1570716000,
+        "second": 1570719600
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Parsemain (Fos-sur-Mer)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1534,
+        "name": "Togo",
+        "logo": "https://media.api-sports.io/football/teams/1534.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 254637,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-08-03T17:00:00+00:00",
+      "timestamp": 1564851600,
+      "periods": {
+        "first": 1564851600,
+        "second": 1564855200
+      },
+      "venue": {
+        "id": 1068,
+        "name": "Stade Olympique de Nouakchott",
+        "city": "Nouakchott"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/19.png",
+      "flag": null,
+      "season": 2020,
+      "round": "1st Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1491,
+        "name": "Mauritania",
+        "logo": "https://media.api-sports.io/football/teams/1491.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 254636,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-07-27T17:30:00+00:00",
+      "timestamp": 1564248600,
+      "periods": {
+        "first": 1564248600,
+        "second": 1564252200
+      },
+      "venue": {
+        "id": 314,
+        "name": "Estádio Nacional de Cabo Verde",
+        "city": "Praia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/19.png",
+      "flag": null,
+      "season": 2020,
+      "round": "1st Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1491,
+        "name": "Mauritania",
+        "logo": "https://media.api-sports.io/football/teams/1491.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 118075,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-03-24T15:00:00+00:00",
+      "timestamp": 1553439600,
+      "periods": {
+        "first": 1553439600,
+        "second": 1553443200
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio Nacional de Cabo Verde (Praia)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1518,
+        "name": "Lesotho",
+        "logo": "https://media.api-sports.io/football/teams/1518.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 118035,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-11-17T13:00:00+00:00",
+      "timestamp": 1542459600,
+      "periods": {
+        "first": 1542459600,
+        "second": 1542463200
+      },
+      "venue": {
+        "id": null,
+        "name": "Mandela National Stadium (Kampala)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1519,
+        "name": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/1519.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 118017,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-10-16T14:00:00+00:00",
+      "timestamp": 1539698400,
+      "periods": {
+        "first": 1539698400,
+        "second": 1539702000
+      },
+      "venue": {
+        "id": null,
+        "name": "Benjamin Mkapa National Stadium (Dar-es-Salaam)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1489,
+        "name": "Tanzania",
+        "logo": "https://media.api-sports.io/football/teams/1489.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 117992,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-10-12T17:00:00+00:00",
+      "timestamp": 1539363600,
+      "periods": {
+        "first": 1539363600,
+        "second": 1539367200
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio Nacional de Cabo Verde (Praia)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1489,
+        "name": "Tanzania",
+        "logo": "https://media.api-sports.io/football/teams/1489.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 117974,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-09-09T13:00:00+00:00",
+      "timestamp": 1536498000,
+      "periods": {
+        "first": 1536498000,
+        "second": 1536501600
+      },
+      "venue": {
+        "id": null,
+        "name": "Setsoto Stadium (Maseru)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1518,
+        "name": "Lesotho",
+        "logo": "https://media.api-sports.io/football/teams/1518.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225616,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-06-03T15:00:00+00:00",
+      "timestamp": 1528038000,
+      "periods": {
+        "first": 1528038000,
+        "second": 1528041600
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio Municipal José Martins Vieira (Almada)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1110,
+        "name": "andorra",
+        "logo": "https://media.api-sports.io/football/teams/1110.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": 2,
+        "away": 4
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225615,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-06-01T21:15:00+00:00",
+      "timestamp": 1527887700,
+      "periods": {
+        "first": 1527887700,
+        "second": 1527891300
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade du 5 Juillet 1962 (al-Jazā’ir (Algiers))",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256846,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-11-14T19:30:00+00:00",
+      "timestamp": 1510687800,
+      "periods": {
+        "first": 1510687800,
+        "second": 1510691400
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade du 4 Août (Ouagadougou)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 6",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1502,
+        "name": "Burkina Faso",
+        "logo": "https://media.api-sports.io/football/teams/1502.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256834,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-10-07T17:30:00+00:00",
+      "timestamp": 1507397400,
+      "periods": {
+        "first": 1507397400,
+        "second": 1507401000
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio Nacional de Cabo Verde (Praia)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 5",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      },
+      "away": {
+        "id": 13,
+        "name": "Senegal",
+        "logo": "https://media.api-sports.io/football/teams/13.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256820,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-09-05T17:00:00+00:00",
+      "timestamp": 1504630800,
+      "periods": {
+        "first": 1504630800,
+        "second": 1504634400
+      },
+      "venue": {
+        "id": null,
+        "name": "Moses Mabhida Stadium (Durban)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1531,
+        "name": "South Africa",
+        "logo": "https://media.api-sports.io/football/teams/1531.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256811,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-09-01T18:30:00+00:00",
+      "timestamp": 1504290600,
+      "periods": {
+        "first": 1504290600,
+        "second": 1504294200
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio Nacional de Cabo Verde (Praia)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1531,
+        "name": "South Africa",
+        "logo": "https://media.api-sports.io/football/teams/1531.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 117954,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2017-06-11T17:30:00+00:00",
+      "timestamp": 1497202200,
+      "periods": {
+        "first": 1497202200,
+        "second": 1497205800
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio da Várzea (Praia)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1519,
+        "name": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/1519.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256801,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2016-11-12T17:00:00+00:00",
+      "timestamp": 1478970000,
+      "periods": {
+        "first": 1478970000,
+        "second": 1478973600
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio Nacional de Cabo Verde (Praia)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1502,
+        "name": "Burkina Faso",
+        "logo": "https://media.api-sports.io/football/teams/1502.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256792,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2016-10-08T20:00:00+00:00",
+      "timestamp": 1475956800,
+      "periods": {
+        "first": 1475956800,
+        "second": 1475960400
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Léopold Sédar Senghor (Dakar)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 13,
+        "name": "Senegal",
+        "logo": "https://media.api-sports.io/football/teams/13.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256866,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2015-11-17T19:00:00+00:00",
+      "timestamp": 1447786800,
+      "periods": {
+        "first": 1447786800,
+        "second": 1447790400
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio Nacional de Cabo Verde (Praia)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1511,
+        "name": "Kenya",
+        "logo": "https://media.api-sports.io/football/teams/1511.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256865,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2015-11-13T13:00:00+00:00",
+      "timestamp": 1447419600,
+      "periods": {
+        "first": 1447419600,
+        "second": 1447423200
+      },
+      "venue": {
+        "id": null,
+        "name": "Nairobi City Stadium (Nairobi)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2018,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1511,
+        "name": "Kenya",
+        "logo": "https://media.api-sports.io/football/teams/1511.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]

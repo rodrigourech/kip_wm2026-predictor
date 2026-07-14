@@ -1,0 +1,164 @@
+[
+  {
+    "team": {
+      "id": 25,
+      "name": "Germany",
+      "logo": "https://media.api-sports.io/football/teams/25.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 12
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 6
+      },
+      {
+        "type": "Total Shots",
+        "value": 26
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 8
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 21
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 5
+      },
+      {
+        "type": "Fouls",
+        "value": 18
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 8
+      },
+      {
+        "type": "Offsides",
+        "value": 0
+      },
+      {
+        "type": "Ball Possession",
+        "value": "65%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": null
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 1
+      },
+      {
+        "type": "Total passes",
+        "value": 637
+      },
+      {
+        "type": "Passes accurate",
+        "value": 554
+      },
+      {
+        "type": "Passes %",
+        "value": "87%"
+      },
+      {
+        "type": "expected_goals",
+        "value": "4.22"
+      },
+      {
+        "type": "goals_prevented",
+        "value": "-1.76"
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 5530,
+      "name": "Curaçao",
+      "logo": "https://media.api-sports.io/football/teams/5530.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 2
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 6
+      },
+      {
+        "type": "Total Shots",
+        "value": 8
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 0
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 4
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 4
+      },
+      {
+        "type": "Fouls",
+        "value": 11
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 1
+      },
+      {
+        "type": "Offsides",
+        "value": 1
+      },
+      {
+        "type": "Ball Possession",
+        "value": "35%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": null
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 4
+      },
+      {
+        "type": "Total passes",
+        "value": 343
+      },
+      {
+        "type": "Passes accurate",
+        "value": 282
+      },
+      {
+        "type": "Passes %",
+        "value": "82%"
+      },
+      {
+        "type": "expected_goals",
+        "value": "0.41"
+      },
+      {
+        "type": "goals_prevented",
+        "value": "-1.76"
+      }
+    ]
+  }
+]

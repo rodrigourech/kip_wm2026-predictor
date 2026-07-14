@@ -1,0 +1,148 @@
+[
+  {
+    "team": {
+      "id": 4672,
+      "name": "Honduras",
+      "logo": "https://media.api-sports.io/football/teams/4672.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 3
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 8
+      },
+      {
+        "type": "Total Shots",
+        "value": 14
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 3
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 8
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 6
+      },
+      {
+        "type": "Fouls",
+        "value": 16
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 7
+      },
+      {
+        "type": "Offsides",
+        "value": 1
+      },
+      {
+        "type": "Ball Possession",
+        "value": "59%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 3
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 2
+      },
+      {
+        "type": "Total passes",
+        "value": 437
+      },
+      {
+        "type": "Passes accurate",
+        "value": 350
+      },
+      {
+        "type": "Passes %",
+        "value": "80%"
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 5529,
+      "name": "Canada",
+      "logo": "https://media.api-sports.io/football/teams/5529.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 3
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 3
+      },
+      {
+        "type": "Total Shots",
+        "value": 7
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 1
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 6
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 1
+      },
+      {
+        "type": "Fouls",
+        "value": 15
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 3
+      },
+      {
+        "type": "Offsides",
+        "value": 1
+      },
+      {
+        "type": "Ball Possession",
+        "value": "41%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 3
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 3
+      },
+      {
+        "type": "Total passes",
+        "value": 317
+      },
+      {
+        "type": "Passes accurate",
+        "value": 220
+      },
+      {
+        "type": "Passes %",
+        "value": "69%"
+      }
+    ]
+  }
+]

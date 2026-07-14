@@ -1,0 +1,8262 @@
+[
+  {
+    "fixture": {
+      "id": 1489417,
+      "referee": "Ismail Elfath, USA",
+      "timezone": "UTC",
+      "date": "2026-06-27T00:00:00+00:00",
+      "timestamp": 1782518400,
+      "periods": {
+        "first": 1782518400,
+        "second": 1782522000
+      },
+      "venue": {
+        "id": 1076,
+        "name": "Estadio Akron",
+        "city": "Zapopan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      },
+      "away": {
+        "id": 9,
+        "name": "Spain",
+        "logo": "https://media.api-sports.io/football/teams/9.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489398,
+      "referee": "Espen Eskas, Norway",
+      "timezone": "UTC",
+      "date": "2026-06-21T22:00:00+00:00",
+      "timestamp": 1782079200,
+      "periods": {
+        "first": 1782079200,
+        "second": 1782082800
+      },
+      "venue": {
+        "id": null,
+        "name": "Hard Rock Stadium",
+        "city": "Miami Gardens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489379,
+      "referee": "Maurizio Mariani, Italy",
+      "timezone": "UTC",
+      "date": "2026-06-15T22:00:00+00:00",
+      "timestamp": 1781560800,
+      "periods": {
+        "first": 1781560800,
+        "second": 1781564400
+      },
+      "venue": {
+        "id": null,
+        "name": "Hard Rock Stadium",
+        "city": "Miami Gardens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 23,
+        "name": "Saudi Arabia",
+        "logo": "https://media.api-sports.io/football/teams/23.png",
+        "winner": null
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1528280,
+      "referee": "L. Pairetto",
+      "timezone": "UTC",
+      "date": "2026-03-31T18:30:00+00:00",
+      "timestamp": 1774981800,
+      "periods": {
+        "first": 1774981800,
+        "second": 1774985400
+      },
+      "venue": {
+        "id": null,
+        "name": "Allianz Stadium",
+        "city": "Turin"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": null
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1502470,
+      "referee": "Sven Jablonski, Germany",
+      "timezone": "UTC",
+      "date": "2026-03-27T19:45:00+00:00",
+      "timestamp": 1774640700,
+      "periods": {
+        "first": 1774640700,
+        "second": 1774644300
+      },
+      "venue": {
+        "id": null,
+        "name": "Wembley Stadium",
+        "city": "London"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 10,
+        "name": "England",
+        "logo": "https://media.api-sports.io/football/teams/10.png",
+        "winner": null
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1457379,
+      "referee": "Julio Cesar de Jesus Luna Guzman, Guatemala",
+      "timezone": "UTC",
+      "date": "2025-11-19T00:00:00+00:00",
+      "timestamp": 1763510400,
+      "periods": {
+        "first": 1763510400,
+        "second": 1763514000
+      },
+      "venue": {
+        "id": null,
+        "name": "Raymond James Stadium",
+        "city": "Tampa"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 1
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2384,
+        "name": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2384.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 4,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1469292,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-11-16T01:00:00+00:00",
+      "timestamp": 1763254800,
+      "periods": {
+        "first": 1763254800,
+        "second": 1763258400
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Corona",
+        "city": "Torreon"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": null
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1466848,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-10-13T12:45:00+00:00",
+      "timestamp": 1760359500,
+      "periods": {
+        "first": 1760359500,
+        "second": 1760363100
+      },
+      "venue": {
+        "id": null,
+        "name": "Bukit Jalil National Stadium",
+        "city": "Kuala Lumpur"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1568,
+        "name": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/1568.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1466665,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-10-10T12:45:00+00:00",
+      "timestamp": 1760100300,
+      "periods": {
+        "first": 1760100300,
+        "second": 1760103900
+      },
+      "venue": {
+        "id": null,
+        "name": "Bukit Jalil National Stadium",
+        "city": "Kuala Lumpur"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5532,
+        "name": "Dominican Republic",
+        "logo": "https://media.api-sports.io/football/teams/5532.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100321,
+      "referee": "Anderson Daronco, Brazil",
+      "timezone": "UTC",
+      "date": "2025-09-09T23:30:00+00:00",
+      "timestamp": 1757460600,
+      "periods": {
+        "first": 1757460600,
+        "second": 1757464200
+      },
+      "venue": {
+        "id": 316,
+        "name": "Estadio Nacional Julio Martínez Prádanos",
+        "city": "Santiago de Chile"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2383,
+        "name": "Chile",
+        "logo": "https://media.api-sports.io/football/teams/2383.png",
+        "winner": null
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100314,
+      "referee": "Facundo Raul Tello Figueroa, Argentina",
+      "timezone": "UTC",
+      "date": "2025-09-04T23:30:00+00:00",
+      "timestamp": 1757028600,
+      "periods": {
+        "first": 1757028600,
+        "second": 1757032200
+      },
+      "venue": {
+        "id": 1624,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 17",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100309,
+      "referee": "Raphael Claus, Brazil",
+      "timezone": "UTC",
+      "date": "2025-06-10T23:00:00+00:00",
+      "timestamp": 1749596400,
+      "periods": {
+        "first": 1749596400,
+        "second": 1749600000
+      },
+      "venue": {
+        "id": 1624,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2379,
+        "name": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2379.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100304,
+      "referee": "D. Herrera",
+      "timezone": "UTC",
+      "date": "2025-06-05T23:00:00+00:00",
+      "timestamp": 1749164400,
+      "periods": {
+        "first": 1749164400,
+        "second": 1749168000
+      },
+      "venue": {
+        "id": 20705,
+        "name": "Estadio Defensores del Chaco",
+        "city": "Asunción"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 15",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2380,
+        "name": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2380.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100298,
+      "referee": "A. Aragon",
+      "timezone": "UTC",
+      "date": "2025-03-25T20:00:00+00:00",
+      "timestamp": 1742932800,
+      "periods": {
+        "first": 1742932800,
+        "second": 1742936400
+      },
+      "venue": {
+        "id": 2487,
+        "name": "Estadio Municipal de El Alto",
+        "city": "El Alto"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 14",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2381,
+        "name": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/2381.png",
+        "winner": null
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100297,
+      "referee": "J. Benitez",
+      "timezone": "UTC",
+      "date": "2025-03-21T23:30:00+00:00",
+      "timestamp": 1742599800,
+      "periods": {
+        "first": 1742599800,
+        "second": 1742603400
+      },
+      "venue": {
+        "id": 1624,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 13",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      },
+      "away": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100292,
+      "referee": "P. Maza",
+      "timezone": "UTC",
+      "date": "2024-11-20T00:45:00+00:00",
+      "timestamp": 1732063500,
+      "periods": {
+        "first": 1732063500,
+        "second": 1732067100
+      },
+      "venue": {
+        "id": null,
+        "name": "Arena Fonte Nova",
+        "city": "Salvador"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 12",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 6,
+        "name": "Brazil",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "winner": null
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100284,
+      "referee": "K. Ortega",
+      "timezone": "UTC",
+      "date": "2024-11-16T00:00:00+00:00",
+      "timestamp": 1731715200,
+      "periods": {
+        "first": 1731715200,
+        "second": 1731718800
+      },
+      "venue": {
+        "id": 1624,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 14
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 8,
+        "name": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/8.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100278,
+      "referee": "C. Garay",
+      "timezone": "UTC",
+      "date": "2024-10-15T23:30:00+00:00",
+      "timestamp": 1729035000,
+      "periods": {
+        "first": 1729035000,
+        "second": 1729038600
+      },
+      "venue": {
+        "id": 1624,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100277,
+      "referee": "F. Tello",
+      "timezone": "UTC",
+      "date": "2024-10-12T01:30:00+00:00",
+      "timestamp": 1728696600,
+      "periods": {
+        "first": 1728696600,
+        "second": 1728700200
+      },
+      "venue": {
+        "id": 1228,
+        "name": "Estadio Nacional de Lima",
+        "city": "Lima"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100269,
+      "referee": "R. Claus",
+      "timezone": "UTC",
+      "date": "2024-09-10T22:00:00+00:00",
+      "timestamp": 1726005600,
+      "periods": {
+        "first": 1726092000,
+        "second": 1726095600
+      },
+      "venue": {
+        "id": 1660,
+        "name": "Estadio Monumental de Maturín",
+        "city": "Maturín"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2379,
+        "name": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2379.png",
+        "winner": null
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100264,
+      "referee": "D. Herrera",
+      "timezone": "UTC",
+      "date": "2024-09-06T23:30:00+00:00",
+      "timestamp": 1725665400,
+      "periods": {
+        "first": 1725665400,
+        "second": 1725669000
+      },
+      "venue": {
+        "id": 1624,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2380,
+        "name": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2380.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1261912,
+      "referee": "F. Hernández",
+      "timezone": "UTC",
+      "date": "2024-09-01T23:00:00+00:00",
+      "timestamp": 1725231600,
+      "periods": {
+        "first": 1725231600,
+        "second": 1725235200
+      },
+      "venue": {
+        "id": 20764,
+        "name": "Chase Stadium",
+        "city": "Fort Lauderdale, Florida"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5161,
+        "name": "Guatemala",
+        "logo": "https://media.api-sports.io/football/teams/5161.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1234029,
+      "referee": "A. Herrera",
+      "timezone": "UTC",
+      "date": "2024-07-14T00:00:00+00:00",
+      "timestamp": 1720915200,
+      "periods": {
+        "first": 1720915200,
+        "second": 1720918800
+      },
+      "venue": {
+        "id": 18659,
+        "name": "Bank of America Stadium",
+        "city": "Charlotte, North Carolina"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2024,
+      "round": "3rd Place Final",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty": {
+        "home": 3,
+        "away": 4
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1227538,
+      "referee": "C. Ramos",
+      "timezone": "UTC",
+      "date": "2024-07-11T00:00:00+00:00",
+      "timestamp": 1720656000,
+      "periods": {
+        "first": 1720656000,
+        "second": 1720659600
+      },
+      "venue": {
+        "id": 18659,
+        "name": "Bank of America Stadium",
+        "city": "Charlotte, North Carolina"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Semi-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      },
+      "away": {
+        "id": 8,
+        "name": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/8.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1222460,
+      "referee": "D. Herrera",
+      "timezone": "UTC",
+      "date": "2024-07-07T01:00:00+00:00",
+      "timestamp": 1720314000,
+      "periods": {
+        "first": 1720314000,
+        "second": 1720317600
+      },
+      "venue": {
+        "id": null,
+        "name": "Allegiant Stadium",
+        "city": "Las Vegas, Nevada"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Quarter-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 6,
+        "name": "Brazil",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty": {
+        "home": 4,
+        "away": 2
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1146317,
+      "referee": "K. Ortega",
+      "timezone": "UTC",
+      "date": "2024-07-02T01:00:00+00:00",
+      "timestamp": 1719882000,
+      "periods": {
+        "first": 1719882000,
+        "second": 1719885600
+      },
+      "venue": {
+        "id": null,
+        "name": "Arrowhead Stadium",
+        "city": "Kansas City, Missouri"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2384,
+        "name": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2384.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1146311,
+      "referee": "J. Benítez",
+      "timezone": "UTC",
+      "date": "2024-06-28T01:00:00+00:00",
+      "timestamp": 1719536400,
+      "periods": {
+        "first": 1719536400,
+        "second": 1719540000
+      },
+      "venue": {
+        "id": null,
+        "name": "MetLife Stadium",
+        "city": "East Rutherford, New Jersey"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2381,
+        "name": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/2381.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1146305,
+      "referee": "P. Maza",
+      "timezone": "UTC",
+      "date": "2024-06-24T01:00:00+00:00",
+      "timestamp": 1719190800,
+      "periods": {
+        "first": 1719190800,
+        "second": 1719194400
+      },
+      "venue": {
+        "id": null,
+        "name": "Hard Rock Stadium",
+        "city": "Miami Gardens, Florida"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 11,
+        "name": "Panama",
+        "logo": "https://media.api-sports.io/football/teams/11.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1155281,
+      "referee": "O. Nation",
+      "timezone": "UTC",
+      "date": "2024-06-06T01:00:00+00:00",
+      "timestamp": 1717635600,
+      "periods": {
+        "first": 1717635600,
+        "second": 1717639200
+      },
+      "venue": {
+        "id": null,
+        "name": "Empower Field at Mile High",
+        "city": "Denver, Colorado"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1199025,
+      "referee": "O. Barrera",
+      "timezone": "UTC",
+      "date": "2024-06-01T02:00:00+00:00",
+      "timestamp": 1717207200,
+      "periods": {
+        "first": 1717207200,
+        "second": 1717210800
+      },
+      "venue": {
+        "id": 392,
+        "name": "Estadio Nacional de Costa Rica",
+        "city": "San José"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 29,
+        "name": "Costa Rica",
+        "logo": "https://media.api-sports.io/football/teams/29.png",
+        "winner": null
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1180735,
+      "referee": "R. Buquet",
+      "timezone": "UTC",
+      "date": "2024-03-26T19:30:00+00:00",
+      "timestamp": 1711481400,
+      "periods": {
+        "first": 1711481400,
+        "second": 1711485000
+      },
+      "venue": {
+        "id": 654,
+        "name": "Stade Bollaert-Delelis",
+        "city": "Lens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1189570,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-03-23T19:00:00+00:00",
+      "timestamp": 1711220400,
+      "periods": {
+        "first": 1711220400,
+        "second": 1711224000
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "World: Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      },
+      "away": {
+        "id": 23263,
+        "name": "Basque Country",
+        "logo": "https://media.api-sports.io/football/teams/23263.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100261,
+      "referee": "K. Ortega",
+      "timezone": "UTC",
+      "date": "2023-11-21T23:30:00+00:00",
+      "timestamp": 1700609400,
+      "periods": {
+        "first": 1700609400,
+        "second": 1700613000
+      },
+      "venue": {
+        "id": 1624,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2381,
+        "name": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/2381.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100256,
+      "referee": "W. Roldan",
+      "timezone": "UTC",
+      "date": "2023-11-17T00:00:00+00:00",
+      "timestamp": 1700179200,
+      "periods": {
+        "first": 1700179200,
+        "second": 1700182800
+      },
+      "venue": {
+        "id": 46,
+        "name": "Estadio Alberto J. Armando",
+        "city": "Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100251,
+      "referee": "A. Herrera",
+      "timezone": "UTC",
+      "date": "2023-10-18T00:00:00+00:00",
+      "timestamp": 1697587200,
+      "periods": {
+        "first": 1697587200,
+        "second": 1697590800
+      },
+      "venue": {
+        "id": 1624,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 6,
+        "name": "Brazil",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100245,
+      "referee": "P. Maza",
+      "timezone": "UTC",
+      "date": "2023-10-12T20:30:00+00:00",
+      "timestamp": 1697142600,
+      "periods": {
+        "first": 1697142600,
+        "second": 1697146200
+      },
+      "venue": {
+        "id": 366,
+        "name": "Estadio Metropolitano Roberto Meléndez",
+        "city": "Barranquilla"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 8,
+        "name": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/8.png",
+        "winner": null
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100240,
+      "referee": "W. Sampaio",
+      "timezone": "UTC",
+      "date": "2023-09-12T21:00:00+00:00",
+      "timestamp": 1694552400,
+      "periods": {
+        "first": 1694552400,
+        "second": 1694556000
+      },
+      "venue": {
+        "id": 471,
+        "name": "Estadio Rodrigo Paz Delgado",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1100233,
+      "referee": "D. Herrera",
+      "timezone": "UTC",
+      "date": "2023-09-08T23:00:00+00:00",
+      "timestamp": 1694214000,
+      "periods": {
+        "first": 1694214000,
+        "second": 1694217600
+      },
+      "venue": {
+        "id": 1624,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2383,
+        "name": "Chile",
+        "logo": "https://media.api-sports.io/football/teams/2383.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1028659,
+      "referee": "Braulio da Silva Machado",
+      "timezone": "UTC",
+      "date": "2023-06-20T23:30:00+00:00",
+      "timestamp": 1687303800,
+      "periods": {
+        "first": 1687303800,
+        "second": 1687307400
+      },
+      "venue": {
+        "id": 1624,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2388,
+        "name": "Cuba",
+        "logo": "https://media.api-sports.io/football/teams/2388.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1028640,
+      "referee": "Wagner do Nascimento Magalhaes",
+      "timezone": "UTC",
+      "date": "2023-06-14T23:30:00+00:00",
+      "timestamp": 1686785400,
+      "periods": {
+        "first": 1686785400,
+        "second": 1686789000
+      },
+      "venue": {
+        "id": 1624,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5164,
+        "name": "Nicaragua",
+        "logo": "https://media.api-sports.io/football/teams/5164.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1012337,
+      "referee": "Y. Araki",
+      "timezone": "UTC",
+      "date": "2023-03-28T11:00:00+00:00",
+      "timestamp": 1680001200,
+      "periods": {
+        "first": 1680001200,
+        "second": 1680004800
+      },
+      "venue": {
+        "id": 1002,
+        "name": "Seoul World Cup Stadium",
+        "city": "Seoul"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 17,
+        "name": "South Korea",
+        "logo": "https://media.api-sports.io/football/teams/17.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1012327,
+      "referee": "Ko Hyung-Jin",
+      "timezone": "UTC",
+      "date": "2023-03-24T10:30:00+00:00",
+      "timestamp": 1679653800,
+      "periods": {
+        "first": 1679653800,
+        "second": 1679657400
+      },
+      "venue": {
+        "id": null,
+        "name": "Japan National Stadium",
+        "city": "Tokyo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 12,
+        "name": "Japan",
+        "logo": "https://media.api-sports.io/football/teams/12.png",
+        "winner": null
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 855770,
+      "referee": "D. Siebert",
+      "timezone": "UTC",
+      "date": "2022-12-02T15:00:00+00:00",
+      "timestamp": 1669993200,
+      "periods": {
+        "first": 1669993200,
+        "second": 1669996800
+      },
+      "venue": {
+        "id": null,
+        "name": "Al Janoub Stadium",
+        "city": "Al Wakrah"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1504,
+        "name": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 855759,
+      "referee": "A. Faghani",
+      "timezone": "UTC",
+      "date": "2022-11-28T19:00:00+00:00",
+      "timestamp": 1669662000,
+      "periods": {
+        "first": 1669662000,
+        "second": 1669665600
+      },
+      "venue": {
+        "id": null,
+        "name": "Lusail Iconic Stadium",
+        "city": "Lusail"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 27,
+        "name": "Portugal",
+        "logo": "https://media.api-sports.io/football/teams/27.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 855744,
+      "referee": "C. Turpin",
+      "timezone": "UTC",
+      "date": "2022-11-24T13:00:00+00:00",
+      "timestamp": 1669294800,
+      "periods": {
+        "first": 1669294800,
+        "second": 1669298400
+      },
+      "venue": {
+        "id": null,
+        "name": "Education City Stadium",
+        "city": "Ar-Rayyan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      },
+      "away": {
+        "id": 17,
+        "name": "South Korea",
+        "logo": "https://media.api-sports.io/football/teams/17.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 942152,
+      "referee": "P. Kralovic",
+      "timezone": "UTC",
+      "date": "2022-09-27T16:00:00+00:00",
+      "timestamp": 1664294400,
+      "periods": {
+        "first": 1664294400,
+        "second": 1664298000
+      },
+      "venue": {
+        "id": 11914,
+        "name": "Štadión Tehelné pole",
+        "city": "Bratislava"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 942143,
+      "referee": "W. Altmann",
+      "timezone": "UTC",
+      "date": "2022-09-23T16:00:00+00:00",
+      "timestamp": 1663948800,
+      "periods": {
+        "first": 1663948800,
+        "second": 1663952400
+      },
+      "venue": {
+        "id": 149,
+        "name": "NV ARENA",
+        "city": "St. Pölten"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 22,
+        "name": "Iran",
+        "logo": "https://media.api-sports.io/football/teams/22.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 860358,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-06-11T20:00:00+00:00",
+      "timestamp": 1654977600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 1624,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2385,
+        "name": "Jamaica",
+        "logo": "https://media.api-sports.io/football/teams/2385.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 865799,
+      "referee": "C. Garay",
+      "timezone": "UTC",
+      "date": "2022-06-11T20:00:00+00:00",
+      "timestamp": 1654977600,
+      "periods": {
+        "first": 1654977600,
+        "second": 1654981200
+      },
+      "venue": {
+        "id": 1624,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 11,
+        "name": "Panama",
+        "logo": "https://media.api-sports.io/football/teams/11.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 860181,
+      "referee": "A. Escobedo",
+      "timezone": "UTC",
+      "date": "2022-06-05T21:00:00+00:00",
+      "timestamp": 1654462800,
+      "periods": {
+        "first": 1654462800,
+        "second": 1654466400
+      },
+      "venue": {
+        "id": 1615,
+        "name": "Children's Mercy Park",
+        "city": "Kansas City, Kansas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2384,
+        "name": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2384.png",
+        "winner": null
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 857608,
+      "referee": "J. Calderón",
+      "timezone": "UTC",
+      "date": "2022-06-03T02:00:00+00:00",
+      "timestamp": 1654221600,
+      "periods": {
+        "first": 1654221600,
+        "second": 1654225200
+      },
+      "venue": {
+        "id": null,
+        "name": "State Farm Stadium",
+        "city": "Glendale, Arizona"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293664,
+      "referee": "P. Loustau",
+      "timezone": "UTC",
+      "date": "2022-03-30T23:30:00+00:00",
+      "timestamp": 1648683000,
+      "periods": {
+        "first": 1648683000,
+        "second": 1648686600
+      },
+      "venue": {
+        "id": 345,
+        "name": "Estadio San Carlos de Apoquindo",
+        "city": "Santiago de Chile"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2383,
+        "name": "Chile",
+        "logo": "https://media.api-sports.io/football/teams/2383.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293656,
+      "referee": "Anderson Daronco",
+      "timezone": "UTC",
+      "date": "2022-03-24T23:30:00+00:00",
+      "timestamp": 1648164600,
+      "periods": {
+        "first": 1648164600,
+        "second": 1648168200
+      },
+      "venue": {
+        "id": 1624,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 17",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293654,
+      "referee": "Bruno Arleu de Araujo",
+      "timezone": "UTC",
+      "date": "2022-02-01T23:00:00+00:00",
+      "timestamp": 1643756400,
+      "periods": {
+        "first": 1643756400,
+        "second": 1643760000
+      },
+      "venue": {
+        "id": 1624,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2379,
+        "name": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2379.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293647,
+      "referee": "D. Herrera",
+      "timezone": "UTC",
+      "date": "2022-01-27T23:00:00+00:00",
+      "timestamp": 1643324400,
+      "periods": {
+        "first": 1643324400,
+        "second": 1643328000
+      },
+      "venue": {
+        "id": 1214,
+        "name": "Estadio General Pablo Rojas",
+        "city": "Asunción"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 15",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2380,
+        "name": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2380.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293642,
+      "referee": "Wilton Pereira Sampaio",
+      "timezone": "UTC",
+      "date": "2021-11-16T20:00:00+00:00",
+      "timestamp": 1637092800,
+      "periods": {
+        "first": 1637092800,
+        "second": 1637096400
+      },
+      "venue": {
+        "id": 198,
+        "name": "Estadio Hernando Siles",
+        "city": "La Paz"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 14",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2381,
+        "name": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/2381.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293636,
+      "referee": "A. Herrera",
+      "timezone": "UTC",
+      "date": "2021-11-12T23:00:00+00:00",
+      "timestamp": 1636758000,
+      "periods": {
+        "first": 1636758000,
+        "second": 1636761600
+      },
+      "venue": {
+        "id": 1640,
+        "name": "Estadio Campeón del Siglo",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 13",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      },
+      "away": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293632,
+      "referee": "F. Rapallini",
+      "timezone": "UTC",
+      "date": "2021-10-15T00:30:00+00:00",
+      "timestamp": 1634257800,
+      "periods": {
+        "first": 1634257800,
+        "second": 1634261400
+      },
+      "venue": {
+        "id": 10520,
+        "name": "Arena da Amazônia",
+        "city": "Manaus, Amazonas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 12",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 6,
+        "name": "Brazil",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293599,
+      "referee": "R. Tobar",
+      "timezone": "UTC",
+      "date": "2021-10-10T23:30:00+00:00",
+      "timestamp": 1633908600,
+      "periods": {
+        "first": 1633908600,
+        "second": 1633912200
+      },
+      "venue": {
+        "id": 31,
+        "name": "Estadio Monumental Antonio Vespucio Liberti",
+        "city": "Capital Federal, Ciudad de Buenos Aires"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293626,
+      "referee": "J. Valenzuela",
+      "timezone": "UTC",
+      "date": "2021-10-07T23:00:00+00:00",
+      "timestamp": 1633647600,
+      "periods": {
+        "first": 1633647600,
+        "second": 1633651200
+      },
+      "venue": {
+        "id": 1639,
+        "name": "Estadio Gran Parque Central",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      },
+      "away": {
+        "id": 8,
+        "name": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/8.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293621,
+      "referee": "Anderson Daronco",
+      "timezone": "UTC",
+      "date": "2021-09-09T22:30:00+00:00",
+      "timestamp": 1631226600,
+      "periods": {
+        "first": 1631226600,
+        "second": 1631230200
+      },
+      "venue": {
+        "id": 1640,
+        "name": "Estadio Campeón del Siglo",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293601,
+      "referee": "E. Aquino",
+      "timezone": "UTC",
+      "date": "2021-09-05T22:00:00+00:00",
+      "timestamp": 1630879200,
+      "periods": {
+        "first": 1630879200,
+        "second": 1630882800
+      },
+      "venue": {
+        "id": 1640,
+        "name": "Estadio Campeón del Siglo",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2381,
+        "name": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/2381.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293616,
+      "referee": "N. Pitana",
+      "timezone": "UTC",
+      "date": "2021-09-03T01:00:00+00:00",
+      "timestamp": 1630630800,
+      "periods": {
+        "first": 1630630800,
+        "second": 1630634400
+      },
+      "venue": {
+        "id": 1228,
+        "name": "Estadio Nacional de Lima",
+        "city": "Lima"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": null
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 718250,
+      "referee": "Jesús Gil",
+      "timezone": "UTC",
+      "date": "2021-07-03T22:00:00+00:00",
+      "timestamp": 1625349600,
+      "periods": {
+        "first": 1625349600,
+        "second": 1625353200
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio Nacional de Brasília",
+        "city": "Brasília, Distrito Federal"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Quarter-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      },
+      "away": {
+        "id": 8,
+        "name": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/8.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty": {
+        "home": 2,
+        "away": 4
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 312568,
+      "referee": "Raphael Claus",
+      "timezone": "UTC",
+      "date": "2021-06-29T00:00:00+00:00",
+      "timestamp": 1624924800,
+      "periods": {
+        "first": 1624924800,
+        "second": 1624928400
+      },
+      "venue": {
+        "id": 218,
+        "name": "Estádio Nilton Santos",
+        "city": "Rio de Janeiro"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group A - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2380,
+        "name": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2380.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 312563,
+      "referee": "A. Herrera",
+      "timezone": "UTC",
+      "date": "2021-06-24T21:00:00+00:00",
+      "timestamp": 1624568400,
+      "periods": {
+        "first": 1624568400,
+        "second": 1624572000
+      },
+      "venue": {
+        "id": 235,
+        "name": "Arena Pantanal",
+        "city": "Cuiabá, Mato Grosso"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group A - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2381,
+        "name": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/2381.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 312557,
+      "referee": "Raphael Claus",
+      "timezone": "UTC",
+      "date": "2021-06-21T21:00:00+00:00",
+      "timestamp": 1624309200,
+      "periods": {
+        "first": 1624309200,
+        "second": 1624312800
+      },
+      "venue": {
+        "id": 235,
+        "name": "Arena Pantanal",
+        "city": "Cuiabá, Mato Grosso"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group A - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2383,
+        "name": "Chile",
+        "logo": "https://media.api-sports.io/football/teams/2383.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 312550,
+      "referee": "Wilton Pereira Sampaio",
+      "timezone": "UTC",
+      "date": "2021-06-19T00:00:00+00:00",
+      "timestamp": 1624060800,
+      "periods": {
+        "first": 1624060800,
+        "second": 1624064400
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio Nacional de Brasília",
+        "city": "Brasília, Distrito Federal"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Group A - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293612,
+      "referee": "Anderson Daronco",
+      "timezone": "UTC",
+      "date": "2021-06-08T22:30:00+00:00",
+      "timestamp": 1623191400,
+      "periods": {
+        "first": 1623191400,
+        "second": 1623195000
+      },
+      "venue": {
+        "id": 1653,
+        "name": "Estadio Olímpico de la UCV",
+        "city": "Caracas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2379,
+        "name": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2379.png",
+        "winner": null
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293606,
+      "referee": "W. Roldán",
+      "timezone": "UTC",
+      "date": "2021-06-03T22:00:00+00:00",
+      "timestamp": 1622757600,
+      "periods": {
+        "first": 1622757600,
+        "second": 1622761200
+      },
+      "venue": {
+        "id": 1624,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2380,
+        "name": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2380.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293591,
+      "referee": "R. Tobar",
+      "timezone": "UTC",
+      "date": "2020-11-17T23:00:00+00:00",
+      "timestamp": 1605654000,
+      "periods": {
+        "first": 1605654000,
+        "second": 1605657600
+      },
+      "venue": {
+        "id": 1624,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      },
+      "away": {
+        "id": 6,
+        "name": "Brazil",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293586,
+      "referee": "F. Rapallini",
+      "timezone": "UTC",
+      "date": "2020-11-13T20:30:00+00:00",
+      "timestamp": 1605299400,
+      "periods": {
+        "first": 1605299400,
+        "second": 1605303000
+      },
+      "venue": {
+        "id": 366,
+        "name": "Estadio Metropolitano Roberto Meléndez",
+        "city": "Barranquilla"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 8,
+        "name": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/8.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293585,
+      "referee": "W. Roldán",
+      "timezone": "UTC",
+      "date": "2020-10-13T21:00:00+00:00",
+      "timestamp": 1602622800,
+      "periods": {
+        "first": 1602622800,
+        "second": 1602626400
+      },
+      "venue": {
+        "id": 471,
+        "name": "Estadio Rodrigo Paz Delgado",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 293576,
+      "referee": "E. Aquino",
+      "timezone": "UTC",
+      "date": "2020-10-08T22:45:00+00:00",
+      "timestamp": 1602197100,
+      "periods": {
+        "first": 1602197100,
+        "second": 1602200700
+      },
+      "venue": {
+        "id": 1624,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2383,
+        "name": "Chile",
+        "logo": "https://media.api-sports.io/football/teams/2383.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 255957,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-11-18T19:15:00+00:00",
+      "timestamp": 1574104500,
+      "periods": {
+        "first": 1574104500,
+        "second": 1574108100
+      },
+      "venue": {
+        "id": null,
+        "name": "Bloomfield Stadium (Tel-Aviv-Yāfā (Tel-Aviv))",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": null
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218356,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-11-15T18:00:00+00:00",
+      "timestamp": 1573840800,
+      "periods": {
+        "first": 1573840800,
+        "second": 1573844400
+      },
+      "venue": {
+        "id": null,
+        "name": "Puskás Aréna (Budapest)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 769,
+        "name": "Hungary",
+        "logo": "https://media.api-sports.io/football/teams/769.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218352,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-10-16T01:30:00+00:00",
+      "timestamp": 1571189400,
+      "periods": {
+        "first": 1571189400,
+        "second": 1571193000
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Nacional de Lima (Lima)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": null
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218350,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-10-11T23:00:00+00:00",
+      "timestamp": 1570834800,
+      "periods": {
+        "first": 1570834800,
+        "second": 1570838400
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Centenario (Montevideo)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218345,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-09-11T00:00:00+00:00",
+      "timestamp": 1568160000,
+      "periods": {
+        "first": 1568160000,
+        "second": 1568163600
+      },
+      "venue": {
+        "id": null,
+        "name": "Busch Stadium (St. Louis, Missouri)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2384,
+        "name": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2384.png",
+        "winner": null
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218339,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-09-07T02:00:00+00:00",
+      "timestamp": 1567821600,
+      "periods": {
+        "first": 1567821600,
+        "second": 1567825200
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Nacional de Costa Rica (San José)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 29,
+        "name": "Costa Rica",
+        "logo": "https://media.api-sports.io/football/teams/29.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 169550,
+      "referee": "Wilton Pereira Sampaio, Brazil",
+      "timezone": "UTC",
+      "date": "2019-06-29T19:00:00+00:00",
+      "timestamp": 1561834800,
+      "periods": {
+        "first": 1561834800,
+        "second": 1561838400
+      },
+      "venue": {
+        "id": null,
+        "name": "Arena Fonte Nova",
+        "city": "Salvador"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Quarter-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      },
+      "away": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": 4,
+        "away": 5
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 83276,
+      "referee": "Raphael Claus, Brazil",
+      "timezone": "UTC",
+      "date": "2019-06-24T23:00:00+00:00",
+      "timestamp": 1561417200,
+      "periods": {
+        "first": 1561417200,
+        "second": 1561420800
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio do Maracanã",
+        "city": "Rio de Janeiro"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2383,
+        "name": "Chile",
+        "logo": "https://media.api-sports.io/football/teams/2383.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 83270,
+      "referee": "Andres Rojas, Colombia",
+      "timezone": "UTC",
+      "date": "2019-06-20T23:00:00+00:00",
+      "timestamp": 1561071600,
+      "periods": {
+        "first": 1561071600,
+        "second": 1561075200
+      },
+      "venue": {
+        "id": null,
+        "name": "Arena do Grêmio",
+        "city": "Porto Alegre"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      },
+      "away": {
+        "id": 12,
+        "name": "Japan",
+        "logo": "https://media.api-sports.io/football/teams/12.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 83264,
+      "referee": "Anderson Daronco, Brazil",
+      "timezone": "UTC",
+      "date": "2019-06-16T22:00:00+00:00",
+      "timestamp": 1560722400,
+      "periods": {
+        "first": 1560722400,
+        "second": 1560726000
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio Mineirão",
+        "city": "Belo Horizonte"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/9.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218309,
+      "referee": "Ulises Mereles, Paraguay",
+      "timezone": "UTC",
+      "date": "2019-06-07T23:15:00+00:00",
+      "timestamp": 1559949300,
+      "periods": {
+        "first": 1559949300,
+        "second": 1559952900
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 11,
+        "name": "Panama",
+        "logo": "https://media.api-sports.io/football/teams/11.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 667823,
+      "referee": "Ma Ning",
+      "timezone": "UTC",
+      "date": "2019-03-25T11:35:00+00:00",
+      "timestamp": 1553513700,
+      "periods": {
+        "first": 1553513700,
+        "second": 1553517300
+      },
+      "venue": {
+        "id": 21674,
+        "name": "Guangxi Sports Center Stadium",
+        "city": "Nanning"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 766,
+      "name": "China Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/766.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Final",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1564,
+        "name": "Thailand",
+        "logo": "https://media.api-sports.io/football/teams/1564.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 667822,
+      "referee": "M. Mažić",
+      "timezone": "UTC",
+      "date": "2019-03-22T11:35:00+00:00",
+      "timestamp": 1553254500,
+      "periods": {
+        "first": 1553254500,
+        "second": 1553258100
+      },
+      "venue": {
+        "id": 21674,
+        "name": "Guangxi Sports Center Stadium",
+        "city": "Nanning"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 766,
+      "name": "China Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/766.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Semi-finals",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1568,
+        "name": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/1568.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225577,
+      "referee": "Damir Skomina, Slovenia",
+      "timezone": "UTC",
+      "date": "2018-11-20T20:00:00+00:00",
+      "timestamp": 1542744000,
+      "periods": {
+        "first": 1542744000,
+        "second": 1542747600
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de France",
+        "city": "Paris"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2,
+        "name": "France",
+        "logo": "https://media.api-sports.io/football/teams/2.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225556,
+      "referee": "Craig Pawson, England",
+      "timezone": "UTC",
+      "date": "2018-11-16T20:00:00+00:00",
+      "timestamp": 1542398400,
+      "periods": {
+        "first": 1542398400,
+        "second": 1542402000
+      },
+      "venue": {
+        "id": null,
+        "name": "Emirates Stadium",
+        "city": "London"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 6,
+        "name": "Brazil",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225531,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-10-16T10:35:00+00:00",
+      "timestamp": 1539686100,
+      "periods": {
+        "first": 1539686100,
+        "second": 1539689700
+      },
+      "venue": {
+        "id": null,
+        "name": "Saitama Stadium 2002 (Saitama)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 12,
+        "name": "Japan",
+        "logo": "https://media.api-sports.io/football/teams/12.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225521,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-10-12T11:00:00+00:00",
+      "timestamp": 1539342000,
+      "periods": {
+        "first": 1539342000,
+        "second": 1539345600
+      },
+      "venue": {
+        "id": null,
+        "name": "Seoul World Cup Stadium (Seoul)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 17,
+        "name": "South Korea",
+        "logo": "https://media.api-sports.io/football/teams/17.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225491,
+      "referee": "Ismail Elfath, USA",
+      "timezone": "UTC",
+      "date": "2018-09-08T02:08:00+00:00",
+      "timestamp": 1536372480,
+      "periods": {
+        "first": 1536372480,
+        "second": 1536376080
+      },
+      "venue": {
+        "id": null,
+        "name": "NRG Stadium",
+        "city": "Houston"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 135769,
+      "referee": "N. Pitana",
+      "timezone": "UTC",
+      "date": "2018-07-06T14:00:00+00:00",
+      "timestamp": 1530885600,
+      "periods": {
+        "first": 1530885600,
+        "second": 1530889200
+      },
+      "venue": {
+        "id": 2835,
+        "name": "Stadion Nizhny Novgorod",
+        "city": "Nizhniy Novgorod"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Quarter-finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2,
+        "name": "France",
+        "logo": "https://media.api-sports.io/football/teams/2.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 135762,
+      "referee": "C. Ramos",
+      "timezone": "UTC",
+      "date": "2018-06-30T18:00:00+00:00",
+      "timestamp": 1530381600,
+      "periods": {
+        "first": 1530381600,
+        "second": 1530385200
+      },
+      "venue": {
+        "id": 2834,
+        "name": "Olimpiyskiy Stadion Fisht",
+        "city": "Sochi"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2018,
+      "round": "8th Finals",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 27,
+        "name": "Portugal",
+        "logo": "https://media.api-sports.io/football/teams/27.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 135809,
+      "referee": "M. Diedhiou",
+      "timezone": "UTC",
+      "date": "2018-06-25T14:00:00+00:00",
+      "timestamp": 1529935200,
+      "periods": {
+        "first": 1529935200,
+        "second": 1529938800
+      },
+      "venue": {
+        "id": 11911,
+        "name": "Solidarnost Arena",
+        "city": "Samara"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4,
+        "name": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/4.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 135795,
+      "referee": "C. Turpin",
+      "timezone": "UTC",
+      "date": "2018-06-20T15:00:00+00:00",
+      "timestamp": 1529506800,
+      "periods": {
+        "first": 1529506800,
+        "second": 1529510400
+      },
+      "venue": {
+        "id": 1339,
+        "name": "Rostov Arena",
+        "city": "Rostov-na-Donu"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 23,
+        "name": "Saudi Arabia",
+        "logo": "https://media.api-sports.io/football/teams/23.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 135778,
+      "referee": "B. Kuipers",
+      "timezone": "UTC",
+      "date": "2018-06-15T12:00:00+00:00",
+      "timestamp": 1529064000,
+      "periods": {
+        "first": 1529064000,
+        "second": 1529067600
+      },
+      "venue": {
+        "id": 1355,
+        "name": "Ekaterinburg Arena",
+        "city": "Ekaterinburg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225462,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-06-07T23:10:00+00:00",
+      "timestamp": 1528413000,
+      "periods": {
+        "first": 1528413000,
+        "second": 1528416600
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Centenario (Montevideo)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1568,
+        "name": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/1568.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 667827,
+      "referee": "Salman Ahmad Flahi",
+      "timezone": "UTC",
+      "date": "2018-03-26T12:35:00+00:00",
+      "timestamp": 1522067700,
+      "periods": {
+        "first": 1522067700,
+        "second": 1522071300
+      },
+      "venue": {
+        "id": null,
+        "name": "Guangxi Sports Center Stadium",
+        "city": "Nanning"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 766,
+      "name": "China Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/766.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Final",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 767,
+        "name": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/767.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 667826,
+      "referee": "Saoud Al Athbah",
+      "timezone": "UTC",
+      "date": "2018-03-23T11:35:00+00:00",
+      "timestamp": 1521804900,
+      "periods": {
+        "first": 1521804900,
+        "second": 1521808500
+      },
+      "venue": {
+        "id": null,
+        "name": "Guangxi Sports Center Stadium",
+        "city": "Nanning"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 766,
+      "name": "China Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/766.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Semi-finals",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 770,
+        "name": "Czechia",
+        "logo": "https://media.api-sports.io/football/teams/770.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256786,
+      "referee": "Ricardo Marques Ribeiro, Brazil",
+      "timezone": "UTC",
+      "date": "2017-10-10T23:30:00+00:00",
+      "timestamp": 1507678200,
+      "periods": {
+        "first": 1507678200,
+        "second": 1507681800
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 18",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2381,
+        "name": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/2381.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256778,
+      "referee": "Anderson Daronco, Brazil",
+      "timezone": "UTC",
+      "date": "2017-10-05T21:00:00+00:00",
+      "timestamp": 1507237200,
+      "periods": {
+        "first": 1507237200,
+        "second": 1507240800
+      },
+      "venue": {
+        "id": null,
+        "name": "Pueblo Nuevo",
+        "city": "San Cristobal"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 17",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2379,
+        "name": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2379.png",
+        "winner": null
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256776,
+      "referee": "Sandro Meira Ricci, Brazil",
+      "timezone": "UTC",
+      "date": "2017-09-06T00:00:00+00:00",
+      "timestamp": 1504656000,
+      "periods": {
+        "first": 1504656000,
+        "second": 1504659600
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Defensores del Chaco",
+        "city": "Asuncion"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 16",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2380,
+        "name": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2380.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256769,
+      "referee": "Victor Hugo Carrillo, Peru",
+      "timezone": "UTC",
+      "date": "2017-08-31T23:00:00+00:00",
+      "timestamp": 1504220400,
+      "periods": {
+        "first": 1504220400,
+        "second": 1504224000
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 15",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      },
+      "away": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256766,
+      "referee": "Julio Bascunan, Chile",
+      "timezone": "UTC",
+      "date": "2017-03-29T03:15:00+00:00",
+      "timestamp": 1490757300,
+      "periods": {
+        "first": 1490757300,
+        "second": 1490760900
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Nacional",
+        "city": "Lima"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 14",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256759,
+      "referee": "Patricio Loustau, Argentina",
+      "timezone": "UTC",
+      "date": "2017-03-23T23:00:00+00:00",
+      "timestamp": 1490310000,
+      "periods": {
+        "first": 1490310000,
+        "second": 1490313600
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 13",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      },
+      "away": {
+        "id": 6,
+        "name": "Brazil",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256754,
+      "referee": "Enrique Caceres Villafane, Paraguay",
+      "timezone": "UTC",
+      "date": "2016-11-15T23:30:00+00:00",
+      "timestamp": 1479252600,
+      "periods": {
+        "first": 1479252600,
+        "second": 1479256200
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Nacional de Chile",
+        "city": "Santiago"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 12",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2383,
+        "name": "Chile",
+        "logo": "https://media.api-sports.io/football/teams/2383.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256748,
+      "referee": "Victor Hugo Carrillo, Peru",
+      "timezone": "UTC",
+      "date": "2016-11-10T23:00:00+00:00",
+      "timestamp": 1478818800,
+      "periods": {
+        "first": 1478818800,
+        "second": 1478822400
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 11",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256743,
+      "referee": "Nestor Pitana, Argentina",
+      "timezone": "UTC",
+      "date": "2016-10-11T20:30:00+00:00",
+      "timestamp": 1476217800,
+      "periods": {
+        "first": 1476217800,
+        "second": 1476221400
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Metropolitano Roberto Meléndez",
+        "city": "Barranquilla"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 10",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 8,
+        "name": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/8.png",
+        "winner": null
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256738,
+      "referee": "Raul Orozco, Bolivia",
+      "timezone": "UTC",
+      "date": "2016-10-06T23:00:00+00:00",
+      "timestamp": 1475794800,
+      "periods": {
+        "first": 1475794800,
+        "second": 1475798400
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 9",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2379,
+        "name": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2379.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256732,
+      "referee": "Wilton Pereira Sampaio, Brazil",
+      "timezone": "UTC",
+      "date": "2016-09-06T23:00:00+00:00",
+      "timestamp": 1473202800,
+      "periods": {
+        "first": 1473202800,
+        "second": 1473206400
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 8",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2380,
+        "name": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2380.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256730,
+      "referee": "Julio Bascunan, Chile",
+      "timezone": "UTC",
+      "date": "2016-09-01T23:30:00+00:00",
+      "timestamp": 1472772600,
+      "periods": {
+        "first": 1472772600,
+        "second": 1472776200
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Malvinas Argentinas",
+        "city": "Mendoza"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 7",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 26,
+        "name": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256723,
+      "referee": "Roddy Zambrano, Ecuador",
+      "timezone": "UTC",
+      "date": "2016-03-30T00:00:00+00:00",
+      "timestamp": 1459296000,
+      "periods": {
+        "first": 1459296000,
+        "second": 1459299600
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 6",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256721,
+      "referee": "Nestor Pitana, Argentina",
+      "timezone": "UTC",
+      "date": "2016-03-26T00:45:00+00:00",
+      "timestamp": 1458953100,
+      "periods": {
+        "first": 1458953100,
+        "second": 1458956700
+      },
+      "venue": {
+        "id": null,
+        "name": "Arena De Pernambuco",
+        "city": "Sao Lourenco da Mata"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 5",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 6,
+        "name": "Brazil",
+        "logo": "https://media.api-sports.io/football/teams/6.png",
+        "winner": null
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256715,
+      "referee": "Wilmar Roldan, Colombia",
+      "timezone": "UTC",
+      "date": "2015-11-17T23:00:00+00:00",
+      "timestamp": 1447801200,
+      "periods": {
+        "first": 1447801200,
+        "second": 1447804800
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2383,
+        "name": "Chile",
+        "logo": "https://media.api-sports.io/football/teams/2383.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256708,
+      "referee": "Ricardo Marques Ribeiro, Brazil",
+      "timezone": "UTC",
+      "date": "2015-11-12T21:00:00+00:00",
+      "timestamp": 1447362000,
+      "periods": {
+        "first": 1447362000,
+        "second": 1447365600
+      },
+      "venue": {
+        "id": null,
+        "name": "Olimpico Atahualpa",
+        "city": "Quito"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256703,
+      "referee": "Heber Roberto Lopes, Brazil",
+      "timezone": "UTC",
+      "date": "2015-10-13T23:00:00+00:00",
+      "timestamp": 1444777200,
+      "periods": {
+        "first": 1444777200,
+        "second": 1444780800
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Centenario",
+        "city": "Montevideo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      },
+      "away": {
+        "id": 8,
+        "name": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/8.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256697,
+      "referee": "Patricio Loustau, Argentina",
+      "timezone": "UTC",
+      "date": "2015-10-08T20:00:00+00:00",
+      "timestamp": 1444334400,
+      "periods": {
+        "first": 1444334400,
+        "second": 1444338000
+      },
+      "venue": {
+        "id": null,
+        "name": "Estadio Hernando Siles",
+        "city": "La Paz"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/34.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Regular Season - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2381,
+        "name": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/2381.png",
+        "winner": false
+      },
+      "away": {
+        "id": 7,
+        "name": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]

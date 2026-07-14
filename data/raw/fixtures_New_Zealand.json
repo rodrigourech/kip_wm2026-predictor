@@ -1,0 +1,5392 @@
+[
+  {
+    "fixture": {
+      "id": 1489415,
+      "referee": "Adham Mohammad, Jordan",
+      "timezone": "UTC",
+      "date": "2026-06-27T03:00:00+00:00",
+      "timestamp": 1782529200,
+      "periods": {
+        "first": 1782529200,
+        "second": 1782532800
+      },
+      "venue": {
+        "id": 19445,
+        "name": "BC Place",
+        "city": "Vancouver"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 5
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 5
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489396,
+      "referee": "Omar Mohamed Al Ali, United Arab Emirates",
+      "timezone": "UTC",
+      "date": "2026-06-22T01:00:00+00:00",
+      "timestamp": 1782090000,
+      "periods": {
+        "first": 1782090000,
+        "second": 1782093600
+      },
+      "venue": {
+        "id": 19445,
+        "name": "BC Place",
+        "city": "Vancouver"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 11
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      },
+      "away": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1489378,
+      "referee": "César Ramos Palazuelos, Mexico",
+      "timezone": "UTC",
+      "date": "2026-06-16T01:00:00+00:00",
+      "timestamp": 1781571600,
+      "periods": {
+        "first": 1781571600,
+        "second": 1781575200
+      },
+      "venue": {
+        "id": null,
+        "name": "SoFi Stadium",
+        "city": "Inglewood"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 22,
+        "name": "Iran",
+        "logo": "https://media.api-sports.io/football/teams/22.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1525492,
+      "referee": "Natalie Simon, USA",
+      "timezone": "UTC",
+      "date": "2026-06-06T20:00:00+00:00",
+      "timestamp": 1780776000,
+      "periods": {
+        "first": 1780776000,
+        "second": 1780779600
+      },
+      "venue": {
+        "id": null,
+        "name": "Raymond James Stadium",
+        "city": "Tampa"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 10,
+        "name": "England",
+        "logo": "https://media.api-sports.io/football/teams/10.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1544806,
+      "referee": "Rubiel Vazquez, USA",
+      "timezone": "UTC",
+      "date": "2026-06-03T00:00:00+00:00",
+      "timestamp": 1780444800,
+      "periods": {
+        "first": 1780444800,
+        "second": 1780448400
+      },
+      "venue": {
+        "id": null,
+        "name": "Chase Stadium",
+        "city": "Fort Lauderdale"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 1
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Friendly International",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2386,
+        "name": "Haiti",
+        "logo": "https://media.api-sports.io/football/teams/2386.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1537252,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-03-30T06:15:00+00:00",
+      "timestamp": 1774851300,
+      "periods": {
+        "first": 1774851300,
+        "second": 1774854900
+      },
+      "venue": {
+        "id": null,
+        "name": "Eden Park",
+        "city": "Auckland"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 1222,
+      "name": "FIFA Series",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1222.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2383,
+        "name": "Chile",
+        "logo": "https://media.api-sports.io/football/teams/2383.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1537244,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2026-03-27T06:15:00+00:00",
+      "timestamp": 1774592100,
+      "periods": {
+        "first": 1774592100,
+        "second": 1774595700
+      },
+      "venue": {
+        "id": null,
+        "name": "Eden Park",
+        "city": "Auckland"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 1222,
+      "name": "FIFA Series",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1222.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1099,
+        "name": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/1099.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1469294,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-11-19T01:30:00+00:00",
+      "timestamp": 1763515800,
+      "periods": {
+        "first": 1763515800,
+        "second": 1763519400
+      },
+      "venue": {
+        "id": null,
+        "name": "Sports Illustrated Stadium",
+        "city": "Harrison"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2382,
+        "name": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1469291,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-11-16T00:30:00+00:00",
+      "timestamp": 1763253000,
+      "periods": {
+        "first": 1763253000,
+        "second": 1763256600
+      },
+      "venue": {
+        "id": null,
+        "name": "Chase Stadium",
+        "city": "Fort Lauderdale"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 8,
+        "name": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/8.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1352746,
+      "referee": "Horatiu Fesnic, Romania",
+      "timezone": "UTC",
+      "date": "2025-10-14T16:00:00+00:00",
+      "timestamp": 1760457600,
+      "periods": {
+        "first": 1760457600,
+        "second": 1760461200
+      },
+      "venue": {
+        "id": null,
+        "name": "Ullevaal",
+        "city": "Oslo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1090,
+        "name": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1436809,
+      "referee": "Eric Lambrechts, Belgium",
+      "timezone": "UTC",
+      "date": "2025-10-09T18:45:00+00:00",
+      "timestamp": 1760035500,
+      "periods": {
+        "first": 1760035500,
+        "second": 1760039100
+      },
+      "venue": {
+        "id": 20760,
+        "name": "Stadion Śląski",
+        "city": "Chorzów"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 24,
+        "name": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1396842,
+      "referee": "Don Robertson",
+      "timezone": "UTC",
+      "date": "2025-09-09T07:00:00+00:00",
+      "timestamp": 1757401200,
+      "periods": {
+        "first": 1757401200,
+        "second": 1757404800
+      },
+      "venue": {
+        "id": null,
+        "name": "Go Media Stadium",
+        "city": "Auckland"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      },
+      "away": {
+        "id": 20,
+        "name": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1396840,
+      "referee": "Don Robertson",
+      "timezone": "UTC",
+      "date": "2025-09-05T09:45:00+00:00",
+      "timestamp": 1757065500,
+      "periods": {
+        "first": 1757065500,
+        "second": 1757069100
+      },
+      "venue": {
+        "id": null,
+        "name": "GIO Stadium Canberra",
+        "city": "Canberra"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 20,
+        "name": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1364924,
+      "referee": "Carly Shaw-MacLaren, Canada",
+      "timezone": "UTC",
+      "date": "2025-06-10T21:00:00+00:00",
+      "timestamp": 1749589200,
+      "periods": {
+        "first": 1749589200,
+        "second": 1749592800
+      },
+      "venue": {
+        "id": 312,
+        "name": "BMO Field",
+        "city": "Toronto, Ontario"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      },
+      "away": {
+        "id": 772,
+        "name": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/772.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1364923,
+      "referee": "Pierre Luc Lauziere",
+      "timezone": "UTC",
+      "date": "2025-06-07T23:15:00+00:00",
+      "timestamp": 1749338100,
+      "periods": {
+        "first": 1749338100,
+        "second": 1749341700
+      },
+      "venue": {
+        "id": 312,
+        "name": "BMO Field",
+        "city": "Toronto, Ontario"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2025,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1501,
+        "name": "Ivory Coast",
+        "logo": "https://media.api-sports.io/football/teams/1501.png",
+        "winner": false
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1364980,
+      "referee": "B. Aukwai",
+      "timezone": "UTC",
+      "date": "2025-03-24T06:00:00+00:00",
+      "timestamp": 1742796000,
+      "periods": {
+        "first": 1742796000,
+        "second": 1742799600
+      },
+      "venue": {
+        "id": null,
+        "name": "Eden Park",
+        "city": "Auckland"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 33,
+      "name": "World Cup - Qualification Oceania",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/33.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Final",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5163,
+        "name": "New Caledonia",
+        "logo": "https://media.api-sports.io/football/teams/5163.png",
+        "winner": false
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1316045,
+      "referee": "N. Hauata",
+      "timezone": "UTC",
+      "date": "2025-03-21T06:00:00+00:00",
+      "timestamp": 1742536800,
+      "periods": {
+        "first": 1742536800,
+        "second": 1742540400
+      },
+      "venue": {
+        "id": 130,
+        "name": "Sky Stadium",
+        "city": "Wellington"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 33,
+      "name": "World Cup - Qualification Oceania",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/33.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Semi-finals",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5160,
+        "name": "Fiji",
+        "logo": "https://media.api-sports.io/football/teams/5160.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 7,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 4,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 7,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1304266,
+      "referee": "V. Singh",
+      "timezone": "UTC",
+      "date": "2024-11-18T06:30:00+00:00",
+      "timestamp": 1731911400,
+      "periods": {
+        "first": 1731911400,
+        "second": 1731915000
+      },
+      "venue": {
+        "id": 21101,
+        "name": "Go Media Stadium",
+        "city": "Auckland"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 10
+      }
+    },
+    "league": {
+      "id": 33,
+      "name": "World Cup - Qualification Oceania",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/33.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 8176,
+        "name": "Samoa",
+        "logo": "https://media.api-sports.io/football/teams/8176.png",
+        "winner": false
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 8
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 8
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1283601,
+      "referee": "B. Aukwai",
+      "timezone": "UTC",
+      "date": "2024-11-15T06:30:00+00:00",
+      "timestamp": 1731652200,
+      "periods": {
+        "first": 1731652200,
+        "second": 1731655800
+      },
+      "venue": {
+        "id": 22718,
+        "name": "FMG Stadium Waikato",
+        "city": "Hamilton"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 33,
+      "name": "World Cup - Qualification Oceania",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/33.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5170,
+        "name": "Vanuatu",
+        "logo": "https://media.api-sports.io/football/teams/5170.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 8,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 5,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 8,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1298894,
+      "referee": "J. Morgan",
+      "timezone": "UTC",
+      "date": "2024-10-14T06:00:00+00:00",
+      "timestamp": 1728885600,
+      "periods": {
+        "first": 1728885600,
+        "second": 1728889200
+      },
+      "venue": {
+        "id": 7183,
+        "name": "North Harbour Stadium",
+        "city": "North Shore"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 2
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1538,
+        "name": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/1538.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1283598,
+      "referee": "M. Lacour",
+      "timezone": "UTC",
+      "date": "2024-10-11T02:00:00+00:00",
+      "timestamp": 1728612000,
+      "periods": {
+        "first": 1728612000,
+        "second": 1728615600
+      },
+      "venue": {
+        "id": 22451,
+        "name": "VFF Freshwater Stadium",
+        "city": "Port Vila"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 11
+      }
+    },
+    "league": {
+      "id": 33,
+      "name": "World Cup - Qualification Oceania",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/33.png",
+      "flag": null,
+      "season": 2026,
+      "round": "Group Stage - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5167,
+        "name": "Tahiti",
+        "logo": "https://media.api-sports.io/football/teams/5167.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1215628,
+      "referee": "S. Brown",
+      "timezone": "UTC",
+      "date": "2024-09-10T23:00:00+00:00",
+      "timestamp": 1726009200,
+      "periods": {
+        "first": 1726009200,
+        "second": 1726012800
+      },
+      "venue": {
+        "id": 19229,
+        "name": "TQL Stadium",
+        "city": "Cincinnati, Ohio"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 2384,
+        "name": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2384.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1184585,
+      "referee": "J. Dickerson",
+      "timezone": "UTC",
+      "date": "2024-09-08T01:00:00+00:00",
+      "timestamp": 1725757200,
+      "periods": {
+        "first": 1725757200,
+        "second": 1725760800
+      },
+      "venue": {
+        "id": null,
+        "name": "Rose Bowl",
+        "city": "Pasadena, California"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 16,
+        "name": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1215762,
+      "referee": "B. Aukwai",
+      "timezone": "UTC",
+      "date": "2024-06-30T04:00:00+00:00",
+      "timestamp": 1719720000,
+      "periods": {
+        "first": 1719720000,
+        "second": 1719723600
+      },
+      "venue": {
+        "id": null,
+        "name": "Fresh Wata Field",
+        "city": "Port Vila"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 806,
+      "name": "OFC Nations Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/806.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Final",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5170,
+        "name": "Vanuatu",
+        "logo": "https://media.api-sports.io/football/teams/5170.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1211869,
+      "referee": "V. Singh",
+      "timezone": "UTC",
+      "date": "2024-06-27T00:00:00+00:00",
+      "timestamp": 1719446400,
+      "periods": {
+        "first": 1719446400,
+        "second": 1719450000
+      },
+      "venue": {
+        "id": null,
+        "name": "Fresh Wata Field",
+        "city": "Port Vila"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 806,
+      "name": "OFC Nations Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/806.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Semi-finals",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5167,
+        "name": "Tahiti",
+        "logo": "https://media.api-sports.io/football/teams/5167.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1171370,
+      "referee": "V. Singh",
+      "timezone": "UTC",
+      "date": "2024-06-21T04:00:00+00:00",
+      "timestamp": 1718942400,
+      "periods": {
+        "first": 1718942400,
+        "second": 1718946000
+      },
+      "venue": {
+        "id": null,
+        "name": "Fresh Wata Field",
+        "city": "Port Vila"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 806,
+      "name": "OFC Nations Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/806.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5170,
+        "name": "Vanuatu",
+        "logo": "https://media.api-sports.io/football/teams/5170.png",
+        "winner": false
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1171366,
+      "referee": "D. Yareboinen",
+      "timezone": "UTC",
+      "date": "2024-06-18T04:00:00+00:00",
+      "timestamp": 1718683200,
+      "periods": {
+        "first": 1718683200,
+        "second": 1718686800
+      },
+      "venue": {
+        "id": null,
+        "name": "Fresh Wata Field",
+        "city": "Port Vila"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 806,
+      "name": "OFC Nations Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/806.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5165,
+        "name": "Solomon Islands",
+        "logo": "https://media.api-sports.io/football/teams/5165.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1171363,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-06-15T01:00:00+00:00",
+      "timestamp": 1718413200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Fresh Wata Field",
+        "city": "Port Vila"
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 806,
+      "name": "OFC Nations Cup",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/806.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Group Stage - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5163,
+        "name": "New Caledonia",
+        "logo": "https://media.api-sports.io/football/teams/5163.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1188620,
+      "referee": "Ahmed Ghandour",
+      "timezone": "UTC",
+      "date": "2024-03-26T20:00:00+00:00",
+      "timestamp": 1711483200,
+      "periods": {
+        "first": 1711483200,
+        "second": 1711486800
+      },
+      "venue": {
+        "id": null,
+        "name": "Cairo International Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "PEN",
+        "elapsed": 120,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      },
+      "away": {
+        "id": 28,
+        "name": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/28.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty": {
+        "home": 2,
+        "away": 4
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1174754,
+      "referee": "C. Kpan",
+      "timezone": "UTC",
+      "date": "2024-03-22T20:00:00+00:00",
+      "timestamp": 1711137600,
+      "periods": {
+        "first": 1711137600,
+        "second": 1711141200
+      },
+      "venue": {
+        "id": null,
+        "name": "New Administrative Capital Stadium",
+        "city": "Cairo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1124143,
+      "referee": "Urs Schnyder, Switzerland",
+      "timezone": "UTC",
+      "date": "2023-11-21T19:45:00+00:00",
+      "timestamp": 1700595900,
+      "periods": {
+        "first": 1700595900,
+        "second": 1700599500
+      },
+      "venue": {
+        "id": 1970,
+        "name": "Aviva Stadium",
+        "city": "Dublin"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 776,
+        "name": "Rep. Of Ireland",
+        "logo": "https://media.api-sports.io/football/teams/776.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1133448,
+      "referee": "Luca Cibelli, Switzerland",
+      "timezone": "UTC",
+      "date": "2023-11-17T17:00:00+00:00",
+      "timestamp": 1700240400,
+      "periods": {
+        "first": 1700240400,
+        "second": 1700244000
+      },
+      "venue": {
+        "id": null,
+        "name": "Georgios Kamaras Stadium",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1117,
+        "name": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/1117.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1068053,
+      "referee": "S. Attwell",
+      "timezone": "UTC",
+      "date": "2023-10-17T18:45:00+00:00",
+      "timestamp": 1697568300,
+      "periods": {
+        "first": 1697568300,
+        "second": 1697571900
+      },
+      "venue": {
+        "id": 10503,
+        "name": "Gtech Community Stadium",
+        "city": "Brentford, Middlesex"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 20,
+        "name": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1133449,
+      "referee": "J. Barcelo",
+      "timezone": "UTC",
+      "date": "2023-10-13T16:00:00+00:00",
+      "timestamp": 1697212800,
+      "periods": {
+        "first": 1697212800,
+        "second": 1697216400
+      },
+      "venue": {
+        "id": 3989,
+        "name": "Estadio Enrique Roca de Murcia",
+        "city": "Murcia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1508,
+        "name": "Congo DR",
+        "logo": "https://media.api-sports.io/football/teams/1508.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1028655,
+      "referee": "M. Schüttengruber",
+      "timezone": "UTC",
+      "date": "2023-06-19T16:00:00+00:00",
+      "timestamp": 1687190400,
+      "periods": {
+        "first": 1687190400,
+        "second": 1687194000
+      },
+      "venue": {
+        "id": 3796,
+        "name": "Sonnenseestadion",
+        "city": "Ritzing"
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1569,
+        "name": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/1569.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1012347,
+      "referee": "Craig Pawson, England",
+      "timezone": "UTC",
+      "date": "2023-06-16T17:00:00+00:00",
+      "timestamp": 1686934800,
+      "periods": {
+        "first": 1686934800,
+        "second": 1686938400
+      },
+      "venue": {
+        "id": 1501,
+        "name": "Friends Arena",
+        "city": "Solna"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5,
+        "name": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/5.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1012335,
+      "referee": "Kim Woo-Sung",
+      "timezone": "UTC",
+      "date": "2023-03-26T03:00:00+00:00",
+      "timestamp": 1679799600,
+      "periods": {
+        "first": 1679799600,
+        "second": 1679803200
+      },
+      "venue": {
+        "id": 130,
+        "name": "Sky Stadium",
+        "city": "Wellington"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1566,
+        "name": "China",
+        "logo": "https://media.api-sports.io/football/teams/1566.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1012325,
+      "referee": "S. Pu-udom",
+      "timezone": "UTC",
+      "date": "2023-03-23T06:00:00+00:00",
+      "timestamp": 1679551200,
+      "periods": {
+        "first": 1679551200,
+        "second": 1679554800
+      },
+      "venue": {
+        "id": null,
+        "name": "Mount Smart Stadium",
+        "city": "Auckland"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1566,
+        "name": "China",
+        "logo": "https://media.api-sports.io/football/teams/1566.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 865800,
+      "referee": "Y. Araki",
+      "timezone": "UTC",
+      "date": "2022-09-25T03:00:00+00:00",
+      "timestamp": 1664074800,
+      "periods": {
+        "first": 1664074800,
+        "second": 1664078400
+      },
+      "venue": {
+        "id": null,
+        "name": "Eden Park",
+        "city": "Auckland"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      },
+      "away": {
+        "id": 20,
+        "name": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 942142,
+      "referee": "R. Sato",
+      "timezone": "UTC",
+      "date": "2022-09-22T10:00:00+00:00",
+      "timestamp": 1663840800,
+      "periods": {
+        "first": 1663840800,
+        "second": 1663844400
+      },
+      "venue": {
+        "id": 124,
+        "name": "Suncorp Stadium",
+        "city": "Brisbane"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 20,
+        "name": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 855729,
+      "referee": "Mohammed Abdulla Alali",
+      "timezone": "UTC",
+      "date": "2022-06-14T18:00:00+00:00",
+      "timestamp": 1655229600,
+      "periods": {
+        "first": 1655229600,
+        "second": 1655233200
+      },
+      "venue": {
+        "id": null,
+        "name": "Ahmad bin Ali Stadium",
+        "city": "Al-Rayyan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 37,
+      "name": "World Cup - Qualification Intercontinental Play-offs",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/37.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Finals",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 29,
+        "name": "Costa Rica",
+        "logo": "https://media.api-sports.io/football/teams/29.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 863034,
+      "referee": "Mohammed Al-Shammari",
+      "timezone": "UTC",
+      "date": "2022-06-09T18:00:00+00:00",
+      "timestamp": 1654797600,
+      "periods": {
+        "first": 1654797600,
+        "second": 1654801200
+      },
+      "venue": {
+        "id": null,
+        "name": "Education City Stadium",
+        "city": "Ar-Rayyan"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1552,
+        "name": "Oman",
+        "logo": "https://media.api-sports.io/football/teams/1552.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859036,
+      "referee": "I. Barbara",
+      "timezone": "UTC",
+      "date": "2022-06-05T15:30:00+00:00",
+      "timestamp": 1654443000,
+      "periods": {
+        "first": 1654443000,
+        "second": 1654446600
+      },
+      "venue": {
+        "id": 1474,
+        "name": "RCDE Stadium",
+        "city": "Cornella de Llobregat"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 853976,
+      "referee": "Nawaf Shukralla",
+      "timezone": "UTC",
+      "date": "2022-03-30T17:00:00+00:00",
+      "timestamp": 1648659600,
+      "periods": {
+        "first": 1648659600,
+        "second": 1648663200
+      },
+      "venue": {
+        "id": null,
+        "name": "Grand Hamad Stadium",
+        "city": "Doha"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 33,
+      "name": "World Cup - Qualification Oceania",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/33.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Final",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5165,
+        "name": "Solomon Islands",
+        "logo": "https://media.api-sports.io/football/teams/5165.png",
+        "winner": false
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 5
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 5
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 853310,
+      "referee": "Abdulrahman Al Jassim",
+      "timezone": "UTC",
+      "date": "2022-03-27T17:30:00+00:00",
+      "timestamp": 1648402200,
+      "periods": {
+        "first": 1648402200,
+        "second": 1648405800
+      },
+      "venue": {
+        "id": null,
+        "name": "Grand Hamad Stadium",
+        "city": "Doha"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 33,
+      "name": "World Cup - Qualification Oceania",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/33.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Semi-finals",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5167,
+        "name": "Tahiti",
+        "logo": "https://media.api-sports.io/football/teams/5167.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 845728,
+      "referee": "N. Hauata",
+      "timezone": "UTC",
+      "date": "2022-03-24T17:00:00+00:00",
+      "timestamp": 1648141200,
+      "periods": {
+        "first": 1648141200,
+        "second": 1648144800
+      },
+      "venue": {
+        "id": null,
+        "name": "Suheim Bin Hamad Stadium",
+        "city": "Doha"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 33,
+      "name": "World Cup - Qualification Oceania",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/33.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5163,
+        "name": "New Caledonia",
+        "logo": "https://media.api-sports.io/football/teams/5163.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 7,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 7,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 845725,
+      "referee": "Salman Ahmad Flahi",
+      "timezone": "UTC",
+      "date": "2022-03-21T17:00:00+00:00",
+      "timestamp": 1647882000,
+      "periods": {
+        "first": 1647882000,
+        "second": 1647885600
+      },
+      "venue": {
+        "id": null,
+        "name": "Suheim Bin Hamad Stadium",
+        "city": "Doha"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 33,
+      "name": "World Cup - Qualification Oceania",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/33.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5160,
+        "name": "Fiji",
+        "logo": "https://media.api-sports.io/football/teams/5160.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 845720,
+      "referee": "Saoud Al Athbah",
+      "timezone": "UTC",
+      "date": "2022-03-18T14:00:00+00:00",
+      "timestamp": 1647612000,
+      "periods": {
+        "first": 1647612000,
+        "second": 1647615600
+      },
+      "venue": {
+        "id": null,
+        "name": "Suheim Bin Hamad Stadium",
+        "city": "Doha"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 33,
+      "name": "World Cup - Qualification Oceania",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/33.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Group Stage - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 8175,
+        "name": "Papua New Guinea",
+        "logo": "https://media.api-sports.io/football/teams/8175.png",
+        "winner": false
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 821433,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2022-02-02T15:00:00+00:00",
+      "timestamp": 1643814000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "The Sevens Stadium",
+        "city": "Dubai"
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1568,
+        "name": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/1568.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 821432,
+      "referee": "Ahmed Eisa Mohamed",
+      "timezone": "UTC",
+      "date": "2022-01-28T15:00:00+00:00",
+      "timestamp": 1643382000,
+      "periods": {
+        "first": 1643382000,
+        "second": 1643385600
+      },
+      "venue": {
+        "id": null,
+        "name": "New York University Stadium",
+        "city": "Abu Dhabi"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2022,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1548,
+        "name": "Jordan",
+        "logo": "https://media.api-sports.io/football/teams/1548.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 811326,
+      "referee": "Sultan Mohamed",
+      "timezone": "UTC",
+      "date": "2021-11-16T16:00:00+00:00",
+      "timestamp": 1637078400,
+      "periods": {
+        "first": 1637078400,
+        "second": 1637082000
+      },
+      "venue": {
+        "id": null,
+        "name": "Sheikh Zayed Sports City",
+        "city": "Abu Dhabi"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1492,
+        "name": "Gambia",
+        "logo": "https://media.api-sports.io/football/teams/1492.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 804755,
+      "referee": "Mahmoud El Banna",
+      "timezone": "UTC",
+      "date": "2021-10-12T16:00:00+00:00",
+      "timestamp": 1634054400,
+      "periods": {
+        "first": 1634054400,
+        "second": 1634058000
+      },
+      "venue": {
+        "id": null,
+        "name": "Stād al-Bahrayn al-Watanī",
+        "city": "Riffa"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1547,
+        "name": "Bahrain",
+        "logo": "https://media.api-sports.io/football/teams/1547.png",
+        "winner": false
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 804753,
+      "referee": "Mohammed Bunafoor",
+      "timezone": "UTC",
+      "date": "2021-10-09T15:30:00+00:00",
+      "timestamp": 1633793400,
+      "periods": {
+        "first": 1633793400,
+        "second": 1633797000
+      },
+      "venue": {
+        "id": null,
+        "name": "Sheikh Ali bin Mohammed Al Khalifa Stadium",
+        "city": "Muharraq"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2021,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5530,
+        "name": "Curaçao",
+        "logo": "https://media.api-sports.io/football/teams/5530.png",
+        "winner": false
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 634732,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-11-12T20:00:00+00:00",
+      "timestamp": 1605211200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 489,
+        "name": "Wembley Stadium",
+        "city": "London"
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 10,
+        "name": "England",
+        "logo": "https://media.api-sports.io/football/teams/10.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 598341,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-10-08T18:45:00+00:00",
+      "timestamp": 1602182700,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Roi Baudouin",
+        "city": "Brussel"
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1,
+        "name": "Belgium",
+        "logo": "https://media.api-sports.io/football/teams/1.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 323224,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-03-30T00:00:00+00:00",
+      "timestamp": 1585526400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1547,
+        "name": "Bahrain",
+        "logo": "https://media.api-sports.io/football/teams/1547.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 313280,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-03-26T00:00:00+00:00",
+      "timestamp": 1585180800,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Yarrow Stadium (New Plymouth)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "Canc",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1542,
+        "name": "Vietnam",
+        "logo": "https://media.api-sports.io/football/teams/1542.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 324092,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2020-03-25T00:00:00+00:00",
+      "timestamp": 1585094400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Stadion Kurmanbek (Jalal-Abad)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2020,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1552,
+        "name": "Oman",
+        "logo": "https://media.api-sports.io/football/teams/1552.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218370,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-11-17T14:00:00+00:00",
+      "timestamp": 1573999200,
+      "periods": {
+        "first": 1573999200,
+        "second": 1574002800
+      },
+      "venue": {
+        "id": null,
+        "name": "Lithuania National Stadium (Vilnius)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1097,
+        "name": "Lithuania",
+        "logo": "https://media.api-sports.io/football/teams/1097.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 218354,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-11-14T19:45:00+00:00",
+      "timestamp": 1573760700,
+      "periods": {
+        "first": 1573760700,
+        "second": 1573764300
+      },
+      "venue": {
+        "id": null,
+        "name": "Aviva Stadium (Dublin)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 776,
+        "name": "Rep. Of Ireland",
+        "logo": "https://media.api-sports.io/football/teams/776.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 667934,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-07-19T23:00:00+00:00",
+      "timestamp": 1563577200,
+      "periods": {
+        "first": 1563577200,
+        "second": 1563580800
+      },
+      "venue": {
+        "id": null,
+        "name": "J.S. Blatter Football Complex Tuanaimato Field 1",
+        "city": "Apia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 770,
+      "name": "Pacific Games",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/770.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Final",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5163,
+        "name": "New Caledonia",
+        "logo": "https://media.api-sports.io/football/teams/5163.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 667951,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-07-14T21:00:00+00:00",
+      "timestamp": 1563138000,
+      "periods": {
+        "first": 1563138000,
+        "second": 1563141600
+      },
+      "venue": {
+        "id": null,
+        "name": "J.S. Blatter Football Complex Tuanaimato Field 1",
+        "city": "Apia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 770,
+      "name": "Pacific Games",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/770.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      },
+      "away": {
+        "id": 8175,
+        "name": "Papua New Guinea",
+        "logo": "https://media.api-sports.io/football/teams/8175.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 667948,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-07-12T03:00:00+00:00",
+      "timestamp": 1562900400,
+      "periods": {
+        "first": 1562900400,
+        "second": 1562904000
+      },
+      "venue": {
+        "id": null,
+        "name": "J.S. Blatter Football Complex Tuanaimato Field 1",
+        "city": "Apia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 770,
+      "name": "Pacific Games",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/770.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5170,
+        "name": "Vanuatu",
+        "logo": "https://media.api-sports.io/football/teams/5170.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 667943,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-07-10T03:00:00+00:00",
+      "timestamp": 1562727600,
+      "periods": {
+        "first": 1562727600,
+        "second": 1562731200
+      },
+      "venue": {
+        "id": null,
+        "name": "J.S. Blatter Football Complex Tuanaimato Field 1",
+        "city": "Apia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 770,
+      "name": "Pacific Games",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/770.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      },
+      "away": {
+        "id": 8176,
+        "name": "Samoa",
+        "logo": "https://media.api-sports.io/football/teams/8176.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 667938,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2019-07-08T03:00:00+00:00",
+      "timestamp": 1562554800,
+      "periods": {
+        "first": 1562554800,
+        "second": 1562558400
+      },
+      "venue": {
+        "id": null,
+        "name": "J.S. Blatter Football Complex Tuanaimato Field 1",
+        "city": "Apia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 770,
+      "name": "Pacific Games",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/770.png",
+      "flag": null,
+      "season": 2019,
+      "round": "Group Stage - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5542,
+        "name": "Tonga",
+        "logo": "https://media.api-sports.io/football/teams/5542.png",
+        "winner": false
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 13
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 13
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 225362,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2018-03-24T15:00:00+00:00",
+      "timestamp": 1521903600,
+      "periods": {
+        "first": 1521903600,
+        "second": 1521907200
+      },
+      "venue": {
+        "id": null,
+        "name": "Pinatar Arena Football Center (San Pedro del Pinatar)",
+        "city": null
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5529,
+        "name": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257382,
+      "referee": "C. Turpin",
+      "timezone": "UTC",
+      "date": "2017-11-16T02:15:00+00:00",
+      "timestamp": 1510798500,
+      "periods": {
+        "first": 1510798500,
+        "second": 1510802100
+      },
+      "venue": {
+        "id": 1228,
+        "name": "Estadio Nacional de Lima",
+        "city": "Lima"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 37,
+      "name": "World Cup - Qualification Intercontinental Play-offs",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/37.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Finals",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": true
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 257381,
+      "referee": "M. Geiger",
+      "timezone": "UTC",
+      "date": "2017-11-11T03:15:00+00:00",
+      "timestamp": 1510370100,
+      "periods": {
+        "first": 1510370100,
+        "second": 1510373700
+      },
+      "venue": {
+        "id": 130,
+        "name": "Sky Stadium",
+        "city": "Wellington"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 37,
+      "name": "World Cup - Qualification Intercontinental Play-offs",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/37.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Finals",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": null
+      },
+      "away": {
+        "id": 30,
+        "name": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256666,
+      "referee": "Abdulrahman Al Jassim",
+      "timezone": "UTC",
+      "date": "2017-09-05T03:00:00+00:00",
+      "timestamp": 1504580400,
+      "periods": {
+        "first": 1504580400,
+        "second": 1504584000
+      },
+      "venue": {
+        "id": 3903,
+        "name": "Lawson Tama Stadium",
+        "city": "Honiara"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 33,
+      "name": "World Cup - Qualification Oceania",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/33.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Final",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5165,
+        "name": "Solomon Islands",
+        "logo": "https://media.api-sports.io/football/teams/5165.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256665,
+      "referee": "N. Hauata",
+      "timezone": "UTC",
+      "date": "2017-09-01T07:35:00+00:00",
+      "timestamp": 1504251300,
+      "periods": {
+        "first": 1504251300,
+        "second": 1504254900
+      },
+      "venue": {
+        "id": null,
+        "name": "QBE Stadium",
+        "city": "North Shore"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 33,
+      "name": "World Cup - Qualification Oceania",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/33.png",
+      "flag": null,
+      "season": 2018,
+      "round": "Final",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5165,
+        "name": "Solomon Islands",
+        "logo": "https://media.api-sports.io/football/teams/5165.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 6,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 6,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256673,
+      "referee": "K. Zitouni",
+      "timezone": "UTC",
+      "date": "2017-03-28T06:35:00+00:00",
+      "timestamp": 1490682900,
+      "periods": {
+        "first": 1490682900,
+        "second": 1490686500
+      },
+      "venue": {
+        "id": 130,
+        "name": "Sky Stadium",
+        "city": "Wellington"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 33,
+      "name": "World Cup - Qualification Oceania",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/33.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5160,
+        "name": "Fiji",
+        "logo": "https://media.api-sports.io/football/teams/5160.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256672,
+      "referee": "N. Hauata",
+      "timezone": "UTC",
+      "date": "2017-03-25T01:00:00+00:00",
+      "timestamp": 1490403600,
+      "periods": {
+        "first": 1490403600,
+        "second": 1490407200
+      },
+      "venue": {
+        "id": 3355,
+        "name": "Churchill Park",
+        "city": "Lautoka"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 33,
+      "name": "World Cup - Qualification Oceania",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/33.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5160,
+        "name": "Fiji",
+        "logo": "https://media.api-sports.io/football/teams/5160.png",
+        "winner": false
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256670,
+      "referee": "G. Time",
+      "timezone": "UTC",
+      "date": "2016-11-15T06:00:00+00:00",
+      "timestamp": 1479189600,
+      "periods": {
+        "first": 1479189600,
+        "second": 1479193200
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Yoshida",
+        "city": "Koné"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 33,
+      "name": "World Cup - Qualification Oceania",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/33.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5163,
+        "name": "New Caledonia",
+        "logo": "https://media.api-sports.io/football/teams/5163.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256668,
+      "referee": "N. Hauata",
+      "timezone": "UTC",
+      "date": "2016-11-12T02:00:00+00:00",
+      "timestamp": 1478916000,
+      "periods": {
+        "first": 1478916000,
+        "second": 1478919600
+      },
+      "venue": {
+        "id": null,
+        "name": "QBE Stadium",
+        "city": "North Shore"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 33,
+      "name": "World Cup - Qualification Oceania",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/33.png",
+      "flag": null,
+      "season": 2018,
+      "round": "3rd Round - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5163,
+        "name": "New Caledonia",
+        "logo": "https://media.api-sports.io/football/teams/5163.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256688,
+      "referee": "N. Hauata",
+      "timezone": "UTC",
+      "date": "2016-06-04T09:10:00+00:00",
+      "timestamp": 1465031400,
+      "periods": {
+        "first": 1465031400,
+        "second": 1465035000
+      },
+      "venue": {
+        "id": 5794,
+        "name": "Sir John Guise Stadium",
+        "city": "Port Moresby"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 33,
+      "name": "World Cup - Qualification Oceania",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/33.png",
+      "flag": null,
+      "season": 2018,
+      "round": "2nd Round - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5165,
+        "name": "Solomon Islands",
+        "logo": "https://media.api-sports.io/football/teams/5165.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256683,
+      "referee": "A. Amos",
+      "timezone": "UTC",
+      "date": "2016-05-31T06:10:00+00:00",
+      "timestamp": 1464675000,
+      "periods": {
+        "first": 1464675000,
+        "second": 1464678600
+      },
+      "venue": {
+        "id": 5794,
+        "name": "Sir John Guise Stadium",
+        "city": "Port Moresby"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 33,
+      "name": "World Cup - Qualification Oceania",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/33.png",
+      "flag": null,
+      "season": 2018,
+      "round": "2nd Round - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 5170,
+        "name": "Vanuatu",
+        "logo": "https://media.api-sports.io/football/teams/5170.png",
+        "winner": false
+      },
+      "away": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 5
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 5
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 5
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 256679,
+      "referee": "N. Hauata",
+      "timezone": "UTC",
+      "date": "2016-05-28T06:10:00+00:00",
+      "timestamp": 1464415800,
+      "periods": {
+        "first": 1464415800,
+        "second": 1464419400
+      },
+      "venue": {
+        "id": 5794,
+        "name": "Sir John Guise Stadium",
+        "city": "Port Moresby"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 33,
+      "name": "World Cup - Qualification Oceania",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/33.png",
+      "flag": null,
+      "season": 2018,
+      "round": "2nd Round - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 4673,
+        "name": "New Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5160,
+        "name": "Fiji",
+        "logo": "https://media.api-sports.io/football/teams/5160.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]
