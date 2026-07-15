@@ -25,7 +25,7 @@ import csv
 import json
 from pathlib import Path
 
-from config import DATA_RAW_DIR, DATA_PROCESSED_DIR, WM2026_TEAMS
+from config import DATA_RAW_DIR, DATA_PROCESSED_DIR, WM2026_TEAMS, display_path
 
 STATS_DIR = DATA_RAW_DIR / "stats"
 RANKING_CSV = DATA_RAW_DIR / "elo_ratings_wc2026.csv"
@@ -258,24 +258,31 @@ def compute_h2h(history_a: list, fifa_name_b: str, before_date: str) -> dict:
 
 
 def main():
+    line = "=" * 60
+    print("\n\n" + line)
+    print(" FEATURE ENGINEERING - build_features.py")
+    print(line)
+
     team_id_cache = load_team_id_cache()
     id_to_fifa_name = {v: k for k, v in team_id_cache.items()}
     ranking_by_year = load_ranking_ratings()
 
-    print("Baue Spielhistorien pro Team...")
     histories = {}
+    missing_teams = []
     for fifa_name in WM2026_TEAMS:
         if fifa_name not in team_id_cache:
-            print(f"  WARNUNG: keine Team-ID für {fifa_name} - übersprungen.")
+            missing_teams.append(fifa_name)
             continue
         own_id = team_id_cache[fifa_name]
         histories[fifa_name] = build_team_match_history(fifa_name, own_id, id_to_fifa_name)
 
-    print(f"  {len(histories)} Teams mit Historie geladen.\n")
-    print("Suche Spiele zwischen zwei WM-2026-Teams und berechne Features...")
+    print(f"Teams mit Historie: {len(histories)} / {len(WM2026_TEAMS)}")
+    if missing_teams:
+        print(f"  WARNUNG: keine Team-ID für: {', '.join(missing_teams)}")
 
     rows = []
     seen_fixture_ids = set()
+    skipped_no_history = 0
 
     for fifa_name, history in histories.items():
         for game in history:
@@ -293,6 +300,7 @@ def main():
             feat_a = compute_rolling_features(history, match_date)
             feat_b = compute_rolling_features(histories[opponent], match_date)
             if feat_a is None or feat_b is None:
+                skipped_no_history += 1
                 continue  # zu wenig Historie vor diesem Spiel
 
             h2h = compute_h2h(history, opponent, match_date)
@@ -319,10 +327,10 @@ def main():
 
             rows.append(row)
 
-    print(f"\n{len(rows)} Spiele zwischen WM-2026-Teams mit ausreichend Historie gefunden.")
+    print(f"Spiele gefunden: {len(rows)}  (übersprungen mangels Historie: {skipped_no_history})")
 
     if not rows:
-        print("Keine Zeilen zum Speichern - Abbruch.")
+        print("\nKeine Zeilen zum Speichern - Abbruch.")
         return
 
     output_file = DATA_PROCESSED_DIR / "match_features.csv"
@@ -332,7 +340,8 @@ def main():
         writer.writeheader()
         writer.writerows(rows)
 
-    print(f"Gespeichert: {output_file}")
+    print(f"Gespeichert: {display_path(output_file)}  ({len(rows)} Zeilen x {len(fieldnames)} Spalten)")
+    print(line)
 
 
 if __name__ == "__main__":
