@@ -1,10 +1,13 @@
 """
-Feature Engineering: baut aus den Rohdaten (Fixtures, Match-Stats, Elo-Ratings)
-eine Trainings-Tabelle für das Random-Forest-Modell.
+Feature Engineering: baut aus den Rohdaten (Fixtures, Match-Stats, Ranking)
+eine Trainings-Tabelle für die Random-Forest-Modelle.
 
 WICHTIG (Data Leakage vermeiden): Für jedes historische Spiel zwischen zwei
-WM-2026-Teams werden Formkurve/Stats/Elo NUR aus Daten berechnet, die vor dem
-jeweiligen Spieldatum verfügbar waren - nie aus der Zukunft dieses Spiels.
+WM-2026-Teams werden Formkurve/Stats/Ranking NUR aus Daten berechnet, die vor
+dem jeweiligen Spieldatum verfügbar waren - nie aus der Zukunft dieses Spiels.
+
+Enthält auch die Lade-/Filter-Utilities für Fixtures (ehem. data_utils.py) -
+zusammengeführt, da sie ausschliesslich hier verwendet wurden.
 
 Input:
   - data/raw/fixtures_*.json (Spiele pro Team)
@@ -23,16 +26,20 @@ import json
 from pathlib import Path
 
 from config import DATA_RAW_DIR, DATA_PROCESSED_DIR, WM2026_TEAMS
-from data_utils import load_filtered_team_fixtures
 
 STATS_DIR = DATA_RAW_DIR / "stats"
-ELO_CSV = DATA_RAW_DIR / "elo_ratings_wc2026.csv"
+RANKING_CSV = DATA_RAW_DIR / "elo_ratings_wc2026.csv"
 TEAM_ID_CACHE_FILE = DATA_RAW_DIR / "team_ids.json"
 
 FORM_WINDOW = 5  # letzte N Spiele für Formkurve und Stats-Schnitt
 
-# Unser FIFA-Teamname -> Name in der Elo-CSV (weicht bei manchen Teams ab)
-ELO_NAME_MAP = {
+# Die WM 2026 läuft ab diesem Datum - per Default schliessen wir diese Spiele
+# aus den Trainingsdaten aus, da sie das eigentliche Vorhersageziel sind und
+# nicht als "historische Formkurve" ins Modell einfliessen sollen.
+WM2026_START_DATE = "2026-06-19"
+
+# Unser FIFA-Teamname -> Name in der Ranking-CSV (weicht bei manchen Teams ab)
+RANKING_NAME_MAP = {
     "IR Iran": "Iran",
     "Korea Republic": "South Korea",
     "Cabo Verde": "Cape Verde",
@@ -51,14 +58,59 @@ STATS_TYPES = {
 }
 
 
+# ---------------------------------------------------------------------------
+# Laden & Filtern der Fixtures (ehem. data_utils.py)
+# ---------------------------------------------------------------------------
+
+def load_team_fixtures(fifa_team_name: str) -> list:
+    """Lädt die gespeicherten Rohdaten (alle abgerufenen Saisons) für ein Team."""
+    fixtures_file = DATA_RAW_DIR / f"fixtures_{fifa_team_name.replace(' ', '_')}.json"
+    if not fixtures_file.exists():
+        return []
+    try:
+        return json.loads(fixtures_file.read_text(encoding="utf-8"))
+    except UnicodeDecodeError:
+        # Ältere Dateien (vor Encoding-Fix) wurden mit cp1252 statt UTF-8 gespeichert
+        return json.loads(fixtures_file.read_text(encoding="cp1252"))
+
+
+def filter_fixtures(fixtures: list, include_wm2026: bool = False, cutoff_date: str = WM2026_START_DATE) -> list:
+    """Filtert eine Liste von Fixtures nach dem WM-2026-Cutoff-Datum.
+
+    Falls include_wm2026=False (Default), werden Spiele ab cutoff_date entfernt.
+    Falls True, bleiben alle Spiele erhalten (z.B. für einen Dashboard-Toggle,
+    der WM-2026-Resultate testweise einbeziehen will).
+    """
+    if include_wm2026:
+        return fixtures
+
+    filtered = []
+    for fx in fixtures:
+        match_date = fx.get("fixture", {}).get("date", "")
+        # match_date hat Format "2026-06-19T18:00:00+00:00" - String-Vergleich reicht hier
+        if match_date and match_date[:10] < cutoff_date:
+            filtered.append(fx)
+    return filtered
+
+
+def load_filtered_team_fixtures(fifa_team_name: str, include_wm2026: bool = False) -> list:
+    """Komfort-Funktion: lädt und filtert in einem Schritt."""
+    fixtures = load_team_fixtures(fifa_team_name)
+    return filter_fixtures(fixtures, include_wm2026=include_wm2026)
+
+
+# ---------------------------------------------------------------------------
+# Team-IDs & Ranking (Elo)
+# ---------------------------------------------------------------------------
+
 def load_team_id_cache() -> dict:
     return json.loads(TEAM_ID_CACHE_FILE.read_text(encoding="utf-8"))
 
 
-def load_elo_ratings() -> dict:
-    """Liest die Elo-CSV ein: {year: {country_name: rating}}"""
-    elo_by_year = {}
-    with open(ELO_CSV, encoding="utf-8") as f:
+def load_ranking_ratings() -> dict:
+    """Liest die Ranking-CSV (Elo-Ratings) ein: {year: {country_name: rating}}"""
+    ranking_by_year = {}
+    with open(RANKING_CSV, encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
             year = int(row["year"])
@@ -67,19 +119,23 @@ def load_elo_ratings() -> dict:
                 rating = float(row["rating"])
             except (ValueError, TypeError):
                 continue
-            elo_by_year.setdefault(year, {})[country] = rating
-    return elo_by_year
+            ranking_by_year.setdefault(year, {})[country] = rating
+    return ranking_by_year
 
 
-def get_elo(elo_by_year: dict, fifa_name: str, year: int):
-    """Holt das Elo-Rating für ein Team im gegebenen Jahr, sonst das letzte
-    verfügbare Jahr davor (falls für dieses exakte Jahr nichts vorliegt)."""
-    elo_name = ELO_NAME_MAP.get(fifa_name, fifa_name)
+def get_ranking(ranking_by_year: dict, fifa_name: str, year: int):
+    """Holt das Ranking (Elo-Rating) für ein Team im gegebenen Jahr, sonst das
+    letzte verfügbare Jahr davor (falls für dieses exakte Jahr nichts vorliegt)."""
+    ranking_name = RANKING_NAME_MAP.get(fifa_name, fifa_name)
     for y in range(year, 1900, -1):
-        if y in elo_by_year and elo_name in elo_by_year[y]:
-            return elo_by_year[y][elo_name]
+        if y in ranking_by_year and ranking_name in ranking_by_year[y]:
+            return ranking_by_year[y][ranking_name]
     return None
 
+
+# ---------------------------------------------------------------------------
+# Match-Stats & Spielhistorie
+# ---------------------------------------------------------------------------
 
 def parse_match_stats(fixture_id, team_api_id) -> dict:
     """Liest die Match-Stats-Datei eines Fixtures und gibt die Werte für EIN
@@ -113,10 +169,13 @@ def parse_match_stats(fixture_id, team_api_id) -> dict:
     return result
 
 
-def build_team_match_history(fifa_name: str, own_id: int, id_to_fifa_name: dict) -> list:
+def build_team_match_history(fifa_name: str, own_id: int, id_to_fifa_name: dict, include_wm2026: bool = False) -> list:
     """Baut die chronologische Spielhistorie eines Teams aus TEAM-Sicht auf
-    (nicht Heim/Auswärts-Rohdaten), inkl. Ergebnis, Gegner und Stats."""
-    fixtures = load_filtered_team_fixtures(fifa_name, include_wm2026=False)
+    (nicht Heim/Auswärts-Rohdaten), inkl. Ergebnis, Gegner und Stats.
+
+    include_wm2026: Falls True, werden auch bereits gespielte WM-2026-Partien
+    einbezogen (relevant für den Dashboard-Toggle bei aktuellen Vorhersagen)."""
+    fixtures = load_filtered_team_fixtures(fifa_name, include_wm2026=include_wm2026)
 
     history = []
     for fx in fixtures:
@@ -201,7 +260,7 @@ def compute_h2h(history_a: list, fifa_name_b: str, before_date: str) -> dict:
 def main():
     team_id_cache = load_team_id_cache()
     id_to_fifa_name = {v: k for k, v in team_id_cache.items()}
-    elo_by_year = load_elo_ratings()
+    ranking_by_year = load_ranking_ratings()
 
     print("Baue Spielhistorien pro Team...")
     histories = {}
@@ -238,8 +297,8 @@ def main():
 
             h2h = compute_h2h(history, opponent, match_date)
             year = int(match_date[:4])
-            elo_a = get_elo(elo_by_year, fifa_name, year)
-            elo_b = get_elo(elo_by_year, opponent, year)
+            ranking_a = get_ranking(ranking_by_year, fifa_name, year)
+            ranking_b = get_ranking(ranking_by_year, opponent, year)
 
             row = {
                 "fixture_id": fixture_id,
@@ -254,9 +313,9 @@ def main():
             row.update({f"a_{k}": v for k, v in feat_a.items()})
             row.update({f"b_{k}": v for k, v in feat_b.items()})
             row.update(h2h)
-            row["elo_a"] = elo_a
-            row["elo_b"] = elo_b
-            row["elo_diff"] = (elo_a - elo_b) if (elo_a is not None and elo_b is not None) else None
+            row["ranking_a"] = ranking_a
+            row["ranking_b"] = ranking_b
+            row["ranking_diff"] = (ranking_a - ranking_b) if (ranking_a is not None and ranking_b is not None) else None
 
             rows.append(row)
 

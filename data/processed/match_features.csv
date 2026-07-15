@@ -1,4 +1,4 @@
-fixture_id,date,team_a,team_b,a_is_home,goals_a,goals_b,result,a_form_points,a_form_games_count,a_goals_for_avg,a_goals_against_avg,a_possession_avg,a_shots_total_avg,a_shots_on_goal_avg,a_corners_avg,b_form_points,b_form_games_count,b_goals_for_avg,b_goals_against_avg,b_possession_avg,b_shots_total_avg,b_shots_on_goal_avg,b_corners_avg,h2h_games,h2h_a_wins,h2h_a_draws,h2h_a_losses,elo_a,elo_b,elo_diff
+fixture_id,date,team_a,team_b,a_is_home,goals_a,goals_b,result,a_form_points,a_form_games_count,a_goals_for_avg,a_goals_against_avg,a_possession_avg,a_shots_total_avg,a_shots_on_goal_avg,a_corners_avg,b_form_points,b_form_games_count,b_goals_for_avg,b_goals_against_avg,b_possession_avg,b_shots_total_avg,b_shots_on_goal_avg,b_corners_avg,h2h_games,h2h_a_wins,h2h_a_draws,h2h_a_losses,ranking_a,ranking_b,ranking_diff
 256322,2016-03-26,Canada,Mexico,True,0,3,B,11,5,1.8,0.2,,,,,6,2,2.5,0.0,,,,,0,0,0,0,1516.0,1911.0,-395.0
 256328,2016-03-30,Canada,Mexico,False,0,2,B,8,5,1.0,0.8,,,,,9,3,2.67,0.0,,,,,1,0,0,1,1516.0,1911.0,-395.0
 225362,2018-03-24,Canada,New Zealand,True,1,0,A,4,5,0.8,1.6,,,,,8,5,2.0,1.0,39.0,4.0,0.0,4.5,0,0,0,0,1546.0,1502.0,44.0

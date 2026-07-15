@@ -15,5 +15,9 @@ data/processed/*.csv
 # Streamlit
 .streamlit/
 
+# Interne Fortschritts-Notizen (nicht fürs Repo gedacht)
+progress.md
+docs/KIP_Dokumenation.md
+
 # OS
 .DS_Store
