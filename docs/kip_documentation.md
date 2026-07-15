@@ -337,3 +337,74 @@ Bewusst NICHT geändert:
 
 **Outcome:**
 Refactoring eigenständig mit Claude Code durchgeführt, ohne Rückfrage im Chat.
+
+---
+
+
+### 15.07.2026 – Konsolidierung der Einzel-Skripte
+
+**Modell:** Claude
+
+**Prompt:**
+Rückmeldung gegeben, dass mittlerweile zu viele einzelne Skripte im Projekt vorhanden sind, und gefragt, ob sich das zusammenführen lässt.
+
+**Übernommen / angepasst / verworfen:**
+Drei Zusammenführungen von Claude vorgeschlagen und übernommen:
+
+* `fetch_data.py` + `fetch_match_stats.py` → **`fetch_data.py`** (Phase 1: Fixtures, Phase 2: Match-Stats, in einem `main()`-Durchlauf)
+* `data_utils.py` (nur von `build_features.py` genutzt) → Funktionen direkt in **`build_features.py`** integriert, `data_utils.py` entfernt
+* `train_model.py` + `train_goals_model.py` → **`train_models.py`** (gemeinsame Datenlade-/Split-/Imputations-Logik, trainiert Klassifikator und Regressor nacheinander)
+
+`config.py` bewusst unverändert gelassen (reine Konstanten/Pfade, macht als eigene Datei weiterhin Sinn).
+
+**Eigene Entscheidungen:**
+–
+
+**Probleme:**
+–
+
+**Outcome:**
+Von 7 auf 4 Skripte reduziert (`config.py`, `fetch_data.py`, `build_features.py`, `train_models.py`). Alle drei zusammengeführten Skripte vor Auslieferung gegen Mock-Daten getestet (Syntax + Ausführung), keine inhaltliche Änderung an der bisherigen Logik – bereits abgerufene/berechnete Daten (Fixtures, Match-Stats, `match_features.csv`, trainierte Modelle) mussten daher nicht neu erzeugt werden.
+
+
+### 15.07.2026 – Tore-Regressor als Ergänzung zum Klassifikator
+
+**Modell:** Claude
+
+**Prompt:**
+Nachfrage gestellt, ob das Modell auch Spielstände (Tore pro Team) vorhersagen kann, nicht nur Sieg/Unentschieden/Niederlage. Auf Rückfrage entschieden, ein zusätzliches Regressionsmodell dafür zu bauen.
+
+**Übernommen / angepasst / verworfen:**
+Neues Skript `train_goals_model.py` (später in `train_models.py` zusammengeführt) von Claude vorgeschlagen und übernommen: `RandomForestRegressor` mit nativem Multi-Output (`goals_a` + `goals_b` in einem Modell), gleicher chronologischer Split und gleiche Median-Imputation wie beim Klassifikator, damit die Ergebnisse vergleichbar bleiben.
+
+**Eigene Entscheidungen:**
+Bewusste Scope-Erweiterung gegenüber dem Exposé – dort war nur "wahrscheinlicher Sieger + Siegwahrscheinlichkeit" geplant, nicht die konkrete Toranzahl. Regressor ergänzt den Klassifikator, ersetzt ihn nicht (beide Outputs sollen später im Dashboard nebeneinander erscheinen).
+
+Methodische Entscheidung: Random Forest Regressor statt der in der Fussball-Analytik "klassischen" Poisson-Regression (die statistisch für Zähldaten wie Tore eigentlich passender wäre) – begründet mit Konsistenz zum Rest des Projekts (Random Forest ist bereits das Kernmodell) und der Fähigkeit, nichtlineare Interaktionseffekte zwischen Features abzubilden, statt ein zweites Modell-Framework einzuführen.
+
+**Probleme:**
+–
+
+**Outcome:**
+Modell trainiert und gespeichert (`goals_regressor_model.pkl`, `goals_imputer.pkl`, `goals_feature_columns.json`). Aus den vorhergesagten Toren zusätzlich ein abgeleitetes Ergebnis (A/Draw/B) berechnet, nur als Cross-Check gegen den Klassifikator, nicht als Ersatz für die Dashboard-Siegwahrscheinlichkeit.
+
+---
+
+### 15.07.2026 – Baseline-Vergleich im Regression Report
+
+**Modell:** Claude Code
+
+**Prompt:**
+Eigenständig (ohne Claude-Chat) mit Claude Code durchgeführt: Regression Report um einen Baseline-Vergleich (naive Vorhersage = Mittelwert aus Trainingsdaten) sowie einen Check auf negative Torprognosen ergänzt.
+
+**Übernommen / angepasst / verworfen:**
+Baseline berechnet als konstante Vorhersage (Mittelwert von `goals_a`/`goals_b` aus dem Trainingsset), MAE/RMSE davon neben die Modell-Werte gestellt. Zusätzlich Anzahl negativer Torprognosen im Testset ausgegeben (Random Forest könnte theoretisch <0 vorhersagen, auch wenn das fachlich unmöglich ist).
+
+**Eigene Entscheidungen:**
+Baseline-Vergleich bewusst beibehalten (Diskussion mit Claude, ob nötig): zeigt, dass das Modell tatsächlich etwas gelernt hat und nicht nur ähnlich gut ist wie "einfach den Durchschnitt vorhersagen" – Standardpraxis in der ML-Validierung, relevant fürs Bewertungskriterium Qualitätssicherung.
+
+**Probleme:**
+–
+
+**Outcome:**
+Regression Report zeigt jetzt Modell- und Baseline-MAE/RMSE nebeneinander sowie die Anzahl negativer Vorhersagen; Rundung auf ganze Tore bewusst nicht hier, sondern erst später in der Dashboard-Anzeige vorgesehen (Rohwerte bleiben für die Fehlermetrik unverändert).

@@ -27,6 +27,13 @@ DATA_PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
 DATA_RAW_DIR.mkdir(parents=True, exist_ok=True)
 DATA_PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 
+
+def display_path(path) -> str:
+    """Formatiert einen Pfad fürs Konsolen-Log relativ zum Projekt-Root,
+    z.B. '.\\wm2026-predictor\\models\\model.pkl' statt dem vollen Pfad."""
+    rel = Path(path).resolve().relative_to(PROJECT_ROOT)
+    return f".\\{PROJECT_ROOT.name}\\{rel}"
+
 # Alle 48 WM-2026-Teams (offizielle FIFA-Bezeichnung -> Liste möglicher API-Football-Suchnamen).
 # Bei manchen Ländern weicht der API-Football-Name leicht von der FIFA-Bezeichnung ab, oder
 # es ist unklar, welche Schreibweise API-Football intern nutzt - deshalb mehrere Kandidaten
