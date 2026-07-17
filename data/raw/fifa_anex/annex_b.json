@@ -1,0 +1,136 @@
+{
+  "annex": "B",
+  "title": "Fair Play Contest Regulations",
+  "competition": "FIFA World Cup 2026",
+  "source_file": "FWC2026_Annex_B.pdf",
+  "printed_pages": "75-79",
+  "general": [
+    {
+      "article": "I.1",
+      "rule": "FIFA conducts a fair play contest based on an appraisal of team conduct by a FIFA delegate."
+    },
+    {
+      "article": "I.2",
+      "rule": "The objective is to foster a sporting spirit among players, team officials and spectators."
+    },
+    {
+      "article": "I.3",
+      "rule": "After each match, the delegate completes the fair play form after consulting the referee and referee assessor."
+    },
+    {
+      "article": "I.4",
+      "rule": "Every match in the final competition is taken into account."
+    },
+    {
+      "article": "I.5",
+      "rule": "FIFA compiles and publishes the final classification; its decision is final."
+    },
+    {
+      "article": "I.6",
+      "rule": "The winning association receives a football-related social-development campaign with a budget of up to USD 50,000."
+    }
+  ],
+  "criteria": {
+    "cards": {
+      "article": "II.2",
+      "name": "Red and yellow cards",
+      "maximum_points": 10,
+      "minimum_points": null,
+      "calculation": "Start at 10 points and subtract the applicable deductions.",
+      "deductions": {
+        "first_yellow": 1,
+        "second_yellow_indirect_red": 3,
+        "direct_red": 4,
+        "yellow_and_direct_red": 5
+      },
+      "note": "This is the only criterion that can entail minus points."
+    },
+    "positive_play": {
+      "article": "II.3",
+      "name": "Positive play",
+      "minimum_points": 1,
+      "maximum_points": 10,
+      "positive_aspects": [
+        "Attacking rather than defensive tactics",
+        "Speeding up the game",
+        "Continuing to attempt to score even after the desired result has effectively been achieved"
+      ],
+      "negative_aspects": [
+        "Tactics relying on rough play",
+        "Play-acting",
+        "Time-wasting"
+      ],
+      "note": "Positive play is generally correlated with scoring chances created and goals scored."
+    },
+    "respect_opponent": {
+      "article": "II.4",
+      "name": "Respect towards the opponent",
+      "minimum_points": 1,
+      "maximum_points": 5,
+      "default_faultless_without_positive_gesture": 4,
+      "note": "Avoid duplicating the card assessment; focus on positive attitudes such as helping an injured opponent."
+    },
+    "respect_match_officials": {
+      "article": "II.5",
+      "name": "Respect towards the referee/match officials",
+      "minimum_points": 1,
+      "maximum_points": 5,
+      "default_faultless_without_positive_gesture": 4,
+      "note": "Acceptance of decisions without protest should be rewarded."
+    },
+    "team_officials": {
+      "article": "II.6",
+      "name": "Behaviour of the team officials",
+      "minimum_points": 1,
+      "maximum_points": 5,
+      "default_faultless_without_positive_gesture": 4,
+      "note": "Includes sporting, technical, tactical and ethical conduct, calming players, acceptance of decisions and media cooperation."
+    },
+    "crowd": {
+      "article": "II.7",
+      "name": "Behaviour of the crowd",
+      "minimum_points": 1,
+      "maximum_points": 5,
+      "not_applicable_value": null,
+      "note": "Use n.a. when the number of supporting fans is negligible; in that case the maximum match total is 35 instead of 40."
+    }
+  },
+  "final_assessment": {
+    "article": "III.1",
+    "formula": "(sum of criterion points / maximum possible points) * 1000",
+    "maximum_with_crowd": 40,
+    "maximum_without_crowd": 35,
+    "examples": [
+      {
+        "criterion_points": [
+          8,
+          7,
+          3,
+          4,
+          5,
+          4
+        ],
+        "total": 31,
+        "maximum": 40,
+        "score": 775
+      },
+      {
+        "criterion_points": [
+          7,
+          8,
+          2,
+          5,
+          2
+        ],
+        "total": 24,
+        "maximum": 35,
+        "score": 686
+      }
+    ],
+    "overall_competition_score": "Average of the match assessments over the number of matches played."
+  },
+  "eligibility": {
+    "article": "III.2",
+    "rule": "Teams eliminated after the group stage are excluded from the fair play contest."
+  }
+}

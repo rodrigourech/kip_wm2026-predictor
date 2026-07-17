@@ -25,13 +25,14 @@ import csv
 import json
 from pathlib import Path
 
-from config import DATA_RAW_DIR, DATA_PROCESSED_DIR, WM2026_TEAMS, display_path
+from config import DATA_RAW_DIR, DATA_PROCESSED_DIR, WM2026_TEAMS
 
 STATS_DIR = DATA_RAW_DIR / "stats"
 RANKING_CSV = DATA_RAW_DIR / "elo_ratings_wc2026.csv"
 TEAM_ID_CACHE_FILE = DATA_RAW_DIR / "team_ids.json"
 
-FORM_WINDOW = 5  # letzte N Spiele für Formkurve und Stats-Schnitt
+DECAY_FACTOR = 0.87  # Gewichtsfaktor pro Spiel zurück, entspricht Halbwertszeit ~5 Spiele
+# (0.87^5 ≈ 0.50 - ein Spiel vor 5 Spielen zählt noch halb so stark wie das letzte)
 
 # Die WM 2026 läuft ab diesem Datum - per Default schliessen wir diese Spiele
 # aus den Trainingsdaten aus, da sie das eigentliche Vorhersageziel sind und
@@ -213,6 +214,7 @@ def build_team_match_history(fifa_name: str, own_id: int, id_to_fifa_name: dict,
             "date": date_str[:10],
             "is_home": is_home,
             "opponent_fifa_name": opponent_fifa_name,  # None, falls kein WM-2026-Team
+            "opponent_name": opp_side.get("name", "Unbekannt"),  # roher API-Name, immer vorhanden
             "goals_for": own_goals,
             "goals_against": opp_goals,
             "points": points,
@@ -223,27 +225,52 @@ def build_team_match_history(fifa_name: str, own_id: int, id_to_fifa_name: dict,
     return history
 
 
-def compute_rolling_features(history: list, before_date: str, window: int = FORM_WINDOW):
-    """Formkurve/Tordurchschnitt/Stats-Schnitt aus den letzten `window` Spielen
-    VOR before_date. Gibt None zurück, falls keine Historie vorhanden ist."""
-    past_games = [g for g in history if g["date"] < before_date][-window:]
+def compute_rolling_features(history: list, before_date: str, decay: float = DECAY_FACTOR):
+    """Formkurve/Tordurchschnitt/Stats-Schnitt als exponentiell gewichteter
+    Durchschnitt (EWMA) über die GESAMTE verfügbare Historie vor before_date -
+    kein fester Fenster-Cutoff mehr, sondern neuere Spiele zählen graduell mehr
+    als ältere. Methodisch konsistent mit dem Prinzip von Elo-Ratings.
 
+    Gibt None zurück, falls keine Historie vorhanden ist.
+    """
+    past_games = [g for g in history if g["date"] < before_date]
     if not past_games:
         return None
 
-    n = len(past_games)
+    # Neuestes Spiel zuerst, damit Gewicht[0] = neuestes Spiel (höchstes Gewicht)
+    past_games_desc = list(reversed(past_games))
+    weights = [decay ** i for i in range(len(past_games_desc))]
+
+    def weighted_avg(pairs):
+        """pairs: Liste von (wert, gewicht) - überspringt Spiele ohne diesen Wert."""
+        num = sum(v * w for v, w in pairs)
+        denom = sum(w for _, w in pairs)
+        return num / denom if denom > 0 else None
+
+    form_points = weighted_avg(list(zip((g["points"] for g in past_games_desc), weights)))
+    goals_for_avg = weighted_avg(list(zip((g["goals_for"] for g in past_games_desc), weights)))
+    goals_against_avg = weighted_avg(list(zip((g["goals_against"] for g in past_games_desc), weights)))
+
     features = {
-        "form_points": sum(g["points"] for g in past_games),
-        "form_games_count": n,
-        "goals_for_avg": round(sum(g["goals_for"] for g in past_games) / n, 2),
-        "goals_against_avg": round(sum(g["goals_against"] for g in past_games) / n, 2),
+        "form_points": round(form_points, 2) if form_points is not None else None,
+        "form_games_count": len(past_games_desc),  # Total verfügbare Spiele (nicht mehr "Fenstergrösse")
+        "goals_for_avg": round(goals_for_avg, 2) if goals_for_avg is not None else None,
+        "goals_against_avg": round(goals_against_avg, 2) if goals_against_avg is not None else None,
     }
 
     for stat_key in STATS_TYPES.values():
-        values = [g[stat_key] for g in past_games if stat_key in g]
-        features[f"{stat_key}_avg"] = round(sum(values) / len(values), 2) if values else None
+        pairs = [(g[stat_key], w) for g, w in zip(past_games_desc, weights) if stat_key in g]
+        val = weighted_avg(pairs) if pairs else None
+        features[f"{stat_key}_avg"] = round(val, 2) if val is not None else None
 
     return features
+
+
+def get_h2h_matches(history_a: list, fifa_name_b: str, before_date: str) -> list:
+    """Gibt die einzelnen H2H-Spiele (chronologisch, neuestes zuerst) zurück,
+    inkl. Datum und Resultat aus Sicht von Team A - für Detail-Anzeigen."""
+    matches = [g for g in history_a if g["opponent_fifa_name"] == fifa_name_b and g["date"] < before_date]
+    return sorted(matches, key=lambda g: g["date"], reverse=True)
 
 
 def compute_h2h(history_a: list, fifa_name_b: str, before_date: str) -> dict:
@@ -258,31 +285,24 @@ def compute_h2h(history_a: list, fifa_name_b: str, before_date: str) -> dict:
 
 
 def main():
-    line = "=" * 60
-    print("\n\n" + line)
-    print(" FEATURE ENGINEERING - build_features.py")
-    print(line)
-
     team_id_cache = load_team_id_cache()
     id_to_fifa_name = {v: k for k, v in team_id_cache.items()}
     ranking_by_year = load_ranking_ratings()
 
+    print("Baue Spielhistorien pro Team...")
     histories = {}
-    missing_teams = []
     for fifa_name in WM2026_TEAMS:
         if fifa_name not in team_id_cache:
-            missing_teams.append(fifa_name)
+            print(f"  WARNUNG: keine Team-ID für {fifa_name} - übersprungen.")
             continue
         own_id = team_id_cache[fifa_name]
         histories[fifa_name] = build_team_match_history(fifa_name, own_id, id_to_fifa_name)
 
-    print(f"Teams mit Historie: {len(histories)} / {len(WM2026_TEAMS)}")
-    if missing_teams:
-        print(f"  WARNUNG: keine Team-ID für: {', '.join(missing_teams)}")
+    print(f"  {len(histories)} Teams mit Historie geladen.\n")
+    print("Suche Spiele zwischen zwei WM-2026-Teams und berechne Features...")
 
     rows = []
     seen_fixture_ids = set()
-    skipped_no_history = 0
 
     for fifa_name, history in histories.items():
         for game in history:
@@ -300,7 +320,6 @@ def main():
             feat_a = compute_rolling_features(history, match_date)
             feat_b = compute_rolling_features(histories[opponent], match_date)
             if feat_a is None or feat_b is None:
-                skipped_no_history += 1
                 continue  # zu wenig Historie vor diesem Spiel
 
             h2h = compute_h2h(history, opponent, match_date)
@@ -327,10 +346,10 @@ def main():
 
             rows.append(row)
 
-    print(f"Spiele gefunden: {len(rows)}  (übersprungen mangels Historie: {skipped_no_history})")
+    print(f"\n{len(rows)} Spiele zwischen WM-2026-Teams mit ausreichend Historie gefunden.")
 
     if not rows:
-        print("\nKeine Zeilen zum Speichern - Abbruch.")
+        print("Keine Zeilen zum Speichern - Abbruch.")
         return
 
     output_file = DATA_PROCESSED_DIR / "match_features.csv"
@@ -340,8 +359,7 @@ def main():
         writer.writeheader()
         writer.writerows(rows)
 
-    print(f"Gespeichert: {display_path(output_file)}  ({len(rows)} Zeilen x {len(fieldnames)} Spalten)")
-    print(line)
+    print(f"Gespeichert: {output_file}")
 
 
 if __name__ == "__main__":

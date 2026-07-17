@@ -259,6 +259,56 @@ def fetch_all_match_stats():
         print(f"Wegen Netzwerkfehlern übersprungen (werden beim nächsten Lauf erneut versucht): {failed}")
 
 
+def refresh_current_season(season: int = 2026):
+    """Aktualisiert NUR die aktuelle Saison für alle Teams - holt neu gespielte
+    Spiele (z.B. laufende WM-2026-Partien) nach und fügt sie in die bestehenden
+    Dateien ein (dedupliziert über Fixture-ID), OHNE die vorhandene Historie zu
+    löschen. Im Gegensatz zu fetch_all_fixtures() wird hier nicht übersprungen,
+    nur weil die Datei schon existiert - genau das ist ja der Zweck."""
+    print("=" * 60)
+    print(f"REFRESH: Saison {season} für alle Teams aktualisieren")
+    print("=" * 60)
+
+    team_id_cache = load_team_id_cache()
+
+    for fifa_name in WM2026_TEAMS:
+        if fifa_name not in team_id_cache:
+            print(f"[skip] {fifa_name}: keine Team-ID im Cache - erst fetch_all_fixtures() laufen lassen.")
+            continue
+
+        team_id = team_id_cache[fifa_name]
+        data = _get("fixtures", {"team": team_id, "season": season})
+        new_fixtures = data.get("response", [])
+        time.sleep(SLEEP_BETWEEN_CALLS)
+
+        fixtures_file = DATA_RAW_DIR / f"fixtures_{fifa_name.replace(' ', '_')}.json"
+        if fixtures_file.exists() and fixtures_file.stat().st_size > 0:
+            try:
+                existing = _read_json_robust(fixtures_file)
+            except json.JSONDecodeError:
+                existing = []
+        else:
+            existing = []
+
+        by_id = {fx.get("fixture", {}).get("id"): fx for fx in existing}
+        added = 0
+        for fx in new_fixtures:
+            fx_id = fx.get("fixture", {}).get("id")
+            if fx_id is not None and fx_id not in by_id:
+                by_id[fx_id] = fx
+                added += 1
+
+        merged = list(by_id.values())
+        merged.sort(key=lambda fx: fx.get("fixture", {}).get("date", ""), reverse=True)
+        fixtures_file.write_text(json.dumps(merged, indent=2, ensure_ascii=False), encoding="utf-8")
+
+        marker = "NEU" if added else "keine Änderung"
+        print(f"[{marker}] {fifa_name}: {added} neue Spiele hinzugefügt (total jetzt {len(merged)})")
+
+    print("\nRefresh der Fixtures fertig. Jetzt noch Match-Stats für neue Spiele nachholen:")
+    fetch_all_match_stats()
+
+
 def main():
     fetch_all_fixtures()
     fetch_all_match_stats()
@@ -266,4 +316,7 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    if "--refresh" in sys.argv:
+        refresh_current_season()
+    else:
+        main()
