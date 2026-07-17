@@ -408,3 +408,117 @@ Baseline-Vergleich bewusst beibehalten (Diskussion mit Claude, ob nötig): zeigt
 
 **Outcome:**
 Regression Report zeigt jetzt Modell- und Baseline-MAE/RMSE nebeneinander sowie die Anzahl negativer Vorhersagen; Rundung auf ganze Tore bewusst nicht hier, sondern erst später in der Dashboard-Anzeige vorgesehen (Rohwerte bleiben für die Fehlermetrik unverändert).
+
+
+---
+
+### 15.07.2026 – Streamlit-Dashboard: Grundgerüst
+
+**Modell:** Claude
+
+**Prompt:**
+Aufbau des Streamlit-Dashboards angefordert: zwei Teams auswählen, Sieg-Wahrscheinlichkeit (Klassifikator) und erwartetes Ergebnis (Tore-Regressor) anzeigen, WM-2026-Toggle einbauen.
+
+**Übernommen / angepasst / verworfen:**
+`app/dashboard.py` von Claude erstellt und übernommen. Nutzt dieselben Funktionen aus `build_features.py` wie Notebook (`build_team_match_history`, `compute_rolling_features`, `compute_h2h`, `get_ranking`), keine Logik-Duplikation. Modelle und Referenzdaten via `@st.cache_resource`/`@st.cache_data` gecached.
+
+**Eigene Entscheidungen:**
+Torzahlen für die Anzeige gerundet, Rohwert zusätzlich klein daneben angezeigt (Rundung bewusst nur in der UI, nicht in der Modell-Evaluation).
+
+**Probleme:**
+`use_container_width` bei `st.image()` nicht kompatibel mit der lokal installierten Streamlit-Version – durch `use_column_width` ersetzt.
+
+**Outcome:**
+Funktionierendes Grundgerüst mit Team-Auswahl, Vorhersage, Sieg-Wahrscheinlichkeit und Feature-Importance-Chart.
+
+---
+
+### 15.07.2026 – Umstellung Formkurve/Stats auf EWMA (statt festem Fenster)
+
+**Modell:** Claude
+
+**Prompt:**
+Hinterfragt, ob ein festes Fenster von 5 (bzw. 10) Spielen für Formkurve und Match-Stats-Durchschnitte statistisch fundiert genug ist, angesichts der Datenlücken bei Match-Stats (~39% fehlend) und der Frage, ob mehr historische Daten einen fundierteren Ansatz ermöglichen würden.
+
+**Übernommen / angepasst / verworfen:**
+`compute_rolling_features()` in `build_features.py` umgebaut: exponentiell gewichteter Durchschnitt (EWMA) über die **komplette verfügbare Historie** statt festem Fenster-Cutoff. Decay-Faktor 0.87 (Halbwertszeit ≈ 5 Spiele), methodisch konsistent mit dem Funktionsprinzip von Elo-Ratings.
+
+**Eigene Entscheidungen:**
+Bewusst gegen die einfachere "Option 2" (zwei getrennte feste Fenster für Form vs. Stats) entschieden, zugunsten der methodisch saubereren EWMA-Lösung – mehr Aufwand (Feature-Tabelle und beide Modelle mussten neu erzeugt werden), aber fundierter begründbar.
+
+**Probleme:**
+`form_points` ist durch die Umstellung jetzt ein gewichteter Durchschnitt (Skala 0–3) statt einer Summe (Skala 0–15) – Semantikänderung, an keiner weiteren Stelle im Code Anpassung nötig (Dashboard/Notebook rufen die Funktion mit denselben Positionsargumenten auf).
+
+**Outcome:**
+`match_features.csv` und beide Modelle (`train_models.py`) neu generiert. Dashboard/Notebook ohne Codeänderung weiterhin kompatibel, da der neue Parameter einen Default-Wert hat.
+
+---
+
+### 15.07.2026 – Dashboard UI-Verfeinerung (iterativ)
+
+**Modell:** Claude
+
+**Prompt:**
+Mehrere aufeinanderfolgende Anpassungswünsche zur Dashboard-Optik und -Struktur geäussert, u.a.:
+- Flaggen der Teams gross anzeigen
+- Feature-Importance-Chart durch direkten Team-Vergleich ("Tale of the Tape") ersetzen
+- Vorhersage-Score grösser, Gewinner grün/Verlierer rot einfärben
+- Sieg-Wahrscheinlichkeit als Unterkapitel von "Vorhersage"
+- Form als farbige Kacheln (Sieg/Unentschieden/Niederlage) statt nur Punktzahl
+- "Ranking" zu "Elo Ranking" präzisiert, als Hyperlink mit Hover-Erklärung
+- Head-to-Head als Balkendiagramm statt Liste, einfarbig, nur einmal (im Team-Vergleich) statt doppelt
+- Hinweis-Box zur Ø-Erklärung formatiert (Titel fett, definierter Abstand)
+
+**Übernommen / angepasst / verworfen:**
+Alle Punkte von Claude umgesetzt, mit Zwischenständen nach jedem Schritt zur Kontrolle. Mehrere Korrekturschleifen bei Detailwünschen (Farbgebung, Abstände, Reihenfolge von Head-to-Head relativ zu "Vorhersage" und "Team-Vergleich").
+
+**Eigene Entscheidungen:**
+Team-Vergleich (konkrete Statistik-Werte nebeneinander) bewusst der abstrakteren Feature-Importance-Darstellung vorgezogen, da für einen Dashboard-Nutzer ohne ML-Hintergrund deutlich verständlicher.
+
+**Probleme:**
+Bei einer Zwischenversion wurde `flag_url()` versehentlich beim Einfügen einer neuen Funktion überschrieben – bemerkt und korrigiert. Head-to-Head-Anzeige kurzzeitig doppelt im Dashboard (einmal direkt nach der Vorhersage, einmal im Team-Vergleich) – auf eine einzige Stelle reduziert.
+
+**Outcome:**
+Dashboard zeigt jetzt: grosse Team-Flaggen, farblich codierte Vorhersage, Head-to-Head als Chart, direkter Stat-für-Stat-Vergleich beider Teams mit hervorgehobenem jeweils besserem Wert, sowie eine klar formatierte Erklärung der EWMA-Methodik.
+
+---
+
+### 15.07.2026 – Refresh-Funktion für aktuelle Saison
+
+**Modell:** Claude
+
+**Prompt:**
+Nachgefragt, ob ein erneuter Lauf von `fetch_data.py` automatisch die neuesten (laufenden) WM-2026-Spiele nachholen würde.
+
+**Übernommen / angepasst / verworfen:**
+Festgestellt, dass das bisherige Skript pro Team überspringt, sobald die Datei existiert – ein erneuter Lauf hätte also nichts Neues geholt. Neue Funktion `refresh_current_season()` von Claude vorgeschlagen und übernommen: ruft gezielt nur die aktuelle Saison (2026) ab und merged neue Spiele (dedupliziert über Fixture-ID) in die bestehende Datei, ohne die vorhandene Historie zu löschen. Aufruf über neues CLI-Flag `--refresh`.
+
+**Eigene Entscheidungen:**
+–
+
+**Probleme:**
+–
+
+**Outcome:**
+Merge-Logik isoliert getestet (Duplikat-Erkennung, neues Spiel wird hinzugefügt, alte Historie bleibt erhalten). Nach `refresh_current_season()` wird automatisch `fetch_all_match_stats()` mit aufgerufen, damit auch die Statistiken zu neu gefundenen Spielen nachgeladen werden.
+
+---
+
+### 15.07.2026 – Hover-Tooltips für Form-Kacheln und H2H-Detailliste
+
+**Modell:** Claude
+
+**Prompt:**
+Gewünscht, dass beim Hovern über die Form-Kacheln (letzte 5 Spiele) Resultat und Gegner angezeigt werden, sowie dass bei Head-to-Head zusätzlich sichtbar wird, wie die einzelnen Duelle effektiv ausgegangen sind (nicht nur die aggregierte Bilanz).
+
+**Übernommen / angepasst / verworfen:**
+`build_team_match_history()` in `build_features.py` um das Feld `opponent_name` (roher API-Gegnername, auch für Nicht-WM-2026-Teams) ergänzt. Neue Funktion `get_h2h_matches()` liefert die einzelnen H2H-Spiele statt nur der aggregierten Zahlen. Im Dashboard: `get_last_n_results()` gibt jetzt volle Spieldaten statt nur Punkte zurück, `form_tiles()` baut daraus ein `title`-Attribut (HTML-Tooltip) mit Datum, Resultat und Gegner. `render_h2h()` zeigt zusätzlich einen ausklappbaren Bereich mit allen Einzelduellen (Datum, Resultat, Ampel-Symbol).
+
+**Eigene Entscheidungen:**
+–
+
+**Probleme:**
+–
+
+**Outcome:**
+Änderungen gegen Mock-Daten getestet (opponent_name korrekt befüllt, H2H-Einzelspiele korrekt gefunden, Form-Liste mit vollständigen Details). Keine Änderung an `match_features.csv` oder den trainierten Modellen nötig, da das neue Feld nur für die Dashboard-Anzeige verwendet wird, nicht als Modell-Feature.
