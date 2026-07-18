@@ -522,3 +522,50 @@ Gewünscht, dass beim Hovern über die Form-Kacheln (letzte 5 Spiele) Resultat u
 
 **Outcome:**
 Änderungen gegen Mock-Daten getestet (opponent_name korrekt befüllt, H2H-Einzelspiele korrekt gefunden, Form-Liste mit vollständigen Details). Keine Änderung an `match_features.csv` oder den trainierten Modellen nötig, da das neue Feld nur für die Dashboard-Anzeige verwendet wird, nicht als Modell-Feature.
+
+---
+
+### 15.07.2026 – Recherche: Offizielle Achtelfinal-Zuordnungsregeln (Annex C + Basisstruktur)
+
+**Modell:** Claude
+
+**Prompt:**
+Für die Monte-Carlo-Turniersimulation gefragt, wie die Achtelfinal-Zuordnung der Drittplatzierten funktioniert. Nach anfänglicher Vereinfachungs-Idee (zufällige Zuordnung) PDF-Seiten von "Annex C" (495 Kombinationen für die 8 besten Drittplatzierten) sowie strukturierte JSON-Versionen von Annex B (Fairplay-Reglement) und Annex C bereitgestellt.
+
+**Übernommen / angepasst / verworfen:**
+Annex-C-JSON (495 Zeilen, je mit `qualified_groups`-Schlüssel und Zuordnung der 8 Sieger-Slots zu Drittplatzierten-Gruppen) direkt übernommen – exakte offizielle Regel statt Vereinfachung. Für die übrigen 8 Achtelfinal-Spiele (Gruppensieger C/F/H/J vs. Gruppenzweite, Zweiter-vs-Zweiter) selbständig über Wikipedia-Gruppenseiten und tatsächlich gespielte Partien recherchiert und verifiziert (Sieger C ↔ Zweiter F, Sieger H ↔ Zweiter J als "Swap"-Paare; Zweiter A↔B, D↔G, E↔I, K↔L).
+
+**Eigene Entscheidungen:**
+Offizielles FIFA-Regularien-PDF blockierte automatisierten Zugriff (robots.txt) – bewusst auf Sekundärquellen (Wikipedia-Gruppenseiten, CBS/Yahoo-Artikel mit echten Spielresultaten) als Kreuzvalidierung ausgewichen, statt die Suche abzubrechen oder ungeprüft zu raten.
+
+**Probleme:**
+Erste zwei PDF-Uploads von Annex C enthielten nur Optionen 1–279 von 495 (unvollständig) – erst der dritte Upload (bzw. die JSON-Version) deckte alle 495 Kombinationen ab.
+
+**Outcome:**
+Vollständige, verifizierte Basis für die Achtelfinal-Struktur: 8 Spiele exakt nach Annex C, 8 Spiele nach recherchierter Grundstruktur. Einzige verbleibende, dokumentierte Vereinfachung: die Verknüpfung Achtelfinale→Viertelfinale→Halbfinale→Finale folgt einer plausiblen Standard-Reihenfolge, da das offizielle Bracket-PDF nicht abrufbar war.
+
+---
+
+### 15.07.2026 – Monte-Carlo-Turniersimulation gebaut (simulate_tournament.py)
+
+**Modell:** Claude
+
+**Prompt:**
+Aufbau der vollständigen Turniersimulation (Gruppenphase bis Final) angefordert, inkl. Klärung, wie Unentschieden in K.o.-Spielen zu behandeln sind.
+
+**Übernommen / angepasst / verworfen:**
+Neues Skript `simulate_tournament.py` von Claude vorgeschlagen und übernommen:
+
+* Gruppenphase: Round-Robin-Simulation mit echten FIFA-Tiebreakern (Punkte → Tordifferenz → Tore → Ranking)
+* Drittplatzierten-Ranking über alle 12 Gruppen, Nachschlagen der exakten Achtelfinal-Zuordnung via Annex-C-JSON
+* K.o.-Runden (Achtelfinale bis Finale) über Wahrscheinlichkeiten neu skaliert ohne Unentschieden-Anteil (P(A)/(P(A)+P(B))) – meine eigene Idee, sauberer als eine Neusimulation bei Unentschieden oder ein reiner Münzwurf
+* Team-Formkurve/Ranking werden einmalig vor Turnierbeginn berechnet und über die gesamte Simulation konstant gehalten (Performance, dokumentierte Vereinfachung)
+
+**Eigene Entscheidungen:**
+Vorschlag, bei Unentschieden einfach so lange zu simulieren, bis kein Unentschieden mehr kommt, verworfen zugunsten der mathematisch saubereren Neuskalierung – nutzt weiterhin die relative Stärkeeinschätzung des Modells statt eines reinen Zufalls-Münzwurfs.
+
+**Probleme:**
+–
+
+**Outcome:**
+Struktur-Tests bestanden (12 Gruppen, 495 Annex-C-Kombinationen, korrekte Tiebreaker-Sortierung anhand eines Beispiels). Zusätzlich 21 komplette Turnier-Durchläufe mit Dummy-Modellen für alle 48 Teams getestet (unterschiedliche zufällige Drittplatzierten-Kombinationen) – durchgehend fehlerfrei, keine Duplikate im Achtelfinale, kein fehlender Annex-C-Eintrag.
