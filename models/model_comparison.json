@@ -1,0 +1,17 @@
+[
+  {
+    "model": "Random Forest (bestehendes Modell)",
+    "accuracy": 0.4978,
+    "f1_macro": 0.4564
+  },
+  {
+    "model": "Logistic Regression",
+    "accuracy": 0.5197,
+    "f1_macro": 0.4783
+  },
+  {
+    "model": "Gradient Boosting",
+    "accuracy": 0.4716,
+    "f1_macro": 0.4228
+  }
+]
