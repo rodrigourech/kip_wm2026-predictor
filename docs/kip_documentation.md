@@ -569,3 +569,209 @@ Vorschlag, bei Unentschieden einfach so lange zu simulieren, bis kein Unentschie
 
 **Outcome:**
 Struktur-Tests bestanden (12 Gruppen, 495 Annex-C-Kombinationen, korrekte Tiebreaker-Sortierung anhand eines Beispiels). Zusätzlich 21 komplette Turnier-Durchläufe mit Dummy-Modellen für alle 48 Teams getestet (unterschiedliche zufällige Drittplatzierten-Kombinationen) – durchgehend fehlerfrei, keine Duplikate im Achtelfinale, kein fehlender Annex-C-Eintrag.
+
+
+---
+
+### 18.07.2026 – Monte-Carlo-Simulation ins Dashboard integriert
+
+**Modell:** Claude
+
+**Prompt:**
+Gewünscht, die Turniersimulation ins Dashboard einzubauen mit einem Umschalter oben ("Team-Vorhersage" / "Turnier-Simulation").
+
+**Übernommen / angepasst / verworfen:**
+Festgestellt, dass die Dashboard-Integration bereits grösstenteils vorhanden war (offenbar eigenständig zwischenzeitlich weiterentwickelt), aber einen Import-Bug enthielt (`import simulate_tournament as sim` statt des tatsächlichen Dateinamens `monte_carlo_simulation.py`) – korrigiert. Zusätzlich `monte_carlo_simulation.py` um Speicherung der Ergebnisse als JSON (`data/processed/tournament_simulation.json`) ergänzt.
+
+**Eigene Entscheidungen:**
+–
+
+**Probleme:**
+Import-Namenskonflikt zwischen Dateiname und Modul-Import-Statement – hätte bei Ausführung zu `ModuleNotFoundError` geführt.
+
+**Outcome:**
+Dashboard-Integration mit Dummy-Modellen für alle 48 Teams getestet (identische Funktionsaufruf-Kette wie im echten Dashboard-Code) – lief fehlerfrei durch.
+
+---
+
+### 18.07.2026 – Team-Verlauf-Feature: einzelnes Team durch Turnier verfolgen
+
+**Modell:** Claude
+
+**Prompt:**
+Gewünscht, ein Team eingeben zu können und den kompletten Spielverlauf (inkl. Resultate) für die WM zu sehen, sowie die Anzahl Simulationen (1–1000) wählbar zu machen.
+
+**Übernommen / angepasst / verworfen:**
+`simulate_tournament()` in `monte_carlo_simulation.py` erweitert: liefert jetzt zusätzlich `group_match_details` (alle Gruppenspiele mit Resultat) und `knockout_details` (jedes K.o.-Spiel mit Resultat + Sieger) zurück. Neue Dashboard-Ansicht "Team im Detail verfolgen": bei 1 Simulation kompletter Spielverlauf (Gruppenspiele, Tabellenplatz, K.o.-Runden bis Ausscheiden/Titel), bei mehreren Simulationen aggregierte Prozentzahlen pro Phase plus ein Beispiel-Verlauf aus der letzten Simulation.
+
+**Eigene Entscheidungen:**
+Bei mehreren Simulationen bewusst zusätzlich einen "Beispiel-Turnierverlauf" ergänzt (nicht nur Prozentzahlen), um die abstrakten Zahlen greifbarer zu machen.
+
+**Probleme:**
+–
+
+**Outcome:**
+Logik mit Dummy-Modellen getestet (30 Simulationen für Canada): Prozentzahlen sinken plausibel von Runde zu Runde (90% → 57% → 33% → 10% → 7% → 0%). Beispiel-Verlauf zeigt korrekt Gruppenspiele → K.o.-Runden → Ausscheiden.
+
+---
+
+### 18.07.2026 – Echtes WM-2026-Resultat zur Vorhersage anzeigen
+
+**Modell:** Claude
+
+**Prompt:**
+Gewünscht, dass bei der Team-Vorhersage zusätzlich angezeigt wird, falls die gewählten zwei Teams während der laufenden WM 2026 tatsächlich gegeneinander gespielt haben, inkl. echtem Resultat.
+
+**Übernommen / angepasst / verworfen:**
+Neue Funktion `find_actual_wm2026_results()` in `dashboard.py`: lädt die volle Spielhistorie (inkl. WM-2026-Spiele) und filtert nach Duellen ab dem Cutoff-Datum (`WM2026_START_DATE`). Bei Treffer erscheint eine Info-Box mit Datum und echtem Resultat direkt unter der Vorhersage.
+
+**Eigene Entscheidungen:**
+Funktioniert unabhängig vom WM-2026-Toggle (der nur die Formkurve-Berechnung steuert) – die Prüfung auf ein tatsächlich gespieltes Duell läuft immer im Hintergrund mit.
+
+**Probleme:**
+–
+
+**Outcome:**
+Mit einem simulierten WM-2026-Spiel (Canada vs. Mexico, 2:2) getestet – Funktion erkennt das Spiel korrekt und liefert das exakte Resultat zurück.
+
+---
+
+### 18.07.2026 – Ästhetische Überarbeitung der Team-Verlauf-Ansicht
+
+**Modell:** Claude
+
+**Prompt:**
+Gewünscht, die Team-Verlauf-Ansicht optisch zu verbessern: klare Abgrenzung Gruppenphase/K.o.-Phase, kleine Flaggen einblenden, Sieger grün markieren.
+
+**Übernommen / angepasst / verworfen:**
+`render_team_journey()` komplett überarbeitet: farbig hinterlegte Abschnitts-Header ("📋 GRUPPENPHASE", "⚽ K.O.-PHASE"), kleine Flaggen-Icons bei jedem Team (Tabelle und Spielzeilen), Sieger grün/fett hervorgehoben, jede Spielzeile als eigene leicht abgesetzte Box statt Fliesstext.
+
+**Eigene Entscheidungen:**
+Bei Unentschieden in der Gruppenphase bewusst keine Seite grün markiert (nur bei echtem Sieger).
+
+**Probleme:**
+–
+
+**Outcome:**
+Syntax geprüft, konsistent mit bereits bestehendem Flaggen-/Farb-Schema aus der Team-Vorhersage-Ansicht.¨
+
+
+---
+
+
+### 18.07.2026 – Formatierung der Team-Verlauf-Ansicht verfeinert
+
+**Modell:** Claude
+
+**Prompt:**
+Mehrere Feinschliff-Wünsche zur Team-Verlauf-Ansicht (Screenshot-basiert):
+- Gruppenphase-Pfad (Tabellen-Kette) stärker abgrenzen
+- Spielzeilen "Team vs. Team - Punktestand" besser formatieren
+- Bei der aggregierten Mehrfach-Simulationsansicht: Tabelle unter dem Chart entfernen, nur Plot mit Titel und klaren Kurzbeschriftungen (Gruppenphase/Achtelfinale/Viertelfinale/Halbfinale/Finale), eventuell Linienplot mit Wahrscheinlichkeits-Beschriftung pro Datenpunkt statt Balkendiagramm
+
+**Übernommen / angepasst / verworfen:**
+- `match_line()` auf CSS-Grid-Layout umgestellt (`grid-template-columns: 1fr auto 1fr`): Team links rechtsbündig, Score fett zentriert in der Mitte, Team rechts linksbündig – unabhängig von Namenslänge exakt ausgerichtet
+- Gruppentabellen-Kette in eigenen Kasten gepackt (blauer linker Rahmen, dezenter Hintergrund, Label "Tabelle:")
+- Beide Abschnitts-Header (Gruppenphase/K.o.-Phase) auf einheitliche Farbe vereinheitlicht
+- Aggregierte Mehrfach-Simulationsansicht: `st.dataframe`-Tabelle entfernt, Balkendiagramm durch Altair-Linienchart mit Datenpunkten und direkt darüber platzierten Prozent-Beschriftungen ersetzt, Titel "Wahrscheinlichkeit je Turnierphase", kürzere Phasen-Labels
+
+**Eigene Entscheidungen:**
+Titel bewusst nicht "Sieg-Wahrscheinlichkeit" genannt (wie ursprünglich vorgeschlagen), sondern "Wahrscheinlichkeit je Turnierphase" – da es inhaltlich nicht um eine einzelne Sieg-Chance geht, sondern um das Erreichen verschiedener Turnierrunden.
+
+**Probleme:**
+–
+
+**Outcome:**
+Syntax geprüft; visuelle Konsistenz mit dem bereits etablierten Flaggen-/Farb-Schema aus der Team-Vorhersage-Ansicht hergestellt.
+
+---
+
+### 18.07.2026 – "Top-Teams gesamt" grundlegend überarbeitet (3 neue Abschnitte)
+
+**Modell:** Claude
+
+**Prompt:**
+Rückmeldung, dass die bisherige "Top-Teams gesamt"-Ansicht (Balkendiagramm, eine Phase nach der anderen per Dropdown) nicht überzeugt. Nach Ideen für eine sinnvollere Darstellung gefragt.
+
+**Übernommen / angepasst / verworfen:**
+Drei vorgeschlagene Ideen alle übernommen und umgesetzt:
+
+1. **Gesamtübersicht**: Tabelle mit Top 15 (sortiert nach Weltmeister-%), Flaggen-Spalte, alle 5 Phasen nebeneinander mit eingebauten Fortschrittsbalken (`st.column_config.ProgressColumn`) statt Balkendiagramm-Umschalten
+2. **Überraschungen**: Vergleich simulierte Performance vs. Elo-Ranking-Erwartung – Top 5 Über- und Top 5 Unterperformer (Differenz aus Elo-Rang und Simulations-Rang)
+3. **Gruppen-Ansicht**: Gruppe wählbar, zeigt pro Team die Wahrscheinlichkeit für Platz 1–4 innerhalb der Gruppe
+
+`run_tournament_simulations()` dafür erweitert: neuer Zähler `group_advanced` (Teams, die die Gruppenphase überstehen) sowie `group_rank_counts` (Platzierungs-Historie pro Team innerhalb der eigenen Gruppe).
+
+**Eigene Entscheidungen:**
+Für die "Überraschungen"-Metrik einen einfachen Summen-Score (Anzahl Vorkommen über alle Phasen hinweg) als Simulations-Rang-Grundlage gewählt, statt nur einer einzelnen Phase – differenziert auch schwächere Teams besser als z.B. reine Weltmeister-Wahrscheinlichkeit (die für viele Teams bei 0 läge).
+
+**Probleme:**
+–
+
+**Outcome:**
+Neue Zähler-Logik mit Dummy-Modellen getestet: `group_advanced` plausibel begrenzt, Elo-Rang/Sim-Rang vollständig für alle 48 Teams, Gruppenplatzierungs-Summe pro Team korrekt gleich der Anzahl Simulationen.
+
+
+---
+
+
+### 18.07.2026 – Gesamtübersicht-Tabelle kompakter, Simulationsbereich reduziert
+
+**Modell:** Claude
+
+**Prompt:**
+Rückmeldung, dass die Gesamtübersicht-Tabelle sowohl vertikal als auch horizontal gescrollt werden musste. Gewünscht: nur Top 10 statt 15 anzeigen, sowie den Simulations-Slider (wegen Ladezeit) auf 10–1000 in 10er-Schritten eingrenzen statt 100–5000 in 100er-Schritten.
+
+**Übernommen / angepasst / verworfen:**
+Tabelle auf Top 10 reduziert, feste Höhe (`height=386`, exakt 10 Zeilen + Header) gesetzt, um vertikales Scrollen zu vermeiden. Alle Spalten auf `width="small"` gesetzt und Spalten-Labels gekürzt (z.B. "AF"/"VF"/"HF"/"WM" statt ausgeschriebener Phasennamen), um horizontales Scrollen zu vermeiden. Slider-Range von `100–5000 (Schritt 100)` auf `10–1000 (Schritt 10)` geändert, Default-Wert auf 100 gesenkt.
+
+**Eigene Entscheidungen:**
+–
+
+**Probleme:**
+–
+
+**Outcome:**
+Tabelle sollte jetzt ohne Scrollen in beide Richtungen sichtbar sein; falls je nach Bildschirmbreite immer noch horizontales Scrollen nötig ist, wäre der nächste Schritt, zusätzlich einzelne Phasen-Spalten (z.B. Halbfinale) wegzulassen.
+
+---
+
+### 20.07.2026 – Modellvergleich: Random Forest vs. Logistic Regression vs. Gradient Boosting
+
+**Modell:** Claude
+
+**Prompt:**
+Umsetzung des Stretchgoals "Modellvergleich" aus dem Exposé angefordert.
+
+**Übernommen / angepasst / verworfen:**
+Neues Skript `compare_models.py` von Claude vorgeschlagen und übernommen: trainiert Random Forest (bestehendes Modell), Logistic Regression und Gradient Boosting auf identischen Trainingsdaten (gleicher chronologischer Split, gleiche Median-Imputation, zusätzlich Standardisierung der Features für die Logistic Regression). Gibt pro Modell Accuracy, F1 (macro), Classification Report und Confusion Matrix aus, plus eine sortierte Zusammenfassungstabelle am Ende. Ergebnisse werden zusätzlich als `models/model_comparison.json` gespeichert.
+
+**Eigene Entscheidungen:**
+Alle drei Modelle bewusst auf denselben (skalierten) Eingabedaten trainiert, obwohl Random Forest/Gradient Boosting skaleninvariant sind und die Standardisierung nicht bräuchten – so bleibt der Vergleich sauber nachvollziehbar (identische Datenbasis für alle drei), statt pro Modell unterschiedliche Preprocessing-Pipelines zu verwenden.
+
+**Probleme:**
+`LogisticRegression(multi_class="multinomial")` führte zu `TypeError` – der Parameter wurde in neueren scikit-learn-Versionen entfernt, da multinomiale Regression bei mehreren Klassen inzwischen automatisch verwendet wird. Behoben durch Entfernen des Parameters.
+
+**Outcome:**
+Mit Mock-Daten (300 Zeilen) getestet, lief nach dem Fix fehlerfrei durch. Auf den Mock-Daten schnitt Random Forest am besten ab (Accuracy 0.533), gefolgt von Gradient Boosting (0.483) und Logistic Regression (0.433) – Ergebnis auf den echten Daten steht noch aus.
+
+---
+
+### 20.07.2026 – Notebook-Reorganisation: Modellvergleich als abschliessender Abschnitt
+
+**Modell:** Claude
+
+**Prompt:**
+Ursprünglichen Vorschlag (Modellvergleich direkt nach Model Evaluation, vor Live-Vorhersage) verworfen zugunsten einer anderen Reihenfolge: Live-Vorhersage bleibt an ihrem angestammten Platz (Abschnitt 6), Modellvergleich wird als abschliessender Abschnitt 7 angehängt, mit der Rahmung "zu guter Letzt wurde geprüft, ob ein anderes Modell signifikant besser wäre – Ergebnis: nein".
+
+**Übernommen / angepasst / verworfen:**
+Notebook-Struktur entsprechend umgebaut: Abschnitte 1–6 unverändert aus der bestehenden Datei übernommen, neuer Abschnitt 7 (Modellvergleich, Unterabschnitte 7.1–7.3) ans Ende gehängt.
+
+**Eigene Entscheidungen:**
+–
+
+**Probleme:**
+Beim ersten Umbau-Versuch (Zellen per Slicing neu anordnen) wurde versehentlich eine bereits verfälschte Zwischenversion der Datei als Ausgangspunkt verwendet, was zu einer fehlerhaften, teils duplizierten Zellstruktur führte. Bemerkt, verworfen, und stattdessen sauber direkt von der ursprünglichen Upload-Datei neu aufgebaut.
+
+**Outcome:**
+JSON-Struktur geprüft (25 Zellen, korrekte Reihenfolge 1–7 mit korrekter Nummerierung). Alle drei neuen Code-Zellen des Modellvergleichs-Abschnitts erneut end-to-end getestet – liefen fehlerfrei durch.
