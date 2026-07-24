@@ -1,777 +1,1017 @@
-# KIP Dokumentation – WM 2026 Match Predictor
+# KIP-Entwicklungsdokumentation – WM 2026 Predictor
 
-## Vorlage
+**Autor:** Rodrigo Urech  
+**Modul:** KIP – KI-gestütztes Programmieren  
+**Primär verwendete Werkzeuge:** Claude, Claude Code in VS Code
 
+---
+
+
+### Schema der Einträge
+
+Jeder relevante Entwicklungsschritt wird nach demselben Muster dokumentiert:
+
+1. **Ausgangslage und Ziel**
+2. **KI-Einsatz**
+3. **Prüfung der KI-Ausgabe**
+4. **Entscheidung und Umsetzung**
+5. **Ergebnis und Reflexion**
+
+
+
+---
+
+# Phase 1 – Projektaufbau und Datenbeschaffung
+
+## 09.07.2026 – Projektstruktur und erste Datenpipeline
+
+### Ausgangslage und Ziel
+
+Gemäss Exposé sollte zunächst eine reproduzierbare Grundlage für den Datenabruf entstehen. Benötigt wurden:
+
+- eine zentrale Konfiguration,
+- ein Abrufskript für historische Länderspiele,
+- eine sichere Verwaltung des API-Schlüssels,
+- und eine dokumentierte Python-Umgebung.
+
+### KI-Einsatz
+
+Claude erhielt den Auftrag, ausgehend vom Exposé eine erste Projektstruktur mit `config.py`, `fetch_data.py` und `requirements.txt` zu erstellen.
+
+### Prüfung der KI-Ausgabe
+
+Ich prüfte:
+
+- ob der API-Key nicht direkt im Code gespeichert wird,
+- ob die Teamliste alle vorgesehenen WM-2026-Teams enthält,
+- ob pro Team eine lokale JSON-Datei entsteht,
+- und ob fehlgeschlagene Requests nachvollziehbar behandelt werden.
+
+Die von Claude erstellte Teamliste wurde stichprobenartig kontrolliert.
+
+### Entscheidung und Umsetzung
+
+- `config.py`: übernommen
+- `fetch_data.py`: übernommen und anschliessend weiterentwickelt
+- `requirements.txt`: übernommen
+- direkte Speicherung des API-Keys im Code: nicht verwendet
+
+
+Ich erstellte die `.env`-Datei selbst und nahm sie über `.gitignore` vom Repository aus. Zudem verwendete ich API-Football direkt über `api-football.com` statt über RapidAPI.
+
+### Problem
+
+Unter Windows verwendete `write_text()` ohne explizite Angabe teilweise `cp1252`. Dadurch konnten Namen mit Sonderzeichen wie `Kovačić` nicht zuverlässig gespeichert werden.
+
+### Ergebnis und Reflexion
+
+Die Dateien wurden erfolgreich erzeugt. Schreibvorgänge wurden explizit auf UTF-8 umgestellt.
+
+
+Der erste KI-Vorschlag war funktional, berücksichtigte aber die lokale Encoding-Umgebung nicht ausreichend. Daraus entstand früh die Erkenntnis, dass plattformabhängige Details auch bei plausibel wirkendem Code selbst geprüft werden müssen.
+
+---
+
+## 10.07.2026 – Zeitliche Trennung der WM-2026-Daten
+
+### Ausgangslage und Ziel
+
+Während der Entwicklung sollte wählbar sein, ob bereits ausgetragene Spiele der WM 2026 in die Formberechnung einfliessen. Gleichzeitig sollten die Rohdaten unverändert bleiben.
+
+### KI-Einsatz
+
+Claude wurde gebeten, einen Toggle einzubauen, der Spiele ab dem 19.06.2026 optional ausschliesst.
+
+### Prüfung der KI-Ausgabe
+
+Ich prüfte, ob:
+
+- die Rohdaten unverändert bleiben,
+- der Filter erst beim Laden oder beim Feature Engineering greift,
+- und der gleiche Datenbestand sowohl für eine historische als auch für eine aktualisierte Vorhersage verwendet werden kann.
+
+### Entscheidung und Umsetzung
+
+Die vorgeschlagenen Funktionen `load_team_fixtures()` und `filter_fixtures()` wurden übernommen. Später wurden sie im Rahmen der Skript-Konsolidierung direkt in `build_features.py` integriert.
+
+
+Der Filter wurde bewusst nicht in den Datenabruf eingebaut. Damit bleibt die Rohdatenbasis vollständig und die Entscheidung wird erst bei der Analyse getroffen.
+
+### Ergebnis und Reflexion
+
+WM-2026-Spiele lassen sich ein- oder ausschliessen, ohne Daten erneut abzurufen.
+
+
+Die Trennung zwischen Rohdaten und analytischer Filterung verbessert Nachvollziehbarkeit und Reproduzierbarkeit. Die KI unterstützte die technische Umsetzung; die Entscheidung über den Ort des Filters war eine Architekturentscheidung.
+
+---
+
+## 10.07.2026 – Erweiterung um Match-Statistiken
+
+### Ausgangslage und Ziel
+
+Das Exposé sah zunächst hauptsächlich Resultate, Form, direkte Duelle und Rankingdaten vor. Durch das Pro-Abonnement waren zusätzlich Statistiken wie Ballbesitz, Schüsse und Eckbälle verfügbar.
+
+### KI-Einsatz
+
+Claude wurde beauftragt, ein Skript zu erstellen, das für alle eindeutigen Fixture-IDs Match-Statistiken über den Endpoint `/fixtures/statistics` abruft.
+
+### Prüfung der KI-Ausgabe
+
+Ich kontrollierte insbesondere:
+
+- ob Spiele zwischen zwei WM-Teams doppelt vorkommen,
+- ob Fixture-IDs vor dem Abruf dedupliziert werden,
+- ob bereits vorhandene Statistikdateien übersprungen werden,
+- und ob ein abgebrochener Lauf fortgesetzt werden kann.
+
+### Entscheidung und Umsetzung
+
+Das Skript `fetch_match_stats.py` wurde übernommen. Die Speicherung pro Fixture unter `data/raw/stats/{fixture_id}.json` wurde beibehalten.
+
+
+Die Daten wurden pro Fixture statt pro Team gespeichert. Dadurch ist jedes Spiel genau einer Statistikdatei zugeordnet.
+
+### Ergebnis und Reflexion
+
+Der Abruf wurde resumierbar umgesetzt und übersprang leere oder beschädigte Dateien kontrolliert.
+
+
+Die KI lieferte schnell eine funktionierende Erweiterung. Der fachlich relevante Kontrollpunkt war jedoch die Granularität: Ohne Deduplizierung wären Spiele zweier WM-Teams doppelt verarbeitet worden.
+
+---
+
+# Phase 2 – Datenkontrolle und Feature-Auswahl
+
+## 13.07.2026 – Statuskontrolle der Datenpipeline
+
+### Ausgangslage und Ziel
+
+Bei mehreren Tausend Spielen und API-Limits war der Fortschritt des Datenabrufs nicht ausreichend sichtbar. Es wurde eine Kontrolle pro Team benötigt.
+
+### KI-Einsatz
+
+Claude wurde beauftragt, einen Status-Check mit Anzahl Spielen, vorhandenen Statistikdateien und Fortschritt in Prozent zu erstellen.
+
+### Prüfung der KI-Ausgabe
+
+Ich verglich die Anzahl eindeutiger Fixture-IDs mit den lokal vorhandenen Dateien und prüfte leere Dateien separat.
+
+### Entscheidung und Umsetzung
+
+`check_status.py` wurde übernommen und später in das Diagnose-Notebook integriert.
+
+### Problem
+
+Die Datei `fixtures_Mexico.json` war 0 Byte gross. Sie stammte aus einem abgebrochenen Lauf und wäre ohne Statusprüfung unbemerkt geblieben.
+
+### Ergebnis und Reflexion
+
+Der fehlende Datensatz wurde gezielt neu geladen. Der Status-Check zeigte 4’611 eindeutige Fixtures und den Abruffortschritt pro Team.
+
+
+Eine Pipeline kann ohne Fehlermeldung unvollständige Resultate erzeugen. Die Kontrolle von Dateiexistenz allein reicht deshalb nicht; auch Dateigrösse und Inhalt müssen plausibilisiert werden.
+
+---
+
+## 13.07.2026 – Datenbasierte Auswahl zusätzlicher Features
+
+### Ausgangslage und Ziel
+
+Nicht jede über API-Football verfügbare Statistik ist für genügend Spiele vorhanden. Die Feature-Auswahl sollte daher nicht allein nach inhaltlicher Attraktivität erfolgen.
+
+### KI-Einsatz
+
+Claude wurde gebeten, die Abdeckung verschiedener Statistiktypen zu analysieren.
+
+### Prüfung der KI-Ausgabe
+
+Ich prüfte, ob nur Spiele gezählt werden, bei denen für beide Teams ein verwertbarer Wert vorliegt. Die Ausgabe wurde nach Abdeckungsgrad sortiert.
+
+### Entscheidung und Umsetzung
+
+Das Skript `analyze_stats_coverage.py` wurde übernommen und später in das Diagnose-Notebook überführt.
+
+
+Die Erweiterung des MVP wurde nur für ausreichend abgedeckte Werte weiterverfolgt. Ballbesitz, Schüsse und Eckbälle wurden berücksichtigt; schwächer abgedeckte Statistiken nicht.
+
+### Ergebnis und Reflexion
+
+Die Feature-Auswahl wurde auf Basis der tatsächlichen Datenqualität getroffen.
+
+
+Die KI half bei der technischen Analyse. Die Auswahl der Features blieb jedoch eine fachliche Entscheidung. Ein zusätzliches Feature ist nicht automatisch nützlich, nur weil es technisch verfügbar ist.
+
+---
+
+## 14.07.2026 – Diagnosefunktionen in einem Notebook gebündelt
+
+### Ausgangslage und Ziel
+
+Mit `check_status.py`, `analyze_stats_coverage.py` und `quick_check_features.py` entstanden mehrere kleine Kontrollskripte. Diese waren keine Bestandteile der produktiven Pipeline.
+
+### KI-Einsatz
+
+Claude wurde beauftragt, die Diagnosefunktionen in einem Notebook zusammenzuführen.
+
+### Prüfung der KI-Ausgabe
+
+Ich prüfte:
+
+- die JSON-Struktur des Notebooks,
+- die Importpfade zu `src/`,
+- und ob die Resultate mit den bisherigen Einzelskripten übereinstimmen.
+
+### Entscheidung und Umsetzung
+
+Das Notebook wurde übernommen. Die drei Einzelskripte wurden anschliessend entfernt.
+
+
+Produktive Schritte blieben als Python-Skripte bestehen; explorative Kontrollen wurden in ein Notebook ausgelagert.
+
+### Ergebnis und Reflexion
+
+Es entstand eine klarere Trennung zwischen:
+
+- reproduzierbarer Pipeline,
+- explorativer Analyse,
+- Modellvalidierung,
+- und Demonstration einzelner Vorhersagen.
+
+
+Die Zusammenführung reduzierte Komplexität, ohne fachliche Logik zu verändern. KI wurde hier gezielt für Refactoring verwendet, nicht für eine neue fachliche Entscheidung.
+
+---
+
+# Phase 3 – Feature Engineering
+
+## 14.07.2026 – Chronologisches Feature Engineering ohne Data Leakage
+
+### Ausgangslage und Ziel
+
+Für jedes historische Spiel sollten Features berechnet werden, die zum damaligen Spielzeitpunkt tatsächlich bekannt gewesen wären.
+
+### KI-Einsatz
+
+Claude erhielt die Vorgabe, ein eigenständiges Skript `build_features.py` zu erstellen. Eine zentrale Anforderung war, dass ausschliesslich frühere Spiele in die Berechnung einfliessen dürfen.
+
+### Prüfung der KI-Ausgabe
+
+Ich kontrollierte:
+
+- die chronologische Sortierung der Spiele,
+- die Trennung zwischen Team A und Team B,
+- den Ausschluss des aktuellen Spiels aus der Historie,
+- das Mapping unterschiedlicher Teamnamen,
+- und die berechneten Werte anhand eines Beispiels Canada gegen Mexico.
+
+### Entscheidung und Umsetzung
+
+Folgende Features wurden übernommen:
+
+- Formpunkte,
+- geschossene und kassierte Tore,
+- direkte Duelle,
+- Rankingwerte und Rankingdifferenz,
+- Ballbesitz,
+- Schüsse,
+- Eckbälle.
+
+Identifikatoren und tatsächliche Endresultate wurden ausdrücklich nicht als Modellfeatures verwendet.
+
+
+Zunächst wurde ein Fenster von fünf Spielen gewählt, um Aktualität und Stichprobengrösse zu verbinden. Diese Entscheidung wurde später aufgrund der Datenlücken revidiert.
+
+### Ergebnis und Reflexion
+
+Die Feature-Tabelle wurde unter `data/processed/match_features.csv` gespeichert.
+
+
+Die wichtigste Qualitätsanforderung war nicht die Anzahl Features, sondern die zeitliche Korrektheit. Ein Data Leakage hätte zu scheinbar guten, aber unbrauchbaren Modellergebnissen geführt.
+
+---
+
+## 14.07.2026 – Wiederkehrenden Encoding-Fehler systematisch behoben
+
+### Ausgangslage und Ziel
+
+Beim Laden älterer Fixture-Dateien trat erneut ein `UnicodeDecodeError` auf.
+
+### KI-Einsatz
+
+Die Fehlermeldung wurde Claude zur Analyse gegeben.
+
+### Prüfung der KI-Ausgabe
+
+Ich verglich die betroffenen Lesewege und stellte fest, dass der bereits an anderer Stelle ergänzte Fallback in `data_utils.py` fehlte.
+
+### Entscheidung und Umsetzung
+
+Der UTF-8-Leseversuch mit `cp1252`-Fallback wurde übernommen und an allen betroffenen Stellen vereinheitlicht.
+
+
+Der Fehler wurde nicht nur lokal an einer Datei korrigiert, sondern als wiederkehrendes Problem der gesamten Datenpipeline behandelt.
+
+### Ergebnis und Reflexion
+
+Alte und neue Dateien konnten konsistent eingelesen werden.
+
+
+Das blosse Kopieren einer Fehlermeldung an die KI löst ein Problem häufig nur lokal. Erst der Vergleich ähnlicher Codepfade zeigte, dass die Ursache systematisch behoben werden musste.
+
+---
+
+## 15.07.2026 – Umstellung von festem Fenster auf EWMA
+
+### Ausgangslage und Ziel
+
+Ein festes Fenster von fünf Spielen erwies sich für Statistiken mit Datenlücken als instabil. Bei einzelnen Teams standen innerhalb des Fensters zu wenige verwertbare Werte zur Verfügung.
+
+### KI-Einsatz
+
+Claude wurde gebeten, Alternativen zu einem festen Fenster zu erläutern und die Berechnung auf einen exponentiell gewichteten Durchschnitt umzustellen.
+
+### Prüfung der KI-Ausgabe
+
+Ich prüfte:
+
+- ob neuere Spiele stärker gewichtet werden,
+- ob ältere Spiele weiterhin einen abnehmenden Einfluss behalten,
+- ob nur Spiele vor dem Stichtag berücksichtigt werden,
+- und ob die Berechnung bei fehlenden Werten stabil bleibt.
+
+### Entscheidung und Umsetzung
+
+Die EWMA-Umsetzung wurde übernommen. Das ursprüngliche Fünf-Spiele-Fenster wurde verworfen.
+
+
+Die gesamte verfügbare Historie wird verwendet, aber mit abnehmendem Gewicht. Dies reduziert harte Sprünge und nutzt mehr vorhandene Informationen.
+
+### Ergebnis und Reflexion
+
+Die Form- und Statistikfeatures wurden neu erzeugt; beide Modelle mussten danach neu trainiert werden.
+
+
+Die ursprüngliche Entscheidung war einfach, aber nicht ausreichend robust. Die spätere Umstellung zeigte, dass Feature Engineering stärker von Datenqualität als von einer intuitiven Fenstergrösse abhängt.
+
+---
+
+## 15.07.2026 – Begriffe im Projekt konsolidiert
+
+### Ausgangslage und Ziel
+
+Im Code wurden Elo-spezifische Variablennamen verwendet, obwohl die Oberfläche allgemein von einem Ranking sprach.
+
+### KI-Einsatz
+
+Das Refactoring wurde mit Claude Code direkt im Projekt durchgeführt.
+
+### Prüfung der KI-Ausgabe
+
+Ich prüfte alle Fundstellen in Code, CSV-Headern, Modellmetadaten, Notebook und Dokumentation.
+
+### Entscheidung und Umsetzung
+
+Technische Variablennamen wurden von `elo_*` zu `ranking_*` geändert. Sachlich korrekte Quellenbezeichnungen wie „Historical Elo Ratings“ und der Rohdateiname blieben unverändert.
+
+
+Nicht jede Fundstelle wurde blind ersetzt. Fachlich echte Elo-Bezüge blieben bestehen.
+
+### Ergebnis und Reflexion
+
+Code und Benutzeroberfläche verwenden konsistentere Begriffe, ohne die Datenquelle falsch umzubenennen.
+
+
+Automatisiertes Refactoring ist effizient, birgt aber das Risiko inhaltlich falscher Ersetzungen. Deshalb mussten technische Bezeichner und fachliche Aussagen getrennt behandelt werden.
+
+---
+
+# Phase 4 – Modellierung und Evaluation
+
+## 14.07.2026 – Random-Forest-Klassifikator als erstes Kernmodell
+
+### Ausgangslage und Ziel
+
+Das erste Modell sollte drei Klassen vorhersagen:
+
+- Sieg Team A,
+- Unentschieden,
+- Sieg Team B.
+
+### KI-Einsatz
+
+Claude wurde beauftragt, ein Trainingsskript mit Evaluation und Speicherung der Pipeline zu erstellen.
+
+### Prüfung der KI-Ausgabe
+
+Ich prüfte besonders:
+
+- den chronologischen Train-Test-Split,
+- die Median-Imputation ausschliesslich auf Basis des Trainingssets,
+- den Ausschluss nicht verfügbarer Ist-Werte,
+- die gespeicherte Feature-Liste,
+- und die Confusion Matrix.
+
+### Entscheidung und Umsetzung
+
+Übernommen wurden:
+
+- chronologischer Split, letzte 20 % als Testdaten,
+- Median-Imputation,
+- Random Forest mit 200 Bäumen und begrenzter Tiefe,
+- Speicherung von Modell, Imputer und Feature-Liste.
+
+Ein zufälliger Split wurde bewusst nicht verwendet.
+
+
+Die Zielwerte `goals_a` und `goals_b` sowie Identifikatoren wurden explizit aus dem Feature-Set ausgeschlossen.
+
+### Ergebnis und Reflexion
+
+Das erste Modell erreichte auf dem Testset ungefähr 50 % Accuracy und lag damit über einer einfachen Mehrheitsklassen-Baseline.
+
+
+Die Gesamt-Accuracy allein war nicht ausreichend. Die klassenweise Auswertung zeigte, dass das Modell Unentschieden nur sehr schwach erkennt.
+
+---
+
+## 14.07.2026 – Schwache Draw-Erkennung als offene Modellgrenze
+
+### Ausgangslage und Ziel
+
+Der Recall für Unentschieden lag deutlich unter dem Recall der beiden Siegklassen.
+
+### KI-Einsatz
+
+Die Resultate wurden mit Claude analysiert und mögliche Ursachen sowie Optimierungen diskutiert.
+
+### Prüfung der KI-Ausgabe
+
+Ich verglich Support und Recall der drei Klassen. Die Draw-Klasse war nur leicht kleiner als die beiden anderen Klassen. Eine reine Klassenimbalance erklärt den tiefen Recall daher nicht vollständig.
+
+### Entscheidung und Umsetzung
+
+Die Schwäche wurde transparent dokumentiert. Eine sofortige umfangreiche Optimierung wurde zunächst zurückgestellt, um den vollständigen MVP fertigzustellen.
+
+
+Die Draw-Problematik wurde nicht als behobener Punkt dargestellt, sondern als offene Modellgrenze.
+
+### Ergebnis und Reflexion
+
+Das Modell blieb vorerst Bestandteil der Pipeline.
+
+
+Rückblickend war es zu passiv, die Schwäche nur als „typisches Fussballproblem“ zu akzeptieren. Für eine methodisch stärkere Lösung sollten mindestens einfache Massnahmen wie Klassengewichte, alternative Modelle oder Schwellenwertanalysen systematisch geprüft werden.
+
+---
+
+## 15.07.2026 – Tore-Regressor als Scope-Erweiterung
+
+### Ausgangslage und Ziel
+
+Neben der Ergebnisklasse sollte das Dashboard auch eine erwartete Toranzahl anzeigen.
+
+### KI-Einsatz
+
+Claude wurde beauftragt, einen Multi-Output-Regressor für `goals_a` und `goals_b` zu ergänzen.
+
+### Prüfung der KI-Ausgabe
+
+Ich prüfte:
+
+- identischen zeitlichen Split wie beim Klassifikator,
+- identische Imputationslogik,
+- separate Speicherung von Modell und Metadaten,
+- sowie negative Vorhersagen.
+
+### Entscheidung und Umsetzung
+
+Ein `RandomForestRegressor` wurde übernommen. Eine Poisson-Regression wurde diskutiert, aber zunächst nicht umgesetzt.
+
+
+Der Regressor ergänzt den Klassifikator und ersetzt ihn nicht. Rohwerte bleiben für die Evaluation ungerundet; Rundung erfolgt nur in der Benutzeroberfläche.
+
+### Ergebnis und Reflexion
+
+Für beide Teams wurden MAE und RMSE berechnet und das Modell gespeichert.
+
+
+Random Forest wurde aus Konsistenzgründen gewählt. Methodisch wäre für Zähldaten ein Vergleich mit einer Poisson-basierten Lösung sinnvoller gewesen. Diese Einschränkung wird im Bericht offengelegt.
+
+---
+
+## 15.07.2026 – Baselines für die Regressionsmodelle ergänzt
+
+### Ausgangslage und Ziel
+
+Eine Fehlermetrik allein zeigt nicht, ob ein Modell besser als eine triviale Vorhersage ist.
+
+### KI-Einsatz
+
+Mit Claude Code wurde ein Vergleich gegen den Mittelwert der Trainingsdaten ergänzt.
+
+### Prüfung der KI-Ausgabe
+
+Ich kontrollierte, dass:
+
+- die Baseline nur aus Trainingsdaten berechnet wird,
+- Modell und Baseline auf denselben Testdaten bewertet werden,
+- und negative Torprognosen separat gezählt werden.
+
+### Entscheidung und Umsetzung
+
+Der Baseline-Vergleich wurde übernommen.
+
+### Ergebnis und Reflexion
+
+Das Modell lag bei beiden Zielvariablen unter der Baseline-MAE. Die Verbesserung war jedoch besonders bei Team A nur klein.
+
+
+„Besser als Baseline“ bedeutet nicht automatisch „gutes Modell“. Die relative Verbesserung muss zusätzlich eingeordnet werden.
+
+---
+
+## 20.07.2026 – Vergleich mehrerer Klassifikationsmodelle
+
+### Ausgangslage und Ziel
+
+Im Exposé war ein Vergleich von Random Forest, logistischer Regression und Gradient Boosting vorgesehen. Dieser Vergleich wurde erst gegen Ende des Projekts durchgeführt.
+
+### KI-Einsatz
+
+Claude erstellte `compare_models.py` mit identischem chronologischem Split und identischer Imputation für alle Modelle. Für die logistische Regression wurde zusätzlich standardisiert.
+
+### Prüfung der KI-Ausgabe
+
+Ich prüfte:
+
+- gleiche Trainings- und Testdaten,
+- gleiche Featurebasis,
+- Accuracy, Macro-F1 und Draw-Recall,
+- Confusion Matrices,
+- und die gespeicherte JSON-Zusammenfassung.
+
+Ein Versionsproblem beim veralteten Parameter `multi_class="multinomial"` wurde erkannt und durch Entfernen des Parameters behoben.
+
+### Entscheidung und Umsetzung
+
+Der Vergleich wurde übernommen und als letzter methodischer Abschnitt in das Notebook integriert.
+
+### Ergebnis auf den finalen Daten
+
+| Modell | Accuracy | Macro-F1 | Draw-Recall |
+|---|---:|---:|---:|
+| Logistic Regression | 0.520 | 0.478 | 0.17 |
+| Random Forest | 0.498 | 0.456 | 0.17 |
+| Gradient Boosting | 0.472 | 0.423 | 0.14 |
+
+### Entscheidung und Umsetzung
+
+Der Vergleich wurde nicht als Beweis für einen grossen Leistungsunterschied interpretiert. Die logistische Regression schnitt jedoch in Accuracy und Macro-F1 am besten ab und ist deshalb für die finale Modellwahl ernsthaft zu bevorzugen.
+
+### Ergebnis und Reflexion
+
+Der Modellvergleich hätte vor dem Bau des Dashboards stattfinden sollen. So hätte die Architektur von Beginn an auf dem stärksten oder zumindest einfachsten Modell aufgebaut werden können. Die Resultate zeigen zudem, dass komplexere Modelle nicht automatisch bessere Prognosen liefern.
+
+---
+
+# Phase 5 – Projektstruktur und Dashboard
+
+## 15.07.2026 – Kernskripte konsolidiert
+
+### Ausgangslage und Ziel
+
+Im Verlauf des Projekts waren sieben Einzelskripte entstanden. Die Struktur wurde zunehmend schwer überschaubar.
+
+### KI-Einsatz
+
+Claude wurde gebeten, sinnvolle Zusammenlegungen vorzuschlagen.
+
+### Prüfung der KI-Ausgabe
+
+Ich prüfte, ob:
+
+- sich das Verhalten der Pipeline verändert,
+- bestehende Daten erneut erzeugt werden müssen,
+- Imports weiterhin funktionieren,
+- und die Skripte mit Mock-Daten ausführbar sind.
+
+### Entscheidung und Umsetzung
+
+Zusammengeführt wurden:
+
+- `fetch_data.py` und `fetch_match_stats.py`,
+- `data_utils.py` und `build_features.py`,
+- `train_model.py` und `train_goals_model.py`.
+
+`config.py` blieb als eigenständige Datei bestehen.
+
+### Ergebnis und Reflexion
+
+Die Anzahl Kernskripte sank von sieben auf vier:
+
+- `config.py`
+- `fetch_data.py`
+- `build_features.py`
+- `train_models.py`
+
+
+Die Konsolidierung verbesserte Übersichtlichkeit. Eine zu frühe Zusammenlegung hätte die Fehlersuche jedoch erschwert; deshalb war der Zeitpunkt nach funktionierenden Einzelkomponenten sinnvoll.
+
+---
+
+## 15.07.2026 – Streamlit-Dashboard als Benutzerschnittstelle
+
+### Ausgangslage und Ziel
+
+Die Modelle sollten über eine einfache Oberfläche nutzbar sein.
+
+### KI-Einsatz
+
+Claude wurde beauftragt, ein Streamlit-Dashboard mit Teamauswahl, Klassenwahrscheinlichkeiten, erwartetem Resultat und WM-2026-Toggle zu erstellen.
+
+### Prüfung der KI-Ausgabe
+
+Ich prüfte:
+
+- ob dieselben Feature-Funktionen wie im Training verwendet werden,
+- ob Modelle und Daten korrekt geladen werden,
+- ob die Vorhersage für beide Teamreihenfolgen plausibel reagiert,
+- und ob Rundung nur in der Darstellung erfolgt.
+
+### Entscheidung und Umsetzung
+
+Das Grundgerüst wurde übernommen. Ein inkompatibler Streamlit-Parameter wurde an die lokal installierte Version angepasst.
+
+
+Die Feature-Importance-Grafik wurde später durch einen direkten Teamvergleich ersetzt, weil dieser für Nutzer ohne ML-Hintergrund verständlicher ist.
+
+### Ergebnis und Reflexion
+
+Das Dashboard konnte Teamvergleiche und Vorhersagen anzeigen.
+
+
+Visuelle Funktionalität ist kein Nachweis für korrekte Modelllogik. Deshalb blieb das Notebook die primäre technische Kontrollumgebung.
+
+---
+
+## 15.–18.07.2026 – Iterative Verbesserung der Dashboard-Darstellung
+
+### Ausgangslage und Ziel
+
+Das erste Dashboard war funktional, aber teilweise zu technisch und visuell unübersichtlich.
+
+### KI-Einsatz
+
+Claude erhielt schrittweise konkrete Änderungsaufträge, unter anderem zu:
+
+- Flaggen,
+- Darstellung des erwarteten Resultats,
+- Formkacheln,
+- Head-to-Head-Ansicht,
+- Teamvergleich,
+- Tooltips,
+- realen WM-Resultaten,
+- und kompakteren Tabellen.
+
+### Prüfung der KI-Ausgabe
+
+Nach jeder Änderung wurde das Dashboard im Browser geprüft. Bei Zwischenständen wurden unter anderem folgende Fehler entdeckt:
+
+- überschriebene Hilfsfunktion `flag_url()`,
+- doppelte Head-to-Head-Anzeige,
+- nicht passender Modulimport,
+- unübersichtliche Tabellenbreite.
+
+### Entscheidung und Umsetzung
+
+Die meisten visuellen Vorschläge wurden übernommen. Nicht passende Darstellungen wurden in mehreren Iterationen verändert oder entfernt.
+
+
+Die Darstellung wurde auf den Informationsbedarf eines Nutzers ausgerichtet. Technisch abstrakte Informationen wurden nur beibehalten, wenn sie für die Interpretation der Vorhersage hilfreich waren.
+
+### Ergebnis und Reflexion
+
+Das Dashboard erhielt:
+
+- direkte Teamvergleiche,
+- Form- und Head-to-Head-Details,
+- reale Resultate bereits ausgetragener WM-Spiele,
+- kompaktere Übersichten,
+- und eine Team-Detailansicht für Simulationen.
+
+
+KI eignet sich sehr gut für schnelle UI-Iterationen. Gleichzeitig stieg bei diesen Schritten mein Detailverständnis weniger stark als bei Datenpipeline und Feature Engineering. Für Ownership ist deshalb entscheidend, zumindest Datenfluss, Funktionsgrenzen und Fehlerfälle nachvollziehen zu können.
+
+---
+
+## 15.07.2026 – Inkrementelles Aktualisieren der laufenden Saison
+
+### Ausgangslage und Ziel
+
+Das ursprüngliche Abrufskript übersprang vorhandene Teamdateien vollständig. Neue WM-Spiele wären bei einem erneuten Lauf daher nicht ergänzt worden.
+
+### KI-Einsatz
+
+Claude wurde gebeten, das Verhalten zu analysieren und eine Refresh-Funktion vorzuschlagen.
+
+### Prüfung der KI-Ausgabe
+
+Ich testete separat:
+
+- Duplikaterkennung über Fixture-ID,
+- Ergänzung neuer Spiele,
+- Erhalt der bisherigen Historie,
+- und anschliessenden Abruf fehlender Match-Statistiken.
+
+### Entscheidung und Umsetzung
+
+`refresh_current_season()` und das CLI-Flag `--refresh` wurden übernommen.
+
+### Ergebnis und Reflexion
+
+Aktuelle Spiele können inkrementell ergänzt werden, ohne den gesamten historischen Bestand neu zu laden.
+
+
+Die bestehende Pipeline war zwar resumierbar, aber nicht aktualisierbar. Erst die Betrachtung eines späteren Betriebsfalls machte diese Designschwäche sichtbar.
+
+---
+
+# Phase 6 – Turniersimulation
+
+## 15.07.2026 – Offizielle Turnierregeln recherchiert und strukturiert
+
+### Ausgangslage und Ziel
+
+Die Simulation des WM-Formats mit 48 Teams erforderte eine korrekte Zuordnung der acht besten Gruppendritten im Achtelfinal. Diese Logik war im Exposé unterschätzt worden.
+
+### KI-Einsatz
+
+Claude wurde zunächst zur Regelstruktur befragt. Anschliessend wurden die offiziellen Annex-C-Tabellen aus PDF in JSON übertragen.
+
+### Prüfung der KI-Ausgabe
+
+Ich prüfte:
+
+- ob alle 495 Kombinationen vorhanden sind,
+- ob jeder Schlüssel eindeutig ist,
+- ob acht Drittplatzierte korrekt zugeordnet werden,
+- und ob die übrigen Achtelfinalpaarungen mit weiteren Quellen übereinstimmen.
+
+### Entscheidung und Umsetzung
+
+Eine vereinfachte zufällige Zuordnung wurde verworfen. Die Annex-C-Tabelle wurde als strukturierte Regelbasis übernommen.
+
+### Problem
+
+Erste PDF-Exporte enthielten nur einen Teil der 495 Kombinationen. Erst eine vollständige Version konnte verwendet werden.
+
+### Entscheidung und Umsetzung
+
+Bei nicht direkt zugänglichen offiziellen Detailinformationen wurden Sekundärquellen zur Kreuzvalidierung genutzt, statt Lücken durch Annahmen zu füllen.
+
+### Ergebnis und Reflexion
+
+Die vollständige Annex-C-Zuordnung wurde unter `data/raw/annex_c.json` eingebunden.
+
+
+Dies war ein besonders wichtiger Kontrollfall: KI konnte aus unvollständigem Material eine formal plausible, aber sachlich unvollständige Datei erzeugen. Vollständigkeit musste deshalb explizit über Anzahl, Eindeutigkeit und Stichproben geprüft werden.
+
+---
+
+## 15.07.2026 – Monte-Carlo-Simulation umgesetzt
+
+### Ausgangslage und Ziel
+
+Das gesamte Turnier sollte von der Gruppenphase bis zum Final mehrfach simuliert werden.
+
+### KI-Einsatz
+
+Claude wurde beauftragt, die Simulation auf Basis der trainierten Modelle und der offiziellen Turnierstruktur umzusetzen.
+
+### Prüfung der KI-Ausgabe
+
+Geprüft wurden:
+
+- 12 Gruppen mit je sechs Spielen,
+- Gruppentabelle und Tiebreaker,
+- Auswahl der acht besten Drittplatzierten,
+- Annex-C-Lookup,
+- eindeutige Achtelfinalteilnehmer,
+- und ein Sieger in jeder K.-o.-Partie.
+
+Die Struktur wurde mit Dummy-Modellen und mehreren vollständigen Turnierläufen getestet.
+
+### Entscheidung und Umsetzung
+
+Die Grundstruktur wurde übernommen.
+
+Ein Vorschlag, bei einem K.-o.-Unentschieden so lange neu zu simulieren, bis ein Sieger entsteht, wurde verworfen.
+
+
+Für K.-o.-Spiele wurde der Draw-Anteil entfernt und die beiden Siegwahrscheinlichkeiten auf 100 % normiert:
+
+\[
+P(A \mid \text{kein Draw}) = \frac{P(A)}{P(A)+P(B)}
+\]
+
+Diese Vereinfachung nutzt die relative Einschätzung des Modells, bildet aber Verlängerung und Elfmeterschiessen nicht separat ab.
+
+### Ergebnis und Reflexion
+
+Die Simulation lief in Testdurchläufen ohne fehlende Annex-C-Einträge oder doppelte Achtelfinalteilnehmer.
+
+
+Die mathematische Normierung ist nachvollziehbar, aber weiterhin eine Modellannahme. Eine spätere Version könnte Verlängerung und Elfmeterschiessen explizit modellieren.
+
+---
+
+## 18.07.2026 – Simulation in das Dashboard integriert
+
+### Ausgangslage und Ziel
+
+Die Turniersimulation sollte über das Dashboard bedienbar sein.
+
+### KI-Einsatz
+
+Claude unterstützte bei Integration, Speicherung der Resultate und Visualisierung.
+
+### Prüfung der KI-Ausgabe
+
+Ein fehlerhafter Modulimport wurde erkannt und korrigiert. Die komplette Funktionskette wurde mit Dummy-Modellen für alle 48 Teams ausgeführt.
+
+### Entscheidung und Umsetzung
+
+Die Integration und JSON-Speicherung wurden übernommen.
+
+### Ergebnis und Reflexion
+
+Im Dashboard konnten Einzelsimulationen und aggregierte Mehrfachsimulationen angezeigt werden.
+
+
+Der Importfehler zeigt, dass auch bereits „fertig“ wirkende KI-Änderungen mindestens einmal über den tatsächlichen Anwendungspfad ausgeführt werden müssen.
+
+---
+
+## 18.07.2026 – Teamverlauf und Gesamtübersichten ergänzt
+
+### Ausgangslage und Ziel
+
+Aggregierte Wahrscheinlichkeiten allein waren schwer greifbar. Zusätzlich sollte der konkrete Weg eines Teams durch ein simuliertes Turnier sichtbar sein.
+
+### KI-Einsatz
+
+Claude erweiterte die Simulation um Spiel- und Rundeninformationen und entwickelte darauf aufbauend mehrere Dashboard-Ansichten.
+
+### Prüfung der KI-Ausgabe
+
+Ich kontrollierte:
+
+- abnehmende Erreichenswahrscheinlichkeiten über die Turnierphasen,
+- vollständige Gruppenspiele,
+- korrektes Ausscheiden,
+- und Summen der Gruppenplatzierungen über alle Simulationen.
+
+### Entscheidung und Umsetzung
+
+Übernommen wurden:
+
+- Teamverlauf einer Einzelsimulation,
+- aggregierte Phasenwahrscheinlichkeiten,
+- Top-10-Gesamtübersicht,
+- Über- und Unterperformer relativ zum Ranking,
+- Gruppenplatzierungswahrscheinlichkeiten.
+
+
+Bei mehreren Simulationen wird zusätzlich ein einzelner Beispielverlauf gezeigt, damit die aggregierten Prozentwerte interpretierbar bleiben.
+
+### Ergebnis und Reflexion
+
+Die Turniersimulation wurde zu einem wesentlichen Bestandteil des Endprodukts und übertraf den ursprünglich geplanten Scope.
+
+
+Die Erweiterung erhöhte den Produktwert, aber auch das Risiko versteckter Logikfehler. Entsprechend sind regelbasierte Tests für diese Komponente besonders wichtig.
+
+---
+
+
+# Phase 7 – Definition automatisierter Tests
+
+## 23.07.2026 – Testkonzept für die zentralen fachlichen Risiken
+
+### Ausgangslage und Ziel
+
+Die bisherigen Kontrollen erfolgten grösstenteils manuell oder im Diagnose-Notebook. Für die finale Qualitätssicherung sollten deshalb gezielt automatisierte Tests ergänzt werden. Dabei war nicht eine möglichst hohe Anzahl Tests das Ziel, sondern die Absicherung der wichtigsten fachlichen Risiken des WM-2026-Predictors.
+
+### KI-Einsatz
+
+Ich definierte Claude einen klar abgegrenzten Testauftrag mit ungefähr zwölf fachlichen Tests und einer festen Dateistruktur:
+
+```text
+tests/
+├── test_feature_engineering.py
+├── test_tournament_logic.py
+├── test_model_predictions.py
+└── test_reproducibility.py
 ```
-### [Datum] – [Kurztitel] - [Modell: Claude Code]
--
 
-**Prompt:**
+Die Tests sollten sich auf folgende Bereiche konzentrieren:
+
+1. korrekte Berechnung der Ranking-Differenz,
+2. historische Features ohne Einbezug des aktuellen oder zukünftiger Spiele,
+3. Schutz vor Target Leakage durch Ausschluss von `result`, `goals_a` und `goals_b`,
+4. Vollständigkeit der vom Modell erwarteten Feature-Spalten,
+5. korrekte Gruppenstruktur mit 12 Gruppen und 48 eindeutigen Teams,
+6. genau sechs eindeutige Gruppenspiele bei vier Teams,
+7. genau 495 eindeutige Annex-C-Kombinationen,
+8. gültige und vollständige Annex-C-Zuordnungen,
+9. korrekte Siegerweiterleitung im offiziellen K.-o.-Turnierbaum,
+10. vollständiger Turnierlauf mit genau einem Weltmeister,
+11. gültige Modellwahrscheinlichkeiten unter Berücksichtigung von `model.classes_`,
+12. reproduzierbare Simulationen bei identischem Zufallsseed.
+
+Zusätzlich erhielt Claude die Anweisung, nach der Ausführung von `pytest -v` bestandene, fehlgeschlagene und übersprungene Tests sowie Laufzeit und Fehlerursachen zusammenzufassen.
 
 
-**Übernommen / angepasst / verworfen:**
+### Entscheidung und Umsetzung
 
+Ich beschränkte den Testumfang bewusst auf die zentralen Risiken:
 
-**Eigene Entscheidungen:**
--
+- zeitliche Korrektheit und Leakage im Feature Engineering,
+- Vollständigkeit und Eindeutigkeit der offiziellen Turnierregeln,
+- korrekte Weiterleitung von Teams,
+- Gültigkeit der Modellwahrscheinlichkeiten,
+- und Reproduzierbarkeit der Simulation.
 
+UI-Details und triviale Hilfsfunktionen wurden nicht priorisiert. Die Tests wurden auf vier thematisch getrennte Dateien verteilt, damit Fehler leichter einem Bereich zugeordnet werden können.
 
-**Probleme:**
--
+### Ergebnis und Reflexion
 
--
+Mit diesem Auftrag wurde erstmals vor der Implementierung klar festgelegt, welche fachlichen Eigenschaften als korrekt gelten müssen. Dies verbessert die Qualität gegenüber rein visuellen oder manuellen Kontrollen, weil zentrale Invarianten wiederholbar geprüft werden können.
 
-**Outcome:**
-```
-
----
-
-## Einträge
-
-### 09.07.2026 – Projekt-Setup: Config, Fetch-Skript, Requirements
-
-**Modell:** Claude
-
-**Prompt:**
-Claude gebeten, für das Projekt laut Exposé die initialisierenden Dateien zu bauen:
-
-* Konfigurationsmodul
-* Skript für den Datenabruf von API-Football (Pro Subscription) für die letzten zwei WM-Zyklen
-* `requirements.txt`
-
-**Übernommen / angepasst / verworfen:**
-`config.py` und `fetch_data.py` wurden von Claude generiert und übernommen.
-
-`config.py` lädt den API-Key aus der `.env`-Datei und enthält die Liste aller 48 WM-2026-Teams. Die Liste wurde von Claude recherchiert und von mir stichprobenartig geprüft.
-
-`fetch_data.py` ruft pro Team die Team-ID und die letzten Länderspiele ab und speichert sie lokal als JSON.
-
-**Eigene Entscheidungen:**
-Die `.env`-Datei mit API-Key und Host wurde selbst erstellt und lokal gehalten. Sie ist nicht Teil des von Claude generierten Codes und wurde bewusst nicht ins Repository committed.
-
-API-Football wurde direkt über `api-football.com` statt über RapidAPI verwendet, da der Zugriff dadurch einfacher ist.
-
-**Probleme:**
-Klassisches Windows-Problem: `write_text()` nutzt ohne explizite Angabe die Systemkodierung `cp1252`. Diese kann Sonderzeichen wie `ć`, beispielsweise in Namen wie „Kovačić", nicht darstellen.
-
-Fix: Überall explizit `encoding="utf-8"` angeben.
-
-**Outcome:**
-Dateien erstellt, Codeinhalt geprüft.
+Besonders wichtig war die Vorgabe, bei einem Fehlschlag zunächst nur Ursache und kleinste sinnvolle Korrektur zu bestimmen. Dadurch wird verhindert, dass Claude produktiven Code automatisch verändert, nur damit ein Test besteht. Die Tests dienen damit nicht nur der Fehlererkennung, sondern auch als zusätzliche Kontrolle über KI-generierte Änderungen.
 
 ---
 
-### 10.07.2026 – WM-2026-Toggle für Dashboard-Daten
+# 9. Kritische KI-Erfahrungen
 
-**Modell:** Claude
+## 9.1 Erfundene FIFA-Rankingdaten
 
-**Prompt:**
+### Ausgangslage
 
-> Bitte Toggle einfügen für Daten von WM26 (Datum alles nach 19.06.26), damit man entscheiden kann, ob man diese Daten im Dashboard einfliessen lassen möchte.
+Claude sollte eine CSV mit aktuellen FIFA-Rankings der WM-Teams beschaffen.
 
-**Übernommen / angepasst / verworfen:**
-Das neue Modul `data_utils.py` mit `load_team_fixtures()` und `filter_fixtures(..., include_wm2026=False)` wurde von Claude vorgeschlagen und übernommen.
+### Problem
 
-Das Cutoff-Datum `19.06.2026` wurde direkt übernommen.
+Der Webabruf schlug fehl. Trotzdem lieferte die KI eine formal plausible Datei mit Werten, die nicht verifiziert werden konnten und teilweise erfunden waren.
 
-**Eigene Entscheidungen:**
-–
+### Reaktion
 
-**Probleme:**
-–
+Die Datei wurde vollständig verworfen. Stattdessen wurde ein nachprüfbarer Kaggle-Datensatz mit historischen Elo-Ratings verwendet.
 
-**Outcome:**
-Rohdaten bleiben unverändert; Filter wird erst bei Nutzung (Feature Engineering / Dashboard-Toggle) angewendet, kein erneuter Datenabruf nötig.
+### Erkenntnis
+
+Plausibilität ist kein Qualitätsnachweis. Externe Daten dürfen nur übernommen werden, wenn Quelle, Vollständigkeit und Werte überprüfbar sind.
 
 ---
 
-### 10.07.2026 – Match-Stats-Skript: Ballbesitz, Schüsse etc.
+## 9.2 Lokale Fehlerkorrektur statt systematischer Lösung
 
-**Modell:** Claude
+### Ausgangslage
 
-**Prompt:**
-Ein weiteres Skript erstellen, das die Match-Statistiken exportiert und ebenfalls abspeichert.
+Der gleiche Encoding-Fehler trat in mehreren Dateien und Funktionen auf.
 
-**Übernommen / angepasst / verworfen:**
-Das neue Skript `fetch_match_stats.py` wurde von Claude vorgeschlagen und übernommen.
+### Problem
 
-Das Skript sammelt zuerst alle eindeutigen Fixture-IDs aus den Dateien der 48 Teams. Dabei werden Duplikate entfernt, da Spiele zwischen zwei WM-Teams ansonsten doppelt gezählt würden.
+Eine erste Korrektur löste nur den gerade sichtbaren Fehlerpfad.
 
-Anschliessend werden die Statistiken pro Fixture über `/fixtures/statistics` abgerufen und einzeln unter folgendem Pfad gespeichert:
+### Reaktion
 
-`data/raw/stats/{fixture_id}.json`
+Alle Lese- und Schreibstellen wurden verglichen und auf eine einheitliche Encoding-Strategie umgestellt.
 
-**Eigene Entscheidungen:**
-–
+### Erkenntnis
 
-**Probleme:**
-–
-
-**Outcome:**
-Skript zusätzlich robuster gestaltet (überspringt leere/beschädigte Dateien statt abzustürzen, resumable bei Tageslimit).
+KI reagiert oft auf die unmittelbar gemeldete Fehlermeldung. Die Verantwortung, nach ähnlichen Fehlerstellen im Gesamtsystem zu suchen, bleibt bei mir.
 
 ---
 
-### 13.07.2026 – Status-Check-Skript für Datenabruf-Fortschritt
+## 9.3 Funktionierender Output trotz begrenztem Verständnis
 
-**Modell:** Claude
+### Ausgangslage
 
-**Prompt:**
-Code erstellen, um den aktuellen Stand der Datenabrufe zu prüfen. Danach wurde die Ausgabe übersichtlicher gestaltet und um eine Darstellung pro Team für Spiele und Statistiken ergänzt.
+Teile des Dashboards und der Turniersimulation funktionierten früh.
 
-**Übernommen / angepasst / verworfen:**
-Das neue Skript `check_status.py` wurde von Claude vorgeschlagen und übernommen.
+### Problem
 
-Das Skript zeigt pro Team eine Tabelle mit:
+Fehlerfreie Ausführung erzeugte zunächst den Eindruck, dass keine tiefere Prüfung erforderlich sei.
 
-* Anzahl Spiele
-* Bereits abgerufenen Match-Statistiken
-* Fortschritt in Prozent
+### Reaktion
 
-Zusätzlich wird am Ende eine Gesamtzusammenfassung ausgegeben. Fehlende oder leere Dateien werden explizit ausgewiesen.
+Die Funktionskette wurde mit Dummy-Daten, Strukturprüfungen und konkreten Invarianten kontrolliert.
 
-**Eigene Entscheidungen:**
-–
+### Erkenntnis
 
-**Probleme:**
-Dabei wurde festgestellt, dass `fixtures_Mexico.json` leer war und eine Dateigrösse von 0 Bytes hatte. Dabei handelte es sich um ein Überbleibsel eines früheren abgebrochenen Laufs.
-
-Die Datei wurde dank des Status-Checks gezielt nachgeladen.
-
-**Outcome:**
-47 von 48 Teams, 4'611 eindeutige Fixtures, Match-Statistik-Fortschritt in Prozent ausgegeben.
+„Läuft ohne Fehler“ bedeutet nur, dass kein sichtbarer Laufzeitfehler auftritt. Es beweist weder fachliche Korrektheit noch vollständige Regelumsetzung.
 
 ---
 
-### 13.07.2026 – Stats-Abdeckungsanalyse und MVP-Scope-Erweiterung
-
-**Modell:** Claude
-
-**Prompt:**
-Wunsch geäussert, Spielstatistiken wie Ballbesitz und Eckbälle in das MVP aufzunehmen, da diese Daten dank des Pro-Abonnements nun verfügbar sind.
-
-Anschliessend wurde darum gebeten, im Status-Check zu ergänzen, welche Statistiktypen konsistent über alle Daten vorhanden sind, um die Feature-Auswahl besser zu fundieren.
-
-**Übernommen / angepasst / verworfen:**
-Das neue Skript `analyze_stats_coverage.py` wurde von Claude vorgeschlagen und übernommen.
-
-Das Skript prüft pro Statistiktyp, in wie vielen Spielen beide Teams einen echten Wert besitzen. Untersucht werden unter anderem:
-
-* Ballbesitz
-* Schüsse
-* Eckbälle
-* Fouls
-* Karten
-
-Die Ausgabe erfolgt als nach Abdeckungsgrad sortierte Tabelle.
-
-**Eigene Entscheidungen:**
-Bewusste Scope-Erweiterung gegenüber dem ursprünglichen Exposé.
-
-Ballbesitz und Eckbälle waren dort nicht als Features geplant. Ursprünglich vorgesehen waren lediglich:
-
-* Formkurve
-* Head-to-Head
-* Ranking-Differenz
-* Tordurchschnitt
-
-Es wurde entschieden, Eckbälle als zusätzliches Feature aufzunehmen. Die finale Feature-Auswahl soll jedoch datenbasiert anhand des Abdeckungsgrads erfolgen und nicht nach Bauchgefühl.
-
-**Probleme:**
-–
-
-**Outcome:**
-Feature-Auswahl erfolgt datenbasiert anhand des Abdeckungsgrads statt nach Bauchgefühl.
-
----
-
-### 14.07.2026 – Feature Engineering: Formkurve, H2H, Ranking-Differenz, Match-Stats
-
-**Modell:** Claude
-
-**Prompt:**
-Wunsch geäussert, das Feature Engineering als sauberes Skript (nicht als Notebook) umzusetzen. Vorgabe gemacht, dass Features pro Spiel ausschliesslich aus Daten vor dem jeweiligen Spieldatum berechnet werden dürfen (kein Data Leakage). Formkurve-Fenster auf die letzten 5 Spiele festgelegt.
-
-**Übernommen / angepasst / verworfen:**
-Das neue Skript `build_features.py` wurde von Claude vorgeschlagen und übernommen.
-
-Das Skript baut pro Team eine chronologische Spielhistorie auf, identifiziert alle Spiele zwischen zwei WM-2026-Teams und berechnet pro Spiel:
-
-* Formkurve (Punkte aus den letzten 5 Spielen)
-* Tordurchschnitt (geschossen/kassiert)
-* Head-to-Head-Bilanz
-* Ranking-Differenz, berechnet aus Elo-Ratings (inkl. Namens-Mapping zwischen unserer Team-Liste und der Rating-CSV, z. B. "USA" vs. "United States")
-* Ballbesitz-, Schuss- und Eckball-Schnitt (wo Daten vorhanden)
-
-Das Ergebnis wird als `data/processed/match_features.csv` gespeichert.
-
-**Eigene Entscheidungen:**
-Formkurve-Fenster bewusst auf 5 Spiele festgelegt (nicht 10 oder 15), um einen Kompromiss zwischen Aktualität und genügend Stichprobengrösse zu haben.
-
-**Probleme:**
-–
-
-**Outcome:**
-Logik an Beispiel-Datensatz (Canada vs. Mexico) durchgerechnet und manuell verifiziert, bevor auf echte Daten angewendet.
-
----
-
-### 14.07.2026 – Encoding-Bug in data_utils.py behoben
-
-**Modell:** Claude
-
-**Prompt:**
-Fehlermeldung beim Ausführen von `build_features.py` gemeldet (`UnicodeDecodeError` beim Einlesen von `fixtures_*.json` über `data_utils.py`).
-
-**Übernommen / angepasst / verworfen:**
-Festgestellt, dass die lokale Version von `data_utils.py` den bereits an anderer Stelle (fetch_match_stats.py) eingebauten Encoding-Fallback (UTF-8 mit cp1252-Fallback) noch nicht enthielt. Aktuelle, bereits korrigierte Version von Claude erneut zum Ersetzen erhalten und übernommen.
-
-**Eigene Entscheidungen:**
-–
-
-**Probleme:**
-Gleicher Encoding-Bug wie zuvor bei `fetch_match_stats.py` (ältere, vor dem Fix gespeicherte `fixtures_*.json`-Dateien enthalten Sonderzeichen in cp1252 statt UTF-8) – diesmal in `data_utils.py`, da dort der Fix versehentlich nicht mit übernommen wurde, als nur einzelne Dateien ersetzt wurden.
-
-**Outcome:**
-Encoding-Fallback in `data_utils.py` nachgezogen.
-
----
-
-### 14.07.2026 – Diagnose-Skripte zu einem Notebook zusammengeführt
-
-**Modell:** Claude
-
-**Prompt:**
-Wunsch geäussert, die drei Diagnose-Skripte (`check_status.py`, `analyze_stats_coverage.py`, `quick_check_features.py`) in einem Notebook zusammenzufassen, um die Einzel-Skripte danach löschen zu können.
-
-**Übernommen / angepasst / verworfen:**
-Neues Notebook `notebooks/data_diagnostics.ipynb` von Claude erstellt und übernommen. Enthält eine gemeinsame Setup-Zelle (Imports, Pfad-Konfiguration zu `src/`) sowie drei separate Abschnitte mit Markdown-Überschriften:
-
-1. Status-Check (Fixtures/Match-Stats-Fortschritt pro Team)
-2. Stats-Abdeckung (welche Statistik-Typen zuverlässig genug sind)
-3. Feature-Sanity-Check (Klassenverteilung, fehlende Werte in `match_features.csv`)
-
-**Eigene Entscheidungen:**
-Bewusste Entscheidung, reine Diagnose-/Kontroll-Skripte (die nicht Teil der eigentlichen Datenpipeline sind) in ein Notebook auszulagern, während die Kern-Pipeline (`fetch_data.py`, `fetch_match_stats.py`, `build_features.py`) als Skripte bestehen bleibt – sauberere Trennung zwischen reproduzierbarer Pipeline und explorativer Kontrolle.
-
-**Probleme:**
-–
-
-**Outcome:**
-Notebook vor Auslieferung auf gültiges JSON-Format geprüft; Logik identisch zu den drei Skripten, nur zusammengeführt.
-
----
-
-### 14.07.2026 – Random-Forest-Modell trainieren
-
-**Modell:** Claude
-
-**Prompt:**
-Skript erstellen lassen, das auf Basis von `match_features.csv` einen Random-Forest-Klassifikator trainiert (Sieg Team A / Unentschieden / Sieg Team B), inkl. Evaluation und Speicherung fürs spätere Dashboard.
-
-**Übernommen / angepasst / verworfen:**
-Skript `train_model.py` von Claude vorgeschlagen und übernommen. Enthält:
-
-* **Zeitlichen statt zufälligen Train/Test-Split**: Test = chronologisch letzte 20% der Spiele, statt zufällige Stichprobe – begründet damit, dass ein zufälliger Split die Performance zu optimistisch einschätzen würde (Modell könnte sonst aus zeitlich nahen, ähnlichen Spielen in Training und Test "schummeln").
-* **Median-Imputation für fehlende Werte** (Ballbesitz/Schüsse/Ecken, ca. 19% der Zeilen), wobei der Median explizit nur aus dem Trainingsset berechnet wird (nicht aus dem Testset), um erneutes Data Leakage zu vermeiden.
-* Random Forest mit `n_estimators=200`, `max_depth=10`.
-* Ausgabe von Accuracy, Classification Report, Confusion Matrix und Feature Importance (Top 10).
-* Speicherung von Modell, Imputer und Feature-Liste unter `models/` für die spätere Nutzung im Streamlit-Dashboard.
-
-**Eigene Entscheidungen:**
-`NON_FEATURE_COLS` bewusst definiert, um Identifikatoren (fixture_id, date, team_a/b) und die zum Vorhersagezeitpunkt nicht bekannten Ist-Werte (goals_a, goals_b) explizit vom Feature-Set auszuschliessen.
-
-**Probleme:**
-–
-
-**Outcome:**
-Modell trainiert und gespeichert (`models/*.pkl`, `feature_columns.json`).
-
----
-
-### 14.07.2026 – Modell trainiert, Draw-Problem als bekannte Grenze dokumentiert
-
-**Modell:** Claude
-
-**Prompt:**
-`train_model.py` ausgeführt und Ergebnisse (Accuracy 50.2%, schwache Erkennung von Unentschieden) besprochen.
-
-**Übernommen / angepasst / verworfen:**
-Ergebnis so übernommen wie trainiert, keine Anpassung vorgenommen. Bewusst entschieden, das Draw-Problem als dokumentierte Modellgrenze stehen zu lassen statt sofort zu optimieren (z.B. via `class_weight`), um zügig zum Dashboard überzugehen.
-
-**Eigene Entscheidungen:**
-Entscheidung, die Erkennungsschwäche bei Unentschieden nicht als Fehler zu behandeln, sondern als bekannte, in der Fussball-Analytik übliche Grenze zu akzeptieren und im Bericht transparent zu machen.
-
-**Probleme:**
-Modell erkennt Unentschieden kaum (Recall 0.10) – von 69 echten Unentschieden im Testset wurden nur 7 korrekt erkannt, die meisten wurden als Sieg vorhergesagt.
-
-**Outcome:**
-Accuracy 50.2% (Zufall = 33%); Ranking-Differenz als stärkstes Einzel-Feature bestätigt.
-
----
-
-### 15.07.2026 – Umbenennung Elo → Ranking (Code, Daten, Dokumentation)
-
-**Modell:** Claude Code
-
-**Prompt:**
-Eigenständig (ohne Claude-Chat) mit Claude Code durchgeführt: sämtliche `elo_`-Bezeichnungen im Projekt auf `ranking_` umbenennen, sowohl im Code als auch in der Prosa, mit gezielten Ausnahmen.
-
-**Übernommen / angepasst / verworfen:**
-Folgende Umbenennungen selbständig vorgenommen:
-
-* `src/build_features.py`: `ELO_CSV`→`RANKING_CSV`, `ELO_NAME_MAP`→`RANKING_NAME_MAP`, `load_elo_ratings()`→`load_ranking_ratings()`, `get_elo()`→`get_ranking()`, Variablen `elo_*`→`ranking_*`, Output-Spalten `elo_a/elo_b/elo_diff`→`ranking_a/ranking_b/ranking_diff`
-* `models/feature_columns.json`: Spaltennamen entsprechend angepasst
-* `data/processed/match_features.csv`: Header-Zeile umbenannt (Werte unverändert)
-* `docs/progress.md`: Statustabelle, Feature-Liste, "Stärkstes Feature"-Zeile umgestellt
-* `notebooks/wm2026_predictor_nb.ipynb`: alle Code- und Markdown-Zellen entsprechend angepasst
-
-**Eigene Entscheidungen:**
-Bewusst NICHT geändert:
-
-* Dateiname `data/raw/elo_ratings_wc2026.csv` bleibt unverändert (einzige Ausnahme)
-* Wörtliche Zitate/faktische Aussagen über den echten Elo-Algorithmus (Kaggle-Datensatztitel "...Historical Elo Ratings", die Aussage zur wissenschaftlichen Evidenz "Elo prädiktiver als FIFA-Ranking") bleiben bei "Elo", da eine Umbenennung dort inhaltlich falsch wäre
-
-**Probleme:**
-–
-
-**Outcome:**
-Refactoring eigenständig mit Claude Code durchgeführt, ohne Rückfrage im Chat.
-
----
-
-
-### 15.07.2026 – Konsolidierung der Einzel-Skripte
-
-**Modell:** Claude
-
-**Prompt:**
-Rückmeldung gegeben, dass mittlerweile zu viele einzelne Skripte im Projekt vorhanden sind, und gefragt, ob sich das zusammenführen lässt.
-
-**Übernommen / angepasst / verworfen:**
-Drei Zusammenführungen von Claude vorgeschlagen und übernommen:
-
-* `fetch_data.py` + `fetch_match_stats.py` → **`fetch_data.py`** (Phase 1: Fixtures, Phase 2: Match-Stats, in einem `main()`-Durchlauf)
-* `data_utils.py` (nur von `build_features.py` genutzt) → Funktionen direkt in **`build_features.py`** integriert, `data_utils.py` entfernt
-* `train_model.py` + `train_goals_model.py` → **`train_models.py`** (gemeinsame Datenlade-/Split-/Imputations-Logik, trainiert Klassifikator und Regressor nacheinander)
-
-`config.py` bewusst unverändert gelassen (reine Konstanten/Pfade, macht als eigene Datei weiterhin Sinn).
-
-**Eigene Entscheidungen:**
-–
-
-**Probleme:**
-–
-
-**Outcome:**
-Von 7 auf 4 Skripte reduziert (`config.py`, `fetch_data.py`, `build_features.py`, `train_models.py`). Alle drei zusammengeführten Skripte vor Auslieferung gegen Mock-Daten getestet (Syntax + Ausführung), keine inhaltliche Änderung an der bisherigen Logik – bereits abgerufene/berechnete Daten (Fixtures, Match-Stats, `match_features.csv`, trainierte Modelle) mussten daher nicht neu erzeugt werden.
-
-
-### 15.07.2026 – Tore-Regressor als Ergänzung zum Klassifikator
-
-**Modell:** Claude
-
-**Prompt:**
-Nachfrage gestellt, ob das Modell auch Spielstände (Tore pro Team) vorhersagen kann, nicht nur Sieg/Unentschieden/Niederlage. Auf Rückfrage entschieden, ein zusätzliches Regressionsmodell dafür zu bauen.
-
-**Übernommen / angepasst / verworfen:**
-Neues Skript `train_goals_model.py` (später in `train_models.py` zusammengeführt) von Claude vorgeschlagen und übernommen: `RandomForestRegressor` mit nativem Multi-Output (`goals_a` + `goals_b` in einem Modell), gleicher chronologischer Split und gleiche Median-Imputation wie beim Klassifikator, damit die Ergebnisse vergleichbar bleiben.
-
-**Eigene Entscheidungen:**
-Bewusste Scope-Erweiterung gegenüber dem Exposé – dort war nur "wahrscheinlicher Sieger + Siegwahrscheinlichkeit" geplant, nicht die konkrete Toranzahl. Regressor ergänzt den Klassifikator, ersetzt ihn nicht (beide Outputs sollen später im Dashboard nebeneinander erscheinen).
-
-Methodische Entscheidung: Random Forest Regressor statt der in der Fussball-Analytik "klassischen" Poisson-Regression (die statistisch für Zähldaten wie Tore eigentlich passender wäre) – begründet mit Konsistenz zum Rest des Projekts (Random Forest ist bereits das Kernmodell) und der Fähigkeit, nichtlineare Interaktionseffekte zwischen Features abzubilden, statt ein zweites Modell-Framework einzuführen.
-
-**Probleme:**
-–
-
-**Outcome:**
-Modell trainiert und gespeichert (`goals_regressor_model.pkl`, `goals_imputer.pkl`, `goals_feature_columns.json`). Aus den vorhergesagten Toren zusätzlich ein abgeleitetes Ergebnis (A/Draw/B) berechnet, nur als Cross-Check gegen den Klassifikator, nicht als Ersatz für die Dashboard-Siegwahrscheinlichkeit.
-
----
-
-### 15.07.2026 – Baseline-Vergleich im Regression Report
-
-**Modell:** Claude Code
-
-**Prompt:**
-Eigenständig (ohne Claude-Chat) mit Claude Code durchgeführt: Regression Report um einen Baseline-Vergleich (naive Vorhersage = Mittelwert aus Trainingsdaten) sowie einen Check auf negative Torprognosen ergänzt.
-
-**Übernommen / angepasst / verworfen:**
-Baseline berechnet als konstante Vorhersage (Mittelwert von `goals_a`/`goals_b` aus dem Trainingsset), MAE/RMSE davon neben die Modell-Werte gestellt. Zusätzlich Anzahl negativer Torprognosen im Testset ausgegeben (Random Forest könnte theoretisch <0 vorhersagen, auch wenn das fachlich unmöglich ist).
-
-**Eigene Entscheidungen:**
-Baseline-Vergleich bewusst beibehalten (Diskussion mit Claude, ob nötig): zeigt, dass das Modell tatsächlich etwas gelernt hat und nicht nur ähnlich gut ist wie "einfach den Durchschnitt vorhersagen" – Standardpraxis in der ML-Validierung, relevant fürs Bewertungskriterium Qualitätssicherung.
-
-**Probleme:**
-–
-
-**Outcome:**
-Regression Report zeigt jetzt Modell- und Baseline-MAE/RMSE nebeneinander sowie die Anzahl negativer Vorhersagen; Rundung auf ganze Tore bewusst nicht hier, sondern erst später in der Dashboard-Anzeige vorgesehen (Rohwerte bleiben für die Fehlermetrik unverändert).
-
-
----
-
-### 15.07.2026 – Streamlit-Dashboard: Grundgerüst
-
-**Modell:** Claude
-
-**Prompt:**
-Aufbau des Streamlit-Dashboards angefordert: zwei Teams auswählen, Sieg-Wahrscheinlichkeit (Klassifikator) und erwartetes Ergebnis (Tore-Regressor) anzeigen, WM-2026-Toggle einbauen.
-
-**Übernommen / angepasst / verworfen:**
-`app/dashboard.py` von Claude erstellt und übernommen. Nutzt dieselben Funktionen aus `build_features.py` wie Notebook (`build_team_match_history`, `compute_rolling_features`, `compute_h2h`, `get_ranking`), keine Logik-Duplikation. Modelle und Referenzdaten via `@st.cache_resource`/`@st.cache_data` gecached.
-
-**Eigene Entscheidungen:**
-Torzahlen für die Anzeige gerundet, Rohwert zusätzlich klein daneben angezeigt (Rundung bewusst nur in der UI, nicht in der Modell-Evaluation).
-
-**Probleme:**
-`use_container_width` bei `st.image()` nicht kompatibel mit der lokal installierten Streamlit-Version – durch `use_column_width` ersetzt.
-
-**Outcome:**
-Funktionierendes Grundgerüst mit Team-Auswahl, Vorhersage, Sieg-Wahrscheinlichkeit und Feature-Importance-Chart.
-
----
-
-### 15.07.2026 – Umstellung Formkurve/Stats auf EWMA (statt festem Fenster)
-
-**Modell:** Claude
-
-**Prompt:**
-Hinterfragt, ob ein festes Fenster von 5 (bzw. 10) Spielen für Formkurve und Match-Stats-Durchschnitte statistisch fundiert genug ist, angesichts der Datenlücken bei Match-Stats (~39% fehlend) und der Frage, ob mehr historische Daten einen fundierteren Ansatz ermöglichen würden.
-
-**Übernommen / angepasst / verworfen:**
-`compute_rolling_features()` in `build_features.py` umgebaut: exponentiell gewichteter Durchschnitt (EWMA) über die **komplette verfügbare Historie** statt festem Fenster-Cutoff. Decay-Faktor 0.87 (Halbwertszeit ≈ 5 Spiele), methodisch konsistent mit dem Funktionsprinzip von Elo-Ratings.
-
-**Eigene Entscheidungen:**
-Bewusst gegen die einfachere "Option 2" (zwei getrennte feste Fenster für Form vs. Stats) entschieden, zugunsten der methodisch saubereren EWMA-Lösung – mehr Aufwand (Feature-Tabelle und beide Modelle mussten neu erzeugt werden), aber fundierter begründbar.
-
-**Probleme:**
-`form_points` ist durch die Umstellung jetzt ein gewichteter Durchschnitt (Skala 0–3) statt einer Summe (Skala 0–15) – Semantikänderung, an keiner weiteren Stelle im Code Anpassung nötig (Dashboard/Notebook rufen die Funktion mit denselben Positionsargumenten auf).
-
-**Outcome:**
-`match_features.csv` und beide Modelle (`train_models.py`) neu generiert. Dashboard/Notebook ohne Codeänderung weiterhin kompatibel, da der neue Parameter einen Default-Wert hat.
-
----
-
-### 15.07.2026 – Dashboard UI-Verfeinerung (iterativ)
-
-**Modell:** Claude
-
-**Prompt:**
-Mehrere aufeinanderfolgende Anpassungswünsche zur Dashboard-Optik und -Struktur geäussert, u.a.:
-- Flaggen der Teams gross anzeigen
-- Feature-Importance-Chart durch direkten Team-Vergleich ("Tale of the Tape") ersetzen
-- Vorhersage-Score grösser, Gewinner grün/Verlierer rot einfärben
-- Sieg-Wahrscheinlichkeit als Unterkapitel von "Vorhersage"
-- Form als farbige Kacheln (Sieg/Unentschieden/Niederlage) statt nur Punktzahl
-- "Ranking" zu "Elo Ranking" präzisiert, als Hyperlink mit Hover-Erklärung
-- Head-to-Head als Balkendiagramm statt Liste, einfarbig, nur einmal (im Team-Vergleich) statt doppelt
-- Hinweis-Box zur Ø-Erklärung formatiert (Titel fett, definierter Abstand)
-
-**Übernommen / angepasst / verworfen:**
-Alle Punkte von Claude umgesetzt, mit Zwischenständen nach jedem Schritt zur Kontrolle. Mehrere Korrekturschleifen bei Detailwünschen (Farbgebung, Abstände, Reihenfolge von Head-to-Head relativ zu "Vorhersage" und "Team-Vergleich").
-
-**Eigene Entscheidungen:**
-Team-Vergleich (konkrete Statistik-Werte nebeneinander) bewusst der abstrakteren Feature-Importance-Darstellung vorgezogen, da für einen Dashboard-Nutzer ohne ML-Hintergrund deutlich verständlicher.
-
-**Probleme:**
-Bei einer Zwischenversion wurde `flag_url()` versehentlich beim Einfügen einer neuen Funktion überschrieben – bemerkt und korrigiert. Head-to-Head-Anzeige kurzzeitig doppelt im Dashboard (einmal direkt nach der Vorhersage, einmal im Team-Vergleich) – auf eine einzige Stelle reduziert.
-
-**Outcome:**
-Dashboard zeigt jetzt: grosse Team-Flaggen, farblich codierte Vorhersage, Head-to-Head als Chart, direkter Stat-für-Stat-Vergleich beider Teams mit hervorgehobenem jeweils besserem Wert, sowie eine klar formatierte Erklärung der EWMA-Methodik.
-
----
-
-### 15.07.2026 – Refresh-Funktion für aktuelle Saison
-
-**Modell:** Claude
-
-**Prompt:**
-Nachgefragt, ob ein erneuter Lauf von `fetch_data.py` automatisch die neuesten (laufenden) WM-2026-Spiele nachholen würde.
-
-**Übernommen / angepasst / verworfen:**
-Festgestellt, dass das bisherige Skript pro Team überspringt, sobald die Datei existiert – ein erneuter Lauf hätte also nichts Neues geholt. Neue Funktion `refresh_current_season()` von Claude vorgeschlagen und übernommen: ruft gezielt nur die aktuelle Saison (2026) ab und merged neue Spiele (dedupliziert über Fixture-ID) in die bestehende Datei, ohne die vorhandene Historie zu löschen. Aufruf über neues CLI-Flag `--refresh`.
-
-**Eigene Entscheidungen:**
-–
-
-**Probleme:**
-–
-
-**Outcome:**
-Merge-Logik isoliert getestet (Duplikat-Erkennung, neues Spiel wird hinzugefügt, alte Historie bleibt erhalten). Nach `refresh_current_season()` wird automatisch `fetch_all_match_stats()` mit aufgerufen, damit auch die Statistiken zu neu gefundenen Spielen nachgeladen werden.
-
----
-
-### 15.07.2026 – Hover-Tooltips für Form-Kacheln und H2H-Detailliste
-
-**Modell:** Claude
-
-**Prompt:**
-Gewünscht, dass beim Hovern über die Form-Kacheln (letzte 5 Spiele) Resultat und Gegner angezeigt werden, sowie dass bei Head-to-Head zusätzlich sichtbar wird, wie die einzelnen Duelle effektiv ausgegangen sind (nicht nur die aggregierte Bilanz).
-
-**Übernommen / angepasst / verworfen:**
-`build_team_match_history()` in `build_features.py` um das Feld `opponent_name` (roher API-Gegnername, auch für Nicht-WM-2026-Teams) ergänzt. Neue Funktion `get_h2h_matches()` liefert die einzelnen H2H-Spiele statt nur der aggregierten Zahlen. Im Dashboard: `get_last_n_results()` gibt jetzt volle Spieldaten statt nur Punkte zurück, `form_tiles()` baut daraus ein `title`-Attribut (HTML-Tooltip) mit Datum, Resultat und Gegner. `render_h2h()` zeigt zusätzlich einen ausklappbaren Bereich mit allen Einzelduellen (Datum, Resultat, Ampel-Symbol).
-
-**Eigene Entscheidungen:**
-–
-
-**Probleme:**
-–
-
-**Outcome:**
-Änderungen gegen Mock-Daten getestet (opponent_name korrekt befüllt, H2H-Einzelspiele korrekt gefunden, Form-Liste mit vollständigen Details). Keine Änderung an `match_features.csv` oder den trainierten Modellen nötig, da das neue Feld nur für die Dashboard-Anzeige verwendet wird, nicht als Modell-Feature.
-
----
-
-### 15.07.2026 – Recherche: Offizielle Achtelfinal-Zuordnungsregeln (Annex C + Basisstruktur)
-
-**Modell:** Claude
-
-**Prompt:**
-Für die Monte-Carlo-Turniersimulation gefragt, wie die Achtelfinal-Zuordnung der Drittplatzierten funktioniert. Nach anfänglicher Vereinfachungs-Idee (zufällige Zuordnung) PDF-Seiten von "Annex C" (495 Kombinationen für die 8 besten Drittplatzierten) sowie strukturierte JSON-Versionen von Annex B (Fairplay-Reglement) und Annex C bereitgestellt.
-
-**Übernommen / angepasst / verworfen:**
-Annex-C-JSON (495 Zeilen, je mit `qualified_groups`-Schlüssel und Zuordnung der 8 Sieger-Slots zu Drittplatzierten-Gruppen) direkt übernommen – exakte offizielle Regel statt Vereinfachung. Für die übrigen 8 Achtelfinal-Spiele (Gruppensieger C/F/H/J vs. Gruppenzweite, Zweiter-vs-Zweiter) selbständig über Wikipedia-Gruppenseiten und tatsächlich gespielte Partien recherchiert und verifiziert (Sieger C ↔ Zweiter F, Sieger H ↔ Zweiter J als "Swap"-Paare; Zweiter A↔B, D↔G, E↔I, K↔L).
-
-**Eigene Entscheidungen:**
-Offizielles FIFA-Regularien-PDF blockierte automatisierten Zugriff (robots.txt) – bewusst auf Sekundärquellen (Wikipedia-Gruppenseiten, CBS/Yahoo-Artikel mit echten Spielresultaten) als Kreuzvalidierung ausgewichen, statt die Suche abzubrechen oder ungeprüft zu raten.
-
-**Probleme:**
-Erste zwei PDF-Uploads von Annex C enthielten nur Optionen 1–279 von 495 (unvollständig) – erst der dritte Upload (bzw. die JSON-Version) deckte alle 495 Kombinationen ab.
-
-**Outcome:**
-Vollständige, verifizierte Basis für die Achtelfinal-Struktur: 8 Spiele exakt nach Annex C, 8 Spiele nach recherchierter Grundstruktur. Einzige verbleibende, dokumentierte Vereinfachung: die Verknüpfung Achtelfinale→Viertelfinale→Halbfinale→Finale folgt einer plausiblen Standard-Reihenfolge, da das offizielle Bracket-PDF nicht abrufbar war.
-
----
-
-### 15.07.2026 – Monte-Carlo-Turniersimulation gebaut (simulate_tournament.py)
-
-**Modell:** Claude
-
-**Prompt:**
-Aufbau der vollständigen Turniersimulation (Gruppenphase bis Final) angefordert, inkl. Klärung, wie Unentschieden in K.o.-Spielen zu behandeln sind.
-
-**Übernommen / angepasst / verworfen:**
-Neues Skript `simulate_tournament.py` von Claude vorgeschlagen und übernommen:
-
-* Gruppenphase: Round-Robin-Simulation mit echten FIFA-Tiebreakern (Punkte → Tordifferenz → Tore → Ranking)
-* Drittplatzierten-Ranking über alle 12 Gruppen, Nachschlagen der exakten Achtelfinal-Zuordnung via Annex-C-JSON
-* K.o.-Runden (Achtelfinale bis Finale) über Wahrscheinlichkeiten neu skaliert ohne Unentschieden-Anteil (P(A)/(P(A)+P(B))) – meine eigene Idee, sauberer als eine Neusimulation bei Unentschieden oder ein reiner Münzwurf
-* Team-Formkurve/Ranking werden einmalig vor Turnierbeginn berechnet und über die gesamte Simulation konstant gehalten (Performance, dokumentierte Vereinfachung)
-
-**Eigene Entscheidungen:**
-Vorschlag, bei Unentschieden einfach so lange zu simulieren, bis kein Unentschieden mehr kommt, verworfen zugunsten der mathematisch saubereren Neuskalierung – nutzt weiterhin die relative Stärkeeinschätzung des Modells statt eines reinen Zufalls-Münzwurfs.
-
-**Probleme:**
-–
-
-**Outcome:**
-Struktur-Tests bestanden (12 Gruppen, 495 Annex-C-Kombinationen, korrekte Tiebreaker-Sortierung anhand eines Beispiels). Zusätzlich 21 komplette Turnier-Durchläufe mit Dummy-Modellen für alle 48 Teams getestet (unterschiedliche zufällige Drittplatzierten-Kombinationen) – durchgehend fehlerfrei, keine Duplikate im Achtelfinale, kein fehlender Annex-C-Eintrag.
-
-
----
-
-### 18.07.2026 – Monte-Carlo-Simulation ins Dashboard integriert
-
-**Modell:** Claude
-
-**Prompt:**
-Gewünscht, die Turniersimulation ins Dashboard einzubauen mit einem Umschalter oben ("Team-Vorhersage" / "Turnier-Simulation").
-
-**Übernommen / angepasst / verworfen:**
-Festgestellt, dass die Dashboard-Integration bereits grösstenteils vorhanden war (offenbar eigenständig zwischenzeitlich weiterentwickelt), aber einen Import-Bug enthielt (`import simulate_tournament as sim` statt des tatsächlichen Dateinamens `monte_carlo_simulation.py`) – korrigiert. Zusätzlich `monte_carlo_simulation.py` um Speicherung der Ergebnisse als JSON (`data/processed/tournament_simulation.json`) ergänzt.
-
-**Eigene Entscheidungen:**
-–
-
-**Probleme:**
-Import-Namenskonflikt zwischen Dateiname und Modul-Import-Statement – hätte bei Ausführung zu `ModuleNotFoundError` geführt.
-
-**Outcome:**
-Dashboard-Integration mit Dummy-Modellen für alle 48 Teams getestet (identische Funktionsaufruf-Kette wie im echten Dashboard-Code) – lief fehlerfrei durch.
-
----
-
-### 18.07.2026 – Team-Verlauf-Feature: einzelnes Team durch Turnier verfolgen
-
-**Modell:** Claude
-
-**Prompt:**
-Gewünscht, ein Team eingeben zu können und den kompletten Spielverlauf (inkl. Resultate) für die WM zu sehen, sowie die Anzahl Simulationen (1–1000) wählbar zu machen.
-
-**Übernommen / angepasst / verworfen:**
-`simulate_tournament()` in `monte_carlo_simulation.py` erweitert: liefert jetzt zusätzlich `group_match_details` (alle Gruppenspiele mit Resultat) und `knockout_details` (jedes K.o.-Spiel mit Resultat + Sieger) zurück. Neue Dashboard-Ansicht "Team im Detail verfolgen": bei 1 Simulation kompletter Spielverlauf (Gruppenspiele, Tabellenplatz, K.o.-Runden bis Ausscheiden/Titel), bei mehreren Simulationen aggregierte Prozentzahlen pro Phase plus ein Beispiel-Verlauf aus der letzten Simulation.
-
-**Eigene Entscheidungen:**
-Bei mehreren Simulationen bewusst zusätzlich einen "Beispiel-Turnierverlauf" ergänzt (nicht nur Prozentzahlen), um die abstrakten Zahlen greifbarer zu machen.
-
-**Probleme:**
-–
-
-**Outcome:**
-Logik mit Dummy-Modellen getestet (30 Simulationen für Canada): Prozentzahlen sinken plausibel von Runde zu Runde (90% → 57% → 33% → 10% → 7% → 0%). Beispiel-Verlauf zeigt korrekt Gruppenspiele → K.o.-Runden → Ausscheiden.
-
----
-
-### 18.07.2026 – Echtes WM-2026-Resultat zur Vorhersage anzeigen
-
-**Modell:** Claude
-
-**Prompt:**
-Gewünscht, dass bei der Team-Vorhersage zusätzlich angezeigt wird, falls die gewählten zwei Teams während der laufenden WM 2026 tatsächlich gegeneinander gespielt haben, inkl. echtem Resultat.
-
-**Übernommen / angepasst / verworfen:**
-Neue Funktion `find_actual_wm2026_results()` in `dashboard.py`: lädt die volle Spielhistorie (inkl. WM-2026-Spiele) und filtert nach Duellen ab dem Cutoff-Datum (`WM2026_START_DATE`). Bei Treffer erscheint eine Info-Box mit Datum und echtem Resultat direkt unter der Vorhersage.
-
-**Eigene Entscheidungen:**
-Funktioniert unabhängig vom WM-2026-Toggle (der nur die Formkurve-Berechnung steuert) – die Prüfung auf ein tatsächlich gespieltes Duell läuft immer im Hintergrund mit.
-
-**Probleme:**
-–
-
-**Outcome:**
-Mit einem simulierten WM-2026-Spiel (Canada vs. Mexico, 2:2) getestet – Funktion erkennt das Spiel korrekt und liefert das exakte Resultat zurück.
-
----
-
-### 18.07.2026 – Ästhetische Überarbeitung der Team-Verlauf-Ansicht
-
-**Modell:** Claude
-
-**Prompt:**
-Gewünscht, die Team-Verlauf-Ansicht optisch zu verbessern: klare Abgrenzung Gruppenphase/K.o.-Phase, kleine Flaggen einblenden, Sieger grün markieren.
-
-**Übernommen / angepasst / verworfen:**
-`render_team_journey()` komplett überarbeitet: farbig hinterlegte Abschnitts-Header ("📋 GRUPPENPHASE", "⚽ K.O.-PHASE"), kleine Flaggen-Icons bei jedem Team (Tabelle und Spielzeilen), Sieger grün/fett hervorgehoben, jede Spielzeile als eigene leicht abgesetzte Box statt Fliesstext.
-
-**Eigene Entscheidungen:**
-Bei Unentschieden in der Gruppenphase bewusst keine Seite grün markiert (nur bei echtem Sieger).
-
-**Probleme:**
-–
-
-**Outcome:**
-Syntax geprüft, konsistent mit bereits bestehendem Flaggen-/Farb-Schema aus der Team-Vorhersage-Ansicht.¨
-
-
----
-
-
-### 18.07.2026 – Formatierung der Team-Verlauf-Ansicht verfeinert
-
-**Modell:** Claude
-
-**Prompt:**
-Mehrere Feinschliff-Wünsche zur Team-Verlauf-Ansicht (Screenshot-basiert):
-- Gruppenphase-Pfad (Tabellen-Kette) stärker abgrenzen
-- Spielzeilen "Team vs. Team - Punktestand" besser formatieren
-- Bei der aggregierten Mehrfach-Simulationsansicht: Tabelle unter dem Chart entfernen, nur Plot mit Titel und klaren Kurzbeschriftungen (Gruppenphase/Achtelfinale/Viertelfinale/Halbfinale/Finale), eventuell Linienplot mit Wahrscheinlichkeits-Beschriftung pro Datenpunkt statt Balkendiagramm
-
-**Übernommen / angepasst / verworfen:**
-- `match_line()` auf CSS-Grid-Layout umgestellt (`grid-template-columns: 1fr auto 1fr`): Team links rechtsbündig, Score fett zentriert in der Mitte, Team rechts linksbündig – unabhängig von Namenslänge exakt ausgerichtet
-- Gruppentabellen-Kette in eigenen Kasten gepackt (blauer linker Rahmen, dezenter Hintergrund, Label "Tabelle:")
-- Beide Abschnitts-Header (Gruppenphase/K.o.-Phase) auf einheitliche Farbe vereinheitlicht
-- Aggregierte Mehrfach-Simulationsansicht: `st.dataframe`-Tabelle entfernt, Balkendiagramm durch Altair-Linienchart mit Datenpunkten und direkt darüber platzierten Prozent-Beschriftungen ersetzt, Titel "Wahrscheinlichkeit je Turnierphase", kürzere Phasen-Labels
-
-**Eigene Entscheidungen:**
-Titel bewusst nicht "Sieg-Wahrscheinlichkeit" genannt (wie ursprünglich vorgeschlagen), sondern "Wahrscheinlichkeit je Turnierphase" – da es inhaltlich nicht um eine einzelne Sieg-Chance geht, sondern um das Erreichen verschiedener Turnierrunden.
-
-**Probleme:**
-–
-
-**Outcome:**
-Syntax geprüft; visuelle Konsistenz mit dem bereits etablierten Flaggen-/Farb-Schema aus der Team-Vorhersage-Ansicht hergestellt.
-
----
-
-### 18.07.2026 – "Top-Teams gesamt" grundlegend überarbeitet (3 neue Abschnitte)
-
-**Modell:** Claude
-
-**Prompt:**
-Rückmeldung, dass die bisherige "Top-Teams gesamt"-Ansicht (Balkendiagramm, eine Phase nach der anderen per Dropdown) nicht überzeugt. Nach Ideen für eine sinnvollere Darstellung gefragt.
-
-**Übernommen / angepasst / verworfen:**
-Drei vorgeschlagene Ideen alle übernommen und umgesetzt:
-
-1. **Gesamtübersicht**: Tabelle mit Top 15 (sortiert nach Weltmeister-%), Flaggen-Spalte, alle 5 Phasen nebeneinander mit eingebauten Fortschrittsbalken (`st.column_config.ProgressColumn`) statt Balkendiagramm-Umschalten
-2. **Überraschungen**: Vergleich simulierte Performance vs. Elo-Ranking-Erwartung – Top 5 Über- und Top 5 Unterperformer (Differenz aus Elo-Rang und Simulations-Rang)
-3. **Gruppen-Ansicht**: Gruppe wählbar, zeigt pro Team die Wahrscheinlichkeit für Platz 1–4 innerhalb der Gruppe
-
-`run_tournament_simulations()` dafür erweitert: neuer Zähler `group_advanced` (Teams, die die Gruppenphase überstehen) sowie `group_rank_counts` (Platzierungs-Historie pro Team innerhalb der eigenen Gruppe).
-
-**Eigene Entscheidungen:**
-Für die "Überraschungen"-Metrik einen einfachen Summen-Score (Anzahl Vorkommen über alle Phasen hinweg) als Simulations-Rang-Grundlage gewählt, statt nur einer einzelnen Phase – differenziert auch schwächere Teams besser als z.B. reine Weltmeister-Wahrscheinlichkeit (die für viele Teams bei 0 läge).
-
-**Probleme:**
-–
-
-**Outcome:**
-Neue Zähler-Logik mit Dummy-Modellen getestet: `group_advanced` plausibel begrenzt, Elo-Rang/Sim-Rang vollständig für alle 48 Teams, Gruppenplatzierungs-Summe pro Team korrekt gleich der Anzahl Simulationen.
-
-
----
-
-
-### 18.07.2026 – Gesamtübersicht-Tabelle kompakter, Simulationsbereich reduziert
-
-**Modell:** Claude
-
-**Prompt:**
-Rückmeldung, dass die Gesamtübersicht-Tabelle sowohl vertikal als auch horizontal gescrollt werden musste. Gewünscht: nur Top 10 statt 15 anzeigen, sowie den Simulations-Slider (wegen Ladezeit) auf 10–1000 in 10er-Schritten eingrenzen statt 100–5000 in 100er-Schritten.
-
-**Übernommen / angepasst / verworfen:**
-Tabelle auf Top 10 reduziert, feste Höhe (`height=386`, exakt 10 Zeilen + Header) gesetzt, um vertikales Scrollen zu vermeiden. Alle Spalten auf `width="small"` gesetzt und Spalten-Labels gekürzt (z.B. "AF"/"VF"/"HF"/"WM" statt ausgeschriebener Phasennamen), um horizontales Scrollen zu vermeiden. Slider-Range von `100–5000 (Schritt 100)` auf `10–1000 (Schritt 10)` geändert, Default-Wert auf 100 gesenkt.
-
-**Eigene Entscheidungen:**
-–
-
-**Probleme:**
-–
-
-**Outcome:**
-Tabelle sollte jetzt ohne Scrollen in beide Richtungen sichtbar sein; falls je nach Bildschirmbreite immer noch horizontales Scrollen nötig ist, wäre der nächste Schritt, zusätzlich einzelne Phasen-Spalten (z.B. Halbfinale) wegzulassen.
-
----
-
-### 20.07.2026 – Modellvergleich: Random Forest vs. Logistic Regression vs. Gradient Boosting
-
-**Modell:** Claude
-
-**Prompt:**
-Umsetzung des Stretchgoals "Modellvergleich" aus dem Exposé angefordert.
-
-**Übernommen / angepasst / verworfen:**
-Neues Skript `compare_models.py` von Claude vorgeschlagen und übernommen: trainiert Random Forest (bestehendes Modell), Logistic Regression und Gradient Boosting auf identischen Trainingsdaten (gleicher chronologischer Split, gleiche Median-Imputation, zusätzlich Standardisierung der Features für die Logistic Regression). Gibt pro Modell Accuracy, F1 (macro), Classification Report und Confusion Matrix aus, plus eine sortierte Zusammenfassungstabelle am Ende. Ergebnisse werden zusätzlich als `models/model_comparison.json` gespeichert.
-
-**Eigene Entscheidungen:**
-Alle drei Modelle bewusst auf denselben (skalierten) Eingabedaten trainiert, obwohl Random Forest/Gradient Boosting skaleninvariant sind und die Standardisierung nicht bräuchten – so bleibt der Vergleich sauber nachvollziehbar (identische Datenbasis für alle drei), statt pro Modell unterschiedliche Preprocessing-Pipelines zu verwenden.
-
-**Probleme:**
-`LogisticRegression(multi_class="multinomial")` führte zu `TypeError` – der Parameter wurde in neueren scikit-learn-Versionen entfernt, da multinomiale Regression bei mehreren Klassen inzwischen automatisch verwendet wird. Behoben durch Entfernen des Parameters.
-
-**Outcome:**
-Mit Mock-Daten (300 Zeilen) getestet, lief nach dem Fix fehlerfrei durch. Auf den Mock-Daten schnitt Random Forest am besten ab (Accuracy 0.533), gefolgt von Gradient Boosting (0.483) und Logistic Regression (0.433) – Ergebnis auf den echten Daten steht noch aus.
-
----
-
-### 20.07.2026 – Notebook-Reorganisation: Modellvergleich als abschliessender Abschnitt
-
-**Modell:** Claude
-
-**Prompt:**
-Ursprünglichen Vorschlag (Modellvergleich direkt nach Model Evaluation, vor Live-Vorhersage) verworfen zugunsten einer anderen Reihenfolge: Live-Vorhersage bleibt an ihrem angestammten Platz (Abschnitt 6), Modellvergleich wird als abschliessender Abschnitt 7 angehängt, mit der Rahmung "zu guter Letzt wurde geprüft, ob ein anderes Modell signifikant besser wäre – Ergebnis: nein".
-
-**Übernommen / angepasst / verworfen:**
-Notebook-Struktur entsprechend umgebaut: Abschnitte 1–6 unverändert aus der bestehenden Datei übernommen, neuer Abschnitt 7 (Modellvergleich, Unterabschnitte 7.1–7.3) ans Ende gehängt.
-
-**Eigene Entscheidungen:**
-–
-
-**Probleme:**
-Beim ersten Umbau-Versuch (Zellen per Slicing neu anordnen) wurde versehentlich eine bereits verfälschte Zwischenversion der Datei als Ausgangspunkt verwendet, was zu einer fehlerhaften, teils duplizierten Zellstruktur führte. Bemerkt, verworfen, und stattdessen sauber direkt von der ursprünglichen Upload-Datei neu aufgebaut.
-
-**Outcome:**
-JSON-Struktur geprüft (25 Zellen, korrekte Reihenfolge 1–7 mit korrekter Nummerierung). Alle drei neuen Code-Zellen des Modellvergleichs-Abschnitts erneut end-to-end getestet – liefen fehlerfrei durch.

@@ -60,15 +60,60 @@ MODELS_DIR = PROJECT_ROOT / "models"
 GROUPS_CSV = DATA_RAW_DIR / "wm2026_groups.csv"
 ANNEX_C_JSON = DATA_RAW_DIR / "annex_c.json"
 
-# Feste Basisstruktur der "anderen" 8 Achtelfinal-Spiele (unabhängig von der
-# Drittplatzierten-Kombination). "1X" = Sieger Gruppe X, "2X" = Zweiter Gruppe X.
-FIXED_R32_PAIRS = [
-    ("1C", "2F"), ("1F", "2C"),
-    ("1H", "2J"), ("1J", "2H"),
-    ("2A", "2B"), ("2D", "2G"), ("2E", "2I"), ("2K", "2L"),
-]
+# Offizielle Matchnummern der ersten K.-o.-Runde. "1X" = Sieger Gruppe X,
+# "2X" = Zweiter Gruppe X. Bei den Gruppensiegern gegen Drittplatzierte wird
+# der Gegner über Annex C bestimmt.
+R32_MATCH_SLOTS = {
+    73: ("2A", "2B"),
+    74: ("1E", "3?"),
+    75: ("1F", "2C"),
+    76: ("1C", "2F"),
+    77: ("1I", "3?"),
+    78: ("2E", "2I"),
+    79: ("1A", "3?"),
+    80: ("1L", "3?"),
+    81: ("1D", "3?"),
+    82: ("1G", "3?"),
+    83: ("2K", "2L"),
+    84: ("1H", "2J"),
+    85: ("1B", "3?"),
+    86: ("1J", "2H"),
+    87: ("1K", "3?"),
+    88: ("2D", "2G"),
+}
 
 THIRD_PLACE_SLOTS = ["1A", "1B", "1D", "1E", "1G", "1I", "1K", "1L"]
+
+# Feste Weiterleitung gemäss offiziellem FIFA-Spielplan.
+# Zielspiel -> Quellspiele, deren Sieger gegeneinander antreten.
+KNOCKOUT_BRACKET = {
+    89: (74, 77),
+    90: (73, 75),
+    91: (76, 78),
+    92: (79, 80),
+    93: (83, 84),
+    94: (81, 82),
+    95: (86, 88),
+    96: (85, 87),
+    97: (89, 90),
+    98: (93, 94),
+    99: (91, 92),
+    100: (95, 96),
+    101: (97, 98),
+    102: (99, 100),
+    104: (101, 102),
+}
+
+
+def build_knockout_round_matches(winner_by_match, target_match_numbers):
+    """Erstellt die nächste K.-o.-Runde aus den Siegern der offiziellen Quellspiele."""
+    return {
+        target: (
+            winner_by_match[KNOCKOUT_BRACKET[target][0]],
+            winner_by_match[KNOCKOUT_BRACKET[target][1]],
+        )
+        for target in target_match_numbers
+    }
 
 
 # ---------------------------------------------------------------------------
@@ -290,39 +335,57 @@ def simulate_tournament(groups, annex_c_by_combo, cache, models, histories, stat
     if annex_row is None:
         raise ValueError(f"Keine Annex-C-Kombination gefunden für: {combo_key}")
 
-    # 3. R32 (16 Spiele) zusammenbauen
-    r32_matches = []
-    for slot in THIRD_PLACE_SLOTS:
-        winner_group = slot[1]
-        third_group = annex_row[slot][1]  # z.B. "3E" -> "E"
-        r32_matches.append((winners[winner_group], thirds[third_group]))
-
-    def resolve_slot(slot):
+    # 3. Round of 32 anhand der offiziellen Matchnummern zusammenbauen
+    def resolve_group_slot(slot):
         kind, group = slot[0], slot[1]
-        return winners[group] if kind == "1" else runners_up[group]
+        if kind == "1":
+            return winners[group]
+        if kind == "2":
+            return runners_up[group]
+        raise ValueError(f"Unbekannter Gruppenslot: {slot}")
 
-    for slot_a, slot_b in FIXED_R32_PAIRS:
-        r32_matches.append((resolve_slot(slot_a), resolve_slot(slot_b)))
+    r32_matches = {}
+    for match_number, (slot_a, slot_b) in R32_MATCH_SLOTS.items():
+        team_a = resolve_group_slot(slot_a)
+        if slot_b == "3?":
+            third_slot = annex_row[slot_a]
+            team_b = thirds[third_slot[1]]
+        else:
+            team_b = resolve_group_slot(slot_b)
+        r32_matches[match_number] = (team_a, team_b)
 
-    # 4. K.o.-Runden simulieren (R32 -> R16 -> QF -> SF -> Final), inkl. Spielstand
-    def play_round_with_scores(matches):
+    # 4. K.-o.-Runden gemäss fester FIFA-Weiterleitung simulieren
+    def play_matches(matches_by_number):
+        winner_by_match = {}
         details = []
-        winners_list = []
-        for a, b in matches:
-            winner, ga, gb = simulate_knockout_match_with_score(a, b, cache, models, histories, static_feat, rng)
+        for match_number in sorted(matches_by_number):
+            a, b = matches_by_number[match_number]
+            winner, ga, gb = simulate_knockout_match_with_score(
+                a, b, cache, models, histories, static_feat, rng
+            )
+            winner_by_match[match_number] = winner
             details.append((a, b, ga, gb, winner))
-            winners_list.append(winner)
-        return winners_list, details
+        return winner_by_match, details
 
-    def pair_up(teams):
-        return [(teams[i], teams[i + 1]) for i in range(0, len(teams), 2)]
+    r32_winners, r32_details = play_matches(r32_matches)
 
-    r16_teams, r32_details = play_round_with_scores(r32_matches)
-    r8_teams, r16_details = play_round_with_scores(pair_up(r16_teams))
-    r4_teams, r8_details = play_round_with_scores(pair_up(r8_teams))
-    r2_teams, r4_details = play_round_with_scores(pair_up(r4_teams))
-    final_winners, final_details = play_round_with_scores(pair_up(r2_teams))
-    champion = final_winners[0]
+    r16_matches = build_knockout_round_matches(r32_winners, range(89, 97))
+    r16_winners, r16_details = play_matches(r16_matches)
+
+    quarterfinal_matches = build_knockout_round_matches(r16_winners, range(97, 101))
+    quarterfinal_winners, r8_details = play_matches(quarterfinal_matches)
+
+    semifinal_matches = build_knockout_round_matches(quarterfinal_winners, range(101, 103))
+    semifinal_winners, r4_details = play_matches(semifinal_matches)
+
+    final_matches = build_knockout_round_matches(semifinal_winners, [104])
+    final_winners, final_details = play_matches(final_matches)
+    champion = final_winners[104]
+
+    r16_teams = [r32_winners[n] for n in range(73, 89)]
+    r8_teams = [r16_winners[n] for n in range(89, 97)]
+    r4_teams = [quarterfinal_winners[n] for n in range(97, 101)]
+    r2_teams = [semifinal_winners[n] for n in range(101, 103)]
 
     return {
         "champion": champion,
