@@ -65,10 +65,7 @@ Unter Windows verwendete `write_text()` ohne explizite Angabe teilweise `cp1252`
 
 ### Ergebnis und Reflexion
 
-Die Dateien wurden erfolgreich erzeugt. Schreibvorgänge wurden explizit auf UTF-8 umgestellt.
-
-
-Der erste KI-Vorschlag war funktional, berücksichtigte aber die lokale Encoding-Umgebung nicht ausreichend. Daraus entstand früh die Erkenntnis, dass plattformabhängige Details auch bei plausibel wirkendem Code selbst geprüft werden müssen.
+Die Dateien wurden erfolgreich erzeugt, Schreibvorgänge wurden explizit auf UTF-8 umgestellt. Der erste KI-Vorschlag funktionierte, berücksichtigte aber die lokale Encoding-Umgebung nicht. Daraus habe ich früh gelernt, dass ich auch plausibel wirkenden Code selbst prüfen muss, gerade bei plattformabhängigen Details.
 
 ---
 
@@ -99,10 +96,7 @@ Der Filter wurde bewusst nicht in den Datenabruf eingebaut. Damit bleibt die Roh
 
 ### Ergebnis und Reflexion
 
-WM-2026-Spiele lassen sich ein- oder ausschliessen, ohne Daten erneut abzurufen.
-
-
-Die Trennung zwischen Rohdaten und analytischer Filterung verbessert Nachvollziehbarkeit und Reproduzierbarkeit. Die KI unterstützte die technische Umsetzung; die Entscheidung über den Ort des Filters war eine Architekturentscheidung.
+WM-2026-Spiele lassen sich jetzt ein- oder ausschliessen, ohne die Daten erneut abzurufen. Die Trennung zwischen Rohdaten und Filterung macht das Ganze nachvollziehbarer und reproduzierbar. Claude half bei der technischen Umsetzung, die Entscheidung, wo gefiltert wird, war meine eigene.
 
 ---
 
@@ -134,10 +128,7 @@ Die Daten wurden pro Fixture statt pro Team gespeichert. Dadurch ist jedes Spiel
 
 ### Ergebnis und Reflexion
 
-Der Abruf wurde resumierbar umgesetzt und übersprang leere oder beschädigte Dateien kontrolliert.
-
-
-Die KI lieferte schnell eine funktionierende Erweiterung. Der fachlich relevante Kontrollpunkt war jedoch die Granularität: Ohne Deduplizierung wären Spiele zweier WM-Teams doppelt verarbeitet worden.
+Der Abruf wurde resumierbar umgesetzt und übersprang leere oder beschädigte Dateien kontrolliert. Claude lieferte schnell eine funktionierende Erweiterung. Wichtig war aber die Deduplizierung, ohne sie wären Spiele zwischen zwei WM-Teams doppelt verarbeitet worden.
 
 ---
 
@@ -167,10 +158,7 @@ Die Datei `fixtures_Mexico.json` war 0 Byte gross. Sie stammte aus einem abgebro
 
 ### Ergebnis und Reflexion
 
-Der fehlende Datensatz wurde gezielt neu geladen. Der Status-Check zeigte 4’611 eindeutige Fixtures und den Abruffortschritt pro Team.
-
-
-Eine Pipeline kann ohne Fehlermeldung unvollständige Resultate erzeugen. Die Kontrolle von Dateiexistenz allein reicht deshalb nicht; auch Dateigrösse und Inhalt müssen plausibilisiert werden.
+Der fehlende Datensatz wurde gezielt neu geladen. Der Status-Check zeigte 4’611 eindeutige Fixtures und den Abruffortschritt pro Team. Eine Pipeline kann unvollständige Resultate liefern, ohne dass eine Fehlermeldung erscheint. Es reicht deshalb nicht, nur zu prüfen, ob eine Datei existiert, auch Dateigrösse und Inhalt müssen stimmen.
 
 ---
 
@@ -197,10 +185,7 @@ Die Erweiterung des MVP wurde nur für ausreichend abgedeckte Werte weiterverfol
 
 ### Ergebnis und Reflexion
 
-Die Feature-Auswahl wurde auf Basis der tatsächlichen Datenqualität getroffen.
-
-
-Die KI half bei der technischen Analyse. Die Auswahl der Features blieb jedoch eine fachliche Entscheidung. Ein zusätzliches Feature ist nicht automatisch nützlich, nur weil es technisch verfügbar ist.
+Die Feature-Auswahl wurde auf Basis der tatsächlichen Datenqualität getroffen. Claude half bei der technischen Analyse, die Auswahl selbst blieb aber meine fachliche Entscheidung. Ein zusätzliches Feature ist nicht automatisch nützlich, nur weil es technisch verfügbar ist.
 
 ---
 
@@ -239,7 +224,7 @@ Es entstand eine klarere Trennung zwischen:
 - und Demonstration einzelner Vorhersagen.
 
 
-Die Zusammenführung reduzierte Komplexität, ohne fachliche Logik zu verändern. KI wurde hier gezielt für Refactoring verwendet, nicht für eine neue fachliche Entscheidung.
+Die Zusammenführung machte die Struktur einfacher, ohne die fachliche Logik zu verändern. Claude wurde hier gezielt fürs Refactoring genutzt, nicht für neue fachliche Entscheidungen.
 
 ---
 
@@ -284,10 +269,7 @@ Zunächst wurde ein Fenster von fünf Spielen gewählt, um Aktualität und Stich
 
 ### Ergebnis und Reflexion
 
-Die Feature-Tabelle wurde unter `data/processed/match_features.csv` gespeichert.
-
-
-Die wichtigste Qualitätsanforderung war nicht die Anzahl Features, sondern die zeitliche Korrektheit. Ein Data Leakage hätte zu scheinbar guten, aber unbrauchbaren Modellergebnissen geführt.
+Die Feature-Tabelle wurde unter `data/processed/match_features.csv` gespeichert. Wichtiger als die Anzahl Features war die zeitliche Korrektheit. Data Leakage hätte zu scheinbar guten, aber in Wirklichkeit unbrauchbaren Modellergebnissen geführt.
 
 ---
 
@@ -314,10 +296,7 @@ Der Fehler wurde nicht nur lokal an einer Datei korrigiert, sondern als wiederke
 
 ### Ergebnis und Reflexion
 
-Alte und neue Dateien konnten konsistent eingelesen werden.
-
-
-Das blosse Kopieren einer Fehlermeldung an die KI löst ein Problem häufig nur lokal. Erst der Vergleich ähnlicher Codepfade zeigte, dass die Ursache systematisch behoben werden musste.
+Alte und neue Dateien liessen sich danach konsistent einlesen. Eine Fehlermeldung einfach an Claude weiterzugeben, löst ein Problem oft nur an dieser einen Stelle. Erst der Vergleich mit ähnlichen Codestellen zeigte, dass die Ursache systematisch behoben werden musste.
 
 ---
 
@@ -349,10 +328,7 @@ Die gesamte verfügbare Historie wird verwendet, aber mit abnehmendem Gewicht. D
 
 ### Ergebnis und Reflexion
 
-Die Form- und Statistikfeatures wurden neu erzeugt; beide Modelle mussten danach neu trainiert werden.
-
-
-Die ursprüngliche Entscheidung war einfach, aber nicht ausreichend robust. Die spätere Umstellung zeigte, dass Feature Engineering stärker von Datenqualität als von einer intuitiven Fenstergrösse abhängt.
+Die Form- und Statistikfeatures wurden neu erzeugt, beide Modelle mussten danach neu trainiert werden. Die ursprüngliche Lösung war einfach, aber nicht robust genug. Die Umstellung zeigte, dass Feature Engineering stärker von der Datenqualität abhängt als von einer intuitiv gewählten Fenstergrösse.
 
 ---
 
@@ -379,10 +355,7 @@ Nicht jede Fundstelle wurde blind ersetzt. Fachlich echte Elo-Bezüge blieben be
 
 ### Ergebnis und Reflexion
 
-Code und Benutzeroberfläche verwenden konsistentere Begriffe, ohne die Datenquelle falsch umzubenennen.
-
-
-Automatisiertes Refactoring ist effizient, birgt aber das Risiko inhaltlich falscher Ersetzungen. Deshalb mussten technische Bezeichner und fachliche Aussagen getrennt behandelt werden.
+Code und Oberfläche verwenden jetzt konsistente Begriffe, ohne die eigentliche Datenquelle falsch umzubenennen. Automatisiertes Refactoring spart Zeit, birgt aber das Risiko falscher Ersetzungen. Deshalb musste ich technische Bezeichner und fachliche Aussagen getrennt behandeln.
 
 ---
 
@@ -428,10 +401,7 @@ Die Zielwerte `goals_a` und `goals_b` sowie Identifikatoren wurden explizit aus 
 
 ### Ergebnis und Reflexion
 
-Das erste Modell erreichte auf dem Testset ungefähr 50 % Accuracy und lag damit über einer einfachen Mehrheitsklassen-Baseline.
-
-
-Die Gesamt-Accuracy allein war nicht ausreichend. Die klassenweise Auswertung zeigte, dass das Modell Unentschieden nur sehr schwach erkennt.
+Das erste Modell erreichte auf dem Testset rund 50 Prozent Accuracy, damit über der einfachen Mehrheitsklassen-Baseline. Die Gesamt-Accuracy allein sagte aber nicht genug aus, erst die klassenweise Auswertung zeigte, dass das Modell Unentschieden nur sehr schwach erkennt.
 
 ---
 
@@ -458,10 +428,7 @@ Die Draw-Problematik wurde nicht als behobener Punkt dargestellt, sondern als of
 
 ### Ergebnis und Reflexion
 
-Das Modell blieb vorerst Bestandteil der Pipeline.
-
-
-Rückblickend war es zu passiv, die Schwäche nur als „typisches Fussballproblem“ zu akzeptieren. Für eine methodisch stärkere Lösung sollten mindestens einfache Massnahmen wie Klassengewichte, alternative Modelle oder Schwellenwertanalysen systematisch geprüft werden.
+Das Modell blieb vorerst Teil der Pipeline. Rückblickend war es zu passiv, die Schwäche nur als typisches Fussballproblem hinzunehmen. Sinnvoller wäre gewesen, Massnahmen wie Klassengewichte, andere Modelle oder Schwellenwertanalysen systematisch zu prüfen.
 
 ---
 
@@ -493,10 +460,7 @@ Der Regressor ergänzt den Klassifikator und ersetzt ihn nicht. Rohwerte bleiben
 
 ### Ergebnis und Reflexion
 
-Für beide Teams wurden MAE und RMSE berechnet und das Modell gespeichert.
-
-
-Random Forest wurde aus Konsistenzgründen gewählt. Methodisch wäre für Zähldaten ein Vergleich mit einer Poisson-basierten Lösung sinnvoller gewesen. Diese Einschränkung wird im Bericht offengelegt.
+Für beide Teams wurden MAE und RMSE berechnet und das Modell gespeichert. Random Forest wurde aus Konsistenzgründen gewählt. Für Zähldaten wie Tore wäre methodisch ein Vergleich mit einer Poisson-Lösung sinnvoller gewesen, diese Einschränkung nenne ich offen im Bericht.
 
 ---
 
@@ -524,10 +488,7 @@ Der Baseline-Vergleich wurde übernommen.
 
 ### Ergebnis und Reflexion
 
-Das Modell lag bei beiden Zielvariablen unter der Baseline-MAE. Die Verbesserung war jedoch besonders bei Team A nur klein.
-
-
-„Besser als Baseline“ bedeutet nicht automatisch „gutes Modell“. Die relative Verbesserung muss zusätzlich eingeordnet werden.
+Das Modell lag bei beiden Zielvariablen unter der Baseline-MAE, bei Team A war die Verbesserung aber nur klein. Besser als die Baseline zu sein, heisst noch nicht automatisch, ein gutes Modell zu haben, die Verbesserung muss zusätzlich eingeordnet werden.
 
 ---
 
@@ -571,7 +532,7 @@ Der Vergleich wurde nicht als Beweis für einen grossen Leistungsunterschied int
 
 ### Ergebnis und Reflexion
 
-Der Modellvergleich hätte vor dem Bau des Dashboards stattfinden sollen. So hätte die Architektur von Beginn an auf dem stärksten oder zumindest einfachsten Modell aufgebaut werden können. Die Resultate zeigen zudem, dass komplexere Modelle nicht automatisch bessere Prognosen liefern.
+Der Modellvergleich hätte eigentlich vor dem Bau des Dashboards stattfinden sollen, dann hätte die Architektur von Anfang an auf dem stärksten oder einfachsten Modell aufbauen können. Die Resultate zeigen ausserdem, komplexere Modelle liefern nicht automatisch bessere Prognosen.
 
 ---
 
@@ -616,7 +577,7 @@ Die Anzahl Kernskripte sank von sieben auf vier:
 - `train_models.py`
 
 
-Die Konsolidierung verbesserte Übersichtlichkeit. Eine zu frühe Zusammenlegung hätte die Fehlersuche jedoch erschwert; deshalb war der Zeitpunkt nach funktionierenden Einzelkomponenten sinnvoll.
+Die Konsolidierung machte das Projekt übersichtlicher. Eine zu frühe Zusammenlegung hätte die Fehlersuche erschwert, der Zeitpunkt nach funktionierenden Einzelkomponenten war deshalb richtig.
 
 ---
 
@@ -648,10 +609,7 @@ Die Feature-Importance-Grafik wurde später durch einen direkten Teamvergleich e
 
 ### Ergebnis und Reflexion
 
-Das Dashboard konnte Teamvergleiche und Vorhersagen anzeigen.
-
-
-Visuelle Funktionalität ist kein Nachweis für korrekte Modelllogik. Deshalb blieb das Notebook die primäre technische Kontrollumgebung.
+Das Dashboard konnte Teamvergleiche und Vorhersagen anzeigen. Dass etwas gut aussieht, beweist aber nicht, dass die Modelllogik stimmt. Das Notebook blieb deshalb die wichtigste Kontrollumgebung.
 
 ---
 
@@ -701,7 +659,7 @@ Das Dashboard erhielt:
 - und eine Team-Detailansicht für Simulationen.
 
 
-KI eignet sich sehr gut für schnelle UI-Iterationen. Gleichzeitig stieg bei diesen Schritten mein Detailverständnis weniger stark als bei Datenpipeline und Feature Engineering. Für Ownership ist deshalb entscheidend, zumindest Datenfluss, Funktionsgrenzen und Fehlerfälle nachvollziehen zu können.
+Claude eignet sich sehr gut für schnelle UI-Iterationen. Mein Detailverständnis wuchs dabei aber weniger stark als bei Datenpipeline und Feature Engineering. Für echtes Ownership reicht es, Datenfluss, Funktionsgrenzen und Fehlerfälle nachvollziehen zu können.
 
 ---
 
@@ -730,10 +688,7 @@ Ich testete separat:
 
 ### Ergebnis und Reflexion
 
-Aktuelle Spiele können inkrementell ergänzt werden, ohne den gesamten historischen Bestand neu zu laden.
-
-
-Die bestehende Pipeline war zwar resumierbar, aber nicht aktualisierbar. Erst die Betrachtung eines späteren Betriebsfalls machte diese Designschwäche sichtbar.
+Aktuelle Spiele lassen sich jetzt inkrementell ergänzen, ohne den ganzen historischen Bestand neu zu laden. Die bestehende Pipeline war zwar resumierbar, aber nicht aktualisierbar, das fiel erst auf, als ich einen späteren Nutzungsfall durchdacht habe.
 
 ---
 
@@ -772,10 +727,7 @@ Bei nicht direkt zugänglichen offiziellen Detailinformationen wurden Sekundärq
 
 ### Ergebnis und Reflexion
 
-Die vollständige Annex-C-Zuordnung wurde unter `data/raw/annex_c.json` eingebunden.
-
-
-Dies war ein besonders wichtiger Kontrollfall: KI konnte aus unvollständigem Material eine formal plausible, aber sachlich unvollständige Datei erzeugen. Vollständigkeit musste deshalb explizit über Anzahl, Eindeutigkeit und Stichproben geprüft werden.
+Die vollständige Annex-C-Zuordnung wurde unter `data/raw/annex_c.json` eingebunden. Wichtig war hier vor allem eine Lektion, Claude konnte aus unvollständigem Material eine Datei erzeugen, die formal plausibel aussah, aber inhaltlich unvollständig war. Vollständigkeit muss deshalb immer explizit geprüft werden, über Anzahl, Eindeutigkeit und Stichproben.
 
 ---
 
@@ -819,10 +771,7 @@ Diese Vereinfachung nutzt die relative Einschätzung des Modells, bildet aber Ve
 
 ### Ergebnis und Reflexion
 
-Die Simulation lief in Testdurchläufen ohne fehlende Annex-C-Einträge oder doppelte Achtelfinalteilnehmer.
-
-
-Die mathematische Normierung ist nachvollziehbar, aber weiterhin eine Modellannahme. Eine spätere Version könnte Verlängerung und Elfmeterschiessen explizit modellieren.
+Die Simulation lief in Testdurchläufen ohne fehlende Annex-C-Einträge oder doppelte Achtelfinalteilnehmer. Die Normierung bei Unentschieden ist nachvollziehbar, bleibt aber eine Modellannahme. Eine spätere Version könnte Verlängerung und Elfmeterschiessen direkt mit einbauen.
 
 ---
 
@@ -846,10 +795,7 @@ Die Integration und JSON-Speicherung wurden übernommen.
 
 ### Ergebnis und Reflexion
 
-Im Dashboard konnten Einzelsimulationen und aggregierte Mehrfachsimulationen angezeigt werden.
-
-
-Der Importfehler zeigt, dass auch bereits „fertig“ wirkende KI-Änderungen mindestens einmal über den tatsächlichen Anwendungspfad ausgeführt werden müssen.
+Im Dashboard liessen sich danach Einzelsimulationen und aggregierte Mehrfachsimulationen anzeigen. Der Importfehler zeigt, auch fertig wirkender Code von Claude muss mindestens einmal über den echten Anwendungspfad laufen, bevor man ihm vertraut.
 
 ---
 
@@ -887,10 +833,7 @@ Bei mehreren Simulationen wird zusätzlich ein einzelner Beispielverlauf gezeigt
 
 ### Ergebnis und Reflexion
 
-Die Turniersimulation wurde zu einem wesentlichen Bestandteil des Endprodukts und übertraf den ursprünglich geplanten Scope.
-
-
-Die Erweiterung erhöhte den Produktwert, aber auch das Risiko versteckter Logikfehler. Entsprechend sind regelbasierte Tests für diese Komponente besonders wichtig.
+Die Turniersimulation wurde zu einem zentralen Teil des Endprodukts und ging über den ursprünglich geplanten Umfang hinaus. Das machte das Projekt wertvoller, aber auch anfälliger für versteckte Logikfehler. Gerade deshalb sind regelbasierte Tests für diesen Teil besonders wichtig.
 
 ---
 
@@ -937,8 +880,8 @@ UI-Details und triviale Hilfsfunktionen wurden nicht priorisiert. Die Tests wurd
 
 ### Ergebnis und Reflexion
 
-Mit diesem Auftrag wurde erstmals vor der Implementierung klar festgelegt, welche fachlichen Eigenschaften als korrekt gelten müssen. Dies verbessert die Qualität gegenüber rein visuellen oder manuellen Kontrollen, weil zentrale Invarianten wiederholbar geprüft werden können.
+Damit war zum ersten Mal schon vor der Umsetzung klar, welche fachlichen Eigenschaften stimmen müssen. Das ist eine bessere Kontrolle als rein visuelle oder manuelle Checks, weil sich zentrale Regeln wiederholbar prüfen lassen.
 
-Besonders wichtig war die Vorgabe, bei einem Fehlschlag zunächst nur Ursache und kleinste sinnvolle Korrektur zu bestimmen. Dadurch wird verhindert, dass Claude produktiven Code automatisch verändert, nur damit ein Test besteht. Die Tests dienen damit nicht nur der Fehlererkennung, sondern auch als zusätzliche Kontrolle über KI-generierte Änderungen.
+Wichtig war ausserdem die Vorgabe, bei einem Fehlschlag zuerst nur die Ursache und die kleinste sinnvolle Korrektur zu suchen. So verändert Claude nicht einfach produktiven Code, nur damit ein Test besteht. Die Tests dienen damit nicht nur der Fehlererkennung, sondern auch als Kontrolle über KI-generierte Änderungen.
 
 ---
