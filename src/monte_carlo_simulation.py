@@ -18,14 +18,13 @@ WICHTIGE, DOKUMENTIERTE VEREINFACHUNGEN (siehe Entwicklungsbericht):
 3. Die Achtelfinal-Zuordnung der Drittplatzierten folgt EXAKT der offiziellen
    FIFA-Tabelle (Annex C, 495 Kombinationen, aus annex_c.json). Die übrigen
    8 Achtelfinal-Spiele (Gruppensieger vs. Gruppenzweite, Zweiter vs. Zweiter)
-   folgen der offiziellen Basisstruktur (recherchiert via FIFA-Regularien-PDF-
-   Verweisen auf Wikipedia sowie tatsächlich gespielten Partien).
+   sowie die Weiterleitung Achtelfinale bis Final folgen dem offiziellen
+   FIFA-Spielplan, geladen aus fifa_match_schedule.json (Quelle: Wikipedia-
+   Zusammenfassung der offiziellen FIFA-Turnierbestimmungen, gegen die
+   Tests in test_tournament_logic.py verifiziert).
 
 4. Die Verknüpfung Achtelfinale -> Viertelfinale -> Halbfinale -> Finale folgt
-   einer plausiblen Standard-Bracket-Reihenfolge (Spiel 1 vs. 2, 3 vs. 4, ...).
-   Das offizielle Bracket-PDF blockiert automatisierten Zugriff, weshalb diese
-   exakte Reihenfolge nicht 1:1 verifiziert werden konnte - bewusste,
-   dokumentierte Vereinfachung.
+   ebenfalls fifa_match_schedule.json (siehe Punkt 3).
 
 5. Team-Formkurve/Ranking werden EINMALIG vor Turnierbeginn (Stand
    WM2026_START_DATE) berechnet und bleiben über die gesamte Simulation
@@ -59,50 +58,29 @@ from build_features import (
 MODELS_DIR = PROJECT_ROOT / "models"
 GROUPS_CSV = DATA_RAW_DIR / "wm2026_groups.csv"
 ANNEX_C_JSON = DATA_RAW_DIR / "annex_c.json"
+FIFA_SCHEDULE_JSON = DATA_RAW_DIR / "fifa_match_schedule.json"
+
+
+def load_fifa_schedule():
+    """Laedt die offizielle Achtelfinal-Zuordnung und Turnierbaum-Weiterleitung
+    aus fifa_match_schedule.json (analog zu load_annex_c() weiter unten),
+    statt sie als Python-Dictionary hart im Code zu haben. Quelle und
+    Verifikation gegen die Tests stehen im JSON selbst dokumentiert."""
+    data = json.loads(FIFA_SCHEDULE_JSON.read_text(encoding="utf-8"))
+    r32_slots = {int(k): tuple(v) for k, v in data["r32_match_slots"].items()}
+    third_place_slots = data["third_place_slots"]
+    knockout_bracket = {int(k): tuple(v) for k, v in data["knockout_bracket"].items()}
+    return r32_slots, third_place_slots, knockout_bracket
+
 
 # Offizielle Matchnummern der ersten K.-o.-Runde. "1X" = Sieger Gruppe X,
 # "2X" = Zweiter Gruppe X. Bei den Gruppensiegern gegen Drittplatzierte wird
-# der Gegner über Annex C bestimmt.
-R32_MATCH_SLOTS = {
-    73: ("2A", "2B"),
-    74: ("1E", "3?"),
-    75: ("1F", "2C"),
-    76: ("1C", "2F"),
-    77: ("1I", "3?"),
-    78: ("2E", "2I"),
-    79: ("1A", "3?"),
-    80: ("1L", "3?"),
-    81: ("1D", "3?"),
-    82: ("1G", "3?"),
-    83: ("2K", "2L"),
-    84: ("1H", "2J"),
-    85: ("1B", "3?"),
-    86: ("1J", "2H"),
-    87: ("1K", "3?"),
-    88: ("2D", "2G"),
-}
-
-THIRD_PLACE_SLOTS = ["1A", "1B", "1D", "1E", "1G", "1I", "1K", "1L"]
-
+# der Gegner über Annex C bestimmt. Geladen aus fifa_match_schedule.json.
+#
 # Feste Weiterleitung gemäss offiziellem FIFA-Spielplan.
 # Zielspiel -> Quellspiele, deren Sieger gegeneinander antreten.
-KNOCKOUT_BRACKET = {
-    89: (74, 77),
-    90: (73, 75),
-    91: (76, 78),
-    92: (79, 80),
-    93: (83, 84),
-    94: (81, 82),
-    95: (86, 88),
-    96: (85, 87),
-    97: (89, 90),
-    98: (93, 94),
-    99: (91, 92),
-    100: (95, 96),
-    101: (97, 98),
-    102: (99, 100),
-    104: (101, 102),
-}
+# Ebenfalls geladen aus fifa_match_schedule.json.
+R32_MATCH_SLOTS, THIRD_PLACE_SLOTS, KNOCKOUT_BRACKET = load_fifa_schedule()
 
 
 def build_knockout_round_matches(winner_by_match, target_match_numbers):

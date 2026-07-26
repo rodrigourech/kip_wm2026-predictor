@@ -905,27 +905,17 @@ Die bisherigen Kontrollen erfolgten grösstenteils manuell oder im Diagnose-Note
 
 ### KI-Einsatz
 
-Ich definierte Claude einen klar abgegrenzten Testauftrag mit ungefähr zwölf fachlichen Tests und einer festen Dateistruktur:
-
-```text
-tests/
-├── test_feature_engineering.py
-├── test_tournament_logic.py
-├── test_model_predictions.py
-└── test_reproducibility.py
-```
-
-Die Tests sollten sich auf folgende Bereiche konzentrieren:
+Ich definierte Claude einen  abgegrenzten Testauftrag mit diesen Tests geben (genaues Wording wurde im Verlauf des Chats verfeinert):
 
 1. korrekte Berechnung der Ranking-Differenz,
-2. historische Features ohne Einbezug des aktuellen oder zukünftiger Spiele,
-3. Schutz vor Target Leakage durch Ausschluss von `result`, `goals_a` und `goals_b`,
+2. korrektheit historische Features,
+3. Schutz vor Data Leakage durch Ausschluss von `result`, `goals_a` und `goals_b`,
 4. Vollständigkeit der vom Modell erwarteten Feature-Spalten,
 5. korrekte Gruppenstruktur mit 12 Gruppen und 48 eindeutigen Teams,
 6. genau sechs eindeutige Gruppenspiele bei vier Teams,
 7. genau 495 eindeutige Annex-C-Kombinationen,
 8. gültige und vollständige Annex-C-Zuordnungen,
-9. korrekte Siegerweiterleitung im offiziellen K.-o.-Turnierbaum,
+9. korrekte Siegerweiterleitung im offiziellen K.o.-Turnierbaum,
 10. vollständiger Turnierlauf mit genau einem Weltmeister,
 11. gültige Modellwahrscheinlichkeiten unter Berücksichtigung von `model.classes_`,
 12. reproduzierbare Simulationen bei identischem Zufallsseed.
@@ -952,66 +942,3 @@ Mit diesem Auftrag wurde erstmals vor der Implementierung klar festgelegt, welch
 Besonders wichtig war die Vorgabe, bei einem Fehlschlag zunächst nur Ursache und kleinste sinnvolle Korrektur zu bestimmen. Dadurch wird verhindert, dass Claude produktiven Code automatisch verändert, nur damit ein Test besteht. Die Tests dienen damit nicht nur der Fehlererkennung, sondern auch als zusätzliche Kontrolle über KI-generierte Änderungen.
 
 ---
-
-# 9. Kritische KI-Erfahrungen
-
-## 9.1 Erfundene FIFA-Rankingdaten
-
-### Ausgangslage
-
-Claude sollte eine CSV mit aktuellen FIFA-Rankings der WM-Teams beschaffen.
-
-### Problem
-
-Der Webabruf schlug fehl. Trotzdem lieferte die KI eine formal plausible Datei mit Werten, die nicht verifiziert werden konnten und teilweise erfunden waren.
-
-### Reaktion
-
-Die Datei wurde vollständig verworfen. Stattdessen wurde ein nachprüfbarer Kaggle-Datensatz mit historischen Elo-Ratings verwendet.
-
-### Erkenntnis
-
-Plausibilität ist kein Qualitätsnachweis. Externe Daten dürfen nur übernommen werden, wenn Quelle, Vollständigkeit und Werte überprüfbar sind.
-
----
-
-## 9.2 Lokale Fehlerkorrektur statt systematischer Lösung
-
-### Ausgangslage
-
-Der gleiche Encoding-Fehler trat in mehreren Dateien und Funktionen auf.
-
-### Problem
-
-Eine erste Korrektur löste nur den gerade sichtbaren Fehlerpfad.
-
-### Reaktion
-
-Alle Lese- und Schreibstellen wurden verglichen und auf eine einheitliche Encoding-Strategie umgestellt.
-
-### Erkenntnis
-
-KI reagiert oft auf die unmittelbar gemeldete Fehlermeldung. Die Verantwortung, nach ähnlichen Fehlerstellen im Gesamtsystem zu suchen, bleibt bei mir.
-
----
-
-## 9.3 Funktionierender Output trotz begrenztem Verständnis
-
-### Ausgangslage
-
-Teile des Dashboards und der Turniersimulation funktionierten früh.
-
-### Problem
-
-Fehlerfreie Ausführung erzeugte zunächst den Eindruck, dass keine tiefere Prüfung erforderlich sei.
-
-### Reaktion
-
-Die Funktionskette wurde mit Dummy-Daten, Strukturprüfungen und konkreten Invarianten kontrolliert.
-
-### Erkenntnis
-
-„Läuft ohne Fehler“ bedeutet nur, dass kein sichtbarer Laufzeitfehler auftritt. Es beweist weder fachliche Korrektheit noch vollständige Regelumsetzung.
-
----
-
