@@ -7,17 +7,8 @@ __pycache__/
 .venv/
 venv/
 
-# Data (roh & verarbeitet werden lokal gehalten, nicht ins Repo)
-data/raw/*.csv
-data/raw/*.json
-data/processed/*.csv
-
 # Streamlit
 .streamlit/
-
-# Interne Fortschritts-Notizen (nicht fürs Repo gedacht)
-progress.md
-docs/KIP_Dokumenation.md
 
 # OS
 .DS_Store
