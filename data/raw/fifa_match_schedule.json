@@ -1,0 +1,42 @@
+{
+  "source": "2026 FIFA World Cup knockout stage, Wikipedia-Zusammenfassung der offiziellen FIFA-Turnierbestimmungen (match schedule und Annex C), https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_knockout_stage",
+  "retrieved": "2026-07-24",
+  "note": "r32_match_slots (Match 73 bis 88) und knockout_bracket (Match 89 bis 104) verifiziert gegen test_tournament_logic.py. '1X' = Sieger Gruppe X, '2X' = Zweiter Gruppe X, '3?' = wird ueber Annex C aufgeloest.",
+  "r32_match_slots": {
+    "73": ["2A", "2B"],
+    "74": ["1E", "3?"],
+    "75": ["1F", "2C"],
+    "76": ["1C", "2F"],
+    "77": ["1I", "3?"],
+    "78": ["2E", "2I"],
+    "79": ["1A", "3?"],
+    "80": ["1L", "3?"],
+    "81": ["1D", "3?"],
+    "82": ["1G", "3?"],
+    "83": ["2K", "2L"],
+    "84": ["1H", "2J"],
+    "85": ["1B", "3?"],
+    "86": ["1J", "2H"],
+    "87": ["1K", "3?"],
+    "88": ["2D", "2G"]
+  },
+  "third_place_slots": ["1A", "1B", "1D", "1E", "1G", "1I", "1K", "1L"],
+  "knockout_bracket": {
+    "89": [74, 77],
+    "90": [73, 75],
+    "91": [76, 78],
+    "92": [79, 80],
+    "93": [83, 84],
+    "94": [81, 82],
+    "95": [86, 88],
+    "96": [85, 87],
+    "97": [89, 90],
+    "98": [93, 94],
+    "99": [91, 92],
+    "100": [95, 96],
+    "101": [97, 98],
+    "102": [99, 100],
+    "104": [101, 102]
+  },
+  "match_103_note": "Spiel um Platz 3, Verlierer von Match 101 gegen Verlierer von Match 102, bewusst nicht Teil von knockout_bracket, da das Projekt nur den Turniersieger simuliert."
+}

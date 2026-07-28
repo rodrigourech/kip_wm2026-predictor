@@ -509,55 +509,6 @@ elif mode == "Turnier-Simulation":
             st.caption(f"Top 10 nach Weltmeister-Wahrscheinlichkeit, basierend auf {n_done} simulierten Turnieren.")
 
             # -----------------------------------------------------------------
-            # 2. Überraschungen: Simulation vs. Elo-Ranking-Erwartung
-            # -----------------------------------------------------------------
-            st.divider()
-            st.markdown("##### \U0001f52e Überraschungen: Simulation vs. Elo-Ranking")
-            st.caption(
-                "Vergleicht, wie weit ein Team in der Simulation kommt, mit dem, was sein Elo-Ranking "
-                "erwarten liesse. Positiver Wert = performt besser als das Ranking vermuten lässt."
-            )
-
-            sim_score = {
-                t: (
-                    counters["group_advanced"].get(t, 0)
-                    + counters["round_of_16"].get(t, 0)
-                    + counters["quarterfinal"].get(t, 0)
-                    + counters["semifinal"].get(t, 0)
-                    + counters["final"].get(t, 0)
-                    + counters["champion"].get(t, 0)
-                )
-                for t in all_teams
-            }
-            elo_ranked = sorted(all_teams, key=lambda t: -(static_feat.get(t, {}).get("ranking") or 0))
-            sim_ranked = sorted(all_teams, key=lambda t: -sim_score[t])
-            elo_rank = {t: i + 1 for i, t in enumerate(elo_ranked)}
-            sim_rank = {t: i + 1 for i, t in enumerate(sim_ranked)}
-
-            surprise_rows = [
-                {"Flagge": flag_url(t), "Team": t, "Elo-Rang": elo_rank[t], "Sim-Rang": sim_rank[t],
-                 "Differenz": elo_rank[t] - sim_rank[t]}
-                for t in all_teams
-            ]
-            surprise_df = pd.DataFrame(surprise_rows)
-
-            col_over, col_under = st.columns(2)
-            with col_over:
-                st.markdown("**Übertrifft Erwartungen**")
-                st.dataframe(
-                    surprise_df.sort_values("Differenz", ascending=False).head(5)[["Flagge", "Team", "Elo-Rang", "Sim-Rang", "Differenz"]],
-                    hide_index=True, use_container_width=True,
-                    column_config={"Flagge": st.column_config.ImageColumn("", width="small")},
-                )
-            with col_under:
-                st.markdown("**Bleibt hinter Erwartungen zurück**")
-                st.dataframe(
-                    surprise_df.sort_values("Differenz", ascending=True).head(5)[["Flagge", "Team", "Elo-Rang", "Sim-Rang", "Differenz"]],
-                    hide_index=True, use_container_width=True,
-                    column_config={"Flagge": st.column_config.ImageColumn("", width="small")},
-                )
-
-            # -----------------------------------------------------------------
             # 3. Gruppen-Ansicht
             # -----------------------------------------------------------------
             st.divider()
