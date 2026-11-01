@@ -57,7 +57,7 @@ Die von Claude erstellte Teamliste wurde stichprobenartig kontrolliert.
 - direkte Speicherung des API-Keys im Code: nicht verwendet
 
 
-Ich erstellte die `.env`-Datei selbst und nahm sie über `.gitignore` vom Repository aus. Zudem verwendete ich API-Football direkt über `api-football.com` statt über RapidAPI.
+Den API-Key verwalte ich in einer lokalen `.env`-Datei, die über die `.gitignore` vom Repository ausgeschlossen ist. Zudem verwendete ich API-Football direkt über `api-football.com` statt über RapidAPI.
 
 ### Problem
 
@@ -528,7 +528,7 @@ Der Vergleich wurde übernommen und als letzter methodischer Abschnitt in das No
 
 ### Entscheidung und Umsetzung
 
-Der Vergleich wurde nicht als Beweis für einen grossen Leistungsunterschied interpretiert. Die logistische Regression schnitt jedoch in Accuracy und Macro-F1 am besten ab und ist deshalb für die finale Modellwahl ernsthaft zu bevorzugen.
+Der Vergleich wurde nicht als Beweis für einen Leistungsunterschied interpretiert. Die logistische Regression schnitt zwar in Accuracy und Macro-F1 am besten ab, der Abstand von 2.2 Prozentpunkten liegt bei 229 Testspielen aber im Bereich zufälliger Schwankung. Da der Random Forest bereits vollständig integriert war, blieb er das Hauptmodell.
 
 ### Ergebnis und Reflexion
 
