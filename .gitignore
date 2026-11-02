@@ -8,10 +8,14 @@ __pycache__/
 venv/
 
 # Streamlit
-.streamlit/
+.streamlit/secrets.toml
 
 # OS
 .DS_Store
 
 # Archiv
 _archiv/
+
+# Werkzeuge
+.claude/
+.pytest_cache/
