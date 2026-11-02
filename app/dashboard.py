@@ -358,7 +358,7 @@ if mode == "Team-Vorhersage":
         stat_rows = [
             (ranking_label, row.get("ranking_a"), row.get("ranking_b"), 0, ""),
             ("\u00d8 Tore/Spiel", row.get("a_goals_for_avg"), row.get("b_goals_for_avg"), 2, ""),
-            ("\u00d8 Gegentore/Spiel", row.get("a_goals_against_avg"), row.get("b_goals_against_avg"), 2, ""),
+            ("\u00d8 Gegentore/Spiel", row.get("a_goals_against_avg"), row.get("b_goals_against_avg"), 2, "", False),
             ("\u00d8 Ballbesitz", row.get("a_possession_avg"), row.get("b_possession_avg"), 1, "%"),
             ("\u00d8 Sch\u00fcsse/Spiel", row.get("a_shots_total_avg"), row.get("b_shots_total_avg"), 1, ""),
             ("\u00d8 Sch\u00fcsse aufs Tor", row.get("a_shots_on_goal_avg"), row.get("b_shots_on_goal_avg"), 1, ""),
@@ -371,10 +371,13 @@ if mode == "Team-Vorhersage":
         fc2.markdown("<div style='text-align:center; color:#999; font-size:0.85rem; padding-top:4px;'>Form (letzte 5 Spiele)</div>", unsafe_allow_html=True)
         fc3.markdown(f"<div style='text-align:left;'>{form_tiles(result['form_b'])}</div>", unsafe_allow_html=True)
 
-        for label, val_a, val_b, decimals, suffix in stat_rows:
+        for label, val_a, val_b, decimals, suffix, *opt in stat_rows:
+            higher_is_better = opt[0] if opt else True  # bei Gegentoren ist der tiefere Wert besser
             c1, c2, c3 = st.columns([2, 3, 2])
-            style_a = "font-weight:700; color:#2ECC71;" if (val_a is not None and val_b is not None and val_a > val_b) else ""
-            style_b = "font-weight:700; color:#2ECC71;" if (val_a is not None and val_b is not None and val_b > val_a) else ""
+            both = val_a is not None and val_b is not None and val_a != val_b
+            a_better = both and ((val_a > val_b) == higher_is_better)
+            style_a = "font-weight:700; color:#2ECC71;" if a_better else ""
+            style_b = "font-weight:700; color:#2ECC71;" if (both and not a_better) else ""
             c1.markdown(f"<div style='text-align:right; font-size:1.1rem; {style_a}'>{fmt(val_a, decimals, suffix)}</div>", unsafe_allow_html=True)
             c2.markdown(f"<div style='text-align:center; color:#999; font-size:0.85rem; padding-top:4px;'>{label}</div>", unsafe_allow_html=True)
             c3.markdown(f"<div style='text-align:left; font-size:1.1rem; {style_b}'>{fmt(val_b, decimals, suffix)}</div>", unsafe_allow_html=True)
@@ -629,7 +632,10 @@ elif mode == "Turnier-Simulation":
                     match_line(a, b, ga, gb, winner)
 
             rank = standings.index(team)
-            if rank >= 2:
+            # Bei 48 Teams kommen auch die acht besten Gruppendritten weiter,
+            # massgebend ist deshalb die Teilnahme am Sechzehntelfinal.
+            advanced = any(team in (m[0], m[1]) for m in result["knockout_details"]["round_of_32"])
+            if not advanced:
                 st.warning(f"{team} scheidet in der Gruppenphase aus (Platz {rank + 1}).")
                 return
 
@@ -638,10 +644,10 @@ elif mode == "Turnier-Simulation":
             section_header("\u26bd K.O.-PHASE", "rgba(243,156,18,0.25)")
 
             for round_key, label in [
-                ("round_of_32", "Achtelfinale"),
-                ("round_of_16", "Viertelfinale"),
-                ("quarterfinal", "Halbfinale"),
-                ("semifinal", "Finale"),
+                ("round_of_32", "Sechzehntelfinal"),
+                ("round_of_16", "Achtelfinal"),
+                ("quarterfinal", "Viertelfinal"),
+                ("semifinal", "Halbfinal"),
             ]:
                 matches = result["knockout_details"][round_key]
                 match = next((m for m in matches if team in (m[0], m[1])), None)
