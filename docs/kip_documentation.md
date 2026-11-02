@@ -885,3 +885,53 @@ Damit war zum ersten Mal schon vor der Umsetzung klar, welche fachlichen Eigensc
 Wichtig war ausserdem die Vorgabe, bei einem Fehlschlag zuerst nur die Ursache und die kleinste sinnvolle Korrektur zu suchen. So verändert Claude nicht einfach produktiven Code, nur damit ein Test besteht. Die Tests dienen damit nicht nur der Fehlererkennung, sondern auch als Kontrolle über KI-generierte Änderungen.
 
 ---
+
+# Phase 8 – Finalisierung im November 2026
+
+## 01.–02.11.2026 – Gezielte Überarbeitung des Dashboards
+
+### Ausgangslage und Ziel
+
+Das Dashboard lief funktional, wirkte aber technisch und war für Laien schwer lesbar. Den Rahmen der Überarbeitung legte ich vorab in einem Fragebogen fest:
+
+- gezieltes Polishing, die Modell- und Simulationslogik bleibt unverändert,
+- Probleme bei Optik und Farben, bei Übersicht und Navigation sowie bei der Verständlichkeit für Laien,
+- gewünschte Verbesserungen sind sichtbare Modellgrenzen, eine Startseite mit Kurzanleitung, Zwischenspeicher für die Simulation und ein Export,
+- Dokumentation als neue Phase in dieser Datei und mit einem Satz im Bericht.
+
+### KI-Einsatz
+
+Claude erhielt den Auftrag, zuerst Entwürfe als Bilder im Chat vorzulegen und erst nach meiner Freigabe auf einem eigenen Branch `final-polish` umzusetzen. Die Entwürfe habe ich in mehreren Runden angepasst:
+
+- mehr WM-Gefühl in den Farben, mit den Farben der drei Gastgeberländer und Gold nur für den Weltmeister,
+- ein Turnierbaum mit verbundenen Boxen wie bei klassischen Turnierbäumen,
+- Sieger und Verlierer klar unterscheidbar,
+- keine Bezeichnungen wie Favorit und Aussenseiter,
+- ein schlichtes Layout mit Registerkarten oben statt einer Auswahl im Seiteninhalt.
+
+Weitere Vorgaben waren englische Teamnamen, eine automatisch aktualisierte Vorhersage und keine Emojis.
+
+### Prüfung der KI-Ausgabe
+
+Vor der Übernahme liefen die 12 Tests, und ich habe echte Screenshots aller Ansichten mit echten Werten geprüft. Dabei fielen auf:
+
+- Die Datenzahl im Entwurf (4'683 Länderspiele) stimmte nicht. Nachgezählt sind es 4'398 Spiele. Die Kennzahlen der Startseite werden seither direkt aus den Daten berechnet statt fest eingetragen.
+- In der Teamverfolgung waren die K.-o.-Runden um eine Runde verschoben benannt, das Sechzehntelfinal hiess zum Beispiel Achtelfinale.
+- In derselben Ansicht galten Gruppendritte immer als ausgeschieden, obwohl bei 48 Teams die acht besten Gruppendritten weiterkommen.
+- Im Teamvergleich war bei den Gegentoren der höhere Wert grün markiert.
+- Der Stichtag `WM2026_START_DATE` steht auf dem 19.06.2026, die WM begann aber am 11.06.2026. Die 26 WM-Spiele vom 11. bis 18.06. zählen damit als Spiele vor der WM.
+
+### Entscheidung und Umsetzung
+
+- Die drei Anzeigefehler habe ich zuerst im bestehenden Dashboard in einem eigenen Commit korrigieren lassen, damit die Korrektur getrennt vom Redesign nachvollziehbar bleibt.
+- Danach folgten Farben, lokal eingebundene Flaggen und Schriften (Lizenzen in `app/assets/LICENSES.md`) und das neue Dashboard mit vier Registerkarten, Turnierbaum, CSV-Export und Zwischenspeicher.
+- Vorhersage und Simulation laufen über dieselben Funktionen wie vorher, `src/` blieb unverändert.
+- Den Stichtag habe ich bewusst nicht geändert, weil er in die Feature-Berechnung und damit in die Modelllogik eingreift. Ich spreche ihn in der mündlichen Prüfung an.
+
+### Ergebnis und Reflexion
+
+Das Dashboard ist für Laien verständlicher, zeigt die Grenzen des Modells direkt an und lädt keine Bilder mehr von externen Quellen.
+
+In Phase 7 hatte ich UI-Details beim Testen bewusst nicht priorisiert. Genau dort lagen drei Fehler, die seit der Einführung der Teamverfolgung unbemerkt waren und die keiner der 12 Tests erkennen konnte. Die Darstellung muss deshalb genauso geprüft werden wie die Logik, hier über echte Screenshots vor jedem Commit. Die falsche Datenzahl im Entwurf hat zudem gezeigt, dass auch Zahlen in einem Designvorschlag der KI gegen die Daten geprüft werden müssen.
+
+---

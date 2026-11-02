@@ -17,8 +17,11 @@ Projekt der Mini-Challenge im Modul KIP (KI-gestütztes Programmieren), BSc Data
 
 ```
 wm2026-predictor/
+├── .streamlit/
+│   └── config.toml               Farbschema des Dashboards
 ├── app/
-│   └── dashboard.py              Streamlit-Dashboard
+│   ├── dashboard.py              Streamlit-Dashboard
+│   └── assets/                   Flaggen und Schriften, lokal eingebunden
 ├── data/
 │   ├── raw/                      Rohdaten (Fixtures je Team, Match-Stats, Elo, Annex C, Spielplan, Gruppen)
 │   └── processed/                Feature-Tabelle und Simulationsergebnisse
@@ -83,6 +86,12 @@ Die trainierten Modelle liegen bereits in `models/`. Für das Dashboard muss die
 streamlit run app/dashboard.py
 ```
 
+Das Dashboard hat vier Registerkarten. Die Startseite erklärt, wie die Werte zu lesen sind und wo das Modell an Grenzen stösst. Die Spielvorhersage zeigt für zwei Teams die Wahrscheinlichkeiten und das erwartete Resultat. Die Turniersimulation zeigt die Chancen pro Runde und pro Gruppe, einen Turnierbaum und den Verlauf eines einzelnen Teams, mit Export als CSV. Die letzte Registerkarte fasst Daten, Modelle und Kennzahlen zusammen.
+
+![Spielvorhersage](docs/img/dashboard_vorhersage.png)
+
+![Turnierbaum eines simulierten Turniers](docs/img/dashboard_turnierbaum.png)
+
 ## Tests
 
 ```powershell
@@ -116,6 +125,7 @@ Die Logistic Regression erreicht im Vergleich 0.520 Accuracy. Der Unterschied is
 - API-Football (API-Sports), Version 3, [api-football.com](https://www.api-football.com)
 - Historische Elo-Ratings von [eloratings.net](https://www.eloratings.net), über den Kaggle-Datensatz "2026 FIFA World Cup Historical Elo Ratings"
 - FIFA-Reglement zur WM 2026, Annex C, Auszug in `docs/FWC2026_Annex_C.pdf`
+- Flaggen aus [flag-icons](https://github.com/lipis/flag-icons) (MIT-Lizenz) und Schriften Barlow und Barlow Condensed (SIL Open Font License), Lizenztexte in `app/assets/LICENSES.md`
 
 ## KI-Einsatz
 
